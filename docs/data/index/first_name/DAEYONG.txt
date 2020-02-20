@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KANG	DAEYONG	33057	1629572276330	1090 ARNOLD DR # 1090	JACKSONVILLE	AR

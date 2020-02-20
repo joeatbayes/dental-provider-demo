@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAIN	ROBERT	23044	1801924956230	1227 WILLOW CREEK RD	PRESCOTT	AZ

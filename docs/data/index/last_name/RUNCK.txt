@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUNCK	LISA	11289	1699841908112	120 E MAIN ST	MANKATO	MN

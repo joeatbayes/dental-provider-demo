@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STARKEY	NEIL	12245	1295897387122	1002 N EATON ST	ALBION	MI

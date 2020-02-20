@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SNELLER	JESSICA	2901021629	1245613934290	4711 1ST ST	NEW ERA	MI

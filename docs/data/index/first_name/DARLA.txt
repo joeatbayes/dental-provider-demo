@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROELOFS	DARLA	D9012	1457679334D90	1213 E FRANKLIN AVE	MINNEAPOLIS	MN

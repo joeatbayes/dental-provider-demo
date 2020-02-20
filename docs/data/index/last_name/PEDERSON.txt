@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEDERSON	MICHAEL	D11252	1548297039D11	108 MICHIGAN AVENUE WEST	WALKER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHERNY	IRVING	DS3818TN	1295716355DS3	920 ESTATE DR	MEMPHIS	TN

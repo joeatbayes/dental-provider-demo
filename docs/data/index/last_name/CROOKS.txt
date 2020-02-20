@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROOKS	WILLIAM	DN7562	1467488478DN7	4175 S ALAMO AVE	DAVIS MONTHAN A F B	AZ

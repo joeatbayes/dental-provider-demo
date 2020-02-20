@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIGH	WILLIAM	3024	1144390782302	248 N PETERS RD	KNOXVILLE	TN

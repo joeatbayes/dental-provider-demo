@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HINTIRYAN	ARLET	18983	1447323852189	1018 JOSLYN	PONTIAC	MI

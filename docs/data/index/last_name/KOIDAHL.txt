@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOIDAHL	SCOTT	9024	1619030830902	825 NICOLLET MALL	MINNEAPOLIS	MN

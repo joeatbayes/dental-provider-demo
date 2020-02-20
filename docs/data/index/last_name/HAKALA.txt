@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAKALA	ROY	8171	1497847354817	2550 UNIVERSITY AVE W	SAINT PAUL	MN

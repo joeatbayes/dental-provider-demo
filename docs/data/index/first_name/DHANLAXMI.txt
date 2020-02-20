@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERCHANT	DHANLAXMI	D2535	1316028442D25	"2525 S. RURAL ROAD, STE.2N"	TEMPE	AZ

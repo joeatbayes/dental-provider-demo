@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLEUTELBERG	ESTER	12922	1861588170129	15421 W 9 MILE RD	OAK PARK	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORE	MARY HELEN	DS0000007099	1962749283DS0	11217 W POINT DR	KNOXVILLE	TN

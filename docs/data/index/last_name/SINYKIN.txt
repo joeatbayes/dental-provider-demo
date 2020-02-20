@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINYKIN	STEPHEN	MN6262	1619088267MN6	7250 FRANCE SO	EDINA	MN

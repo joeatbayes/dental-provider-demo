@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOPP	DAVID	8038	1285739490803	225 SECOND ST	PROCTOR	MN

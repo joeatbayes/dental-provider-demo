@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAITHER	NAPOLEON	D13969	1669925517D13	1835 COUNTY ROAD C W STE 220	SAINT PAUL	MN

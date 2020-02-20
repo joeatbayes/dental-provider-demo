@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOWE	KIMCHAI	122987	1215457114122	726 E 9TH AVENUE	ANCHORAGE	AK

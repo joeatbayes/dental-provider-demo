@@ -1,0 +1,2 @@
+GALE	1
+GALELLA	1

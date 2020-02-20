@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	TRISTEN	2901021575	1841671732290	4912 W ST JOE HWY	LANSING	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UDOVICH	FRANK	D7023	1851466189D70	21 E CHAPMAN ST	ELY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAGERMAN	BROOKLYN	8023	1285946855802	1300 S WATSON RD STE A-100	BUCKEYE	AZ

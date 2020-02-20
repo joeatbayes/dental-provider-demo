@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TELFORD	BECKI	2901015225	1871988113290	2003 BURTON ST SE	GRAND RAPIDS	MI

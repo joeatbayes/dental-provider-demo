@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CULVER	JENIFER	D11342	1528127412D11	9055 SPRINGBROOK DR NW	COON RAPIDS	MN

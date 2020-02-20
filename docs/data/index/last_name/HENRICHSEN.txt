@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENRICHSEN	RYAN	11394	1720001381113	2210 N BROADWAY	ROCHESTER	MN

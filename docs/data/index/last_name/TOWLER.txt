@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOWLER	MICHAEL	2901021234	1447662457290	133 E MAPLE AVE	ADRIAN	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PROUTY	ALAN	12013000A	1780162198120	4041 PARNELL AVE	FORT WAYNE	IN

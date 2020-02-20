@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOLTZ	SCOTT	12008297A	1821178609120	604 E BOULEVARD ST.	KOKOMO	IN

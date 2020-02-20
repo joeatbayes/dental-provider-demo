@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	HYEOK	D13877	1346770500D13	6240 QUINWOOD LN N # 100	MAPLE GROVE	MN

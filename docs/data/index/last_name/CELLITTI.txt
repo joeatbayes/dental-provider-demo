@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CELLITTI	MICHAEL	A8047	1194792986A80	411 MAIN ST	SAINT PAUL	MN

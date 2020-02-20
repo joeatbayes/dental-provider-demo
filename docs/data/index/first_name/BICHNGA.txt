@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAM	BICHNGA	11198	1871675553111	5901 JOHN MARTIN DR	BROOKLYN CENTER	MN

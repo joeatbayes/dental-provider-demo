@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEUSS	ARTHUR	213	1396741690213	900 W FIREWEED LN	ANCHORAGE	AK

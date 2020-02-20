@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHETTEN	JASON	D7646	1275780439D76	46 E 11TH ST	FLORENCE	AZ

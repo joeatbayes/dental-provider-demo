@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARTEMENKO	JOHN	12282	1104856673122	34210 RYAN ROAD	STERLING HEIGHTS	MI

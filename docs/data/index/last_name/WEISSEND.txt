@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEISSEND	ARIANA	R604	1841607819R60	515 DELAWARE ST. SE	MINNEAPOLIS	MN

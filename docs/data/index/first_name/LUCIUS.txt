@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUTLER	LUCIUS	4308	1598726192430	5406 W GLENN DR	GLENDALE	AZ

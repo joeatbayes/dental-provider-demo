@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALMAN	DINA	2901020989	1295186427290	1395 CURVE CREST BLVD W	STILLWATER	MN

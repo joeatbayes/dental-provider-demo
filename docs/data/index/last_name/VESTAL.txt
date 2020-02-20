@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VESTAL	REBECCA	3735	1033280631373	2105 E CENTER ST	KINGSPORT	TN

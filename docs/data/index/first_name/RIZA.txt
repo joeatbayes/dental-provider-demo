@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THAIBA	RIZA	D14063	1568957843D14	1375 SAINT ANTHONY AVE	SAINT PAUL	MN

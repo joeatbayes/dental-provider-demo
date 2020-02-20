@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLOOMQUIST	MARK	9390	1962557587939	315 ACCESS DR	SPICER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOUTGES	ROBERT	7922	1407853500792	802 CENTER AVE W	DILWORTH	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOFSTROM	LENNART	9435	1346395209943	3200 W LIBERTY RD	ANN ARBOR	MI

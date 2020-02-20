@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANSCHUETZ	LEE	2901008750	1376747568290	134 W UNIVERSITY DR	ROCHESTER	MI

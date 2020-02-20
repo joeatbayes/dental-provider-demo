@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MATTSCHECK	DONNA	D11107	1932298460D11	11800 ABERDEEN ST NE	BLAINE	MN

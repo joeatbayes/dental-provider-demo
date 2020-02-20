@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STINNET	SCOTT	2901022082	1952850737290	1406 N MAPLE AVE	ROYAL OAK	MI

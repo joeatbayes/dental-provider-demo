@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCEWAN	CRAIG	6962	1700826799696	3012 FRANKLIN ST	MICHIGAN CITY	IN

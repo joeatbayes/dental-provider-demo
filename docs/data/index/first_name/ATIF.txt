@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIZVI	ATIF	D12310	1912109547D12	43500 MIGIZI DR	ONAMIA	MN

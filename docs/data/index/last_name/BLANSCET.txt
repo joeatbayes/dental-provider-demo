@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLANSCET	MICHAEL	$$$$$$$$$	1205816733$$$	2504 MCCAIN BLVD STE 201	NORTH LITTLE ROCK	AR

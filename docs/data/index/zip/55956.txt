@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANGLEY	DAVID	9359	1174500359935	1ST STREET & MINNESOTA HIGHWAY 60	MAZEPPA	MN

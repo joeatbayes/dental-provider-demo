@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TSUCHIYA	TODD	D10144	1821095951D10	5851 DULUTH ST	GOLDEN VALLEY	MN

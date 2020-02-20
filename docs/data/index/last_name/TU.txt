@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TU	BACHTRAC	2901018350	1700962420290	1738 HAMILTON RD	OKEMOS	MI

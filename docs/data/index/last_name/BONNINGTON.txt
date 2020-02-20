@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BONNINGTON	GERALD	614	1679565121614	1200 AIRPORT HEIGHTS DR	ANCHORAGE	AK

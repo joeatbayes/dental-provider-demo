@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HINTE	MELANIE	10155	1972972040101	1918 EXETER RD STE 1	GERMANTOWN	TN

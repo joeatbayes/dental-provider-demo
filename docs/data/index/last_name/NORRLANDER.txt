@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORRLANDER	ANN	D8292	1992708481D82	825 NICOLLET MALL	MINNEAPOLIS	MN

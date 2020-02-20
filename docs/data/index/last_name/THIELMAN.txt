@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THIELMAN	ROBERT	D8510	1689695298D85	14050 PILOT KNOB RD	APPLE VALLEY	MN

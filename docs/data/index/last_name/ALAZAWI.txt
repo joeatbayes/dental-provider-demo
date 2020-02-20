@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALAZAWI	SHIEM	2901022612	1306337472290	18370 OUTER DR	DEARBORN	MI

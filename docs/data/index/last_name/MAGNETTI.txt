@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGNETTI	THOMAS	6513	1245374107651	2646 LOIS ST	PORTAGE	IN

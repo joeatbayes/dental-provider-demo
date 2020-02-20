@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUSAL	MICHAEL	12010472A	1932230992120	610 S. TILLOSTON AVE.	MUNCIE	IN

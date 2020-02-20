@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUNEKE	ADAM	D12164	1578720660D12	1432 LONDON RD	DULUTH	MN

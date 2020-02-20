@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHNAYDRUK	ALEX	D14213	1306402193D14	1220 W 3RD ST	RUSH CITY	MN

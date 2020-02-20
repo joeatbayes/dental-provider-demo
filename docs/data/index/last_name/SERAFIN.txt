@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SERAFIN	ANDREW	12006531	1659394963120	1011 MICHIGAN AVE	LAPORTE	IN

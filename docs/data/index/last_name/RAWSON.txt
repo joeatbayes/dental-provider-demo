@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAWSON	TAYLOR	8517	1346595626851	538 E 16TH ST STE 101	YUMA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLESSER	GARY	11386	1407979859113	34301 23 MILE RD.	NEW BALTIMORE	MI

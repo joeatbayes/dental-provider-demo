@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NISLEY	AARON	D14205	1295391001D14	515 DELAWARE ST SE	MINNEAPOLIS	MN

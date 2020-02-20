@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUGAY	ANTONIO	4983	1508024316498	7835 E GELDING DR	SCOTTSDALE	AZ

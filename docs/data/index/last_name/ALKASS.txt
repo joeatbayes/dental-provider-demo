@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALKASS	ALEXANDER	2901022238	1578083200290	55 S MAIN ST	CLARKSTON	MI

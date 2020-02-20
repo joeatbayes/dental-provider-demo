@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUDSMITH	STUEART	7127	1518900745712	3445 POPLAR AVE	MEMPHIS	TN

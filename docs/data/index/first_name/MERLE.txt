@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAARDA	MERLE	2901010144	1992820948290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

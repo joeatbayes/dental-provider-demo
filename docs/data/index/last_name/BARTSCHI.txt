@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTSCHI	NATHAN	8137	1730484510813	1743 W PRINCE RD	TUCSON	AZ

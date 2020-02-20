@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAN-JACOBS	LINDA	19029499	1629402839190	429 S LINCOLN RD	ESCANABA	MI

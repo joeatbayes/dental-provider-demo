@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAE	JOONWOO	401411586	1386769412401	1218 N RIATA ST	GILBERT	AZ

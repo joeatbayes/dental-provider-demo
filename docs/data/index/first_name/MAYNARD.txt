@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVENPORT	MAYNARD	D1086	1700832458D10	43 W WHITE MOUNTAIN BLVD	PINETOP	AZ

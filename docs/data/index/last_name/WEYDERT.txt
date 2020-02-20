@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEYDERT	JENNIFER	D12179	1639239403D12	8980 HUDSON BLVD N	LAKE ELMO	MN

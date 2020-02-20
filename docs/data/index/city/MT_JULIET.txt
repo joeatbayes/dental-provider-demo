@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORNING	CARA	9394	1881915593939	5000 CROSSING CIRCLE	MT. JULIET	TN

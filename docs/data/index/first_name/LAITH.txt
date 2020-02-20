@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALSAMERAI	LAITH	2901020936	1396182259290	1074 JACKSON XING	JACKSON	MI

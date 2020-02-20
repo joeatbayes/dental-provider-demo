@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NELSON	ANNELISE	D13605	1831565969D13	15535 34TH AVE N STE 250	PLYMOUTH	MN

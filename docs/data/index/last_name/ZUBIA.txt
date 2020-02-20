@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUBIA	CYNTHIA	12012922A	1467930461120	2380 MERCHANT MILE	COLUMBUS	IN

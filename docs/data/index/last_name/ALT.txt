@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALT	KATRINA	D009503	1417307067D00	13395 N MARANA MAIN ST	MARANA	AZ

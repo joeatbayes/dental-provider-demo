@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAPFEL	RICHARD	8019	1922167782801	1130 COUNTY HIGHWAY 10	SPRING LAKE PARK	MN

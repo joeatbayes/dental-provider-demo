@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAMUELS	RANDLE	2901018212	1235183310290	22750 WOODWARD AVE	FERNDALE	MI

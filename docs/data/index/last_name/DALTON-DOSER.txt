@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALTON-DOSER	CAROL	AA567	1134243207AA5	"412 FRONTAGE RD, STE 20"	KENAI	AK

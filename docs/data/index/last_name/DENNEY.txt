@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENNEY	RICHARD	15509	1891830782155	200 E CENTRE AVE	PORTAGE	MI

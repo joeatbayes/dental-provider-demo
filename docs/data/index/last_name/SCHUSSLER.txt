@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUSSLER	HAROLD	12006644	1588740849120	2016 W. MCGALLIARD RD	MUNCIE	IN

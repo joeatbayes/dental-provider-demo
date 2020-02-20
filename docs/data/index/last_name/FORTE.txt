@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FORTE	JULIE	2901019557	1689875460290	1130 CATALPA DR	BERKLEY	MI

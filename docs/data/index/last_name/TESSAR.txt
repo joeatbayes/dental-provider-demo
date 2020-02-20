@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TESSAR	JON	8744	1285702167874	1099 HELMO AVE N	OAKDALE	MN

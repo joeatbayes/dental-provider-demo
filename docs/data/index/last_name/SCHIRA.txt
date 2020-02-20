@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIRA	DONALD	1055	1215019385105	6226 N 27TH AVE	PHOENIX	AZ

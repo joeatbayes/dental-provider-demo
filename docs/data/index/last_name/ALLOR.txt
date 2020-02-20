@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLOR	JAMES	2901021533	1366823478290	17600 W 12 MILE RD	SOUTHFIELD	MI

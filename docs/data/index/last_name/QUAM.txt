@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUAM	ALAN	8275	1467553107827	1301 HAWTHORNE ST	ALEXANDRIA	MN

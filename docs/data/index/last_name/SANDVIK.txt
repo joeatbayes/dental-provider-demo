@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANDVIK	BRADLEY	5676	1275694176567	16515 S 40TH ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GODZINA	LAYNE	2901019154	1144364381290	422 FIRST STREET	MANISTEE	MI

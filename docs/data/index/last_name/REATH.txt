@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REATH	RICHARD	D13312	1083628929D13	6440 ALPINE AVE NW	COMSTOCK PARK	MI

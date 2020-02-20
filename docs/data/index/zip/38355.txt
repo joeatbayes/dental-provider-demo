@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATTERSON	BRIAN	9083	1124357173908	23 GARRETT DR	MEDINA	TN

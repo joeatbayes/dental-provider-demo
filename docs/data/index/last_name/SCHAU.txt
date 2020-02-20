@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAU	JENNIFER	2901016952	1184729196290	5545 COLONY DR N	SAGINAW	MI

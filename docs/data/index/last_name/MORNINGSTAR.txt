@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORNINGSTAR	SHARI	13901	1649382300139	940 E 11 MILE RD	ROYAL OAK	MI

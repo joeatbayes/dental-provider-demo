@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALATI	JAMES	D5339	1629113139D53	8573 E PRINCESS DR	SCOTTSDALE	AZ

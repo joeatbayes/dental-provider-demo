@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALE	THOMAS	D17355	1205882156D17	860 N CENTER AVE	GAYLORD	MI

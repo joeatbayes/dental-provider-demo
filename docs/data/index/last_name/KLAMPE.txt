@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLAMPE	TERRY	9249	1821011149924	2112 VIKING DR NW	ROCHESTER	MN

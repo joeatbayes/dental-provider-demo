@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOOP	KWYNN	D008166	1538468780D00	34640 N NORTH VALLEY PKWY	PHOENIX	AZ

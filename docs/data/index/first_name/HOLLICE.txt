@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURRIS	HOLLICE	3472	1831166750347	900 N 7TH ST	WEST MEMPHIS	AR

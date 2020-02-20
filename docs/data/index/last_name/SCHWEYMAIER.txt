@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWEYMAIER	DARREN	17151	1457399016171	2340 S COMMERCE RD	WALLED LAKE	MI

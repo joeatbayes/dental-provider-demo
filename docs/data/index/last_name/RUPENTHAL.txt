@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUPENTHAL	KURT	12008728	1780785642120	5790 E 131ST STREET	CARMEL	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOGL	LINDSEY	2901020340	1437479813290	6739 FULTON ST E	ADA	MI

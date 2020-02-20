@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASSAS	SAAD	11850	1417041211118	1245 15TH ST N	ST CLOUD	MN

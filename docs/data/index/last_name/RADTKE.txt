@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADTKE	FRANK	D014782	1902924822D01	2128 W VIENNA RD	CLIO	MI

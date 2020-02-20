@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YSETH	MARK	9283	1093705477928	229 JACKSON ST	ANOKA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAGGER	THYRA	12672	1710114921126	1670 BEAM AVE	MAPLEWOOD	MN

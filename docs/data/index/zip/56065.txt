@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAYLOR	JEFFREY	8877	1588683221887	313 MAIN ST W	MAPLETON	MN

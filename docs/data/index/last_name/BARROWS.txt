@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARROWS	DARREN	4815	1427107291481	2201 S AVENUE A	YUMA	AZ

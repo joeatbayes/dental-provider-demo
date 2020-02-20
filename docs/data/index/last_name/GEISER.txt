@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEISER	MICHAEL	6961	1043237555696	2233 HAMLINE AVE N	ROSEVILLE	MN

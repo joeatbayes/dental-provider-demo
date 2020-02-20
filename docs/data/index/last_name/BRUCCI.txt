@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUCCI	ANTHONY	12010244B	1649387085120	7891 BROADWAY	MERRILLVILLE	IN

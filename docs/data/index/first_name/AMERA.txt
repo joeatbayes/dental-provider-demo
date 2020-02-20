@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QURESHI	AMERA	4061	1336522598406	221 AIRPORT RD	HOT SPRINGS	AR

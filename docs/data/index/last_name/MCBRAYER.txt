@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCBRAYER	CHARLES	7108	1720292907710	5022 OLD GODSEY LANE	HIXSON	TN

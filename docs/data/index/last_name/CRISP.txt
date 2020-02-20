@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRISP	CHARLES	2929	1255414884292	2501 MARKET TRCE	FORT SMITH	AR

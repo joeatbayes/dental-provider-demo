@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLOURDE	PHILLIP	D009737	1265960298D00	1785 W HIGHWAY 89A STE 3G	SEDONA	AZ

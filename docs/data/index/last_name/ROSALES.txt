@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSALES	DANIEL	4097	1801930003409	801 N WILMOT RD	TUCSON	AZ

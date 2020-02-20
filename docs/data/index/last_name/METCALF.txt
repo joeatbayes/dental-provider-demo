@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+METCALF	ASHLEY	D13995	1881186625D13	1900 DIVISION ST W UNIT 2	BEMIDJI	MN

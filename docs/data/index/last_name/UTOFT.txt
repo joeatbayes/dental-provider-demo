@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UTOFT	JOHN	D7764	1639235971D77	197 NORTH TYLER ST	TYLER	MN

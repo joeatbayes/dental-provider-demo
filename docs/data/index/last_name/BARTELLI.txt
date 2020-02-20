@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTELLI	ALAN	147621	1063064863147	1700 E BOGARD RD STE 204	WASILLA	AK

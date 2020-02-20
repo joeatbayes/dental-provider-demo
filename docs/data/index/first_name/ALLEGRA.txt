@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOPKINS	ALLEGRA	D010107	1780106567D01	3325 S AVENUE 8 E STE 4	YUMA	AZ

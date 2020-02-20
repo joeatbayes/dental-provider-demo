@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIRTCHER	BRIAN	5066	1710912241506	932 S MAIN ST	SNOWFLAKE	AZ

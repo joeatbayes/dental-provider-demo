@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESCOTE	JEFFREY	2901015966	1548386816290	30690 BECK RD	NOVI	MI

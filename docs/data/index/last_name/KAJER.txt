@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAJER	SCOTT	D9607	1578650875D96	1736 EAST COPE AVE	MAPLEWOOD	MN

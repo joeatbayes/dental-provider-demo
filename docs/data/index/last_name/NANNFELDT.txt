@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NANNFELDT	NICKY	10461	1649212127104	1600 NILES AVE	SAINT JOSEPH	MI

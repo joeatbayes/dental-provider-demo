@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAYDYK	NATHAN	D6952	1831246321D69	936 EAST WILLIAMSFIELD ROAD	GILBERT	AZ

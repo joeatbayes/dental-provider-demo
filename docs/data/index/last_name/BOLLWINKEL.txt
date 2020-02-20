@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOLLWINKEL	SAMUEL	4919	1306951819491	1400 N GILBERT RD	GILBERT	AZ

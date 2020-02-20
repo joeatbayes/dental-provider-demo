@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+D'ANIELLO	JOSEPH	5332	1568422871533	1601 N TUCSON BLVD	TUCSON	AZ

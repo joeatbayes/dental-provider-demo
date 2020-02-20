@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEKKER-REED	LISA	DE60073318	1730322876DE6	2332 MIRACLE LN	MISHAWAKA	IN

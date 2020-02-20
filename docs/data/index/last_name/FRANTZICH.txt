@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRANTZICH	WILLIAM	D6021	1982766176D60	6600 EXCELSIOR BLVD	ST LOUIS PARK	MN

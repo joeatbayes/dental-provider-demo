@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLOSS	MEGAN	D010441	1700439080D01	17487 S HEALTHCARE DR	LAVEEN	AZ

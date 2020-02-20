@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROOKSHIRE	SCOTT	855	1629418272855	407 SPRUCE ST.	CRAIG	AK

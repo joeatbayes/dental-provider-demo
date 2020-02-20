@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOOISTRA	RALPH	16224	1528193745162	3096 WEST M-32 HWY	GAYLORD	MI

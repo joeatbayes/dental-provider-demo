@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EL-SAMNA	NAJIA	2901021716	1255709754290	4646 JOHN R ST	DETROIT	MI

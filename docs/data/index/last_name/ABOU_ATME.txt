@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABOU ATME	YOUSSEF	D12021	1023397429D12	21343 ARCHIBALD ROAD	DEERWOOD	MN

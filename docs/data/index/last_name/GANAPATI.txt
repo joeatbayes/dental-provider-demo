@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GANAPATI	VINEET	D13759	1881070217D13	2001 W LINCOLN AVE # 33	FERGUS FALLS	MN

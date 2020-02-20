@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRANSTON	JOSEPH	19572	1437365822195	11526 HIGHLAND RD	HARTLAND	MI

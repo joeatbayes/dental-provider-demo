@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COSTES	MARK	D5634	1932399680D56	432 BUTTERFIELD RD	CHINO VALLEY	AZ

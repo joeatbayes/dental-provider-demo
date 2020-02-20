@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURNHAM	JOHN	MN 8068	1255442877MN8	101 EAST 5TH ST	ST PAUL	MN

@@ -1,0 +1,3 @@
+KUMAR	8
+KUM	1
+KUMFER	1

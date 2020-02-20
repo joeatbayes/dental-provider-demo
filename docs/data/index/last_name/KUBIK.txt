@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUBIK	LISA	D010013	1598256257D01	13404 N DEL WEBB BLVD	SUN CITY	AZ

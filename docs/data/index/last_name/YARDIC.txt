@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YARDIC	ROBIN	10558	1285745026105	15290 PENNOCK LANE	APPLE VALLEY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALMEN	CHARLES	10123	1396848818101	5625 CENEX DR	INVER GROVE	MN

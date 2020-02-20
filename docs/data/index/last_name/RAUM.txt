@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAUM	RHETT	8852	1437319506885	1001 SCOTTSVILLE RD	LAFAYETTE	TN

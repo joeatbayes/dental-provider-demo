@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOSTIE	MARY	2901021862	1679923106290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIPPY	BILLY	DS3562	1447316674DS3	661 NASHVILLE PIKE	GALLATIN	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STARK	PAUL	D8559	1144319161D85	508 S. MAIN ST.	BIWABIK	MN

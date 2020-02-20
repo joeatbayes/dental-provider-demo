@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIZKALLA	GEORGE	D12012	1326038209D12	5401 CHICAGO AVE	MINNEAPOLIS	MN

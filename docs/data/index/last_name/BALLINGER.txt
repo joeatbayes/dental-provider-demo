@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALLINGER	LAUREEN	D11303	1669538484D11	409 DUNLAP ST N	SAINT PAUL	MN

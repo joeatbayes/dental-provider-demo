@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERRINGTON	HUGH	DS3553	1346345378DS3	1426 W COLLEGE ST	PULASKI	TN

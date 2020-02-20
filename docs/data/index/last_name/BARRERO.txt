@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARRERO	CARLOS	FF6	1518030360FF6	"SCHOOL OF DENTISTRY, MOOS TOWER"	MPLS	MN

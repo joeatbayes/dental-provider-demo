@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIEDRICH	GREGORY	12012784A.	1467977405120	605 W DOUGLAS RD	MISHAWAKA	IN

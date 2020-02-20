@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPANGLER	CRAIG	12158	1336244995121	4050 W MAPLE RD	BLOOMFIELD HILLS	MI

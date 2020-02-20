@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUMNER	DEBRA	D10922	1790206126D10	2330 SIOUX TRL NW	PRIOR LAKE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CUSATIS	MICHAEL	D14500	1700805652D14	1507 S. OTSEGO	GAYLORD	MI

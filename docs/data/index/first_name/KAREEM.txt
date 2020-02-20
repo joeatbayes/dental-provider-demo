@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABRAHAM	KAREEM	D12196	1104865096D12	14929 FLORENCE TRL	APPLE VALLEY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIPON	JAMES	13930	1558772863139	701 PARK AVE	MINNEAPOLIS	MN

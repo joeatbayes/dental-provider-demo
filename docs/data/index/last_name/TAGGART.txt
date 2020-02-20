@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAGGART	DAVID	D14151	1164509089D14	2201 S GETTY ST	MUSKEGON	MI

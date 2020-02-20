@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RISTAU	ALEXANDER	DT-2712	1891205084DT-	102 HIGHWAY 70 E STE 2	DICKSON	TN

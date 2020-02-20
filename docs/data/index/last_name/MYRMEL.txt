@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MYRMEL	CRAIG	3044	1831310978304	2855 E BROWN RD	MESA	AZ

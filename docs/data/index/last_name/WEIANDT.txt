@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEIANDT	MOLLY	12010790	1962516740120	3221 NICHOL AVE	ANDERSON	IN

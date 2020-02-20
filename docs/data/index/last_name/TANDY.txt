@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TANDY	ELIZABETH	D7045	1346239555D70	633 E RAY RD	GILBERT	AZ

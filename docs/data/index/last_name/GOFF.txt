@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOFF	JENNIFER	12010151	1821047804120	22 VINE ST	HUNTINGTON	IN

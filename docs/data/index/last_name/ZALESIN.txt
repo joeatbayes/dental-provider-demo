@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZALESIN	HARVEY	2901008165	1710134697290	7815 E JEFFERSON AVE	DETROIT	MI

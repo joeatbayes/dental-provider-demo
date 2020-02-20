@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOULET	KRISTINE	19.025038	141713066719.	2467 15TH ST NW	NEW BRIGHTON	MN

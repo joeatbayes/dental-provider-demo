@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLARK	DORRANCE	D6364	1104907617D63	483 W. SEED FARM RD.	SACATON	AZ

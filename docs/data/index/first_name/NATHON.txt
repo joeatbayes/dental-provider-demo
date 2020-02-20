@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLACKBURN	NATHON	100534	1477945400100	4341 TUDOR CENTRE DR	ANCHORAGE	AK

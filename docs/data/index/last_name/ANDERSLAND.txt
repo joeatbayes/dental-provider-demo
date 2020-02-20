@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDERSLAND	GINA	D12655	1407085814D12	2519 COON RAPIDS BLVD NW	COON RAPIDS	MN

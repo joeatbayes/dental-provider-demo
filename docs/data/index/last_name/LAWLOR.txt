@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAWLOR	JOHN	12008706	1104829621120	101 8TH ST	PRINCETON	IN

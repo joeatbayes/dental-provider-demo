@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOURDEAU	LARRY	D120190	1467574608D12	510 MAIN ST	NORWAY	MI

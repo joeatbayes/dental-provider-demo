@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRUCHEY	LUKE	1497310288	1497310288501	1125 S AMITY RD	CONWAY	AR

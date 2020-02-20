@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUNSOMAN	JERRY	D6950	1356342505D69	1774 COPE AVE E	MAPLEWOOD	MN

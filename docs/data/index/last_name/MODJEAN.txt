@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MODJEAN	MARK	8439	1275802092843	7001 NICOLLET AVE	RICHFIELD	MN

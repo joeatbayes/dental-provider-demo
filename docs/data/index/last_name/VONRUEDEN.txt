@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VONRUEDEN	GRETCHEN	D10302	1922162635D10	301 BECKER AVE SW	WILLMAR	MN

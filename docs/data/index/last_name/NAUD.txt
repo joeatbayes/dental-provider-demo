@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAUD	JASON	D13452	1972919090D13	200 1ST ST SW	ROCHESTER	MN

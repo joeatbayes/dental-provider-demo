@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DERICKSON	JEFFREY	2369	1205947439236	762 N COUNTRY CLUB RD	TUCSON	AZ

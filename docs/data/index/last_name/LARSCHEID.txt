@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LARSCHEID	DANIEL	11434	1689779282114	11806 ABERDEEN ST NE	BLAINE	MN

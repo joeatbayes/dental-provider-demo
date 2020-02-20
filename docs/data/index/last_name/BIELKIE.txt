@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIELKIE	ANTHONY	15810	1902924129158	51725 VAN DYKE	SHELBY TOWNSHIP	MI

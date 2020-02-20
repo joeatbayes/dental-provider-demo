@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NICKELS	WILLIAM	DX005032	1790867018DX0	323 21ST AVE NORTH	NASHVILLE	TN

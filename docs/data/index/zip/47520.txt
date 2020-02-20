@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALKER	JOSEPH	12007908	1831178961120	607 WASHINGTON ST	CANNELTON	IN

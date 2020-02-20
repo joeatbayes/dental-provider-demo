@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARBER	ILIAN	D009714	1841711611D00	371 LAKE HAVASU AVE S	LAKE HAVASU CITY	AZ

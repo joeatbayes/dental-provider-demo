@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHARDSON LLL	LEOTIS	7529	1255497715752	1105 COLLIER DR	CONWAY	AR

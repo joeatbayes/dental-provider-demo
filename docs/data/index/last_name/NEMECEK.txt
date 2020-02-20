@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEMECEK	TRACY	2901014579	1043335763290	111 S WALNUT ST	FENTON	MI

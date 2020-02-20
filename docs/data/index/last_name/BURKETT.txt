@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURKETT	BRYANT	12012286A	1245619477120	431 MAIN ST	EVANSVILLE	IN

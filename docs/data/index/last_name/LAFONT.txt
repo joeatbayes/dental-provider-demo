@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAFONT	SCOTT	5411	1740281203541	7219 N LITCHFIELD RD	LUKE AFB	AZ

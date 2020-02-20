@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROCHMAN	STACEY	1201207A	1922446392120	6443 W 10TH ST	INDIANAPOLIS	IN

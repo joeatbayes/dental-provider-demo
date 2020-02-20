@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEWARD	AUSTIN	D13350	1245550912D13	7136 UNIVERSITY AVE NE	FRIDLEY	MN

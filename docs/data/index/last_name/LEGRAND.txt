@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEGRAND	LATOYA	6894	1386097343689	126 W BOND AVE	WEST MEMPHIS	AR

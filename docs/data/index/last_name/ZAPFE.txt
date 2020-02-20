@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAPFE	RICHARD	4504	1972619153450	3253 NORTH WINDSONG DR	PRESCOTT VALLEY	AZ

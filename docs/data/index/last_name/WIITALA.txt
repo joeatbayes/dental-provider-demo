@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIITALA	ERIC	D5388	1972648632D53	9755 N 90TH ST	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHIKOWORE	TAPUWA	10865	1689153876108	377 S ILLINOIS AVE	OAK RIDGE	TN

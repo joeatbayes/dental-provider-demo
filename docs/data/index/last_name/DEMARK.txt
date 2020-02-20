@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMARK	BRADLEY	6025	1396823266602	7500 E MCDONALD DR	SCOTTSDALE	AZ

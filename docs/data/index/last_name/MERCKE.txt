@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERCKE	CAITLIN	12012178A	1336553726120	2519 E MAIN ST	RICHMOND	IN

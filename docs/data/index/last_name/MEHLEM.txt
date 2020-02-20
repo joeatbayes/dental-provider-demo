@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEHLEM	JOHN	1716	1710062518171	17250 N 43RD AVE	GLENDALE	AZ

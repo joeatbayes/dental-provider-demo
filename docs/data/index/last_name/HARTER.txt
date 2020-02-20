@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARTER	ELIZABETH	8839	1235390931883	1201 HATCHER LN	COLUMBIA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAU	ALLAN	D13387	1477963288D13	2251 CONNECTICUT AVE S	SARTELL	MN

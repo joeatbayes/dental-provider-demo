@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KJOLHAUG	NATHAN	D11696	1588620173D11	1630 UNIVERSITY AVE	ST PAUL	MN

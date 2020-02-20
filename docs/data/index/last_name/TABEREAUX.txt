@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TABEREAUX	DAVID	7527	1255468567752	857 AUTO MALL RD	BLOOMINGTON	IN

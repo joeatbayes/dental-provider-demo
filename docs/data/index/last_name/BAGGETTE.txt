@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAGGETTE	JOSEPH	987	1710134457987	6611 DEBARR RD	ANCHORAGE	AK

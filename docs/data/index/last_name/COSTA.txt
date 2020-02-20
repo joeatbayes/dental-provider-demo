@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COSTA	MICHAEL	1382	1144252529138	100 SLOCUM DR	KING COVE	AK

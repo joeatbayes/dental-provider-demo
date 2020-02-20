@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSON	ROBERT	6227	1093989543622	210 THIRD STREET	CARLTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PFLIPSEN	RONALD	D2210	1518932029D22	1949 LAUREL LN	SIERRA VISTA	AZ

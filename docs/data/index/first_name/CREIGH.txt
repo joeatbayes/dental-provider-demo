@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRANDALL	CREIGH	13894	1386167377138	22591 COUNTY ROAD 17	WINONA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DETARI	BRIAN	DS6873	1619950573DS6	410 HIGH ST	CHATTANOOGA	TN

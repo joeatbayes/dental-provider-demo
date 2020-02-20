@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KORF	DANIEL	8831	1447328232883	101 E ASH AVE	FRAZEE	MN

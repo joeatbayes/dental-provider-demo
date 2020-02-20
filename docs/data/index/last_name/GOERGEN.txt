@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOERGEN	MATTHEW	10555	1154601292105	515 DELAWARE ST SE	MINNEAPOLIS	MN

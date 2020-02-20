@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAYMOND	LOYLE	D8479	1215950746D84	7575 GOLDEN VALLEY ROAD	GOLDEN VALLEY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SETTERSTROM	STEVEN	D11037	1508939430D11	7582 CURRELL BLVD	WOODBURY	MN

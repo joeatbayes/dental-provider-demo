@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEILER	TRUMAN	9356	1639536279935	1929 W FILLMORE ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASEF	ASHRAF	12300	1992994131123	4101 W DIVISION ST	SAINT CLOUD	MN

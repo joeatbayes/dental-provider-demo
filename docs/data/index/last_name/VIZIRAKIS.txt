@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIZIRAKIS	ANDREAS	6658	1558571570665	7725 N 43RD AVE	PHOENIX	AZ

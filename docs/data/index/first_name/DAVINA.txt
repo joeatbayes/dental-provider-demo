@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESQUIBEL	DAVINA	DD3923	1457793416DD3	1996 DOUGS PARK ROAD	CAMP VERDE	AZ

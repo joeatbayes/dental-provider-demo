@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAHLE	MARY	1301125	1639118979130	2532 SPRING ARBOR RD	JACKSON	MI

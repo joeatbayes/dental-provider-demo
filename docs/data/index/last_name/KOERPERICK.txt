@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOERPERICK	JONATHAN	5421	1851444640542	9304 E RAINTREE DR	SCOTTSDALE	AZ

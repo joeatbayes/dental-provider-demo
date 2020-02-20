@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EGGER	KENNETH	2901016479	1114936754290	900 E BELLOWS ST	MOUNT PLEASANT	MI

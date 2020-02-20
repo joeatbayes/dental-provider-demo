@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMATAJ	ADISA	2016013929	1134587579201	9915 W MCDOWELL RD # ARE106	AVONDALE	AZ

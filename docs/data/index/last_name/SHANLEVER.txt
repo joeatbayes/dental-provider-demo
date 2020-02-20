@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHANLEVER	SAM	2285	1962598433228	9755 W STATE HIGHWAY 22	RATCLIFF	AR

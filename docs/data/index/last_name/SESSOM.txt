@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SESSOM	JODY	865	1679751788865	561 S DENALI ST	PALMER	AK

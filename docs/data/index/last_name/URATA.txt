@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+URATA	GILBERT	AA0543	1477690915AA0	301 BROWNING AVE	CORDOVA	AK

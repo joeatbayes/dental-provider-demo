@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITSON	DUDLEY	1720096126	1720096126865	1047 A SOUTH HWY 92	DANDRIDGE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AMALFITANO	JOSEPH	15581	1548305758155	5000 SKYVIEW CT	TRAVERSE CITY	MI

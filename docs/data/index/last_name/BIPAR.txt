@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIPAR	ALI	4653	1609964147465	4611 E SHEA BLVD STE 107	PHOENIX	AZ

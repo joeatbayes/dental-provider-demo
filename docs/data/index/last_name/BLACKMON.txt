@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLACKMON	AMANDA	12011504A	1184937591120	2124 E BOULEVARD	KOKOMO	IN

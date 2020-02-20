@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALKET	CHRISTINE	7676	1629223367767	5855 E STILL CIR	MESA	AZ

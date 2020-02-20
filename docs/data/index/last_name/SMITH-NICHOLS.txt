@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH-NICHOLS	LAUREN	3934	1811336704393	1101 E POPLAR ST	CLARKSVILLE	AR

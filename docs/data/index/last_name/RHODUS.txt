@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RHODUS	NELSON	D9751	1114090057D97	516 DELAWARE ST SE	MINNEAPOLIS	MN

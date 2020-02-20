@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PICKUP	JASON	9613	1710120761961	117 W SEVIER AVE	KINGSPORT	TN

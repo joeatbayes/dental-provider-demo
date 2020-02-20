@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADAMS	CLEMENT	2901016465	1710191119290	3081 OAK VALLEY DR	ANN ARBOR	MI

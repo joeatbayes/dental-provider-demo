@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRADEN	CHARELLE	D010427	1497317648D01	4020 N 24TH ST	PHOENIX	AZ

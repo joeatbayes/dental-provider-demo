@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHRYSTAL	SALLY	D10862	1487868113D10	6949 VALLEY CREEK RD	WOODBURY	MN

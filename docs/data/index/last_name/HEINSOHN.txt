@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEINSOHN	NATHANIEL	10100	1457734113101	201 E BROADWAY AVE	MARYVILLE	TN

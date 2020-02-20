@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERR	DOUGLAS	D6332	1326037524D63	3345 E BELL RD	SCOTTSDALE	AZ

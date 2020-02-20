@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SADLON	SCOTT	6390	1184640195639	3226 N MILLER RD	SCOTTSDALE	AZ

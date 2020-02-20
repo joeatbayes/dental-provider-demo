@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUNGERS	NICOLE	D9120	1376708933D91	1705 BROADWAY AVE S	ROCHESTER	MN

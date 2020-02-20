@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOZA	ETHAN	5386	1871661751538	8110 W UNION HILLS DR STE 430	GLENDALE	AZ

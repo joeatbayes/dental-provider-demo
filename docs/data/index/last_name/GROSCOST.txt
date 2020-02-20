@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GROSCOST	CHARLES	D009458	1568819233D00	4501 N 7TH ST	PHOENIX	AZ

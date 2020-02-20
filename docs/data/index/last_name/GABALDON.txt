@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GABALDON	MICHAELA	DD4896	1548749732DD4	394.3 HIGHWAY 160	KAYENTA	AZ

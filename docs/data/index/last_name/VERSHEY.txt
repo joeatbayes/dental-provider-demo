@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERSHEY	THEODORE	M8418	1699832055M84	2005 8TH AVE E	HIBBING	MN

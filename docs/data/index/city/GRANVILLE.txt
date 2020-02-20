@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIECK	LAWRENCE	12339	1992866719123	3055 44TH ST	GRANVILLE	MI

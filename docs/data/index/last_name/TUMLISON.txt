@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TUMLISON	JOHN	2039	1235145277203	810 LOCUST ST	CONWAY	AR

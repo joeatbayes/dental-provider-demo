@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JATIVA	WENDY	2901019590	1790976884290	8641 W GRAND RIVER AVE	BRIGHTON	MI

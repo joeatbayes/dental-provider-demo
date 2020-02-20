@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERLOFF	ROGER	6862	1396869673686	125 2ND ST N	DELANO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VITALE	GIUSEPPA	2901019760	1306001672290	181 W EMMETT ST	BATTLE CREEK	MI

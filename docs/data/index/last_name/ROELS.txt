@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROELS	PATRICIA	2901015572	1326051277290	550 CHERRY ST SE	GRAND RAPIDS	MI

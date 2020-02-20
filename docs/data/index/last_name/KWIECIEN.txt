@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KWIECIEN	EUGENE	12006674	1851373518120	6882 W JOHNSON RD	LAPORTE	IN

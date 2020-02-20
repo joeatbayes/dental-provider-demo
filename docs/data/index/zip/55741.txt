@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COBBY	WHITNEY	D13273	1861831125D13	12 N BROADWAY AVE	GILBERT	MN

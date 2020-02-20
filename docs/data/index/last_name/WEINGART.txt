@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINGART	BARRY	6133	1699849935613	16930 E PALISADES BLVD	FOUNTAIN HILLS	AZ

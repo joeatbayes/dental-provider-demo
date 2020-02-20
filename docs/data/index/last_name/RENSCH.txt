@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENSCH	SCOTT	R10876	1770697823R10	402 MONROE ST	ANOKA	MN

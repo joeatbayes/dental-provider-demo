@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALEK	MICHAEL	D14246	1851950174D14	1432 LONDON RD	DULUTH	MN

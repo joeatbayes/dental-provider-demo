@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JELINEK	MATTHEW	D10982	1386696334D10	3205 W 76TH ST	EDINA	MN

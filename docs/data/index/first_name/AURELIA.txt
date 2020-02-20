@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDARD	AURELIA	D6728	1447442546D67	18555 N 79TH AVE STE A102	GLENDALE	AZ

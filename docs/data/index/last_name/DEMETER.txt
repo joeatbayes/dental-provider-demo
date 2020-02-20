@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMETER	MICHAEL	17118	1952325243171	3131 44TH ST SW	GRANDVILLE	MI

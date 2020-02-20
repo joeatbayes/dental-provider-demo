@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACAZE	GARY	2866	1205931011286	1616 STOCKTON HILL RD	KINGMAN	AZ

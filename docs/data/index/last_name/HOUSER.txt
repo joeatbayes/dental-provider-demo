@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOUSER	BRUCE	5031	1245307644503	7500 E PINNACLE PEAK RD	SCOTTSDALE	AZ

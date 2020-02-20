@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELJACK	HAITHAM	2901021990	1518318401290	117 W PATERSON ST	KALAMAZOO	MI

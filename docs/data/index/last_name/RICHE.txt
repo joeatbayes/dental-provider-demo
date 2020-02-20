@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHE	BRETT	D009901	1689087496D00	1730 E BEVERLY AVE	KINGMAN	AZ

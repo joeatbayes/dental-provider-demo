@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRANDGENETT	ROGER	D10869	1659395580D10	621 E 7TH ST	BLUE EARTH	MN

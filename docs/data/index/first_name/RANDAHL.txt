@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGHAUG	RANDAHL	D7314	1912244815D73	1019 CAMP JIM RD. S.W.	PILLAGER	MN

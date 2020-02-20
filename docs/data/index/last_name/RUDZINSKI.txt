@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUDZINSKI	THOMAS	11119	1114090578111	140 RIVER ST	ELK RAPIDS	MI

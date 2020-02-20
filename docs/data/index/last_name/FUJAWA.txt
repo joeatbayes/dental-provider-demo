@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUJAWA	LINDSAY	2901021904	1871911156290	1657 N CANTON CENTER RD	CANTON	MI

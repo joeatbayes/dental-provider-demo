@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARLOS	LYLE ARRIAN	D14046	1942793989D14	12737 ELM CREEK BLVD N	MAPLE GROVE	MN

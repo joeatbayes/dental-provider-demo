@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FALSEY	DAVID	AK862	1265450407AK8	4201 TUDOR CENTRE DR	ANCHORAGE	AK

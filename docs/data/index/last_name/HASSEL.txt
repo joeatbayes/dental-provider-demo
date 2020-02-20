@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HASSEL	CHARLES	12006388A	1437265402120	125 S STEWART ST	BREMEN	IN

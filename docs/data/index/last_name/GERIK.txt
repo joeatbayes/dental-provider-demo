@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERIK	JONATHAN	24544	1538396536245	1305 21ST AVE	FAIRBANKS	AK

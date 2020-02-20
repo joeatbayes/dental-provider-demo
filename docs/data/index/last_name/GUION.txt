@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUION	EDWIN	DS 1858	1811104730DS1	7714 CONNER RD	POWELL	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEHRER	ERNEST	8935	1477964989893	1728 W GLENDALE AVE	PHOENIX	AZ

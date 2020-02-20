@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIEDE	ROGER	D1936	1528028503D19	1238 W ORANGE GROVE RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOHLRABE	DAVID	D9678	1730184797D96	406 MAIN ST. NW	BAUDETTE	MN

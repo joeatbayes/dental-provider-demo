@@ -1,0 +1,2 @@
+PAMELA	21
+PAM	2

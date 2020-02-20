@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WERTZ	CORY	5200	1437243169520	8300 N THORNYDALE RD	TUCSON	AZ

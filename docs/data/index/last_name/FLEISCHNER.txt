@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLEISCHNER	STUART	2470	1225137318247	211 HOBSON AVE	HOT SPRINGS	AR

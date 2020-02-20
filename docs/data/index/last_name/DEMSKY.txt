@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMSKY	ALAN	2901011488	1174794929290	156 BARKER RD	WHITMORE LAKE	MI

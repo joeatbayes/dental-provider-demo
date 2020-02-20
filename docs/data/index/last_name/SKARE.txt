@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKARE	JON	9742	1336145929974	4355 NICOLS RD	EAGAN	MN

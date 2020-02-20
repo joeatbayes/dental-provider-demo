@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOESEN	GEORGE	D9876	1902950389D98	608 TECHNOLOGY DR	RED WING	MN

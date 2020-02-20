@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STREFF	CHRISTINA	D13269	1104260835D13	823 N. BROADWAY AVE.	SPRING VALLEY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AMOS	WILLIAM	5886	1114045242588	3100 N CAMPBELL ST	VALPARAISO	IN

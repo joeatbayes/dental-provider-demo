@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TUFO	WILLIAM	2255	1104935295225	7614 W INDIAN SCHOOL ROAD	PHX	AZ

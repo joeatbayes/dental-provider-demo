@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANNERMAN	STEPHEN	3616	1669677506361	3024 S. UNIVERSITY	LITTLE ROCK	AR

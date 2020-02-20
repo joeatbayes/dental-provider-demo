@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUREIDINI	BADRI	D11244	1467419648D11	11464 ROBINSON DR NW	COON RAPIDS	MN

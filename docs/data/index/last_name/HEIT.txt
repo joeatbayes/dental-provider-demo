@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEIT	JOREY	D13847	1588192066D13	36 WASHINGTON AVE W	HUTCHINSON	MN

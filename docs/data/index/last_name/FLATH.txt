@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLATH	STEVEN	2901016070	1508070509290	2500 7TH AVE SO	ESCANABA	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRANTZ	ANGELA	1477094605	1477094605931	1372 MAIN ST	ALTAMONT	TN

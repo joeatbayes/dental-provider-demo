@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOMCHENKO	OKSANA	NA	1720516685NA7	2442 COUNTY HWY 10	MOUNDS VIEW	MN

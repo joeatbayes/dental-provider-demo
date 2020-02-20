@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWERT	JEFFREY	9988	1881638484998	132-2ND AVE NE	BLOOMING PRAIRIE	MN

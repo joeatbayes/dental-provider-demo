@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRIGSBY	DARYL	R700	1730604877R70	515 DELAWARE ST SE # 8-166	MINNEAPOLIS	MN

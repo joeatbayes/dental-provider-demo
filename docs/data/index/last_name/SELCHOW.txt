@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SELCHOW	STEVEN	D9967	1427111996D99	2130 CLIFF RD	EAGAN	MN

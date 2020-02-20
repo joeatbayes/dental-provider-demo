@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLARD	ALEC	12013191A	1639738867120	717 E MAIN ST	GAS CITY	IN

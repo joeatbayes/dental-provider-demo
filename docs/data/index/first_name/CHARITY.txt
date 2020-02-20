@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPECHT	CHARITY	D12664	1437385234D12	210 CENTRAL AVE	NASHWAUK	MN

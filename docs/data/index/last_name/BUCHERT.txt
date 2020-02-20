@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUCHERT	RACHEL	7326	1518316553732	220 SE 21ST ST	GRAND RAPIDS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHINS	TROY	FR3489879	1841543287FR3	4805 W THOMAS RD	PHOENIX	AZ

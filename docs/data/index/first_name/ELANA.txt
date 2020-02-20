@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAKS	ELANA	LDR170189	1265925663LDR	1121 W MICHIGAN ST	INDIANAPOLIS	IN

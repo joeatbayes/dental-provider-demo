@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLEMAN-SETTLES	DENISE	13341	1326062571133	10040 PURITAN ST	DETROIT	MI

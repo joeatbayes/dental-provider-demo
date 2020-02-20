@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	DONALD	2557	1609064443255	8921 W FOSSIL CREEK RD	STRAWBERRY	AZ

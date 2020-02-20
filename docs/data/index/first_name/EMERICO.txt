@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOMEZ	EMERICO	D4240	1447215769D42	829 E UNIVERSITY DR	MESA	AZ

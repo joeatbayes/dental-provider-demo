@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLACK	THOMAS	2901013823	1669433793290	3801 GLENKERRY CT	PORTAGE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COVERT	CLINTON	12012965A	1629563531120	1019 W EADS PKWY	LAWRENCEBURG	IN

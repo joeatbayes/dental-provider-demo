@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINGSANK	DEAN	8806	1194749903880	220 SE 21ST ST	GRAND RAPIDS	MN

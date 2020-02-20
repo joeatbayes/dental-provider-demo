@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EPP	GARY	7799	1174866255779	320 GRANT AVE	EVELETH	MN

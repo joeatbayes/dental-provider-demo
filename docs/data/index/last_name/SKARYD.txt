@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKARYD	JERRY	16049	1831265842160	1109 W BROAD STREET	CHESANING	MI

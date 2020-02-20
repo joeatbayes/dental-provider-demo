@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARRELLA	PAUL	4565	1366431892456	1146 W. HWY 89A #C-1	SEDONA	AZ

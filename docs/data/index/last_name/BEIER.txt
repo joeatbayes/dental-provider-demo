@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEIER	CHARLES	AZ4595	1386711372AZ4	414 S BEELINE HWY	PAYSON	AZ

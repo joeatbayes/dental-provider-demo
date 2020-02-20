@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERBARG	AARON	5284	1780757138528	14001 N 7TH ST	PHOENIX	AZ

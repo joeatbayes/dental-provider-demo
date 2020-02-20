@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDUSEN	AUSTIN	9292	1639466022929	800 WEATHERLY DR	CLARKSVILLE	TN

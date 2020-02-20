@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AGRIGOROAE BOLOS	NICOLETA	8563	1366600835856	4243 4TH AVE S	MINNEAPOLIS	MN

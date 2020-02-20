@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POSNICK	STEVEN	D8224	1073672028D82	3400 DAKOTA AVENUE SOUTH	ST LOUIS PARK	MN

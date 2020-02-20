@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PROKOSCH	RICHARD	7345MN	1831286137734	1736 EAST COPE AVE	MAPLEWOOD	MN

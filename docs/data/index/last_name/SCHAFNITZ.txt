@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAFNITZ	PAUL	10570	1861471120105	31690 HOOVER RD	WARREN	MI

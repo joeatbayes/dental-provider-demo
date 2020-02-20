@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIES STUTSMAN	DANIELLE	12010362	1023239324120	1801 CHARLTON CT	GOSHEN	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOSSFELD	THOMAS	1949	1396705521194	1625 W INA RD #109	TUCSON	AZ

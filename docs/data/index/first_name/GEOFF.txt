@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEST	GEOFF	4044	1508234436404	201 RICE ST	BERRYVILLE	AR

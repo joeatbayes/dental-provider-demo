@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEAVILLE	CHARLES	2802	1235146382280	1901 E BEEBE CAPPS EXPY	SEARCY	AR

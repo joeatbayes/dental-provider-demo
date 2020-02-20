@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALSTROM	RANDY	D7550	1013185883D75	4572 PINE POINT RD	SARTELL	MN

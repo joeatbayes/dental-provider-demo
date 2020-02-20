@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COMO	THOMAS	8011	1225256019801	1500 NORTHWAY DRIVE	ST CLOUD	MN

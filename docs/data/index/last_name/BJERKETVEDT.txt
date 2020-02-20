@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BJERKETVEDT	JASON	D12406	1861691271D12	334 MAIN ST S	SAUK CENTRE	MN

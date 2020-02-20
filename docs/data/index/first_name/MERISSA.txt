@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHTER	MERISSA	D13693	1891140075D13	1215 TOWN CENTRE DR STE 150	EAGAN	MN

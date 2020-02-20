@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KORN	BRADFORD	12007256	1730284324120	4656 W JEFFERSON BLVD	FORT WAYNE	IN

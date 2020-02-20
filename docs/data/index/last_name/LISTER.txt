@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LISTER	SHARON	6045	1760571301604	368 E GRANT RD	TUCSON	AZ

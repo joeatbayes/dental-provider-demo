@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSARIO	RACHEL	STUDENT	1508350687STU	1005 DR DB TODD JR BLVD	NASHVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLOGAS	GEOFFERY	12010658A	1942235361120	919 FLORENCE AVE	FORT WAYNE	IN

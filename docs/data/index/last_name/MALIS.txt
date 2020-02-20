@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALIS	ANTHONY	11952	1861546400119	2335 PONTIAC LAKE RD	WATERFORD	MI

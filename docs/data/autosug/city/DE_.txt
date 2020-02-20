@@ -1,0 +1,2 @@
+DE_QUEEN	6
+DE_WITT	1

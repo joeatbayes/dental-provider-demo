@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUINLAN	WILLIAM	9374	1033200670937	19535 MACK AVENUE	GROSSE PTE FARMS	MI

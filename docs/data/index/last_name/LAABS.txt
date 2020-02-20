@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAABS	ELIZABETH	D13697	1811340409D13	3359 W BROADWAY AVE	ROBBINSDALE	MN

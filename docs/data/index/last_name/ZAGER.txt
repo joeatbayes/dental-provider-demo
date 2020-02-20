@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAGER	BERNARD	2901010757	1376651810290	24718 MICHIGAN AVE	DEARBORN	MI

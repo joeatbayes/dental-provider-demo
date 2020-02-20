@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTLAM	PAUL	11066	1720167943110	716 14TH ST	CLOQUET	MN

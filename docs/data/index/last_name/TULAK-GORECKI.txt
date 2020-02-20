@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TULAK-GORECKI	MICHELE	15707	1568975126157	1905 MARLOW DR.	WARREN	MI

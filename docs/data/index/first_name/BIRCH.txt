@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YUKNIS	BIRCH	992	1750308599992	1700 BOGARD RD	WASILLA	AK

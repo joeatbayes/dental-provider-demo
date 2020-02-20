@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALE	KELBY	D7795	1831326586D77	21582 S ELLSWORTH LOOP RD	QUEEN CREEK	AZ

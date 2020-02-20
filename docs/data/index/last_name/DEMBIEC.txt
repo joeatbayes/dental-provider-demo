@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMBIEC	COURTNEY	D12643	1992930556D12	720 E HIGHWAY 61	WINONA	MN

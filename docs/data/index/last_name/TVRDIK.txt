@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TVRDIK	SHARON	10433	1215946421104	2418 ENTERPRISE DR	MENDOTA HEIGHTS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIAUQUE	JOSHUA	123730	1124542998123	829 CHIEF EDDIE HOFFMAN HWY	BETHEL	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSON	CAVOUR	D7759	1760544357D77	303 POWELL AVENUE	COLERAINE	MN

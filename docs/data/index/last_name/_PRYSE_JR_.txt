@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"PRYSE,JR."	JOHN	2666	1356491666266	180 EDGEWOOD AVE	CLINTON	TN

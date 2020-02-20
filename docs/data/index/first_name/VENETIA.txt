@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAGANIS	VENETIA	D10845	1760487359D10	13998 MAPLE KNOLL WAY	MAPLE GROVE	MN

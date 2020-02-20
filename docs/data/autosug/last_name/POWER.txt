@@ -1,0 +1,2 @@
+POWERS	10
+POWER	2

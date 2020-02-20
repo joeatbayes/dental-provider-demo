@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSENTHALL	MARK	12010065	1417515255120	3901 N WHEELING AVE	MUNCIE	IN

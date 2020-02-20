@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIRO	WILLIAM	WS013096	1255385704WS0	6810 S CEDAR ST	LANSING	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BABULA	WALTER	330	1003170291330	1919 LATHROP ST STE 102	FAIRBANKS	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEIMAN	JENNIFER	28008	1578903746280	375 MUNICIPAL DR. 104	RICHARDSON	TN

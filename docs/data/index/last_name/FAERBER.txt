@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAERBER	THOMAS	DS006917	1770814261DS0	118 MEDICAL CT	CLARKSVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOBER-REEVES	EMILY	AK1140	1346260353AK1	4201 TUDOR CENTRE DR	ANCHORAGE	AK

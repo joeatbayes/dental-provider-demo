@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUTNIK	GARY	13468	1144200643134	155 ROWE AVE	PORTLAND	MI

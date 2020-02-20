@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HYER	JAMES	683	1245454818683	3501 DENALI	ANCHORAGE	AK

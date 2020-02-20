@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALARRAGA	EMILIO	LGL4	1558674085LGL	334 E LAKE ST	MINNEAPOLIS	MN

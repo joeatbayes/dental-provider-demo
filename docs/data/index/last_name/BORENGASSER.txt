@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORENGASSER	JAMES	3525	1073620043352	3510 S 79TH ST STE 100	FORT SMITH	AR

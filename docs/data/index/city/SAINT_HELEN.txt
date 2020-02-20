@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOZER	STEVEN	2901015842	1861567646290	631 N SAINT HELEN RD	SAINT HELEN	MI

@@ -1,0 +1,2 @@
+LUCE	1
+LUCERO	1

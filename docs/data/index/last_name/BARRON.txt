@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARRON	MELODY	DS6838	1437238870DS6	8950 US HIGHWAY 64	LAKELAND	TN

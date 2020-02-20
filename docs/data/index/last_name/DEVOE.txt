@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEVOE	BRIAN	D11548	1861442402D11	1630 UNIVERSITY AVE	ST PAUL	MN

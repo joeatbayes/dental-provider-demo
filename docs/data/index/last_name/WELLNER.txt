@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WELLNER	GEORGE	7899	1457570145789	2600 BEMIDJI AVE N	BEMIDJI	MN

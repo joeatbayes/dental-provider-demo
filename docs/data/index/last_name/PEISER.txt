@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEISER	CARL	1724	1023174026172	1525 SOUTH CREEL AVE.	PINETOP	AZ

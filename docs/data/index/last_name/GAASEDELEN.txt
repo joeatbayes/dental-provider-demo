@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAASEDELEN	JAMES	8650	1558377994865	3925 37TH AVE N	ROBBINSDALE	MN

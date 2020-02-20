@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SORCINELLI	LEE	4099	1003998741409	18275 N 59TH AVE	GLENDALE	AZ

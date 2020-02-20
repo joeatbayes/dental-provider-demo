@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOREN	FRANKLIN	D6017	1205081023D60	33649 N 71ST WAY	SCOTTSDALE	AZ

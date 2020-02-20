@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOBERT	CARRILYN	2901017739	1083638720290	303 N CEDAR ST	KALKASKA	MI

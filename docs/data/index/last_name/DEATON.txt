@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEATON	RANDALL	DS006949	1265416242DS0	518 E MAIN ST	ADAMSVILLE	TN

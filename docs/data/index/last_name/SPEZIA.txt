@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPEZIA	RONALD	9512	1255427134951	8130 CONSTITUTION	STERLING HEIGHTS	MI

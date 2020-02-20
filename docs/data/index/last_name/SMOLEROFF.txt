@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMOLEROFF	DANIEL	D8948	1487761771D89	1901 44TH AVE N	MINNEAPOLIS	MN

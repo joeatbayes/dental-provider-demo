@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAJCHROWICZ	MICHAEL	AA - 778	1477996718AA-	4120 LAUREL ST	ANCHORAGE	AK

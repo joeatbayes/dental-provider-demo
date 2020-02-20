@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMESCU	EMIL	3742	1588868772374	280 W CATALINA DR	YUMA	AZ

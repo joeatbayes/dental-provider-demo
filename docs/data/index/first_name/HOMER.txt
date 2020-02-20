@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAUCETT	HOMER	12007940	1326170523120	310 W 5TH ST	VEEDERSBURG	IN

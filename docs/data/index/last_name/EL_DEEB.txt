@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EL DEEB	MOHAMED	9508	1578552311950	11441 OSAGE ST NW	COON RAPIDS	MN

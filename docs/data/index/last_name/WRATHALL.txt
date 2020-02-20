@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WRATHALL	JODY	2901020339	1306142815290	3020 OLD CENTRE RD	PORTAGE	MI

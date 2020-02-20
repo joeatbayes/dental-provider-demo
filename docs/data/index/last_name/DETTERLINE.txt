@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DETTERLINE	DAVID	12010870A	1558586040120	103 FARABEE DR N	LAFAYETTE	IN

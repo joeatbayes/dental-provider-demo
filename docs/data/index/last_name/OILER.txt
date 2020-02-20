@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OILER	FRANKLIN	DS016240	1093870644DS0	SPRUCE STREET	FORT YUKON	AK

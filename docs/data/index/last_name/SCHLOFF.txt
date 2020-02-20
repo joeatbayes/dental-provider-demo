@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLOFF	GERALD	10363	1932254950103	1601 MARQUETTE AVENUE	BAY CITY	MI

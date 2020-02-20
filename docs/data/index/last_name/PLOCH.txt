@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLOCH	THOMAS	DS3756	1871652123DS3	2028 W. POPLAR	COLLIERVILLE	TN

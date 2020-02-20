@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERIKS	DOUGLAS	12010984A	1467653923120	601 E WALNUT ST	FRANKFORT	IN

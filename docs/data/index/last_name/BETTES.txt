@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BETTES	MARK	10425	1497712970104	2500 COMO AVE	SAINT PAUL	MN

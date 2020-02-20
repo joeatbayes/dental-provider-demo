@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKDASH	BASHAR	FF16	1245506849FF1	515 DELAWARE ST SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPLOW	STEVE	8171	1184612285817	1011 MIDDLE CREEK RD	SEVIERVILLE	TN

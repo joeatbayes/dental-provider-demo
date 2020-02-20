@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALESHECK	DOUGLAS	D7367	1043295132D73	1346 PAYNE AVE	SAINT PAUL	MN

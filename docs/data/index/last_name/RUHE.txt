@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUHE	RICHARD	12009093A	1073706271120	3363 S. US HWY 41	TERRE HAUTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH JR	HARVEY	2465	1457439127246	2680 EAST JOYCE BLVD	FAYETTEVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITHERSPOON	ROBERT	4189	1750578027418	4100 HIDDEN FERN LN N	BARTLETT	TN

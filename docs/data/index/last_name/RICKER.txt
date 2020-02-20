@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICKER	FREDERICK	1721	1871645804172	1719 LAFAYETTE ST	GREENEVILLE	TN

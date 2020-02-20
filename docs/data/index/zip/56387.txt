@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRABOWSKI	DEREK	D12072	1538270442D12	758 1ST ST S # 101	WAITE PARK	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEIGEL	THOMAS	D14244	1346451184D14	23411 JOHN R RD	HAZEL PARK	MI

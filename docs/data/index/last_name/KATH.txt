@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KATH	CHARLES	6980	1700867967698	1021 BANDANA BLVD E	SAINT PAUL	MN

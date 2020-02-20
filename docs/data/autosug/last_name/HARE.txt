@@ -1,0 +1,2 @@
+HARES	2
+HAREID	1

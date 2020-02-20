@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEUCKENS	MEGAN	D12555	1215197462D12	1660 HIGHWAY 100 S	MINNEAPOLIS	MN

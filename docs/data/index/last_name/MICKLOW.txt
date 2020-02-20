@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MICKLOW	SUSAN	2901014731	1902915192290	101 S FRONT ST	MARQUETTE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERICKSON	ROBERT	D10779	1861596439D10	71 SOUTH DR	BABBITT	MN

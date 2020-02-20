@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	GLADE	D2302	1932311685D23	1475 S 20TH AVE	SAFFORD	AZ

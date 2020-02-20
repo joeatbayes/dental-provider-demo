@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIAL	SHAWN	2901017773	1316051725290	2565 FOREST HILL AVE SE	GRAND RAPIDS	MI

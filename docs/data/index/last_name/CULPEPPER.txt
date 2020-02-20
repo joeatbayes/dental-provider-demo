@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CULPEPPER	NICHOLAS	3954	1083055701395	620 N 13TH ST	ROGERS	AR

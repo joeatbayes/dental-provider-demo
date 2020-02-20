@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLIAMS	GALEN	12007399A	1629173265120	901 WILLIAMS ST	ANGOLA	IN

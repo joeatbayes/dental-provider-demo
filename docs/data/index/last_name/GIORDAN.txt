@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIORDAN	RONALD	1093	1902993355109	4159 W THUNDERBIRD RD	PHOENIX	AZ

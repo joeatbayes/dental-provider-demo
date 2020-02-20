@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUDER	ROBERT	613	1679618524613	36275 KENAI SPUR HWY	SOLDOTNA	AK

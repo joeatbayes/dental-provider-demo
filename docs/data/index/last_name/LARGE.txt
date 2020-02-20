@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LARGE	JOHN	D2199	1821104977D21	2312 N ROSEMONT BLVD	TUCSON	AZ

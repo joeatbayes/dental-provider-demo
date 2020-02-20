@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KNUTSON	CARISSA	11358	1477692903113	1701 CURVE CREST BLVD W	STILLWATER	MN

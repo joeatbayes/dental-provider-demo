@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WELANDER	SEAN	D13796	1033477492D13	3950 VETERANS DR STE 100	SAINT CLOUD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLT	JAMES	8008	1649345430800	1411 W SAINT GERMAIN ST	SAINT CLOUD	MN

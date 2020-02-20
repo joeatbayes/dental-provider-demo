@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KANDEL	ELIZABETH	12011845A	1255695656120	119 SE 2ND ST	EVANSVILLE	IN

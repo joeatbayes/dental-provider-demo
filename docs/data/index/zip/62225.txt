@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLOOD	JAMES	019-20940	1124013982019	375 DENTAL SQUADRON	DENTAL SQUADRON	IN

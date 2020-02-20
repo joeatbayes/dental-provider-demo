@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEAWELL	CHARLES	D12948	1346534195D12	305 W MAIN ST	KASSON	MN

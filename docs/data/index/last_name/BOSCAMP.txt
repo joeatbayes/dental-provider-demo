@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOSCAMP	CLINTON	5967	1902064579596	9880 S RURAL RD STE 108	TEMPE	AZ

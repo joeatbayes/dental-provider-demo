@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLUTE	STEVEN	1201063A	1063461796120	7524 S ANTHONY BLVD	FORT WAYNE	IN

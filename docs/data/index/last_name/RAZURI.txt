@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAZURI	SOLEDAD	D5758	1316018773D57	5533 E BELL RD	SCOTTSDALE	AZ

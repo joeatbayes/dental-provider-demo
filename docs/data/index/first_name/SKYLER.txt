@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	SKYLER	D010035	1811489594D01	1992 E RAY RD	CHANDLER	AZ

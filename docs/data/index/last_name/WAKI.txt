@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAKI	TIFFANY	D11697	1063613131D11	14000 NICOLLET AVE	BURNSVILLE	MN

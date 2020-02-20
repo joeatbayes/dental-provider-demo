@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAISER	GERLAD	2338	1487796843233	9002 E DESERT COVE STE 103	SCOTTSDALE	AZ

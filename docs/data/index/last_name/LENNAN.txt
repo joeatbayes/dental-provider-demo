@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENNAN	JAMES	11324	1134338379113	1025 W GENESEE ST	FRANKENMUTH	MI

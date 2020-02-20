@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZEIS	NANCY	D12838	1285949669D12	5129 W 98TH ST	BLOOMINGTON	MN

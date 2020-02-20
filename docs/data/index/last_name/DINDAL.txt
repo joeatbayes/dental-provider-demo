@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DINDAL	MARK	D008551	1801143441D00	1370 N SILVERBELL RD	TUCSON	AZ

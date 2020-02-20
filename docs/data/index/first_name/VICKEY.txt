@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HODNIK	VICKEY	692	1427277359692	4014 LAKE ST	HOMER	AK

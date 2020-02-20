@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CALPAS	JOSEPH	10793	1144341397107	1005 HART BLVD.	MONTICELLO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEMANCIK	ELLEN	DS0000007457	1205996436DS0	105 KENNER AVE	NASHVILLE	TN

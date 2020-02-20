@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOGDANOWICZ	LUKE	D11440	1922098185D11	2220 LOWRY AVE N	MINNEAPOLIS	MN

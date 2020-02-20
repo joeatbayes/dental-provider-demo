@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITSITT	KARLY	D14001	1417449141D14	1068 LAKE ST S STE 209	FOREST LAKE	MN

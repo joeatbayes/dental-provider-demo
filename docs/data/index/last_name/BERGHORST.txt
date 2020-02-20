@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGHORST	JAMES	11529	1407907595115	596 BALDWIN ST	JENISON	MI

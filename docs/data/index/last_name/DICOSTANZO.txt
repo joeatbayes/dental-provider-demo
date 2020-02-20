@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DICOSTANZO	ANTHONY	12007851A	1841240819120	1123 JOLIET ST	DYER	IN

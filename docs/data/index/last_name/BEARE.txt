@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEARE	LEONARD	1979	1982814943197	8251 W THUNDERBIRD RD	PEORIA	AZ

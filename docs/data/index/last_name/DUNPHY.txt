@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNPHY	DAVID	D9166	1730271693D91	4625 CHURCHILL ST	SHOREVIEW	MN

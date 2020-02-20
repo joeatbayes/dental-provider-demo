@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUIRAS	SETH	1001078-15	1205217106100	110 1ST ST N	MONTGOMERY	MN

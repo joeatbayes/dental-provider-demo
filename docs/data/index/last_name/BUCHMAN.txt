@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUCHMAN	WESLEY	4055	1588010433405	38 FONTENAY CIR	LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALUS	ANNE	2901022660	1295229110290	5716 MICHIGAN AVE	DETROIT	MI

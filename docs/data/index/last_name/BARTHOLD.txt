@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTHOLD	JACOB	D13073	1457613028D13	105 E BRIDGE ST	REDWOOD FALLS	MN

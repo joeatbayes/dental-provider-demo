@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCASKEY	WANDA	3540	1063580934354	112 N WILLOW ST	HARRISON	AR

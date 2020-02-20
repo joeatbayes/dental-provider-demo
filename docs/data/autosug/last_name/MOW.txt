@@ -1,0 +1,3 @@
+MOWER	2
+MOW	1
+MOWERY	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZOUBEK	ZESTIVINAL	1095	1346260296109	66334 ASPEN AV	NINILCHIK	AK

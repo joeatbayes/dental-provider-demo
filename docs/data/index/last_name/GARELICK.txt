@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARELICK	JEFFREY	4732	1467477943473	3165 S ALMA SCHOOL RD	CHANDLER	AZ

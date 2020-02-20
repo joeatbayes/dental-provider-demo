@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSTLER	DAVID	D5619	1841253549D56	20542 N LAKE PLEASANT RD	PEORIA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLUKA	ROBERT	12007662A	1174639470120	1703 CALUMET AVE	WHITING	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOMEYER	LISA	11624	1134271406116	11441 OSAGE ST NW	COON RAPIDS	MN

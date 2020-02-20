@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DILAURA	RICHARD	11236	1790951010112	27200 HARPER AVE	ST CLAIR SHORES	MI

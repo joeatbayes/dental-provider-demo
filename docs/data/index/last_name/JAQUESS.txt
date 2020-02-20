@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAQUESS	CHRISTIE	23994	1538315411239	1347 W COLLIN RAYE DR	DE QUEEN	AR

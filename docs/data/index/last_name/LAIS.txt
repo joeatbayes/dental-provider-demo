@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAIS	RANDOLPH	3304	1003941857330	5508 PINNACLE POINT DR	ROGERS	AR

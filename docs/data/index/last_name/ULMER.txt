@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ULMER	RUSSELL	3743	1154402634374	7516 N LA CHOLLA BLVD	TUCSON	AZ

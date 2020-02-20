@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNCAN	PASTORA	4078	1508927401407	5041 W NORTHERN AVE	GLENDALE	AZ

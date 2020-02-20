@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAMPITT	ROBERT	DS3052	1710087903DS3	136 N MAIN ST	LEXINGTON	TN

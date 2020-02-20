@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DULLARD	SUANNE	9965	1649218231996	100 PINETREE DR	BIGFORK	MN

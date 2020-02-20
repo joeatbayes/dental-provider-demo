@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOREN	THOMAS	9515	1598882763951	4395 QUEENS WAY	BLOOMFIELD HILLS	MI

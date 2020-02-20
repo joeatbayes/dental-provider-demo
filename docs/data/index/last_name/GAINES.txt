@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAINES	KARLA	3098	1265448484309	802 N DIXIELAND RD	ROGERS	AR

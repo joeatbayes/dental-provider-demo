@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BYRNSIDE	BRYAN	DS8371	1417015082DS8	40 W. CALDWELL STREET	MOUNT JULIET	TN

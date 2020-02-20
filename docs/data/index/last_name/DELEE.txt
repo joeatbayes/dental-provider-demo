@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELEE	NEAL	3581	1235249640358	1629 AIRPORT RD	HOT SPRINGS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROOS-MENDEZ	NANCY	D4076	1831118181D40	650 E INDIAN SCHOOL RD	PHOENIX	AZ

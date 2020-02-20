@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREDETTE	MELANIE	D12022	1841251071D12	6601 LYNDALE AVE S	RICHFIELD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELIO	ANTHONY	6841	1275752990684	3601 W CORTARO FARMS RD	TUCSON	AZ

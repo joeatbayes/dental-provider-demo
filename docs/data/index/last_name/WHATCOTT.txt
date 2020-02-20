@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHATCOTT	JOSH	D8074	1164739736D80	105 N LITCHFIELD ROAD	GOODYEAR	AZ

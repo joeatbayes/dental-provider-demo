@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALECKI	ROBERT	11597	1184670929115	512 S TRUMBULL ST	BAY CITY	MI

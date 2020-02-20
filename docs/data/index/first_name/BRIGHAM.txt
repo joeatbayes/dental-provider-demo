@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKER	BRIGHAM	5899	1942341094589	5970 S COOPER RD STE 1	CHANDLER	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OBERNUEFEMANN	SHANNON	D5408	1174530836D54	777 W BETHANY HOME RD	PHOENIX	AZ

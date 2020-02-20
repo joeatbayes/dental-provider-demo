@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KEIR	DANIEL	776 AND 120	1508921925776	1919 LATHROP ST	FAIRBANKS	AK

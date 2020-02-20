@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLMAN	DANIEL	D13983	1760972640D13	1905 PLAZA DR	EAGAN	MN

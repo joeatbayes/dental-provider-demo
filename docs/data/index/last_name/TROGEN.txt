@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROGEN	TERRI	D11086	1164582284D11	480 W 78TH ST	CHANHASSEN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KHAN	FAIZULLAH	11885	1831200690118	205 WABASHA ST S	ST PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOLTZ	WILLIAM	2901019563	1497969711290	2015 HOLTON RD	MUSKEGON	MI

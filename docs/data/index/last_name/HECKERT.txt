@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HECKERT	JOHN	D10730	1639321011D10	6437 BROOKLYN BLVD	BROOKLYN CENTER	MN

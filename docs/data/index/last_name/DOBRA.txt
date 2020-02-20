@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOBRA	ANA-MARIA	D008961	1790194116D00	17235 N 75TH AVE STE C135	GLENDALE	AZ

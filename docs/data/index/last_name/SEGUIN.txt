@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEGUIN	JILL	16605	1124063581166	192 W HIGHLAND RD	HIGHLAND	MI

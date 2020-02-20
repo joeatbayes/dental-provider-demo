@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDOW	WILLIAM	2901015666	1639273261290	1511 S MAIN ST	EATON RAPIDS	MI

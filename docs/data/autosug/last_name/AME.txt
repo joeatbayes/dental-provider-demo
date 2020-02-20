@@ -1,0 +1,3 @@
+AMES	2
+AMEEN	1
+AMENT	1

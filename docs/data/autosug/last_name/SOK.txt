@@ -1,0 +1,3 @@
+SOKAL	1
+SOKI	1
+SOKOL	1

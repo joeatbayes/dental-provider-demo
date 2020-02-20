@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLEZIA	RICHARD	2901009907	1922018894290	4646 JOHN R ST	DETROIT	MI

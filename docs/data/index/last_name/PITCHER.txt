@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PITCHER	STEVE	9051	1376608240905	506 1ST AVE S	SAINT JAMES	MN

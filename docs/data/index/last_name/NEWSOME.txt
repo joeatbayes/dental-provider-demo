@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEWSOME	BOYD	9581	1396091799958	3712 MEADOW KNOLL CT	CLARKSVILLE	TN

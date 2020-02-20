@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEAUCHAMP	KARYL	5403	1528082682540	2297 RUDOLPHTOWN RD	CLARKSVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NETT	KARAN	53321	1669593273533	2020 W WHISPERING WIND DR	PHOENIX	AZ

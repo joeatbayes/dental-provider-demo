@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CUEVAS	VIVIAN	D10678	1982872578D10	327 BUSH ST	RED WING	MN

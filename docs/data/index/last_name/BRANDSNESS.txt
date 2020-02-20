@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRANDSNESS	BRUCE	10016	1184761975100	2267 LOUISIANA AVE S	ST LOUIS PARK	MN

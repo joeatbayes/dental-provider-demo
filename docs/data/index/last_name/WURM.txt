@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WURM	CATHERINE	11035	1023124179110	1521 NORTHWAY DR	SAINT CLOUD	MN

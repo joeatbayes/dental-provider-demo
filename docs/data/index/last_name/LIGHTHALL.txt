@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIGHTHALL	DIRK	6592134-9922	1972794030659	900 E FLORENCE BLVD	CASA GRANDE	AZ

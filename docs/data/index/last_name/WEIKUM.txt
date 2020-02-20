@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEIKUM	DONALD	2901010752	1548459399290	185 N FROST DR	SAGINAW	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HITCHCOCK	ROGER	1427175751	1427175751734	2058 S STATE ST	ANN ARBOR	MI

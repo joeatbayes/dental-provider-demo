@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELMOE	ERNEST	D4509	1912999509D45	13760 N 93RD AVE	PEORIA	AZ

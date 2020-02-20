@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GONZALEZ	DALINE	3961	1134186158396	4015 N 15TH AVE	PHOENIX	AZ

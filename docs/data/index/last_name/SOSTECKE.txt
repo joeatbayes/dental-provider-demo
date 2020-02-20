@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOSTECKE	LISA	D11860	1508889916D11	610 E DIVISION ST	ROCKFORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PULL	DAVID	6478	1063587467647	400 E ST GERMAIN	ST CLOUD	MN

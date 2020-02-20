@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHONE	DEVIN	12012040A	1740628619120	477 S LANDMARK AVE	BLOOMINGTON	IN

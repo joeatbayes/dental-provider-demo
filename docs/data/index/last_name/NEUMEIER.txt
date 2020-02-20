@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEUMEIER	THOMAS	8867	1619918687886	2101 23RD AVE	MENOMINEE	MI

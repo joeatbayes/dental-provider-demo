@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERNATH	DAVID	D6565	1669533667D65	1018 E KALER DR	PHOENIX	AZ

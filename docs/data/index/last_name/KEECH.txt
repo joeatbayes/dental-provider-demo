@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KEECH	RICHARD	3870	1609138569387	3024 S UNIVERSITY AVE	LITTLE ROCK	AR

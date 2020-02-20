@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ENNEN	PATRICK	7668	1710944988766	3960 COON RAPIDS BLVD NW	COON RAPIDS	MN

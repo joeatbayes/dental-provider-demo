@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLAZER	RICHARD	2036	1497815542203	1526 W GLENDALE AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRODOSKI	RICHARD	10209	1144367574102	4845 E 14 MILE RD	STERLING HEIGHTS	MI

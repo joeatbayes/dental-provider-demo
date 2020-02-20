@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEL ROSARIO	DERRICK	12012334A	1801276514120	7777 E RIDGE RD	HOBART	IN

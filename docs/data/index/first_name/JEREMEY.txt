@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THIETTEN	JEREMEY	5315032828	1679743082531	924 S LINCOLN AVE	LAKEVIEW	MI

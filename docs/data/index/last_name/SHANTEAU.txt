@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHANTEAU	OWEN	12008143A	1902929524120	2001 E BROADWAY	LOGANSPORT	IN

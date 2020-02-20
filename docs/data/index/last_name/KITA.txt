@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KITA	ALEXANDER	3318	1366463283331	3517 JFK BLVD	NORTH LITTLE ROCK	AR

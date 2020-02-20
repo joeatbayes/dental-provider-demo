@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEGMANN	KRIS	2901016037	1821045832290	431 MUNSON AVE	TRAVERSE CITY	MI

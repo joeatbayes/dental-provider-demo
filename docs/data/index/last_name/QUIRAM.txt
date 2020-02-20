@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUIRAM	PAUL	MND10446	1215913587MND	338 W BROADWAY	PLAINVIEW	MN

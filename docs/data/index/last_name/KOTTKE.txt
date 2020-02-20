@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOTTKE	STEVEN	D11988	1780744136D11	1225 E 1ST ST	DULUTH	MN

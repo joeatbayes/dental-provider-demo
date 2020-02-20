@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAZBINSKI	BRYAN	2901021246	1669885257290	1035 E WILCOX AVE	WHITE CLOUD	MI

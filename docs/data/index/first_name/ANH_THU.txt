@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BECKER	ANH THU	D6663	1801848254D66	4041 N. CENTRAL AVE	PHOENIX	AZ

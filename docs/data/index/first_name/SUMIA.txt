@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDALLAH	SUMIA	2901019595	1841482239290	511 W 8 MILE RD	DETROIT	MI

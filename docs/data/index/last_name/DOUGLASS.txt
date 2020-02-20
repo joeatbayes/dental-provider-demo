@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOUGLASS	JOHN	DS2013	1841204328DS2	4515 HARDING ROAD	NASHVILLE	TN

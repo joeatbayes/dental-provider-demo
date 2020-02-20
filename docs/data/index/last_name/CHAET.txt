@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAET	RICHARD	2458	1831249887245	6868 E BECKER LN	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARCH	JONATHAN	DEND1574	1013329978DEN	4315 DIPLOMACY DR	ANCHORAGE	AK

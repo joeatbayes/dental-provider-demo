@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASS	PAULETTE	15807	1174565220158	2901 MILITARY ST	PORT HURON	MI

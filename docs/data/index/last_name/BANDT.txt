@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANDT	CARL	6647	1437273976664	3925 W 44TH ST	EDINA	MN

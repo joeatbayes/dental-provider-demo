@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANSEN	ARTHUR	291	1386671170291	1329 MCGRATH RD	FAIRBANKS	AK

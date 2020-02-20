@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIGON	WILLIAM	3119	1750468724311	8020 DALLAS ST	FORT SMITH	AR

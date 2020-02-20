@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COFFEE	WILLIAM	3432	1720146590343	901 S ELM ST	HOPE	AR

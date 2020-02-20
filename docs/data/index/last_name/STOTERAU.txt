@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOTERAU	BRIANNA	D009723	1932638657D00	1901 S SIGNAL BUTTE RD STE 107	MESA	AZ

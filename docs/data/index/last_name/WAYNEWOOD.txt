@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAYNEWOOD	FREEMAN	8084	1063586659808	393 DUNLAP ST N STE 650	SAINT PAUL	MN

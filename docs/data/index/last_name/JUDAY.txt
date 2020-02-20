@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUDAY	JAMES	2901016645	1215001250290	7815 E JEFFERSON AVE	DETROIT	MI

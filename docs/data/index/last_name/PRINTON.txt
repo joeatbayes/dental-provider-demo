@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRINTON	MICHAEL	9424	1497807440942	6949 VALLEY CREEK RD	WOODBURY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARROSO	DAVID	2901014523	1427159730290	402 MAIN ST	BLANCHARD	MI

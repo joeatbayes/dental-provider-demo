@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEISLER	SHANA	D10892	1750452157D10	21410 136TH AVE NORTH SUITE #109	ROGERS	MN

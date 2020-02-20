@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELL	ROBERT	12183	1134123409121	19003 ECORSE RD	ALLEN PARK	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JESS	LEE	7035	1285706226703	501 S POKEGAMA AVE	GRAND RAPIDS	MN

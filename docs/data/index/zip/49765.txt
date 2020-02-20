@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDERSON	KITRIDGE	17375	1659467827173	4080 MICHIGAN AVE	ONAWAY	MI

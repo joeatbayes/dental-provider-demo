@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALLER	LATONYA	2901021345	1265841977290	4727 SAINT ANTOINE ST	DETROIT	MI

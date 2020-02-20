@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PERPICH	ROSALIE	11196	1538272950111	1725 TOWER DR W STE 130	STILLWATER	MN

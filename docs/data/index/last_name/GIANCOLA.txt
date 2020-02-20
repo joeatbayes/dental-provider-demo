@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIANCOLA	BARBARA	D4221	1720151871D42	6231 S CENTRAL AVE	PHOENIX	AZ

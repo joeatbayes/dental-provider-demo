@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERNSTER	LEON	D8111	1881735454D81	3207 FOX HOLLOW CT SW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	JU-YOUNG	6195	1861402737619	5501 N 19TH AVE STE 206	PHOENIX	AZ

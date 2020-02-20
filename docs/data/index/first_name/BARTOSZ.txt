@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASKA	BARTOSZ	2901022032	1790238087290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

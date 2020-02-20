@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAWSON	STEVEN	8435	1477527216843	6364 MAIN ST	NORTH BRANCH	MN

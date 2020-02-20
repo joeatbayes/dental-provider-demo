@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHEW	HOOI PIN	FF70	1407344278FF7	516 DELAWARE ST SE	MINNEAPOLIS	MN

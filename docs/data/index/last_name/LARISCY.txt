@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LARISCY	LLOYD	13287	1578655809132	24924 MICHIGAN AVE	DEARBORN	MI

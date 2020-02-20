@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUNU	JULIE	2901021350	1801295910290	23528 JOHN R RD	HAZEL PARK	MI

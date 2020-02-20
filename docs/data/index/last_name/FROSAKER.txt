@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FROSAKER	EMILY	D14023	1174014526D14	520 MAIN ST.	HAWLEY	MN

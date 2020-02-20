@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NARTKER	ERIN	2901022584	1619469046290	2509 S STATE ST	ANN ARBOR	MI

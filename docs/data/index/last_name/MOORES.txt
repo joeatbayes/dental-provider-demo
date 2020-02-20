@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORES	JACK	2901016423	1003996760290	42051 MOUND RD	STERLING HEIGHTS	MI

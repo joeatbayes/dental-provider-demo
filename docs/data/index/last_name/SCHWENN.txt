@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWENN	BETHANY	12010280A	1104919307120	904 S UNION ST	WARSAW	IN

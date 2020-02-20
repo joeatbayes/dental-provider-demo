@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YONG	ROBERT	DT-2548	1518113117DT-	3233 N 70TH ST	SCOTTSDALE	AZ

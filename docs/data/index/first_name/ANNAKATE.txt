@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TATUM	ANNAKATE	3808	1336376847380	825 N MAIN ST STE 6	HARRISON	AR

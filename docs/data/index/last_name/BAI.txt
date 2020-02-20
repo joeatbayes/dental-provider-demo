@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAI	WEI	8987	1831426972898	45 HANNIBAL COVE	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITE	MATTIE	2901020943	1053758912290	181 EMMETT ST W	BATTLE CREEK	MI

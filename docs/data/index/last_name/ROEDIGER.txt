@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROEDIGER	GORDON	2385	1093925232238	5190 E FARNESS DR STE 100	TUCSON	AZ

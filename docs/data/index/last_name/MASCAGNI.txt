@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASCAGNI	SAMARIA	3435	1528101672343	13600 DAVID O. DODD	LITTLE ROCK	AR

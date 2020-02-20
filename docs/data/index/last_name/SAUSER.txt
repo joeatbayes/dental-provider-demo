@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAUSER	RACHEL	3783	1992017180378	200 N 24TH ST	ROGERS	AR

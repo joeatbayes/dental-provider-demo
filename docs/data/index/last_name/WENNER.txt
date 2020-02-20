@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WENNER	JOSEPH	7765	1720028624776	1900 CENTRACARE CIRCLE	ST CLOUD	MN

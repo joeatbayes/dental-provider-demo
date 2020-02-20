@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIEREGGE	BRIAN	D11938	1740246230D11	10554 FRANCE AVE S	BLOOMINGTON	MN

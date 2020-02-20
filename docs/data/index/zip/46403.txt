@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GASSOWAY	LYNN	12007149	1962500298120	8412 MAPLE AVE	GARY	IN

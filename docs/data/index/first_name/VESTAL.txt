@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROUSE	VESTAL	983	1538254446983	5225 N 19TH AVE	PHX	AZ

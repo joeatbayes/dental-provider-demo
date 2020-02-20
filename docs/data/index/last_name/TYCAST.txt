@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TYCAST	DAVID	D12397	1356546717D12	304 VALLEY GREEN SQUARE	LE SUEUR	MN

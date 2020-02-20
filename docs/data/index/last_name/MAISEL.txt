@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAISEL	GARY	2901012528	1942361621290	21200 HARPER AVE	ST CLAIR SHORES	MI

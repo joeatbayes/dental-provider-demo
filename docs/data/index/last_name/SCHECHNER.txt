@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHECHNER	TERRY	12008141A	1063431468120	2833 LINCOLN ST	HIGHLAND	IN

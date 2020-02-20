@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEANO	KATRINA	6177	1427241173617	1150 COUNTY ROAD E E STE 220	VADNAIS HEIGHTS	MN

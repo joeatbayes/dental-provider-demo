@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUYER	EDMUND	11900	1447399084119	315 E MAIN ST	NILES	MI

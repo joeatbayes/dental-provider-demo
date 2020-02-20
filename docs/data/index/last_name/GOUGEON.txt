@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOUGEON	KAREN	2901017069	1275648263290	702 W MIDLAND RD	AUBURN	MI

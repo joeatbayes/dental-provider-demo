@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEPHERD	STEPHEN	3796	1770643371379	105 ADAMS STREET	STEVENSON	AZ

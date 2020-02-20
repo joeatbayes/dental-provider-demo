@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAUSCHEK	TERRENCE	384	1265546675384	4201 TUDOR CENTRE DR	ANCHORAGE	AK

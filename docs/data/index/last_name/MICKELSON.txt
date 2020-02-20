@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MICKELSON	BRUCE	11496	1760555692114	976 3 MILE RD NW	GRAND RAPIDS	MI

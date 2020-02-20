@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRAGER	JOHN	AA0616	1679506638AA0	800 E. DIMOND STE 3-535	ANCHORAGE	AK

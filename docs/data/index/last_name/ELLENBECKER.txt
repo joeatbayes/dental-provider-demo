@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLENBECKER	JOHN	AA0546	1689835050AA0	2211 JORDAN AVE	JUNEAU	AK

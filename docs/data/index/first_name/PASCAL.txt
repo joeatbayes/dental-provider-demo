@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALSETH	PASCAL	11536	1427113091115	14505 GLAZIER AVE	APPLE VALLEY	MN

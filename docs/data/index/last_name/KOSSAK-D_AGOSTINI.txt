@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOSSAK-D'AGOSTINI	LYDIA	17936	1013006204179	850 LINCOLN RD	GROSSE POINTE	MI

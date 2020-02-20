@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRAEF	HOWARD	2901013151	1326080524290	330 E 14 MILE RD	CLAWSON	MI

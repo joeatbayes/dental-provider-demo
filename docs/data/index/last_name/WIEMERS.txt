@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIEMERS	CARLIN	9440	1043386345944	120 E MAIN ST	MANKATO	MN

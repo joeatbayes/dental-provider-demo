@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRAITE	DAVID	15111	1619024452151	257 S MAIN ST	ONSTED	MI

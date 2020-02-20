@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OUELLETTE	DAVE	2023	1619944402202	3401 SPRINGHILL DR	NORTH LITTLE ROCK	AR

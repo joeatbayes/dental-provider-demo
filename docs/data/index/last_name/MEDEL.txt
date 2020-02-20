@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEDEL	MARK	MM013787	1427113042MM0	208 N SHIAWASSEE ST	OWOSSO	MI

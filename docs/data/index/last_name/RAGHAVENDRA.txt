@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAGHAVENDRA	SUCHETA	19.030443	164964683719.	115 DREW AVE SE	MADELIA	MN

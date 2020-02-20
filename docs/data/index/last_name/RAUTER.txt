@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAUTER	KEVIN	AZ4367	1972505022AZ4	16921 E PALISADES BLVD	FOUNTAIN HILLS	AZ

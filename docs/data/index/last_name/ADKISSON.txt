@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADKISSON	SCOTT	DS7867	1851382444DS7	603 HIGHWAY 321 N	LENOIR CITY	TN

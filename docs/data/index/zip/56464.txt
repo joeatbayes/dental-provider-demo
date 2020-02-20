@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RESTEMAYER	CHARLES	8525	1639167760852	16 BIRCH AVE NE	MENAHGA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIPSEY	ROBERT	12008978A	1396974630120	737 MOON RD	PLAINFIELD	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINRICH	ROBERT	D6378	1356554125D63	1027 2ND ST SW	ROCHESTER	MN

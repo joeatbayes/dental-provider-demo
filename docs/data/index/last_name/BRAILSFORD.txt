@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAILSFORD	ALYSSA	4155	1598128886415	1310 S ROCK ST	SHERIDAN	AR

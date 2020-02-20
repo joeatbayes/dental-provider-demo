@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHMOND	ROSIE	DS4539	1982042537DS4	1451 UNION AVE	MEMPHIS	TN

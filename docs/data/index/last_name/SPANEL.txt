@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPANEL	NICK	D13242	1184062002D13	515 DELAWARE ST SE	MINNEAPOLIS	MN

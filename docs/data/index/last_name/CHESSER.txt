@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHESSER	SHAWNA	DS7605	1922294594DS7	400 SUGARTREE LN	FRANKLIN	TN

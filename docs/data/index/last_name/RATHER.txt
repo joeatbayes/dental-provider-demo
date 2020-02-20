@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RATHER	FREDERIC	12008608A	1447260732120	9042 COLUMBIA AVE	MUNSTER	IN

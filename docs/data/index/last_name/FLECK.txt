@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLECK	JOSEPH	12008694B	1629173513120	412 HALE RD	CLARKSVILLE	IN

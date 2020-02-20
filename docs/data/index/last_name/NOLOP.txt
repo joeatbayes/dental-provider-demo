@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOLOP	CHARLES	7118	1558474031711	101 LAKE ST WEST	WAYZATA	MN

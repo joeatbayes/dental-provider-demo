@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JIRIK	SAMUEL	AR2741	1114076759AR2	606 W MAIN ST	CABOT	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAUGHLAND	ROBERT	16918	1174735815169	13801 15 MILE	STERLING HEIGHTS	MI

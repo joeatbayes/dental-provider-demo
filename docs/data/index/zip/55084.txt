@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRAIN	FRANK	10090	1003986969100	386 BENCH STREET	TAYLORS FALLS	MN

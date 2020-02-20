@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMEDLEY	MEREDITH	18688	1114099280186	133 1/2 E. MAIN AVE	ZEELAND	MI

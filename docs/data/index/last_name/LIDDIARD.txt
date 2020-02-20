@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIDDIARD	JEREMY	D009550	1003269358D00	12005 N TATUM BLVD	PHOENIX	AZ

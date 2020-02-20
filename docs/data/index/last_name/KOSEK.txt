@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOSEK	DOUGLAS	12009873	1780704247120	413 W JEFFERSON BLVD	SOUTH BEND	IN

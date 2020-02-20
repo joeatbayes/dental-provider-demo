@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUBKE	DAVIS	2901022035	1003279100290	1106 1ST AVE S	ESCANABA	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIPPOLDT	NED	D8566	1003820564D85	8375 CITY CENTRE DRIVE	WOODBURY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUMINSON	RANDALL	6104	1023179165610	1918 E MCKELLIPS	MESA	AZ

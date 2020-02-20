@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAVERO	ROSEMARY	D13517	1881077188D13	3359 W BROADWAY AVE	ROBBINSDALE	MN

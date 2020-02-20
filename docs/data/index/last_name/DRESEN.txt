@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRESEN	THOMAS	D10827	1972699056D10	6936 PINE ARBOR DR S	COTTAGE GROVE	MN

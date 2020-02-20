@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BHALLA	DIVYA	D13462	1457768921D13	2215 2ND ST SW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DONALDSON	JEAN	DS005056	1437384310DS0	107 DONALDSON AVENUE	CELINA	TN

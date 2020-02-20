@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANGAN	CHARLES	AR2807	1144365446AR2	2011 N VAN BUREN ST	LITTLE ROCK	AR

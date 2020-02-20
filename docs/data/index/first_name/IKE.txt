@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARDY	IKE	D5593	1730294646D55	3303 S LINDSAY ROAD	GILBERT	AZ

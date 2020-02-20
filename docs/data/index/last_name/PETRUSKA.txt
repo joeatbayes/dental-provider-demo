@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PETRUSKA	JOHN	7714	1649368572771	116 S 4TH ST	STURGIS	MI

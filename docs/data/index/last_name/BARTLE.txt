@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTLE	PAUL	12100	1881730364121	40340 HAYES ROAD	CLINTON TOWNSHIP	MI

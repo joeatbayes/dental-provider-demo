@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINNEGAN	WAYNE	7417	1992716062741	3507 ROUND LAKE BLVD NW	ANOKA	MN

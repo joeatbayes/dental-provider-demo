@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAMUEL	SARAH	20750	1689863441207	1310 24TH AVE S	NASHVILLE	TN

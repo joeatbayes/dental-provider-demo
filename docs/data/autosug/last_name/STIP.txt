@@ -1,0 +1,2 @@
+STIPHO	1
+STIPP	1

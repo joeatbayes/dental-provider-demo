@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRANZMEIER	RICHARD	2632	1053419986263	1306 EAST MAIN ST	VAN BUREN	AR

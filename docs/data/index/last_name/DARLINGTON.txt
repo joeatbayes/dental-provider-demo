@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DARLINGTON	SCOTT	D4238	1558430751D42	710 N BEAVER ST	FLAGSTAFF	AZ

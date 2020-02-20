@@ -1,0 +1,2 @@
+CONDRA	1
+CONDRO	1

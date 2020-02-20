@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FENTON	SHANNONJ	31911	1902014863319	3155 W INDIAN SCHOOL RD	PHOENIX	AZ

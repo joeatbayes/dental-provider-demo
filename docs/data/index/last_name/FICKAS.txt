@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FICKAS	FRANK	12012011A	1679913453120	10655 STATE ROAD 662	NEWBURGH	IN

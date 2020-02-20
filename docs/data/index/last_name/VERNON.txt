@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERNON	RACHAEL	2901023208	1285293837290	58144 GRATIOT AVE	NEW HAVEN	MI

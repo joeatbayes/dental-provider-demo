@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIZ	ALAN	12008787	1689779175120	202 E 17TH ST	HUNTINGBURG	IN

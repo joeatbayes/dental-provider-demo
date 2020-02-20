@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALVERSON	RICHARD	AZ2264	1881068856AZ2	6920 E SHEA BLVD STE 101	SCOTTSDALE	AZ

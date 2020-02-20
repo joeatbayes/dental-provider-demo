@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FILSON	BRUCE	MN8050	1306915558MN8	277 3RD ST N	BAYPORT	MN

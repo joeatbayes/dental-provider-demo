@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HATCH	SHAYLAR	D06963	1215331673D06	4135 S POWER RD STE 101	MESA	AZ

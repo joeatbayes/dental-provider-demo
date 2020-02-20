@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROUSE	ULLA	2901019249	1972897858290	8641 W GRAND RIVER AVE	BRIGHTON	MI

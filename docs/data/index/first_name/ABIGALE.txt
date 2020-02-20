@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLER	ABIGALE	12012543A	1366892382120	505 VISTULA ST	ELKHART	IN

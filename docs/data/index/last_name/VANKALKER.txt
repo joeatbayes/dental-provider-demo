@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANKALKER	JULIE	2901020020	1205065414290	2545 E PARIS AVE SE	GRAND RAPIDS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOETZ	CASEY	9417	1629502216941	140 TWIN RIVERS CT	SARTELL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREDERICKS	HAROLD	DS3227	1558350348DS3	4515 HARDING RD	NASHVILLE	TN

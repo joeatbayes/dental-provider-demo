@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERBER	FRANCOIS	D11970	1356316632D11	4325 GRAND AVE	DULUTH	MN

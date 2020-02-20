@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSCHER	MICHAEL	8121	1699764126812	1590 HASTINGS AVE	NEWPORT	MN

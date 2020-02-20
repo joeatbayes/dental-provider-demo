@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIGSON	ETHAN	8877	1497074231887	HIGHWAY 191 & HOSPITAL DRIVE	CHINLE	AZ

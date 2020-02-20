@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAUB	ALYSON	62704	1962837211627	1060 GAFFNEY RD # 1055	FT WAINWRIGHT	AK

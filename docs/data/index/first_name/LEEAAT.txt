@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEDNICK	LEEAAT	5524	1427121847552	4781 E CAMP LOWELL DR STE 121	TUCSON	AZ

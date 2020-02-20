@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINN	JESSICA	D11591	1073736989D11	123 FAIRLAWN AVE W	WINSTED	MN

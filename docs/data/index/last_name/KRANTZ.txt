@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRANTZ	RICHARD	3767	1811978786376	4309 COUNTRY VIEW DRIVE	FLOYDS KNOBS	IN

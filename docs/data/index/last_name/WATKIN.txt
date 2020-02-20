@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WATKIN	CHARLES	9471	1841392404947	1399 GENEVA AVE N	OAKDALE	MN

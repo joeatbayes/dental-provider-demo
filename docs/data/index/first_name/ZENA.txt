@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALSHUKRI	ZENA	D008611	1275834434D00	6200 S MCCLINTOCK DR	TEMPE	AZ

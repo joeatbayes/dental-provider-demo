@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LADD	TISA	7655	1518980853765	2333 W LINCOLN RD	KOKOMO	IN

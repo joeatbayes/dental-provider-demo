@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUIROZ	ALEXANDRA	D10828	1881180669D10	5445 N KOLB RD STE 205	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BETHEL	JUSTIN	3339	1861665515333	407 HIGHWAY 5 NORTH	BENTON	AR

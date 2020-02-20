@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUNE	MONIQUE	11183	1063585206111	201 W RAVEN ST	BELLE PLAINE	MN

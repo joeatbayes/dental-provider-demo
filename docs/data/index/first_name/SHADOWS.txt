@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDELL	SHADOWS	2901012360	1083663702290	19600 VAN DYKE STREET	DETROIT	MI

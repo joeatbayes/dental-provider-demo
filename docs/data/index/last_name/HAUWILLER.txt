@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUWILLER	MICHAEL	D10165	1144393745D10	11800 ABERDEEN ST NE	BLAINE	MN

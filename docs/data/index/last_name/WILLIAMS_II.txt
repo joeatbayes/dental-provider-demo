@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLIAMS II	ARTHUR	24152	1689763005241	25101 COOLIDGE HWY	OAK PARK	MI

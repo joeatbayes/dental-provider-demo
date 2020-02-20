@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HURSH	MICHAEL	8021	1629079983802	30554 PARK ST	LINDSTROM	MN

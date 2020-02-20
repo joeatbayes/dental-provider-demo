@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALNIEMI	HADEEL	D14027	1891287405D14	2690 SNELLING AVE N # 250	ROSEVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSTERBAUER	JOSEPH	D10494	1265605588D10	2525 33RD AVE NE	ST ANTHONY	MN

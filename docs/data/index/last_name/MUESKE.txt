@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUESKE	MARIE	D12462	1437340817D12	1350 N 7TH ST	LAKE CITY	MN

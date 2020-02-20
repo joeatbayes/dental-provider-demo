@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANKERMAN	ROBERT	2901011439	1346296480290	702 E 8TH ST	HOLLAND	MI

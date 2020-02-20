@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLANCO	JESSICA	104062	1578995411104	2220 DUNN ST	JUNEAU	AK

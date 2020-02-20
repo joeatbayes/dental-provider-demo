@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARKETT	HENRY	3827	1134303167382	4355 E UNIVERSITY DR	MESA	AZ

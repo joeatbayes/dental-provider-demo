@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIVIERE	GEORGE	8570	1508847435857	34 N PARK AVE	LE CENTER	MN

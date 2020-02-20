@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOEFFEL	THOMAS	9606	1780667170960	2819 HAMLINE AVE N	ROSEVILLE	MN

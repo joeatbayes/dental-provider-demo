@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAIBULET	RARES	12012518A	1174972202120	2519 E MAIN ST	RICHMOND	IN

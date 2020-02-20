@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRODAL	CLINT	D9259	1720235781D92	121 PARLIAMENT DR	MARYVILLE	TN

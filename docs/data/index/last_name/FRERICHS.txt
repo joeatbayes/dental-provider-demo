@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRERICHS	CRAIG	D11390	1598824385D11	3000 N CHESTNUT ST	CHASKA	MN

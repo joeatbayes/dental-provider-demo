@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STUMPOS	LARIS	17720	1508067877177	3950 S ROCHESTER RD	ROCHESTER HILLS	MI

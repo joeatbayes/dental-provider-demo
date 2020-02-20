@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WETTERLIND	ANDREW	D12943	1871882480D12	7316 UNIVERSITY AVE NE	FRIDLEY	MN

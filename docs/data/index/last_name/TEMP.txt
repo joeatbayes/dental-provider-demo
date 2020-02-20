@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEMP	REBECCA	D7591	1841437852D75	2179 W 24TH ST	YUMA	AZ

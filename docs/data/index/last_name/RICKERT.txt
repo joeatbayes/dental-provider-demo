@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICKERT	JESSICA	11184	1871553321111	1615 MICHIGAN AVE	BALDWIN	MI

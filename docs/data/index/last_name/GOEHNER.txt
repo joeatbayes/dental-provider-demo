@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOEHNER	JOHN	1700	1285941039170	23233 N PIMA RD STE 112	SCOTTSDALE	AZ

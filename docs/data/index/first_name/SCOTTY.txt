@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEVINE	SCOTTY	DS4500	1497879365DS4	501 OAK ST N	SWEETWATER	TN

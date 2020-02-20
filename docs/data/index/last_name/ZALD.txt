@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZALD	HAROLD	12166	1164591558121	5127 ROCHESTER RD	TROY	MI

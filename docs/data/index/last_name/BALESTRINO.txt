@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALESTRINO	WILLIAM	14189	1174612048141	39252 WEST 14 MILE	NOVI	MI

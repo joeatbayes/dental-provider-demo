@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"TEXER, JR."	HENRY	D10494	1447476130D10	2757 44TH ST SW	WYOMING	MI

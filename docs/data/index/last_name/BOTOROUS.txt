@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOTOROUS	BARBARA	R720	1548756984R72	515 DELAWARE ST SE	MINNEAPOLIS	MN

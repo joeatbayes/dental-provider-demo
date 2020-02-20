@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARRETT	LATASHA	9951	1972919868995	495 DUNLOP LN STE 112	CLARKSVILLE	TN

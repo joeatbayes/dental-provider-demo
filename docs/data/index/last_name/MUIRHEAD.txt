@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUIRHEAD	MARSHALL	8596	1295882389859	1405 ANNE ST NW	BEMIDJI	MN

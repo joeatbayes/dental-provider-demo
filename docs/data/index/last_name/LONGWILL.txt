@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LONGWILL	WILLIAM	3632	1023073707363	10245 E VIA LINDA	SCOTTSDALE	AZ

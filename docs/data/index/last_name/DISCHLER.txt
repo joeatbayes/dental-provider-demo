@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DISCHLER	DAVID	2273	1558369967227	10814 N 71ST PL	SCOTTSDALE	AZ

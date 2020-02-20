@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOULD	LARRY	2426	1083728232242	206 SOUTH COLLEGE ST	MTN HOME	AR

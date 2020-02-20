@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEETER	WILLIAM	654	1457365827654	111 W 16TH AVE	ANCHORAGE	AK

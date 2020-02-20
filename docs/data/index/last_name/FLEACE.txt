@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLEACE	ANGELA	12010404	1639234271120	360 NEW ALBANY PLZ	NEW ALBANY	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	HYERI	DDS100423	1679027791DDS	1011 N UNIVERSITY AVE	ANN ARBOR	MI

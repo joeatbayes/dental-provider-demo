@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TERVEEN	AMANDA	D13310	1578997151D13	802 CENTER AVE W	DILWORTH	MN

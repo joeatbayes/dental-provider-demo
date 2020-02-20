@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SACHDEVA	AMANDEEP	11851	1194834283118	21343 ARCHIBALD RD	DEERWOOD	MN

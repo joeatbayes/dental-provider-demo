@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOLAKOGLU	OENDER	12057	1811058126120	6545 FRANCE AVE S	EDINA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINNICH	SCOTT	2901015172	1487930384290	8201 N CROSWELL RD	SAINT LOUIS	MI

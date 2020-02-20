@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL	MERIDITH	2901017411	1114031747290	24 FRANK LLOYD WRIGHT DR	ANN ARBOR	MI

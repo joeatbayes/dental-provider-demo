@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAZIR	ARIF	D13174	1184959454D13	10210 BALTIMORE ST NE	BLAINE	MN

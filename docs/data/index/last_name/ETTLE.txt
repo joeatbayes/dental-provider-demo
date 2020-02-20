@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ETTLE	DEBRA	10680	1780724542106	200 E MAIN ST	ADA	MN

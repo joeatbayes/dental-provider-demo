@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KELLUM	ARLENE	5388	1669556809538	4516 US HWY 11 EAST	BLUFF CITY	TN

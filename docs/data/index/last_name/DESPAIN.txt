@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DESPAIN	HANNAH	10164	1053897637101	167 MAIN STREET	TUBA CITY	AZ

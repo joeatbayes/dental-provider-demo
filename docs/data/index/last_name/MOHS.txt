@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOHS	ROBERT	8124	1093899809812	421 E 4TH ST	DULUTH	MN

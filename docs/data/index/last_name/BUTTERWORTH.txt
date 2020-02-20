@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUTTERWORTH	ALICE	12007455A	1548202153120	803 W GARDNER DR	MARION	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAYLOR	SCOTT	3229	1588673453322	16 CHURCH STREET	CHARLESTON	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUTH	WILLIAM	2562	1598812612256	322 S MAIN ST	COTTONWOOD	AZ

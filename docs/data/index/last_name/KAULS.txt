@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAULS	PERRI	9805	1770710972980	12 LONG LAKE ROAD	MAHTOMEDI	MN

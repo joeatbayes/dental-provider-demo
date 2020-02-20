@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COUTTS	SARA	D009665	1316334477D00	1260 S CAMPBELL AVE BLDG 2	GREEN VALLEY	AZ

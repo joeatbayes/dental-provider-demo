@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JERGER	THOMAS	2901013471	1033298021290	22540 HARPER AVE	ST CLAIR SHRS	MI

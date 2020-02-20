@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLASING	KENNETH	D8173	1265634182D81	445 S MUNSTERMAN ST	APPLETON	MN

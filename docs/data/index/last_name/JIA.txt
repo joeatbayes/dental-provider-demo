@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JIA	HELEN	D010442	1700433513D01	1501 E CAMP MOHAVE RD # 1	FORT MOHAVE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THIERY	RICK	11247	1083734602112	111 10TH AVE E	ALEXANDRIA	MN

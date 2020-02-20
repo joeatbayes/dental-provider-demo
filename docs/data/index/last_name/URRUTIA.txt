@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+URRUTIA	DAWSON	4271	1427540111427	5422 EUPER LN	FORT SMITH	AR

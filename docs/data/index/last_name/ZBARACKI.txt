@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZBARACKI	THOMAS	D8329	1568528404D83	5005 MATTERHORN DRIVE	DULUTH	MN

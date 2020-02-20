@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRABAREK	THOMAS	AG2415912	1255496238AG2	304 S HUMPHREYS ST	FLAGSTAFF	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAGLIO	KIMBERLY	3772	1932429156377	500 HOSPITAL DR	MOUNTAIN HOME	AR

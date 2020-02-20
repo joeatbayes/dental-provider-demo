@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERRITHEW	JASON	18899	1407829138188	5217 N ROYAL DR	TRAVERSE CITY	MI

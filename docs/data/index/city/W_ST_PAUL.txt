@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSZKOWSKI	STACY	D11110	1255421889D11	1525 LIVINGSTON AVE	W. ST. PAUL	MN

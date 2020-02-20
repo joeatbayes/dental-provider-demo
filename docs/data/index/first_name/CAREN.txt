@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HULL	CAREN	4684	1104959444468	2601 N HAYDEN RD	SCOTTSDALE	AZ

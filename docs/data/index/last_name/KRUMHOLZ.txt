@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRUMHOLZ	MICHAEL	996	1922151075996	2267 LOUISIANA AVE S	ST LOUIS PARK	MN

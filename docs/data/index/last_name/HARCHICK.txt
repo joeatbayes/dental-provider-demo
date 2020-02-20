@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARCHICK	MARY	13752	1316139637137	255 N TELEGRAPH RD	WATERFORD	MI

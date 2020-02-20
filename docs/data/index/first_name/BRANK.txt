@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEBRUHL	BRANK	6933	1922210855693	4573 EAST STATE RD 236	MIDDLETOWN	IN

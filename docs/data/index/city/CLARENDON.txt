@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATTEN	THOMAS	4274	1497249031427	245 MADISON ST	CLARENDON	AR

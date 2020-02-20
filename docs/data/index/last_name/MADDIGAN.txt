@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MADDIGAN	DANIEL	12009033	1679799100120	723 MAIN ST	BEECH GROVE	IN

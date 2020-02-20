@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLEAK	DALE	1104914787	1104914787317	626 N STATE ST	GREENFIELD	IN

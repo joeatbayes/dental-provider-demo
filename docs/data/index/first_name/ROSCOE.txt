@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLIAMS	ROSCOE	4422	1407838923442	2601 E ROOSEVELT ST	PHOENIX	AZ

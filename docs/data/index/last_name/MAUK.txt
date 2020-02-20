@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAUK	SUSAN	12008007A	1801809421120	1003 W TOLEDO STREET	FREMONT	IN

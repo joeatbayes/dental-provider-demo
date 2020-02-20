@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINGE	MICHAEL	D10542	1396780540D10	917 1ST AVE SE	LONG PRAIRIE	MN

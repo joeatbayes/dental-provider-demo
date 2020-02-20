@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESCALA	ERNESTO	3429	1083754337342	5723 E 5TH ST	TUCSON	AZ

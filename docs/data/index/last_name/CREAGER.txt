@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CREAGER	TESSA	12011483A	1104138320120	1717 S CALHOUN ST	FORT WAYNE	IN

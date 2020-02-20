@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BECKERMEYER	RICHARD	1586434	1982740197158	123 MARMONT ST	NILES	MI

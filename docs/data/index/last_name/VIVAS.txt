@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIVAS	JOSE	2901017071	1760506273290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

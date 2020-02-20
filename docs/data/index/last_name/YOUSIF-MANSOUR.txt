@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUSIF-MANSOUR	AMANDA	2901019788	1265698344290	2442 E 10 MILE ROAD	WARREN	MI

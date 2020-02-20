@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ORESKOVICH	GARY	AZ3579	1295846178AZ3	1526 W GLENDALE AVE	PHOENIX	AZ

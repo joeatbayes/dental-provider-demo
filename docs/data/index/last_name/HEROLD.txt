@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEROLD	ROBERT	9001	1437220571900	1206 W FRONT ST	ALBERT LEA	MN

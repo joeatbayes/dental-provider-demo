@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAHIMOVA	RIADA	D14232	1477107761D14	2120 HIGHWAY 14 E	ROCHESTER	MN

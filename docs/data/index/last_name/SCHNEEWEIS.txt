@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHNEEWEIS	EUGENE	7999	1730257486799	2860 PIEDMONT AVE	DULUTH	MN

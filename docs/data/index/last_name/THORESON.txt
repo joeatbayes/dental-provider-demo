@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THORESON	JEROLD	6068	1922090711606	301 N MAIN ST	BLUE EARTH	MN

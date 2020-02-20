@@ -1,0 +1,3 @@
+LORA	5
+LORAN	1
+LORAY	1

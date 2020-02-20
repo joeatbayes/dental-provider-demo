@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CASALE	JACK	D008110	1235246448D00	27727 N 68TH PL	SCOTTSDALE	AZ

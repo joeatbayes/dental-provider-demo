@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHARMA	NITIKA	9899	1295274579989	DENTAL VILLAGE	GREEN VALLEY	AZ

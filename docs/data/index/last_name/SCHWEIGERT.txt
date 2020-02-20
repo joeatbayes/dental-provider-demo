@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWEIGERT	JAMES	9788	1447239892978	210 W STATE ST	SAINT JOHNS	MI

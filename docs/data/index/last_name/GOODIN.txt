@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOODIN	KERRY	12008972A	1659520955120	60 W MAIN ST	AUSTIN	IN

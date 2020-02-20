@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PUGH	BRADFORD	11807	1043329642118	21343 ARCHIBALD RD	DEERWOOD	MN

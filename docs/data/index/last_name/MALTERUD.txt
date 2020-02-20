@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALTERUD	MARK	9454	1679691273945	770 MOUNT CURVE BLVD	SAINT PAUL	MN

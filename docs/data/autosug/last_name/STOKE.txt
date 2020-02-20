@@ -1,0 +1,2 @@
+STOKES	3
+STOKER	1

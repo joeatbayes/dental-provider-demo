@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPENCE	ROBERT	D1430	1720144421D14	3226 N MILLER RD	SCOTTSDALE	AZ

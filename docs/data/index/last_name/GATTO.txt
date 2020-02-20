@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GATTO	DANIEL	D8051	1609844760D80	9950 VALLEY CREEK RD	WOODBURY	MN

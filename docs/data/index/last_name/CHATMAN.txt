@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHATMAN	SARAH	DS0000004889	1427049634DS0	504 N HIGHLAND AVE	JACKSON	TN

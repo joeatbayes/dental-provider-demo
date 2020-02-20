@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONDRA	SARAH	12012717A	1518495654120	8001 SHELBY ST	INDIANAPOLIS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMPSON	JIYUN	12011822A	1265779367120	1060 E 86TH ST STE 59	INDIANAPOLIS	IN

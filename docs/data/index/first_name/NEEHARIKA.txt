@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BHASHYAM	NEEHARIKA	D14235	1235797820D14	16991 198TH AVE NW	BIG LAKE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPAUDE	MARK	D12953	1679868335D12	822 MAIN STREET SUITE A	ELK RIVER	MN

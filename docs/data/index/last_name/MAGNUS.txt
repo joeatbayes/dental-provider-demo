@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGNUS	GEORGE	D010462	1316591407D01	921 S VAL VISTA DR UNIT 98	MESA	AZ

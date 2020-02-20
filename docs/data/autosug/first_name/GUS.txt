@@ -1,0 +1,3 @@
+GUSTAVO	4
+GUS	2
+GUST	1

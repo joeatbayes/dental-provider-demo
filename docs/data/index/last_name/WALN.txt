@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALN	LUKE	D11842	1740263094D11	25477 MAIN ST	NISSWA	MN

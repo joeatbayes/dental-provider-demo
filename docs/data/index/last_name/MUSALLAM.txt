@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUSALLAM	RAED	2982	1891877544298	2550 MAIN ST	NORTH LITTLE ROCK	AR

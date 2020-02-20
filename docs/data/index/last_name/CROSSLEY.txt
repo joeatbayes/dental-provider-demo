@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROSSLEY	JAMES	2843	1073526950284	950 W 1ST NORTH ST	MORRISTOWN	TN

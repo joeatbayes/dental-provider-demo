@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DECOURSEY	BRETT	4023	1184039174402	7525 YOUNG RD	NORTH LITTLE ROCK	AR

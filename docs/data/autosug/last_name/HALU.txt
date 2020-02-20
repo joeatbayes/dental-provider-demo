@@ -1,0 +1,2 @@
+HALUB	1
+HALUM	1

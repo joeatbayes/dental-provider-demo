@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THEIS	FALLON	D14054	1407340524D14	623 S SIBLEY AVE	LITCHFIELD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HLADIK	JAMES	M372	1205876885M37	650 E INDIAN SCHOOL RD	PHOENIX	AZ

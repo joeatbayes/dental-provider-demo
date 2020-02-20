@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIEN	DEBORAH	D9546	1932316247D95	132 2ND AVENUE NE	BLOOMING PRAIRIE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOWELL	CAMPBELL	DS 1962	1972640118DS1	208 W 6TH ST	COLUMBIA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PICKENS	DRUE	1244	1598958324124	1551 W. PARKS HWY	WASILLA	AK

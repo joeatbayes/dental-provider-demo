@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAINSCOTT	MICHAEL	3884	1528322005388	326 E 13TH ST	MURFREESBORO	AR

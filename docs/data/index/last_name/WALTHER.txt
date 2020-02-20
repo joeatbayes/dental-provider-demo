@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALTHER	NEWELL	1038	1992843197103	1700 BOGARD RD	WASILLA	AK

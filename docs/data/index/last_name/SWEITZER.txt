@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWEITZER	CLINTON	2901021201	1700298361290	8339 LEWIS AVE	TEMPERANCE	MI

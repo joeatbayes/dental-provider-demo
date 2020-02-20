@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLANTON	ASHBY	DS0000004223	1215053806DS0	1301 SUNSET DR	JOHNSON CITY	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADAMS	LYDE	AZ5662	1295819514AZ5	1489 W ELLIOT RD STE 101	GILBERT	AZ

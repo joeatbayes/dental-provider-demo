@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAKOBSEN	CHARLES	6266	1235292046626	4130 N 108TH AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NYDEGGER	DAN	5540	1275663791554	15661 W ROOSEVELT PKWY	GOODYEAR	AZ

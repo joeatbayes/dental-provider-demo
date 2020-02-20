@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUNICH	CAROLYN	12077	1922028836120	1136 WASHINGTON AVE	DETROIT LAKES	MN

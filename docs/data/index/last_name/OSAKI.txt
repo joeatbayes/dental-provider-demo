@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSAKI	JAMES	19373	1831201649193	4212 N 16TH ST	PHOENIX	AZ

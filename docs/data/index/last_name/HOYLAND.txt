@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOYLAND	BARRY	D7091	1063579019D70	1815 SUBURBAN AVE	SAINT PAUL	MN

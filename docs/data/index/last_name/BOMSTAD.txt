@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOMSTAD	KRIS	D11424	1184729436D11	911 1ST ST N	HOPKINS	MN

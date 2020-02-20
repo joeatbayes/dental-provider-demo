@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUSHERURE	PAUL	11316	1558472316113	205 WABASHA ST S	ST PAUL	MN

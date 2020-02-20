@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTLEY	JEFFREY	1229	1538357769122	34115 STERLING HWY	ANCHOR POINT	AK

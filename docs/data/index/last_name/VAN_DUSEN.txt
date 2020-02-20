@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN DUSEN	JUSTIN	D008934	1669883807D00	1130 S COUNTRY CLUB DR	MESA	AZ

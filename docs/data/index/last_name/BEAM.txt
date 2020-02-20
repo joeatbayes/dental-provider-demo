@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEAM	MELANIE	12010742A	1588724710120	101 N MISHAWAKA STREET	AKRON	IN

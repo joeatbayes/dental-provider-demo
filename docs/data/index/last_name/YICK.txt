@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YICK	JASON	D14183	1528624566D14	9630 GROVE CIR N STE 102	MAPLE GROVE	MN

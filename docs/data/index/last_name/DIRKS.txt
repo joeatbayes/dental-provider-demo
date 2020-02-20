@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIRKS	JOHN	D 2507	1659574796D25	4830 E MAIN ST	MESA	AZ

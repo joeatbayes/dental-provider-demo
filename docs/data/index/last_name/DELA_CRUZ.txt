@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELA CRUZ	DANIEL	D009730	1467981332D00	5030 W BASELINE RD STE 131	LAVEEN	AZ

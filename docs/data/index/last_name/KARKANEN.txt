@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARKANEN	TIFFANY	19137	1023181443191	1018 JOSLYN	PONTIAC	MI

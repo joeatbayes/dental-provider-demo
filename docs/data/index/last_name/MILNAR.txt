@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILNAR	FRANK	8267	1073602876826	120 SNELLING AVE N	SAINT PAUL	MN

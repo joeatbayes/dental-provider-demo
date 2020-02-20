@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TINDLE	DAVID	15878	1407827512158	1011 N UNIVERSITY AVE	ANN ARBOR	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEACHUM	TARA	17904	1073545810179	117 W CASS ST	GREENVILLE	MI

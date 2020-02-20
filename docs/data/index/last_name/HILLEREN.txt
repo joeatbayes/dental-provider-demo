@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HILLEREN	ANTHONY	11360	1679791826113	219 14TH ST S	BENSON	MN

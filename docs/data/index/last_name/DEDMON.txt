@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEDMON	JOHN	1742	1063495372174	303 HIGH ST N	CARTHAGE	TN

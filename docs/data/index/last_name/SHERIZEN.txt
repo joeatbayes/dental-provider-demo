@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHERIZEN	BRUCE	12960	1477663813129	18263 FORT ST	RIVERVIEW	MI

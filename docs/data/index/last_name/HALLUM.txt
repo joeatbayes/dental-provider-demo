@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLUM	CARL	D8495	1629292925D84	113 N MAINE AVE	ADRIAN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITTIER	BETHANY	D13546	1790166270D13	217 NASSAU ST	SAINT PETER	MN

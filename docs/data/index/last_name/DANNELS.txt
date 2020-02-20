@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DANNELS	WYATT	8812	1578997862881	2964 E LONGHORN DR	GILBERT	AZ

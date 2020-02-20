@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DISON	TATE	D14227	1295394989D14	5039 HIGHWAY 52 N	ROCHESTER	MN

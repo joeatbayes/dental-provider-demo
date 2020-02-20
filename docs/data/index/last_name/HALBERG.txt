@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALBERG	DEVON	D12783	1194044842D12	1632 WASHINGTON ST NE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOREHEAD	ROBERT	979	1952413734979	2600 CORDOVA ST STE 200	ANCHORAGE	AK

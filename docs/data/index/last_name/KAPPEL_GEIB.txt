@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAPPEL GEIB	SUZANNE	10824	1811057433108	2189 3RD ST	WHITE BEAR LAKE	MN

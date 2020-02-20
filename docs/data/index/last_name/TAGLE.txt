@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAGLE	HENRY	6531	1720128812653	1600 W. UNIVESITY AVE STE 103	FLAGSTAFF	AZ

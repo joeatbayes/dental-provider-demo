@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIMES	EMILY	3882	1982968822388	1090 EAST MAIN ST	BOONEVILLE	AR

@@ -1,0 +1,2 @@
+BETTY	3
+BETTIE	1

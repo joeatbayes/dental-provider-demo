@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TREAT	TIMOTHY	12012523A	1841649035120	1481 W 10TH ST	INDIANAPOLIS	IN

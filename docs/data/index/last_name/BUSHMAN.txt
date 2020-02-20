@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUSHMAN	BRUCE	AZ4783	1114088663AZ4	400 E HWY 70	SAFFORD	AZ

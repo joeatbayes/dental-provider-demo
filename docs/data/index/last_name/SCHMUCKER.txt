@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHMUCKER	ALAN	D7704	1689618779D77	605 HILLCREST AVE	OWATONNA	MN

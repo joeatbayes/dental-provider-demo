@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEETH	JOHN	D3492	1619073483D34	4212 N 16TH ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMOND	JAMES	2901015987	1659577617290	314 N WALNUT	LANSING	MI

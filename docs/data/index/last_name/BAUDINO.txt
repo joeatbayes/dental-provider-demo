@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUDINO	MARGARET	D13723	1265883029D13	4243 4TH AVE S	MINNEAPOLIS	MN

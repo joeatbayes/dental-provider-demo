@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIMMERLE	JACK	7214	1871536987721	2445 WINNETKA AVE N	GOLDEN VALLEY	MN

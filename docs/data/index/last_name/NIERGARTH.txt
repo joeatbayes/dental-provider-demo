@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIERGARTH	STEVEN	14121	1730152158141	5217 N ROYAL DR	TRAVERSE CITY	MI

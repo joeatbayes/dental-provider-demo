@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLEV	SCOTT	AZ2583	1811007610AZ2	1645 E BETHANY HOME RD	PHOENIX	AZ

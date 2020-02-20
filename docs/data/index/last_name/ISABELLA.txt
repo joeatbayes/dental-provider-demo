@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISABELLA	BENNETT	D12540	1174781702D12	14682 PENNOCK AVE	APPLE VALLEY	MN

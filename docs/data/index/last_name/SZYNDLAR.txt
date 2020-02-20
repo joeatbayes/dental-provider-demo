@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SZYNDLAR	ANTHONY	1336363696	1336363696810	1936 HOLLAND AVE	PORT HURON	MI

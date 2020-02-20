@@ -1,0 +1,2 @@
+ROGER	64
+ROGEL	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARDETTO	ROBERT	D9996	1720124209D99	1521 NORTHWAY DR	ST. CLOUD	MN

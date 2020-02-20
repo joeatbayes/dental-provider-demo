@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIJSSEN	LAURA	D13063	1023378320D13	501 MAIN ST NW	ELK RIVER	MN

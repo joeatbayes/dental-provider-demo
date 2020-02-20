@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLAART	STACEY	D4572	1285766659D45	4530 E RAY RD	PHOENIX	AZ

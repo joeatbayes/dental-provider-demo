@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAPPELL	GARRETT	1345	1851603484134	4050 LAKE OTIS PKWY	ANCHORAGE	AK

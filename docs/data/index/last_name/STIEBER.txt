@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIEBER	JANE	2901021260	1861783953290	1982 E MITCHELL RD	PETOSKEY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARGET	DAVID	5099	1841519923509	2905 W WARNER RD	CHANDLER	AZ

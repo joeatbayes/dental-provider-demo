@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELLIOS	PETER	2737	1699736009273	16425 E PALISADES BLVD	FOUNTAIN HILLS	AZ

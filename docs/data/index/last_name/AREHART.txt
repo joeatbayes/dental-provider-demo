@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AREHART	STEPHEN	DS3043	1285828665DS3	1950A OAK RIDGE TRPK	OAK RIDGE	TN

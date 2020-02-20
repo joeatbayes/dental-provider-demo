@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIXON	ACEY	D009456	1548610223D00	104 MEDICINE WAY	PERIDOT	AZ

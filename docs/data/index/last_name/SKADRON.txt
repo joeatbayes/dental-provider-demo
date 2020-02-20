@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKADRON	MICHAEL	10636	1285714436106	4103 E LAKE ST	MINNEAPOLIS	MN

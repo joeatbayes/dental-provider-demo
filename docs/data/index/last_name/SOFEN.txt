@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOFEN	ANDREW	2901012064	1811961444290	17886 FARMINGTON RD	LIVONIA	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULZ	WESSON	10181	1174627871101	127 S MADISON ST	TRAVERSE CITY	MI

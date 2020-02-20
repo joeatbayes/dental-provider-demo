@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JENOS	GARY	9962	1538177613996	16372 KENRICK AVE	LAKEVILLE	MN

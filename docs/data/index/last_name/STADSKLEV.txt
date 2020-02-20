@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STADSKLEV	SCOTT	D12271	1306905724D12	220 22ND AVE E	ALEXANDRIA	MN

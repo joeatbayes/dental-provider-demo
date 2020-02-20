@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURISEK	THOMAS	4777	1467585257477	6520 N 7TH AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+HURST	7
+HURSH	1

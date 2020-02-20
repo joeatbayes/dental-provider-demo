@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIRODONE	JULIANA	D12013	1396700787D12	1406 W LAKE ST	MINNEAPOLIS	MN

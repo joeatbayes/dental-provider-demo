@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANZELC	MATT	8045	1013281377804	3145 7TH AVE E	HIBBING	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHINBECKLER	GARY	6982	1710092044698	8101 S SHELBY ST	INDIANAPOLIS	IN

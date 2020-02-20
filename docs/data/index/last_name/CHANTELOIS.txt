@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHANTELOIS	CASEY	D13277	1871932236D13	1340 DUCKWOOD DR	EAGAN	MN

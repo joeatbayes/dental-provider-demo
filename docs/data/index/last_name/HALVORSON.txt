@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALVORSON	JEFFREY	13465	1760403521134	4355 SAWKAW DR NE	GRAND RAPIDS	MI

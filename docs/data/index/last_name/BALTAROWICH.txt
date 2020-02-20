@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALTAROWICH	MARIA	2901015119	1871758128290	4265 E 10 MILE RD	WARREN	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEWCOMB	MELVIN	1154484699	1154484699218	216 N 5TH AVE	VIRGINIA	MN

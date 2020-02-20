@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONFELD	KENT	9121	1972694974912	3152 MINNEHAHA AVE	MINNEAPOLIS	MN

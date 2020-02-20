@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OASE	RICHARD	D8642	1245309921D86	4325 GRAND AVE	DULUTH	MN

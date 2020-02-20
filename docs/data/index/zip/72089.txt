@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGUE	ROBERT	2553	1336280833255	101 NW 3RD ST	BRYANT	AR

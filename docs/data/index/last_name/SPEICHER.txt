@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPEICHER	KIRK	2815	1134265887281	2601 E ROOSEVELT ST	PHOENIX	AZ

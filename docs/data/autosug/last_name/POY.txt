@@ -1,0 +1,3 @@
+POY	1
+POYAK	1
+POYAN	1

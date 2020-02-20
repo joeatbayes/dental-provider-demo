@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROMANA	CHERYL	D11501	1053537522D11	4243 4TH AVE S	MINNEAPOLIS	MN

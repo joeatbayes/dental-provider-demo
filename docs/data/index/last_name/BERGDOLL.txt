@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGDOLL	ALLISON	12011061A	1013234640120	2121 E DUPONT RD	FORT WAYNE	IN

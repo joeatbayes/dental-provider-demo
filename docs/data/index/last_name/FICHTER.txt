@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FICHTER	MAURA	14401	1538256359144	1206 GULL RD	KALAMAZOO	MI

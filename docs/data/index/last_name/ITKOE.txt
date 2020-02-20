@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ITKOE	STEPHEN	3291	1548384993329	10181 N 92ND ST STE 102	SCOTTSDALE	AZ

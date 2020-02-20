@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TYSON	SUMMER	3680	1720242167368	620 SOUTHWEST DR	JONESBORO	AR

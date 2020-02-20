@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAGOUGH	K	DS3957	1194893883DS3	310 SANDERSON STREET	ALCOA	TN

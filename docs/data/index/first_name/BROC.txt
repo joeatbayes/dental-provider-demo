@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRIMHALL	BROC	1308	1386874113130	9170 JEWEL LAKE RD STE 201	ANCHORAGE	AK

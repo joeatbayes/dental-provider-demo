@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YUEN	WEI SUM	2901020049	1255560322290	181 W EMMETT ST	BATTLE CREEK	MI

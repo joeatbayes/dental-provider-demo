@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JERNELL	LISA	D8740	1548358914D87	1717 E 66TH ST	RICHFIELD	MN

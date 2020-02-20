@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHETTER	NORTH	2901010258	1225254105290	4103 10TH ST	MENOMINEE	MI

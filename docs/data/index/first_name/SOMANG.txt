@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	SOMANG	9589	1043758592958	5120 E HAMPTON AVE	MESA	AZ

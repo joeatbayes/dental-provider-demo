@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOIVISTO	TYLER	D13236	1588002430D13	1430 HIGHWAY 96	WHITE BEAR LAKE	MN

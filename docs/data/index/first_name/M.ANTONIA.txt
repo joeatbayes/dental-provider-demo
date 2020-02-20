@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AUSUM	M.ANTONIA	13291	1568518330132	519 W MAIN ST	MILAN	MI

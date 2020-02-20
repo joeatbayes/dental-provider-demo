@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARTLEY	MATTHEW	19075	1144325713190	1359 CHAMPAIGN	LINCOLN PARK	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACNAUGHTON	WILLIAM	4541	1447361068454	3406 ALDER AVE.	FORT WAINWRIGHT	AK

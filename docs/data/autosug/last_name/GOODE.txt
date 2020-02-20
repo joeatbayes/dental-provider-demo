@@ -1,0 +1,2 @@
+GOODE	3
+GOODELL	2

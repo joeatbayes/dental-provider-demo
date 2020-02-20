@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FISH	JEFFREY	D10663	1962468470D10	107 W MAIN ST	CROSBY	MN

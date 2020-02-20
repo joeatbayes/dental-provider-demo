@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUMMITT	JAMES	2269	1750410569226	830 N CREEK DR	CONWAY	AR

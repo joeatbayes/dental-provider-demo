@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALCOM	REX	1523	1255454815152	6611 DEBARR RD	ANCHORAGE	AK

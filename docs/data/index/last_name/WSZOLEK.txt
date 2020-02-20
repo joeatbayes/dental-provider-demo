@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WSZOLEK	EVA	D010415	1750937991D01	4252 N VERRADO WAY STE 105	BUCKEYE	AZ

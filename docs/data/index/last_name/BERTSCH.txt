@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERTSCH	JOSHUA	12013199A	1619537552120	12962 COLDWATER RD	FORT WAYNE	IN

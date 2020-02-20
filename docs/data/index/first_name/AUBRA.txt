@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WRATHER	AUBRA	DS001937	1508017591DS0	720 W. SHERROD AVE	COVINGTON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BELLAND	BLAKE	D13981	1811489909D13	4667 DAKOTA ST SE	PRIOR LAKE	MN

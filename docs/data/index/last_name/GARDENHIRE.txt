@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARDENHIRE	TOM	4020	1114042793402	6101 SHALLOWFORD RD	CHATTANOOGA	TN

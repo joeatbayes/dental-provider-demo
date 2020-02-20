@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MYLAN	VIRGIL	8250	1093875882825	4954 LINCOLN DR	EDINA	MN

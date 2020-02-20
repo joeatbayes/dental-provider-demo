@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIDGEWAY	ADAM	D12744	1992937577D12	2710 PIEDMONT AVE	DULUTH	MN

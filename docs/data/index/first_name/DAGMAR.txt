@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLON	DAGMAR	12009554	1457469611120	3012 N 1ST AVE	EVANSVILLE	IN

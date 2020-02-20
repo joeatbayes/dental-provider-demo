@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOCH-ELY	TERESA	2901016943	1609925791290	120 N MAIN ST	BELLEVUE	MI

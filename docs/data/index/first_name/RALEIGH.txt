@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEWMAN	RALEIGH	ME9776	1457493959ME9	540 N SPRUCE STREET	TRAVERSE CITY	MI

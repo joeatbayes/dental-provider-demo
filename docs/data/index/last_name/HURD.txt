@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HURD	HERMAN	2021	1356331359202	1513 COUNTRY CLUB RD	SHERWOOD	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KONECNIK	BRADLEY	7752	1396980231775	3601 S 6TH AVE	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLTHIRST	PAUL	DN012701	1700830999DN0	1060 GAFFNEY RD	FORT WAINWRIGHT	AK

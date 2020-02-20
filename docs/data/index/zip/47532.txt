@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHEPERS	GLEN	12007514A	1922003573120	223 W 10TH ST	FERDINAND	IN

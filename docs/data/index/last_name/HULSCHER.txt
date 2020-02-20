@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HULSCHER	BRUCE	14867	1376606269148	1881 N PONTIAC TRAIL	WALLED LAKE	MI

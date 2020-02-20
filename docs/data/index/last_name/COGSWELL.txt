@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COGSWELL	NATHANIEL	D13398	1225415896D13	2278 COMO AVE	SAINT PAUL	MN

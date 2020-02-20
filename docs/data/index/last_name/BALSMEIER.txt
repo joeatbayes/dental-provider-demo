@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALSMEIER	ROBERT	D8006	1558672659D80	1819 W DUNLAP AVE	PHOENIX	AZ

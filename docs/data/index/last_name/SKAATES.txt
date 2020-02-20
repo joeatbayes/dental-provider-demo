@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKAATES	CARLA	2901017707	1922046465290	1320 W RIDGE ST	MARQUETTE	MI

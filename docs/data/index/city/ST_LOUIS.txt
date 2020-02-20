@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOWE	GREG	2901013482	1396846234290	622 E. WASHINGTON AVE.	ST. LOUIS	MI

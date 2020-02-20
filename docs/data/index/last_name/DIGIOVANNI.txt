@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIGIOVANNI	RACHEL	D008892	1184040396D00	4105 E OAKLAND ST	GILBERT	AZ

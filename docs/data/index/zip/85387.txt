@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLDSMITH	DON	4378	1902866544437	19549 N CANYON WHISPER DR	SURPRISE	AZ

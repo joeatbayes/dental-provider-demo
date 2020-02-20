@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRILLIANDT	DAVID	12008553A	1780756676120	220 BLOOMINGDALE	BRISTOL	IN

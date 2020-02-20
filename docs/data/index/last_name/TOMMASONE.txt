@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMMASONE	ERIN	12012439A	1598121501120	1504 DENTAL DR	BEDFORD	IN

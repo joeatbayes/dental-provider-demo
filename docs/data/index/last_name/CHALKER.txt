@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHALKER	JENNIFER	D6207	1871567032D62	5310 W THUNDERBIRD	GLENDALE	AZ

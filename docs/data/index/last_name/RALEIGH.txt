@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RALEIGH	KAREN	8450	1942311063845	2165 WHITE BEAR AVE	MAPLEWOOD	MN

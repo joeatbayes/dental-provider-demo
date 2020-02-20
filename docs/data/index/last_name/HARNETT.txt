@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARNETT	GARRET	D1706	1295800472D17	18555 N 79TH AVE	GLENDALE	AZ

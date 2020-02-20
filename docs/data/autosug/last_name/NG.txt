@@ -1,0 +1,3 @@
+NGUYEN	50
+NGO	6
+NG	1

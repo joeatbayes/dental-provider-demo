@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARKINS	STEPHEN	D2775	1477599827D27	4781 E CAMP LOWELL DRIVE	TUCSON	AZ

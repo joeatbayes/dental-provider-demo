@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWANSON	ARIANNE	2901022040	1821542010290	430 MACK AVE	DETROIT	MI

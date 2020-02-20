@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNEIGHT	MARY	14303	1144252768143	31620 SCHOOLCRAFT RD	LIVONIA	MI

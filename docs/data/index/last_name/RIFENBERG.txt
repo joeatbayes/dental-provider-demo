@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIFENBERG	THOMAS	L96718	1225155708L96	128 S 1ST AVE	ALPENA	MI

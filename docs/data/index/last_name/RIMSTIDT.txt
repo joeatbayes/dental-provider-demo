@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIMSTIDT	ROBERT	6524	1376669937652	515 S WOODSCREST DR	BLOOMINGTON	IN

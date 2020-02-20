@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WENY	BRUCE	2901010503	1538238217290	255 WASHINGTON ST SE	GRAND RAPIDS	MI

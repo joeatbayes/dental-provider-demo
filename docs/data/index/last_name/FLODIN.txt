@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLODIN	PHILIP	8737	1184616005873	2850 CURVE CREST BLVD W	STILLWATER	MN

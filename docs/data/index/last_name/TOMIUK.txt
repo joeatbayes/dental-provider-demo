@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMIUK	JOHN	13523	1942356274135	1010 HOLLAND AVE	PORT HURON	MI

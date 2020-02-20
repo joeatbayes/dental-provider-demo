@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMILEY	COLETTE	14638	1528030962146	3299 CLEAR VISTA CT NE	GRAND RAPIDS	MI

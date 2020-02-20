@@ -1,0 +1,2 @@
+BANNO	1
+BANNOW	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINTNER	CARRIE	2901017903	1568486579290	200 TURWILL LN	KALAMAZOO	MI

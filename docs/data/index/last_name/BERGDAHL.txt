@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGDAHL	PATRICIA	575	1225043607575	4001 GEIST RD STE 5A	FAIRBANKS	AK

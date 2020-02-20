@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHILBERG	LYNNE	8735	1871509539873	4163 HAINES RD	HERMANTOWN	MN

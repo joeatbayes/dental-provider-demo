@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRASHEARS	CHELSEA	4348	1760041362434	3310 HIGHWAY 5 N	BRYANT	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUREN	CRAIG	10619	1104923267106	351 W NICOLLET BLVD	BURNSVILLE	MN

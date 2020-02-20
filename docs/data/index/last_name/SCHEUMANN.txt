@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHEUMANN	GARY	12007515A	1598879744120	1212 N MAIN ST	AUBURN	IN

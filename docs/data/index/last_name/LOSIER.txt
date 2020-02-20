@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOSIER	KURT	12011156A	1407014970120	720 E COLISEUM BLVD	FORT WAYNE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDVIK	BRADY	D13082	1831456789D13	303 MAIN ST NW	ELK RIVER	MN

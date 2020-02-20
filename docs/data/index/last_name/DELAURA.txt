@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELAURA	MICHAEL	2901012968	1558303446290	410 S. MAIN STREET	ROMEO	MI

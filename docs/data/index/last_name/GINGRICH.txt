@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GINGRICH	MARGARET	18836	1053343616188	106 CHESTNUT ST	BIG RAPIDS	MI

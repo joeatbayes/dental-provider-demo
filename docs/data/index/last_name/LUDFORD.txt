@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUDFORD	JOSHUA	4100	1467801233410	13600 DAVID O DODD RD	LITTLE ROCK	AR

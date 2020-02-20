@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROSE	VIRGINIA	N6543	1376551010N65	1950 W 86TH ST	INDIANAPOLIS	IN

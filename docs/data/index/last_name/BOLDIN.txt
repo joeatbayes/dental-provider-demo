@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOLDIN	DEAN	12008773	1316165434120	402 MARQUETTE ST	VALPARAISO	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARBARAWI	ALI	19029264	1427302983190	1200 ROBERT ST S	SAINT PAUL	MN

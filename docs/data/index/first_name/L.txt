@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	L	2005	1386650737200	8401 E 22ND ST	TUCSON	AZ

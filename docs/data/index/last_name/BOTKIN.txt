@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOTKIN	WAYNE	2444	1760563936244	9180 E. DESERT COVE DR.	SCOTTSDALE	AZ

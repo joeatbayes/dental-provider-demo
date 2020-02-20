@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAUWECKER	MICHAEL	3128	1952403750312	1720 E WARNER RD	TEMPE	AZ

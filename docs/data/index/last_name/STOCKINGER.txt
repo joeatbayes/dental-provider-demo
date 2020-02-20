@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOCKINGER	MATTHEW	11426	1740353846114	414 RAILWAY ST NW	LONSDALE	MN

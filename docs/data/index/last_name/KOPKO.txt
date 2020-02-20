@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPKO	GEORGE	12007159A	1902832470120	50 S STATE ROAD 135	BARGERSVILLE	IN

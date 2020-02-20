@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GELO	CHRISTINE	D13669	1679920805D13	501 3RD ST	INTERNATIONAL FALLS	MN

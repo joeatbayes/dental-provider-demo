@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHANCE	CHARLES	8522	1801012950852	520 S MAIN ST	SWEETWATER	TN

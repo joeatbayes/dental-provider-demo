@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOSTER	CLETIS	6495	1326242058649	3810 W 86TH STREET	INDPLS	IN

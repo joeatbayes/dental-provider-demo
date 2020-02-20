@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGRANAHAN	KEITH	310	1043603194310	1407 W 31ST ST.	ANCHORAGE	AK

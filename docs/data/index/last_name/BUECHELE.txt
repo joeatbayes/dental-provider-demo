@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUECHELE	KENNETH	D6196	1154696136D61	515 DELAWARE ST SE	MINNEAPOLIS	MN

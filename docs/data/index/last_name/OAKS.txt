@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OAKS	HAROLD	DS005021	1295991016DS0	501 NORTH MAIN STREET	CLINTON	TN

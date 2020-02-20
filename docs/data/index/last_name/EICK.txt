@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EICK	VIRGINIA	2901017163	1366480253290	10407 GRAND RIVER RD	BRIGHTON	MI

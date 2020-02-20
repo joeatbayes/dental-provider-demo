@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUNTROCK	BENJAMIN	D13140	1023372265D13	1106 W RIVER RD	DETROIT LAKES	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TERVOLA	STEPHEN	D8686	1265493159D86	3624 E LAKE ST	MINNEAPOLIS	MN

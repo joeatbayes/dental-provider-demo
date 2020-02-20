@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BADIE	SAEID	D4687	1154426203D46	718 N COUNTRY CLUB RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LALLA	ASHA	D12171	1528159456D12	3152 MINNEHAHA AVE	MINNEAPOLIS	MN

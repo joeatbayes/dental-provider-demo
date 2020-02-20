@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERNELL	BARRY	2121	1316113822212	14640 N TATUM BLVD	PHOENIX	AZ

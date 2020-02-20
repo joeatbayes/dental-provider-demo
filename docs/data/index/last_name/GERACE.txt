@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERACE	WILLIAM	529	1528268273529	1600 E TUDOR RD	ANCHORAGE	AK

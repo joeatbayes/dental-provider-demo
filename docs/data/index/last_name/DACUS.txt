@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DACUS	JONATHAN	2350	1952320681235	7522 HIGHWAY 107	SHERWOOD	AR

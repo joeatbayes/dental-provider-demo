@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUGENT	CARMEN	2937	1831263821293	1012 W POPLAR ST	ROGERS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STROH	AARON	D9538	1215380076D95	304 S REGENT ST STE 101	FLAGSTAFF	AZ

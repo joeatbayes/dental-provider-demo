@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORTES	DIANA	D009570	1811265879D00	5369 S CALLE SANTA CRUZ	TUCSON	AZ

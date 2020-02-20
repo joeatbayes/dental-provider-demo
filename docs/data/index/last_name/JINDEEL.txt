@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JINDEEL	LEILA	GD55	1144647314GD5	4325 GRAND AVE	DULUTH	MN

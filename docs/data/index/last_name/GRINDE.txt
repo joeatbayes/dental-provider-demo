@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRINDE	STEVEN	9790	1831215532979	12000 ELM CREEK BLVD N	MAPLE GROVE	MN

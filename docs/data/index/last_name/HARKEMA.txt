@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARKEMA	DAVID	2901017953	1710163597290	100 W SAGINAW HWY	GRAND LEDGE	MI

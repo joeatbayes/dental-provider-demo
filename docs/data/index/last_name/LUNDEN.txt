@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDEN	WALLACE	8483	1093767345848	1404 EAST 66TH STREET	RICHFIELD	MN

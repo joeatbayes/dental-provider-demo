@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PFEIFFER	GARRICK	D009735	1861920357D00	1860 S ALMA SCHOOL RD STE 5	CHANDLER	AZ

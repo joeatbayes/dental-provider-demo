@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORDSON	BRENT	9797	1841256435979	825 NICOLLET AVE	MINNEAPOLIS	MN

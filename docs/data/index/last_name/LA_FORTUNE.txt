@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LA FORTUNE	ROBERT	13635	1083750244136	11504 MIDDLEBELT RD	LIVONIA	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNEEL	RICHARD	3153	1346347671315	3394 N FUTRALL DR	FAYETTEVILLE	AR

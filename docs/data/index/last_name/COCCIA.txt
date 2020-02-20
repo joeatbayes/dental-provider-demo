@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COCCIA	CHESTER	8024	1992812911802	39400 GARFIELD RD	CLINTON TOWNSHIP	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHANNON-HARDRICT	JUNE	10863	1669492179108	1313 PENN AVE N	MINNEAPOLIS	MN

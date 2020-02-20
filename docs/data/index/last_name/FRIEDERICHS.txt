@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIEDERICHS	GEORGE	11432	1568678027114	315 ADAMS ST	SAINT CLAIR	MI

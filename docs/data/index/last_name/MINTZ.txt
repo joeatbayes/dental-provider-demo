@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINTZ	MICHAEL	12009136	1598848715120	934 RICHARD RD	DYER	IN

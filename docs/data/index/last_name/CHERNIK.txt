@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHERNIK	JERRY	AA#644	1134370364AA#	950 BOGARD RD.	WASILLA	AK

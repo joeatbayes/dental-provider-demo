@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUFFER	FREDERICK	10727	1205890159107	2730 5 MILE RD NE	GRAND RAPIDS	MI

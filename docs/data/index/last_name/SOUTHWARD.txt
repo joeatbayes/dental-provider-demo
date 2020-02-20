@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOUTHWARD	JUSTIN	12012755A	1316468317120	4041 PARNELL AVE	FORT WAYNE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GSCHWIND	SANDRA	2901015324	1851301402290	342 W SAINT CLAIR ST	MARINE CITY	MI

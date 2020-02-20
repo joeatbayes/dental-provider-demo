@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	LARISA	D009078	1760884001D00	1705 W MAIN ST	MESA	AZ

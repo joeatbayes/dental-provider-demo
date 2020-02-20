@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAKSA	STEPHEN	9008	1225146855900	4801 HIGHWAY 61 N	WHITE BEAR LAKE	MN

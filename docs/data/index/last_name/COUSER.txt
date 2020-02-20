@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COUSER	BLAINE	6257	1417077918625	4540 E BASELINE RD	MESA	AZ

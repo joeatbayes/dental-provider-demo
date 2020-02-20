@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHNEPF	R	12010464A	1518031590120	423 N BROAD ST	GRIFFITH	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIES	GEORGE	12005484A	1801022371120	901 SOUTH BRANSON ST.	MARION	IN

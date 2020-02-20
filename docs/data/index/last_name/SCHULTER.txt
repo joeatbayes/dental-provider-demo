@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULTER	CARL	DS3113	1134128192DS3	795 RIDGE LAKE BLVD	MEMPHIS	TN

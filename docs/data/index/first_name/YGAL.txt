@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EHRLICH	YGAL	98000528A	1881900694980	1121 W MICHIGAN ST	INDIANAPOLIS	IN

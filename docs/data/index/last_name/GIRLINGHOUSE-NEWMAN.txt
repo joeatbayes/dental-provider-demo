@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIRLINGHOUSE-NEWMAN	DEBRA	2405	1053473553240	8700 S 36TH TER	FORT SMITH	AR

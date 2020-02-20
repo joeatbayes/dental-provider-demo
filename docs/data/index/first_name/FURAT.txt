@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEORGE	FURAT	2901019637	1174716906290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

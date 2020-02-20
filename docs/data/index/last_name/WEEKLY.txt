@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEEKLY	CARLOS	D2790	1881012755D27	1305 EAST BUTTE	FLORENCE	AZ

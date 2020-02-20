@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATINIS	JAMES	16106	1619021821161	39990 GARFIELD RD	CLINTON TWP	MI

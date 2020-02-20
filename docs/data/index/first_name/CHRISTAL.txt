@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL	CHRISTAL	8642	1861603516864	2845 N HOUSTON LEVEE RD	CORDOVA	TN

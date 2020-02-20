@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MITTELSTEADT	JOHN	9922	1649371063992	4555 ERIN DR	EAGAN	MN

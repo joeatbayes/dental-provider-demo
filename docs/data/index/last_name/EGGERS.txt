@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EGGERS	HENRY	30019029	1992195424300	12751 IVAN TRL	MIDDLEVILLE	MI

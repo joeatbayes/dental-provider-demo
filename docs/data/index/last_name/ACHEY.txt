@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ACHEY	ELIAS	19459	1962658054194	116 W COLBY ST	WHITEHALL	MI

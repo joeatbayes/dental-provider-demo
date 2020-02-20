@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIXON	JESSIE	6698	1780065060669	944 21ST AVE N APT 909	NASHVILLE	TN

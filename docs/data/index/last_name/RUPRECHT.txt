@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUPRECHT	THOMAS	2901012149	1750361507290	2333 US HWY 41 SOUTH	MARQUETTE	MI

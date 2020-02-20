@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCALISTER	T. KERRY	AR2586	1538288907AR2	945 N GASKILL ST	HUNTSVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINCAID	MICHAEL	3170	1235210857317	4212 N 16TH ST	PHOENIX	AZ

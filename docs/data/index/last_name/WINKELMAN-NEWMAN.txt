@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINKELMAN-NEWMAN	CHERI	CN017502	1750504429CN0	11843 E 13 MILE RD	WARREN	MI

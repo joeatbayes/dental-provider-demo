@@ -1,0 +1,2 @@
+COYNE	3
+COYRO	1

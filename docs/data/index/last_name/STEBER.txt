@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEBER	MICHAEL	13008	1316041619130	174 N RIPLEY BLVD	ALPENA	MI

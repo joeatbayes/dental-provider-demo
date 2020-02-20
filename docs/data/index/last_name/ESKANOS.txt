@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESKANOS	KEITH	6419	1821024449641	3103 CLEARWATER DR	PRESCOTT	AZ

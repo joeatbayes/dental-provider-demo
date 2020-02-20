@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINGER	CHERYLE	8706	1336565175870	500 INDIANA AVE	WINSLOW	AZ

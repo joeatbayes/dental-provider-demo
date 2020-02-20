@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LE	MAI-TRINH	D11581	1679632533D11	4959 EXCELSIOR BLVD	ST LOUIS PARK	MN

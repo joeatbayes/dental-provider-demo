@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TALBERG	MICHAEL	D13816	1740717271D13	20 5TH ST SE	COOK	MN

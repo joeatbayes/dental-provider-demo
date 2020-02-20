@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEURA	RICHARD	RP010017	1083829725RP0	708 CHIPPEWA SQ	MARQUETTE	MI

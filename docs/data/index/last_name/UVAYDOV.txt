@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UVAYDOV	SARAH	1447618293	1447618293520	7111 E TANQUE VERDE RD	TUCSON	AZ

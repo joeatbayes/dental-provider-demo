@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIMAGGIO	PAUL	2822	1164598926282	1757 E BASELINE RD	GILBERT	AZ

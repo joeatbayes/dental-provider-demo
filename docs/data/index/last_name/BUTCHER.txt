@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUTCHER	MICHAEL	AZ2923	1962528927AZ2	1101 W 16TH ST	YUMA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAUL	LINCY	D12947	1134415813D12	1680 SUBURBAN AVE	SAINT PAUL	MN

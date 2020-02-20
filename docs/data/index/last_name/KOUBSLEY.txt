@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOUBSLEY	ROBERT	MN 8778	1528167236MN8	3400 1ST ST N	ST CLOUD	MN

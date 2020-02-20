@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AUBERTIN	MARY	DS7958	1295821411DS7	910 MADISON AVE	MEMPHIS	TN

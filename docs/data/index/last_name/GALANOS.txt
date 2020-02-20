@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALANOS	WILLIAM	12008902	1316011646120	500 WEST 81ST AVE	MERRILLVILLE	IN

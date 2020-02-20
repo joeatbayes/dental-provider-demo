@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEDLICKA	GEORGE	1106	1790898898110	44604 STERLING HWY #D	SOLDOTNA	AK

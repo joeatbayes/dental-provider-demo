@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCKINNEY	SEWELL	DS964	1972513943DS9	843 MOUNT MORIAH RD	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UPDIKE	SPENCER	7734711	1740419811773	18775 N REEMS RD STE 300C	SURPRISE	AZ

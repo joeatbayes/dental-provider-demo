@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMILANICH	MICHAEL	D9510	1639373285D95	11231 AQUILA DR N	CHAMPLIN	MN

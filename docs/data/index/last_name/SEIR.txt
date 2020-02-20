@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEIR	RICARDO	17080	1124044557170	36444 WARREN RD	WESTLAND	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALSH	ANJANETTE	1942869953	1942869953907	7000 UULA STREET	BARROW	AK

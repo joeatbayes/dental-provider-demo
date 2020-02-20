@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AL KUBAISI	GHAZWAN	D14196	1154987915D14	964 LYNN RD SW	HUTCHINSON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SARTINI	ANTOINETTE	12997799A	1154419927129	845 MAIN STREET NE	PALMYRA	IN

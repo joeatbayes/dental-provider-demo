@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIRBEL	CASSANDRA	D12892	1477985927D12	7729 79TH ST S	COTTAGE GROVE	MN

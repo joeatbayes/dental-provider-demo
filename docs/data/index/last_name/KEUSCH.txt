@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KEUSCH	LUKE	12011481A	1639480502120	439 E CHESTNUT ST	CORYDON	IN

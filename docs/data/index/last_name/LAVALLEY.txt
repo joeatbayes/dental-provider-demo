@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAVALLEY	SAMUEL	2901012364	1437164860290	1520 10TH ST	MENOMINEE	MI

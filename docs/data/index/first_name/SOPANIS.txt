@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHO	SOPANIS	12010540A	1871626242120	6202 EVANSTON AVE	INDIANAPOLIS	IN

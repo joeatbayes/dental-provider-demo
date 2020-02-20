@@ -1,0 +1,2 @@
+RIPLEY	3
+RIPPY	1

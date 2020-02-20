@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INMAN	THOMAS	2678	1942414461267	513 N WILLIAMS	CARLISLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SNYDER	MARYELLEN	12009783	1932394194120	70 E 91ST ST	INDIANAPOLIS	IN

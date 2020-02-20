@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEAL	JOSHUA	19.026579	148782942019.	300 E 3RD ST	LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HECKLEY	DIANE	12009390C	1134293483120	1510 I ST	BEDFORD	IN

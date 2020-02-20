@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLE WILKINSON	SANDRA	9419	1821087354941	1590 HASTINGS AVE	NEWPORT	MN

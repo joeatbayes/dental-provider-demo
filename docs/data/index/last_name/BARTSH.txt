@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTSH	JOHN	8919	1932181666891	6101 NICOLLET AVE	MINNEAPOLIS	MN

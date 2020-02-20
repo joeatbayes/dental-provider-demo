@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KASPOR	ALBERT	2901012194	1144381252290	2950 E HIGHLAND RD	HIGHLAND	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOLER	MAYRA	10568	1962460337105	1313 PENN AVE N	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORE	EUCLID	DS2610	1982683785DS2	1314 WEST MAIN ST	LEBANON	TN

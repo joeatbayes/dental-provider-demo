@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERPOOL	CHARLES	D2521	1811158876D25	HWY 264 AND JUNCTION 191 S	GANADO	AZ

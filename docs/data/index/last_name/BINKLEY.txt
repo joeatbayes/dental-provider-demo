@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BINKLEY	LESLEY	2627	1356470835262	6268 POPLAR AVE	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COATS	JOSHUA	6703	1770965022670	1717 W COWLES ST	FAIRBANKS	AK

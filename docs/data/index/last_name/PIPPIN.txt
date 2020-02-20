@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIPPIN	WILLIAM	DS3981	1801823414DS3	1106 GLENNHILL LN	SEVIERVILLE	TN

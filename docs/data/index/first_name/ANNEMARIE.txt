@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BENAGE	ANNEMARIE	1470	1356688501147	4501 E SNIDER DR	WASILLA	AK

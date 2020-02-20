@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLAGLE	WILLIAM	2429	1437221553242	910 MADISON AVE	MEMPHIS	TN

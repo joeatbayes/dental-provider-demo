@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOSEK	JOSEPH	1952481871	1952481871520	7900 S J STOCK RD	TUCSON	AZ

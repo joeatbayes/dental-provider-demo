@@ -1,0 +1,2 @@
+MAGRAW	1
+MAGRI	1

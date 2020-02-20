@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OMER	YASMIN	D14236	1366004285D14	4080 W BROADWAY AVE STE 300	ROBBINSDALE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TSCHUDY	JOHN	2901008353	1104033067290	209 RIVER ST	ELK RAPIDS	MI

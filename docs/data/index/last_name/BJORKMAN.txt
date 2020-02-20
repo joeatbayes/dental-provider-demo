@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BJORKMAN	ROBERT	D7661	1306885546D76	625 E NICOLLET BLVD	BURNSVILLE	MN

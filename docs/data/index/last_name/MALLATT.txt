@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALLATT	MARK	12007363	1982986493120	1753 ESTHER CT	PLAINFIELD	IN

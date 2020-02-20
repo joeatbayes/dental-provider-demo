@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLOMPARENS	ROBERT	12095	1104914241120	810 W WACKERLY ST	MIDLAND	MI

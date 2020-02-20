@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERSTER	JORDAN	2901020234	1770895716290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

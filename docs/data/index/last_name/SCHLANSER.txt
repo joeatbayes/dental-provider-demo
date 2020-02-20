@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLANSER	ERIC	DD1149	1043228315DD1	3019 COIT AVE NE	GRAND RAPIDS	MI

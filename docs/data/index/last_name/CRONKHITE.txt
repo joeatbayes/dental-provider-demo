@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRONKHITE	JOHN	12010734A	1902924673120	3667 BRADDOCK DR	LAFAYETTE	IN

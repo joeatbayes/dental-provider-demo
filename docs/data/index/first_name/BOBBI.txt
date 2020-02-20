@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	BOBBI	8199	1851381677819	3926 GALLATIN PIKE	NASHVILLE	TN

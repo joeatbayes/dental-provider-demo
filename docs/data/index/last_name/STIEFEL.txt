@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIEFEL	CARL	DS0000000954	1205057650DS0	2206 W CLINCH AVE	KNOXVILLE	TN

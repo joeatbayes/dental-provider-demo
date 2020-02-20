@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINTALAR	ERIC	D10553	1447396759D10	3220 COUNTY ROAD 10	BROOKLYN CENTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KENDERA	CODY	D14231	1912433988D14	606 24TH AVE S	MINNEAPOLIS	MN

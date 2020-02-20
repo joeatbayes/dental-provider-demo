@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASCIA	PATRICK	7225	1891756631722	411 MAIN ST	SAINT PAUL	MN

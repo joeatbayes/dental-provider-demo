@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALLACE	LESLIE	8973	1629301833897	103 PHYSICIANS WAY	LEBANON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIGOS	ERICA	DN16541	1700940129DN1	42104 N. VENTURE DRIVE	ANTHEM	AZ

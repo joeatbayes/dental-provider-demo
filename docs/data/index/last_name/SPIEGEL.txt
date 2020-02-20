@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPIEGEL	JAY	1316136047	1316136047602	4235 W THUNDERBIRD RD	PHOENIX	AZ

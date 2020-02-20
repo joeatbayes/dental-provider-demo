@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADDATZ	LEE	AZ1421	1942588710AZ1	1277 E MISSOURI AVE	PHOENIX	AZ

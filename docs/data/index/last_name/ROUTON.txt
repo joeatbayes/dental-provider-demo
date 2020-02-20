@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROUTON	JULIE	3677	1720240591367	5125 JFK BLVD	NORTH LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWANTEK	PHILLIP	2901022807	1871073619290	2850 US 41 W	MARQUETTE	MI

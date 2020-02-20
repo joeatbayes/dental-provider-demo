@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWINDT	LAURA	D11211	1477751816D11	3622 MOBERG DRIVE	BEMIDJI	MN

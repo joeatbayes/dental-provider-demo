@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLISKY	CLARENCE	D5214	1245291533D52	3200 E CAMELBACK RD STE 182	PHOENIX	AZ

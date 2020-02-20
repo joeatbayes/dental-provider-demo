@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUINSMA	JOHN	29011013583	1114106994290	1726 LEONARD ST NE	GRAND RAPIDS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDMUNDS	ROBERT	9049	1669522637904	11464 ROBINSON DR NW	COON RAPIDS	MN

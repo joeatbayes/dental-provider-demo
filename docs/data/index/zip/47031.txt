@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARLOW	LARRY	12007215	1720194467120	301 NORTH WARPATH DR	MILAN	IN

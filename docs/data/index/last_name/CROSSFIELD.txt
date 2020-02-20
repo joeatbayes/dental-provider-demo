@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROSSFIELD	BRADLEY	3923	1326487737392	1001 S BOWMAN ROAD	LITTLE ROCK	AR

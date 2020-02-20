@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAPOTA	DAIANA	2901022708	1043705171290	1725 E SHERMAN BLVD	MUSKEGON	MI

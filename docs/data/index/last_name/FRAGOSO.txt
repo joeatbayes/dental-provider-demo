@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRAGOSO	MARIO	D4412	1770584369D44	1100 F AVE	DOUGLAS	AZ

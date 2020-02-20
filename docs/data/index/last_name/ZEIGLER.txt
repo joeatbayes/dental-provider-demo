@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZEIGLER	CHRISTINA	13354	1245340199133	167 N. MAIN ST	TUBA CITY	AZ

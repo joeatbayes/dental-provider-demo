@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EHRESMANN	JOHN	D8879	1972679066D88	2011 JEFFERSON RD	NORTHFIELD	MN

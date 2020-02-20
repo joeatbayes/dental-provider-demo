@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLIPSE	ANDREW	10134	1457729774101	1110 W CLARK BLVD	MURFREESBORO	TN

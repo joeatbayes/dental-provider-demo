@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FIELDEN	GARY	DS2872	1467412346DS2	1205 N WILCOX DR	KINGSPORT	TN

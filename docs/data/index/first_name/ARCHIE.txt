@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERTRAND	ARCHIE	D50000008267	1497769699D50	617 S 8TH ST	NASHVILLE	TN

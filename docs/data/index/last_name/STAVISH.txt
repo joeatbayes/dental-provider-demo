@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAVISH	DAWN	D13185	1528063955D13	309 HOLLY LN	MANKATO	MN

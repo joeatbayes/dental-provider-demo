@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUCHANE	JENNIFER	12009854	1174704860120	3315 S 7TH ST	TERRE HAUTE	IN

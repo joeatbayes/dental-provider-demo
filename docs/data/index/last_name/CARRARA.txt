@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARRARA	ALEXA	D5847	1801857180D58	3320 N CAMPBELL AVE STE 100	TUCSON	AZ

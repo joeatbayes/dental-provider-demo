@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OUDIN	JONATHAN	25644	1427337732256	1296 AGVIK ST.	BARROW	AK

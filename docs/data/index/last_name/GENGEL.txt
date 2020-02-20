@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GENGEL	NICOLETTE	D14088	1962939546D14	1384 109TH AVE NE STE 200	BLAINE	MN

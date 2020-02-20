@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIPPENGER	GARY	12006740	1568481950120	1005 E LASALLE AVE	SOUTH BEND	IN

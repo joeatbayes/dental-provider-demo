@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMOLARZ	JOSEPH	15704	1508044256157	211 S SWAN ST	COLON	MI

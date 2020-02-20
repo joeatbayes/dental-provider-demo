@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ODOWA	NIMA	D14186	1164086807D14	2001 BLOOMINGTON AVE	MINNEAPOLIS	MN

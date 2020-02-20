@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUSS	JOSEPH	D11558	1033253984D11	7136 UNIVERSITY AVE NE	FRIDLEY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIBBY	AMBER	DN 20590	1427461276DN2	IHS (KAYENTA SERVICE UNIT)	KAYENTA	AZ

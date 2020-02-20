@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADKISON	BRIAN	7498	1326137035749	125 S COLLEGE ST	LEBANON	TN

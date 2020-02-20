@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANGAL	ANU	2901017261	1235175514290	3939 17 MILE RD	STERLING HEIGHTS	MI

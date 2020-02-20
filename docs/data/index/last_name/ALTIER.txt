@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALTIER	FRANK	DS030159L	1588754949DS0	5329 S TATUM LN	GILBERT	AZ

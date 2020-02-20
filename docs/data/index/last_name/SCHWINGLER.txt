@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWINGLER	RACHEL	D12533	1497914220D12	2633 SUPERIOR DR NW	ROCHESTER	MN

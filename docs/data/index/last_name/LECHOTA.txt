@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LECHOTA	DANIEL	12964	1487624698129	G2037 S CENTER RD	BURTON	MI

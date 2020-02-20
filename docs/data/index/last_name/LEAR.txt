@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEAR	LISA	4157	1083667026415	6367 E TANQUE VERDE	TUCSON	AZ

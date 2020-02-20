@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEATHERFORD	MARY	3649	1881852499364	620 JULIA AVE E	WYNNE	AR

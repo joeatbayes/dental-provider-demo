@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KICKERTZ	KATIE	19029261	1992934418190	15785 95TH AVE N	MAPLE GROVE	MN

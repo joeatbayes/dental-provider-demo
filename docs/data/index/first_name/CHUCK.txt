@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAUFFMAN	CHUCK	2368	1770508491236	305 GRAHAM ST	FORDYCE	AR

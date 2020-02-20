@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANTHONY	DELAINE	4488	1013902451448	2181 E WARNER RD	TEMPE	AZ

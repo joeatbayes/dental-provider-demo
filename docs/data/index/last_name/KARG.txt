@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARG	BRUCE	9667	1356409577966	18 OAK AVENUE NORTH	ANNANDALE	MN

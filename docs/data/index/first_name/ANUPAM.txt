@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GATECHA	ANUPAM	D12203	1164601324D12	8511 JEFFERSON LN N	BROOKLYN PARK	MN

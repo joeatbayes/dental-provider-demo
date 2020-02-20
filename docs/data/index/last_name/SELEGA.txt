@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SELEGA	FRANK	11219	1568639862112	508 N BIRCH ST	KALKASKA	MI

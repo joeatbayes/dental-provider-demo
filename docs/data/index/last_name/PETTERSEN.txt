@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PETTERSEN	ERIC	3089	1710903299308	522 W FINNIE FLATS RD	CAMP VERDE	AZ

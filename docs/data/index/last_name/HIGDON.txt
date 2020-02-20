@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIGDON	MARY	3973	1316990526397	35 E MAIN ST	MUNFORD	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LECY	GREGORY	D9361	1023194107D93	513 JEWETT ST	MARSHALL	MN

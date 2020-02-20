@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENNARTSON	DUANE	8240	1518919315824	1414 S OAK AVE	OWATONNA	MN

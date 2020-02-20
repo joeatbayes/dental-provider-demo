@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARCHER	ROBERT	DS2002	1700203007DS2	631 S MOUNT JULIET RD	MOUNT JULIET	TN

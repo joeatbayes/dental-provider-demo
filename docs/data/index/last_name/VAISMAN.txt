@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAISMAN	MONICA	18148	1417094483181	424 E MONROE ST	DUNDEE	MI

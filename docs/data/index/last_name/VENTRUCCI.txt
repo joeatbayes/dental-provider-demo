@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VENTRUCCI	KEVIN	8835	1588622799883	7373 147TH ST W	APPLE VALLEY	MN

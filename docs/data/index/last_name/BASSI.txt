@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASSI	PARIDHI	10350	1548716244103	1419 PARKWAY	SEVIERVILLE	TN

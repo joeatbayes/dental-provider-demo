@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARINHO	VANESSA	5823	1528097516582	17250 N 43RD AVE	GLENDALE	AZ

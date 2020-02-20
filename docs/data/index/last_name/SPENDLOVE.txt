@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPENDLOVE	JACOB	D8746	1871931782D87	713 N BEAVER ST	FLAGSTAFF	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN METER	DENNIS	7349	1780790477734	225 MAIN ST	DAYTON	TN

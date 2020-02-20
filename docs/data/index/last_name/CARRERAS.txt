@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARRERAS	DENNIS	D10920	1104932870D10	140 TWIN RIVERS CT	SARTELL	MN

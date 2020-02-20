@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMMERMAN	STEVEN	DS4686	1356497861DS4	1707 KIRBY PARKWAY	MEMPHIS	TN

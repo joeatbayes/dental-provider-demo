@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALSEMA	NANCY	12007944A	1043363971120	3965 W 106TH ST	CARMEL	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRUSCKE	MICHAEL	2901015825	1780743708290	601 N MAIN ST	MOUNT PLEASANT	MI

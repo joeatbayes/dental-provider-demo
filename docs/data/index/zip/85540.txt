@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUNCY	GERALD	1177	1205997301117	MORENCI SHOPPING CENTER	MORENCI	AZ

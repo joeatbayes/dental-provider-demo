@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PERRAULT	JENNIFER	D13514	1902286842D13	201 E 6TH ST	MORRIS	MN

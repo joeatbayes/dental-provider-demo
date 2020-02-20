@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SENTIERE	WILLIAM	1200 8993	1730205121120	3925 HAGAN ST	BLOOMINGTON	IN

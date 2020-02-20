@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDGERLE	DEFOE	15945	1174684120159	751 KENMOOR AVE SE	GRAND RAPIDS	MI

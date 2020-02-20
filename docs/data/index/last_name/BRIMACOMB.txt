@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRIMACOMB	RICHARD	7291	1124162805729	8900 PENN AVE SO	BLOOMINGTON	MN

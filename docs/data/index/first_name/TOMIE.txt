@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCALL	TOMIE	2509	1942352596250	721 EAST 21ST STREET	LITTLE ROCK	AR

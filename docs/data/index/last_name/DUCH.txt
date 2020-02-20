@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUCH	MICHAEL	12006936A	1851508501120	15903 BAYVIEW BLVD	GRABILL	IN

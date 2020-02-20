@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLOGIN	CRAIG	13580	1558570341135	2715 PACKARD ST	ANN ARBOR	MI

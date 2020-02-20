@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JURAND	JERRY	DS0000001719	1942324553DS0	7 S HIGHLAND ST	MEMPHIS	TN

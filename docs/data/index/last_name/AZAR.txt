@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AZAR	ALI	124115	1750802104124	1136 N MULDOON RD	ANCHORAGE	AK

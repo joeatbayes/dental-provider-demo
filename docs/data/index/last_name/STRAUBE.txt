@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAUBE	JOHN	481	1417096579481	2906 BONIFACE PKWY	ANCHORAGE	AK

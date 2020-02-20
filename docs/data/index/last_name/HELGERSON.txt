@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HELGERSON	AMANDA	D14211	1346807666D14	16372 KENRICK AVE	LAKEVILLE	MN

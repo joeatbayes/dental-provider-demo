@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATTERSON	ELLSWORTH	721	1235218025721	240 W OSBORN RD	PHOENIX	AZ

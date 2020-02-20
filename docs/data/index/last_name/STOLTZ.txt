@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOLTZ	MICHAEL	745	1417074618745	3112 AIRPORT WAY	FAIRBANKS	AK

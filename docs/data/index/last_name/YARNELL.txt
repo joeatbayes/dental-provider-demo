@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YARNELL	SARAH	4154	1396056545415	1803 WOODSPRINGS RD	JONESBORO	AR

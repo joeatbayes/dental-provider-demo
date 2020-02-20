@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAISDEN	MICHAEL	D11391	1821362005D11	515 DELAWARE ST SE	MINNEAPOLIS	MN

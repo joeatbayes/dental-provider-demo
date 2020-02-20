@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PORATH	NATHAN	D12828	1487965729D12	412 HERITAGE PL	FARIBAULT	MN

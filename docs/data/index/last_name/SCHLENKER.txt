@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLENKER	DAVID	16092	1417906298160	3406 ALDER AVE	FORT WAINWRIGHT	AK

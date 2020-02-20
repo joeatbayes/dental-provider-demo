@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORDTVEDT	THOMAS	378	1063593671378	1621 TONGASS AVE	KETCHIKAN	AK

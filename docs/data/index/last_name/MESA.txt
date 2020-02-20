@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MESA	FRANCISCO	D12189	1811091317D12	2036 ROBERT ST S	WEST SAINT PAUL	MN

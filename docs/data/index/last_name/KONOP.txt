@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KONOP	JULIE	D11257	1700993284D11	2690 SNELLING AVE N	ROSEVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOCTORA	JOSEPH	DS7268	1780681098DS7	366 S LOWRY ST	SMYRNA	TN

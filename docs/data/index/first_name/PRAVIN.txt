@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ATURALIYA	PRAVIN	D10835	1003918038D10	925 E. SUPERIOR ST. #101	DULUTH	MN

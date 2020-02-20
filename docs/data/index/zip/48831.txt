@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRANGE	ROBERT	2901013517	1083708911290	108 E MAIN STREET	ELSIE	MI

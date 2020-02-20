@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEAREN	STACY	D12393	1316144603D12	2418 ENTERPRISE DR	MENDOTA HEIGHTS	MN

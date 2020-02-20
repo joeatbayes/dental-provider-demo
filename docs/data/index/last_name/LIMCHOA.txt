@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIMCHOA	JENNY	30196	1982080131301	200 1ST ST SW	ROCHESTER	MN

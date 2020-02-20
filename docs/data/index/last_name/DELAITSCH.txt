@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELAITSCH	ALAN	8950	1780764001895	605 HILLCREST AVE	OWATONNA	MN

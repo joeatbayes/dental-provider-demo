@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLINK	GALYNA	32343	1346594462323	1100 F AVE	DOUGLAS	AZ

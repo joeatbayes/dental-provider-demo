@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAWRENCE	BRADNER	D4597	1194924969D45	12610 WEST SILVERBELL RD	MARANA	AZ

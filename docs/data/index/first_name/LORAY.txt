@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPENCER	LORAY	8321	1023271921832	1035 14TH AVE N	NASHVILLE	TN

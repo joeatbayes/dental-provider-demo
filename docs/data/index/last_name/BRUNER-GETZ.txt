@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUNER-GETZ	DARLENE	16761	1598711939167	213 N PAW PAW ST	COLOMA	MI

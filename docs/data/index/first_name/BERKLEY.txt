@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL	BERKLEY	D7814	1841429354D78	631 W VALENCIA RD	TUCSON	AZ

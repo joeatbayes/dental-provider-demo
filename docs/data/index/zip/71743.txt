@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAPPS	WILLIAM	1972	1457417784197	305 E WALNUT ST	GURDON	AR

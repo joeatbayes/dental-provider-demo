@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WORTHY	ARTMAS	DS2873	1528044914DS2	1700 DB TODD BLVD	NASHVILLE	TN

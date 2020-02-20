@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NECHAY	KATERYNA	D14175	1225695893D14	107 12TH ST SW STE 2	FOREST LAKE	MN

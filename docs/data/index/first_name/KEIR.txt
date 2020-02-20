@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOWNSEND	KEIR	9354	1366563553935	601 N VICTORY DR	MANKATO	MN

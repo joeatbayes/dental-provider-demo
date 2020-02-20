@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAMERON	ROSEANN	6384	1770847642638	1717 WEST COWLES STREET	FAIRBANKS	AK

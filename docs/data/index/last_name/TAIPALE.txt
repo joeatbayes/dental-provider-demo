@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAIPALE	JOHN	2901010492	1336235605290	1500 WEISS ST	SAGINAW	MI

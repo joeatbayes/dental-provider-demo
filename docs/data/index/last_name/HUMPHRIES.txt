@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUMPHRIES	ROBERT	2901014093	1912069204290	3801 GLENKERRY CT	PORTAGE	MI

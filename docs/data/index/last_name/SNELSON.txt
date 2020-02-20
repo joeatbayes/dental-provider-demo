@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SNELSON	STEPHANIE	7359	1366426785735	1522 EDGEMONT AVE	BRISTOL	TN

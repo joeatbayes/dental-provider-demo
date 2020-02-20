@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DORLAND	SHANA	2901021675	1861871436290	2308 WADSWORTH AVE	SAGINAW	MI

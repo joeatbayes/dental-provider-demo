@@ -1,0 +1,2 @@
+KODIAK	10
+KODAK	3

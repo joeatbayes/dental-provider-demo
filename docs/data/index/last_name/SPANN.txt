@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPANN	CURTIS	10738	1306280680107	3250 N PINAL PKWY	FLORENCE	AZ

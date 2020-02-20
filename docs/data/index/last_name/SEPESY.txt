@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEPESY	TRACEY	2901014536	1497778880290	910 EASTLAWN DR	MIDLAND	MI

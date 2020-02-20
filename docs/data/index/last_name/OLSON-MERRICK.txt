@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLSON-MERRICK	KYLE	D14228	1417515339D14	320 W MYRTLE ST	DULUTH	MN

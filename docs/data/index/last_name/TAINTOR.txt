@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAINTOR	JERRY	4888	1649292582488	5370 ESTATE OFFICE DR # 2	MEMPHIS	TN

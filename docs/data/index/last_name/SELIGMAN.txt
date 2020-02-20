@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SELIGMAN	GEORGE	11122	1164623732111	33200 W 14 MILE RD	W BLOOMFIELD	MI

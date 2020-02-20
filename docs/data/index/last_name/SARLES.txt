@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SARLES	STEVEN	D13230	1780025221D13	1537 E 66TH ST	RICHFIELD	MN

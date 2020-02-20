@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BETTNER	MICHAEL	12010800A	1699809723120	801 N MAIN STREET	LAPEL	IN

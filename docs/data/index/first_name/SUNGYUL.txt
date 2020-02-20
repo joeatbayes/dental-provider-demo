@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	SUNGYUL	7096	1447301619709	10750 W MCDOWELL RD # D-410	AVONDALE	AZ

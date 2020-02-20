@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ATCHISON	ANDREW	D12404	1992908255D12	2121 HIGHWAY 10 E	MOORHEAD	MN

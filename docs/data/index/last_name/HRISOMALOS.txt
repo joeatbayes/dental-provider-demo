@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HRISOMALOS	KAREN	1200870	1841351814120	312 S SWAIN AVENUE	BLOOMINGTON	IN

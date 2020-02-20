@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORLOCK	FREDERICK	7930	1982711511793	205 WABASHA ST S	ST PAUL	MN

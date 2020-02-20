@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITHROW	JOHN	D11398	1407915432D11	8650 HUDSON BLVD N	LAKE ELMO	MN

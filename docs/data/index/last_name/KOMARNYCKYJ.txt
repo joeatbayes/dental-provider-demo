@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOMARNYCKYJ	OREST	D2707	1871714741D27	1277 E MISSOURI AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEID	ASHLEY	7812	1396977880781	500 N ESTRELLA PKWY	GOODYEAR	AZ

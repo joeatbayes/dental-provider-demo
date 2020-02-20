@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STODDARD	ROGER	9946	1144314865994	1524 WHITE BEAR AVENUE NORTH	ST PAUL	MN

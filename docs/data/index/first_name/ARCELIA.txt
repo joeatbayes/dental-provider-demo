@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GONZALEZ	ARCELIA	6999	1609899798699	865 N ARIZOLA RD	CASA GRANDE	AZ

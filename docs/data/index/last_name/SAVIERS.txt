@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAVIERS	JAMES	2333	1750390845233	400 S 18TH ST	FORT SMITH	AR

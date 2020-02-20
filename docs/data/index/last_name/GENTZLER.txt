@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GENTZLER	RICHARD	7882	1801903067788	106 BABB DR	LEBANON	TN

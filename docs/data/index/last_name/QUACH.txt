@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUACH	THANH	12010185	1144264409120	650 N GIRLS SCHOOL RD	INDIANAPOLIS	IN

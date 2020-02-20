@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUMKE	BRUCE	10009	1285610022100	430 S BROAD ST	MANKATO	MN

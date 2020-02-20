@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEAD	CHARLES	3223	1164546750322	101 RIVERIA DR	LAKE HAVASU	AZ

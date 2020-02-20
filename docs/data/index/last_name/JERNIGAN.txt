@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JERNIGAN	HUGH	8675	1407191935867	2418 E DESERT COVE AVE	PHOENIX	AZ

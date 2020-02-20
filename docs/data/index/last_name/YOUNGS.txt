@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUNGS	RICHARD	12867	1831305986128	133 E MAPLE AVE	ADRIAN	MI

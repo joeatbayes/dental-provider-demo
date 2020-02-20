@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STECKER	SHELLY	D11462	1336119650D11	828 HAWTHORNE ST E	SAINT PAUL	MN

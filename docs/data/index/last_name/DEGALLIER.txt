@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEGALLIER	PAUL	D10482	1750442604D10	720 E HIGHWAY 61	WINONA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRISMAN	ALAN	DS3752	1093935157DS3	1421 ARMOUR STREET	CHATTANOOGA	TN

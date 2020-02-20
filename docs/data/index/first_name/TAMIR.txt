@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHALEV	TAMIR	R590	1578977716R59	515 DELAWARE ST SE	MINNEAPOLIS	MN

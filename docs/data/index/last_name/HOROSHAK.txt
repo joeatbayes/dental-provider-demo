@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOROSHAK	ROBERT	D10745	1629161658D10	5722 HOMESTEAD RD	DULUTH	MN

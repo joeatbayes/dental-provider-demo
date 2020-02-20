@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUWEILER	DAVID	D13551	1861858615D13	1 VETERANS DR	MINNEAPOLIS	MN

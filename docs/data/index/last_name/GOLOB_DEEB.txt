@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLOB DEEB	JANINA	D5380	1740345511D53	4008 E PIMA ST	TUCSON	AZ

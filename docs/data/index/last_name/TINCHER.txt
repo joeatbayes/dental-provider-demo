@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TINCHER	WILLIAM	9017	1154601599901	1025 WESTHAVEN BLVD STE 150	FRANKLIN	TN

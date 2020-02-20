@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DONABAUER	BRADLY	11563	1720179302115	310 S BROADWAY	CROOKSTON	MN

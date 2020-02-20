@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROWNRIGG	DANAE	R575	1902248321R57	515 DELAWARE ST SE	MINNEAPOLIS	MN

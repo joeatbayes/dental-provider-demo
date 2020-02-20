@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLAUER	DANIEL	12011496A	1740592179120	1245 E UNIVERSITY DR	GRANGER	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLBERG	DALE	3680	1881756641368	608 N HUMPHREYS ST	FLAGSTAFF	AZ

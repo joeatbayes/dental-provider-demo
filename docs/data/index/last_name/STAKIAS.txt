@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAKIAS	JAMES	3512	1407959901351	1203 WILCOX DRIVE	KINGSPORT	TN

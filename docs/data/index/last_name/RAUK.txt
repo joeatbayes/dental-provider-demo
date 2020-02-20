@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAUK	KIMBERLY	D11817	1427102722D11	510 22ND AVE E	ALEXANDRIA	MN

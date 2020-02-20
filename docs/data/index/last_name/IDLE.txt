@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IDLE	MATTHEW	R640	1699228999R64	3366 OAKDALE AVE N	ROBBINSDALE	MN

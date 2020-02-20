@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARREN	PATRICIA	10017	1922051754100	701 PARK AVE	MINNEAPOLIS	MN

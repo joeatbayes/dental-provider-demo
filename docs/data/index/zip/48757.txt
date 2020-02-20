@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEE	MICHAEL	17189	1942360391171	1904 EAST ST	REESE	MI

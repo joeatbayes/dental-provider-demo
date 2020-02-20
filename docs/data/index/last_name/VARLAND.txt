@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VARLAND	SCOTT	D11773	1255505996D11	1000 E 1ST ST STE 108	DULUTH	MN

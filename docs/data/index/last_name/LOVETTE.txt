@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOVETTE	DESIREE	10025	1720572167100	4949 N 7TH ST APT 317	PHOENIX	AZ

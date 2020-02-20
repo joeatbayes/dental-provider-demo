@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOOTLA	RUWAIDA	2901018717	1356469324290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

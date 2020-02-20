@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUBES	DAVID	D8622	1205027851D86	91 N SNELLING AVE	ST PAUL	MN

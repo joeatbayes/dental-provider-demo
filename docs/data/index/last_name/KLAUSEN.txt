@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLAUSEN	PAUL	9372	1831276971937	821 MARQUETTE AVE	MINNEAPOLIS	MN

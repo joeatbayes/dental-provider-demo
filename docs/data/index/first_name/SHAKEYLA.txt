@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARBER	SHAKEYLA	1184164337	1184164337612	1313 PENN AVE N	MINNEAPOLIS	MN

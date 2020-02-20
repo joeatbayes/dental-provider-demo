@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLNESS	ROSS	D12383	1659579043D12	1604 1ST ST S	WILLMAR	MN

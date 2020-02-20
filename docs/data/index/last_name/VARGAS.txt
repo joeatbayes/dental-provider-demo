@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VARGAS	JOSEPH	6789	1891744009678	1060 GAFFNEY RD	FORT WAINWRIGHT	AK

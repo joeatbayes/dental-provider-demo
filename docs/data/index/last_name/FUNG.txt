@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUNG	DEBORAH	10696	1528194677106	2860 SNELLING AVE N	ROSEVILLE	MN

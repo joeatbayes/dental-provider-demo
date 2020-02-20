@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERCKEL	KENNETH	2901008782	1962514240290	6093 FULTON ST	MAYVILLE	MI

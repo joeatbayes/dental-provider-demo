@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PETRY	KATHRYN	12011174A	1962664367120	4758 S SCATTERFIELD RD	ANDERSON	IN

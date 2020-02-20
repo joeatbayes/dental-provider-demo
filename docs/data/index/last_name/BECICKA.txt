@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BECICKA	PATRICK	D10974	1952469280D10	5047 JASON AVE NE	ALBERTVILLE	MN

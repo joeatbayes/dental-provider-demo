@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASKIN	BRYAN	11325	1841403508113	109 BUSHAWAY RD STE 300	WAYZATA	MN

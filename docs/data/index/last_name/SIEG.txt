@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIEG	STEVEN	12008863	1902976103120	1285 WEST HILLVIEW DR	CORYDON	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALGAARD	JILL	D13727	1972984359D13	321 WESTERN AVE	FERGUS FALLS	MN

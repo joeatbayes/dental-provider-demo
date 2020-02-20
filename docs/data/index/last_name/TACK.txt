@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TACK	RICHARD	2901012344	1922299502290	7650 DIXIE HWY	CLARKSTON	MI

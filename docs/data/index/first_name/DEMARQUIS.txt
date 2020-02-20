@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOYD	DEMARQUIS	4072	1285054247407	1621 ARKANSAS BLVD	TEXARKANA	AR

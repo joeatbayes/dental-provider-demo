@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POINDEXTER	BYRON	5575	1154426708557	328 W MARKET ST	BLUFFTON	IN

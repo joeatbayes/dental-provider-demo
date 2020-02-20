@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUILLIAT	COLLEEN	2901017701	1912067588290	4018 LAPEER RD	PORT HURON	MI

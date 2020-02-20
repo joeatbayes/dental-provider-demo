@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERPOEL	JENNIFER	D11774	1881785806D11	547 UNION ST S	MORA	MN

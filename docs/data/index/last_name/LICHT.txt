@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LICHT	JESSICA	2901021568	1669851002290	1080 S VAN DYKE RD STE A	BAD AXE	MI

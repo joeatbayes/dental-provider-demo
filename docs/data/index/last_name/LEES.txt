@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEES	ROBERT	1714	1588619274171	2220 W SOUTHERN AVENUE	MESA	AZ

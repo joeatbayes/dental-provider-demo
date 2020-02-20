@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YESIL	YASEMIN	FF18	1215074646FF1	150 E 4TH ST	WINONA	MN

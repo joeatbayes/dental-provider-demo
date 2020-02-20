@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YANDELL	JIM	2041	1407951999204	3224 OLD GREENWOOD RD	FORT SMITH	AR

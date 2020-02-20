@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALEVIZOS	DEANNA	D10987	1427169622D10	14344 BURNHAVEN DR	BURNSVILLE	MN

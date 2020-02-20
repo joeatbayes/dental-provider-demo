@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVIS	EMELINE	12009834A	1770531071120	2955 PROFESSIONAL LN.	TERRE HAUTE	IN

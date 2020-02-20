@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRUGAN	DANIEL	10177	1184612400101	127 N BROADWAY ST	NEW ULM	MN

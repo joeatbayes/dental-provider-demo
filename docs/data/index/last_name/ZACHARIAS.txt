@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZACHARIAS	CHRISTOPHER	D 11070	1174691182D11	14115 JAMES RD	ROGERS	MN

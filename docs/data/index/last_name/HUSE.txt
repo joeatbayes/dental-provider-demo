@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUSE	JASON	11464	1457426306114	916 WEST ST GERMAIN STREET	ST CLOUD	MN

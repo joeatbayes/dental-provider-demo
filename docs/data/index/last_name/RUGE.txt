@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUGE	ROBERT	3157	1144227745315	2700 S WOODLANDS VILLAGE BLVD	FLAGSTAFF	AZ

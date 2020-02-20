@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEGGE	ANTHONY	D11795	1780713149D11	93 OAK AVE S	ANNANDALE	MN

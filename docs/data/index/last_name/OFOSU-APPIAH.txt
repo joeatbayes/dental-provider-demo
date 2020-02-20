@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OFOSU-APPIAH	AMA	15668	1134308976156	20025 GREENFIELD RD	DETROIT	MI

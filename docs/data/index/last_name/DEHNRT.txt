@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEHNRT	JOHN	5315	1871670885531	3945 E FORT LOWELL	TUCSON	AZ

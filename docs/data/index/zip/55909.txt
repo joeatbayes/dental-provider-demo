@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAY	JOSEPH	D10712	1891854055D10	407 NW LINCOLN ST	ADAMS	MN

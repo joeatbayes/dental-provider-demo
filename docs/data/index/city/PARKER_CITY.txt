@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVIS	TERRY	7848	1972519841784	14331 E JACKSON ST	PARKER CITY	IN

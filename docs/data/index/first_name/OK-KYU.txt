@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	OK-KYU	118665	1760905038118	726 E 9TH AVE	ANCHORAGE	AK

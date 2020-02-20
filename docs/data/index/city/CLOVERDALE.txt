@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARMITAGE	SCOTT	12008201A	1326190257120	104 S MAIN ST	CLOVERDALE	IN

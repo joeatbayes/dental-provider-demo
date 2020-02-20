@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEPINSKAS	KEN	6394	1477628089639	1277 E MISSOURI AVE # 18	PHOENIX	AZ

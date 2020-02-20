@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRISKELL	JAMES	AA693	1508977554AA6	235 EAST NINTH AVENUE	ANCHORAGE	AK

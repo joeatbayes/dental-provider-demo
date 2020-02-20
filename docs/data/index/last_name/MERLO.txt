@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERLO	BARBARA	12008596	1598715724120	9301 CALUMET AVE	MUNSTER	IN

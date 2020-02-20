@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAGSTAFF	CARSON	D-4299	1255643359D-4	13435 N LON ADAMS RD	MARANA	AZ

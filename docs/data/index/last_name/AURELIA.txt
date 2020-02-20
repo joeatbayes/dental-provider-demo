@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AURELIA	JOHN	18604	1447383419186	804 N MAIN ST # 201A	ROCHESTER	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUMMIS	ROBERT	22DI02388900	113444367422D	611 AIRPORT DR	SITKA	AK

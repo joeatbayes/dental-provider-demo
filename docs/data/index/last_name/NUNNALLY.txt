@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUNNALLY	PHILIP	DS3392	1700931243DS3	104 JORDAN DR	CHATTANOOGA	TN

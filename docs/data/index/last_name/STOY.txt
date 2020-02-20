@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOY	ROBERT	DS4392	1548300155DS4	1234 MARLIN RD	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EAST	JOHN	AK898	1659578037AK8	13030 RIDGEVIEW DR	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALSEY	DEBRA	12941	1407069024129	4893 ROCHESTER RD	TROY	MI

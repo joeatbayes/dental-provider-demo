@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+URUKALO	RISTA	16642	1932272580166	4201 SAINT ANTOINE ST	DETROIT	MI

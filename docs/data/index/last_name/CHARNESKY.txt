@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHARNESKY	DENNIS	2901010784	1073634937290	4101 JOHN R RD STE 100	TROY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESMAILI	ALI	LGL16	1194260489LGL	12027 BUSINESS PARK BLVD N	CHAMPLIN	MN

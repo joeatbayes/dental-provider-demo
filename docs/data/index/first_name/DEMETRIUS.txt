@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATOCHA	DEMETRIUS	1219	1427070564121	4201 TUDOR CENTRE DR	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANT	CHRISTIE	12010692	1598931859120	5408 N JOHNSON RD	MICHIGAN CITY	IN

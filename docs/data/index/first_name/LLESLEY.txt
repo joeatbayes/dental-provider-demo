@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KNOX	LLESLEY	10420	1144375346104	825 S 8TH ST	MINNEAPOLIS	MN

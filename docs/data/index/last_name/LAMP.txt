@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMP	DENNIS	12007359A	1700990686120	120 E. WILLIAMS ST.	KENDALLVILLE	IN

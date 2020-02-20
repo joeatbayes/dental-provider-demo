@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAUTIN	FRANCIS	D9925	1932641891D99	515 DELAWARE ST SE	MINNEAPOLIS	MN

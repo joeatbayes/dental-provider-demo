@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MONDRY	RACHEL	8743	1689994006874	1903 ROBERT ST S	WEST ST PAUL	MN

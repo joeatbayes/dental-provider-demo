@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAPPEL	RICHARD	10404	1619117652104	4169 SCHWEGLER RD	CASS CITY	MI

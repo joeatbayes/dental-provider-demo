@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JONASEN	TIFFANY	GD44	1275727000GD4	4325 GRAND AVE	DULUTH	MN

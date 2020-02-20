@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALLUGE	CAM-TU	11572	1528273299115	500 WEST 79TH STREET	CHANHASSEN	MN

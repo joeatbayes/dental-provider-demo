@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PICK	CHARLES	4821	1508191610482	6126 E SPEEDWAY BLVD	TUCSON	AZ

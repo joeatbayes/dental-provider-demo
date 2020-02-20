@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DINGELDEIN	PATRICIA	4373	1720322639437	875 UNION AVE	MEMPHIS	TN

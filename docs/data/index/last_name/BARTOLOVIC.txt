@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTOLOVIC	DAVID	2901018768	1366534117290	13403 13 MILE RD	WARREN	MI

@@ -1,0 +1,2 @@
+ASHA	5
+ASHANTI	1

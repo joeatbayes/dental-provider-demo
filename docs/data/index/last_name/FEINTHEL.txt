@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FEINTHEL	JERRE	9604	1578611745960	751 CHESTNUT ST	BIRMINGHAM	MI

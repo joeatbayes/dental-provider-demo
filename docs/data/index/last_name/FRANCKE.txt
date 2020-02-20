@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRANCKE	ANNA	D14209	1336705136D14	6105 CAHILL AVE	INVER GROVE HEIGHTS	MN

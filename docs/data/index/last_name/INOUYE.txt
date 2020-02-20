@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INOUYE	ALLISON	9918	1790191559991	2217 W HAPPY VALLEY RD STE 101	PHOENIX	AZ

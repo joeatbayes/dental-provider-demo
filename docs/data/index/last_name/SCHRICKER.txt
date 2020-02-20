@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHRICKER	CATHERINE	10733	1386140218107	2953 BROAD AVE	MEMPHIS	TN

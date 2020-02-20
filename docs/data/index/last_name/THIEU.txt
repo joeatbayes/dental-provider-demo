@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THIEU	KATHLEEN	D13834	1588194567D13	1790 7TH ST E	SAINT PAUL	MN

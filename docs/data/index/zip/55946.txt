@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEWIS	WILLIAM	D 10085	1073666152D10	216 FOREST ST	KENYON	MN

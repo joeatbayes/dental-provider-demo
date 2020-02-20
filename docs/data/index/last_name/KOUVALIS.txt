@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOUVALIS	ELIAS	D11378	1457412264D11	13911 RIDGEDALE DR	MINNETONKA	MN

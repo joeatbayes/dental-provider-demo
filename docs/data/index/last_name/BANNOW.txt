@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANNOW	RICHARD	2901012099	1508939851290	5917 STADIUM DR	KALAMAZOO	MI

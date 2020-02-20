@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THARP	RHETT	8153	1942397567815	3929 E 3RD ST	BLOOMINGTON	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIVERTSON	JOHN	10031	1487740866100	31636 SCHOOLCRAFT	LIVONIA	MI

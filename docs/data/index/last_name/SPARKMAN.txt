@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPARKMAN	CLARISSA	D13098	1689937526D13	802 W 42ND ST	HIBBING	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARA	ANDERSON	98000618A	1447705108980	1121 W MICHIGAN ST	INDIANAPOLIS	IN

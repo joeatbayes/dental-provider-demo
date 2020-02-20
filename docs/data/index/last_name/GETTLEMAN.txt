@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GETTLEMAN	BRADLEY	D4024	1619010782D40	18555 N 79TH AVE	GLENDALE	AZ

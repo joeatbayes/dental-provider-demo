@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZEMLICKA	JERRY	312	1093002693312	625 E 34TH AVE	ANCHORAGE	AK

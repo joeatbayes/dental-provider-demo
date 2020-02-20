@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THORLEY	REGINA	D7593	1972985620D75	483 W SEED FARM RD	SACATON	AZ

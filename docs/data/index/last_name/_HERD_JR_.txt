@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"HERD, JR"	RICHARD	1A2007297	11948879921A2	830 N MITTHOEFFER RD	INDIANAPOLIS	IN

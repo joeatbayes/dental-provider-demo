@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARQUARD	STEPHEN	D9149	1831223833D91	115 DREW AVE SE	MADELIA	MN

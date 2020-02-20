@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARISEK	ANTHONY	51635	1548368640516	301 JEWETT ST	MARSHALL	MN

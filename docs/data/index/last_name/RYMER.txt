@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYMER	RONALD	1357	1700899390135	4202 N. 32ND ST	PHOENIX	AZ

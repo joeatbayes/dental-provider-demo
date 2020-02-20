@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEMNA	JAIME	8505	1407808256850	2220 W MCGALLIARD RD	MUNCIE	IN

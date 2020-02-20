@@ -1,0 +1,3 @@
+AL-AASM	1
+AL-ALFE	1
+AL-ANI	1

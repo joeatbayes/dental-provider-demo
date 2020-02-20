@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPENCE-HEYS	COURTNEY	1989420	1346440427198	2770 BEDFORD RD	ANN ARBOR	MI

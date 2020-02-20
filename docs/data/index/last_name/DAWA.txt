@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAWA	ERNESTINE	D13508	1295112019D13	3152 MINNEHAHA AVE	MINNEAPOLIS	MN

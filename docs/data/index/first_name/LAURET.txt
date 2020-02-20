@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHREIER	LAURET	5287	1336311083528	13915 N DYSART RD	EL MIRAGE	AZ

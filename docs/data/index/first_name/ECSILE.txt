@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHANG	ECSILE	122922	1932639218122	421 3RD ST	FAIRBANKS	AK

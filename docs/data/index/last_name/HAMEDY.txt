@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMEDY	REZA	S122	1902342256S12	6411 RICHFIELD PKWY	RICHFIELD	MN

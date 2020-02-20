@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YILDIRIM	YAVUZ	D13014	1255627311D13	200 1ST ST SW	ROCHESTER	MN

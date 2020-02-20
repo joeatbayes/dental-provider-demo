@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUEGSEGGER	TRACY	2901018662	1972661171290	876 E 8TH ST	TRAVERSE CITY	MI

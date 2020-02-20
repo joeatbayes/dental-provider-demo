@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAUST	JOHN	10421	1548460215104	5238 W. ST. JOSEPH HIGHWAY	LANSING	MI

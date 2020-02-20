@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YANG	KASSYNI	D1234	1588959860D12	8511 JEFFERSON LN N	MINNEAPOLIS	MN

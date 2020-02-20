@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLASS	LATISHA	2901019115	1972565935290	131 COLUMBIA AVE E	BATTLE CREEK	MI

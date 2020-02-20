@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRIPP	NICOLE	D13234	1205273042D13	102 MARTY DR	BUFFALO	MN

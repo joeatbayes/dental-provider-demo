@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZITEK	CHARLES	DS0000002669	1639230212DS0	1273 E RAINES RD	MEMPHIS	TN

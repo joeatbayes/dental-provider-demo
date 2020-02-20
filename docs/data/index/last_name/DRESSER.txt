@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRESSER	RICHARD	9713	1407845571971	170 LANDMARK DRIVE	OWATONNA	MN

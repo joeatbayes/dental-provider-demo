@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDERLE	KATHLEEN	2739	1174875249273	413 N. UNIVERSITY AVE.	LITTLE ROCK	AR

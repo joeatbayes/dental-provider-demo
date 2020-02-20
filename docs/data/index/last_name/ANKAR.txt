@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANKAR	CHARLES	7970	1861517435797	6101 SHALLOWFORD RD	CHATTANOOGA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BATES	EDSEL	4492	1326194259449	7000 EXECUTIVE CENTER DR	BRENTWOOD	TN

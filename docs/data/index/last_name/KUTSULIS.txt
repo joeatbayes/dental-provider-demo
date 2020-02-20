@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUTSULIS	COURTNEY	10269	1932558095102	1715 W MAIN ST	LEBANON	TN

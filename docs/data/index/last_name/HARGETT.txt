@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARGETT	JOHN	3248	1902986045324	1313 HIGHWAY 62 65 N STE D	HARRISON	AR

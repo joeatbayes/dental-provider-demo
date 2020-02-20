@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWIHART	JEFFREY	12011431A	1760702906120	850 MARSH ST	VALPARAISO	IN

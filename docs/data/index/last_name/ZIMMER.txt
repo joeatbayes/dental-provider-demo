@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIMMER	SHAWN	2901016749	1861466013290	401 SOUTH CRAPO ST	MOUNT PLEASANT	MI

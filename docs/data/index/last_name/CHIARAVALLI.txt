@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHIARAVALLI	PETER	10112	1952380412101	1500 W SAGINAW ST	LANSING	MI

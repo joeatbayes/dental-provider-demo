@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEKOCK	ANGELA	2901017939	1255432613290	6803 DIXIE HWY	CLARKSTON	MI

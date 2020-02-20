@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROTTON	JAMES	2095	1093873515209	222 NORTH PINE	MAGNOLIA	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMYTH	LIAM	61153	1114375912611	916 RICE ST	ST. PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ULDRIKSON	BARRY	AZ3119	1821166760AZ3	1101 RIATA VALLEY RD.	KINGMAN	AZ

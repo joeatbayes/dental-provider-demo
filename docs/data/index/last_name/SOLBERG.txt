@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOLBERG	ERIC	1437286960	1437286960480	7301 E. SUNDANCE TRAIL	CAREFREE	AZ

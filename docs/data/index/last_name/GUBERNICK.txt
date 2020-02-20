@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUBERNICK	ELIZABETH	D6977	1609934827D69	1010 E MCDOWELL RD	PHOENIX	AZ

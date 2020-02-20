@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINCHER	LARRY	2440	1760563290244	4206 HWY. 60	CONWAY	AR

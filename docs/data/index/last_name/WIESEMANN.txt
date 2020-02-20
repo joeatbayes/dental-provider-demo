@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIESEMANN	RYAN	8503	1235286105850	323 WEST DR	WHITE HOUSE	TN

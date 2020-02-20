@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOQUET	PAUL	401410404	1205991049401	1046 MARKS RD	FAIRBANKS	AK

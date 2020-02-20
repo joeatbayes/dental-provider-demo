@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHASE	MARK	3276	1982780177327	6701 WEST UNION HILLS DRIVE	GLENDALE	AZ

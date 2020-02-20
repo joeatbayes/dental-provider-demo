@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIHL	ARNE	627	1285741496627	1621 TONGASS SUITE 301	KETCHIKAN	AK

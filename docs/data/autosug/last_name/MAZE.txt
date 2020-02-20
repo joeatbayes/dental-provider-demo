@@ -1,0 +1,3 @@
+MAZEL	2
+MAZE	1
+MAZER	1

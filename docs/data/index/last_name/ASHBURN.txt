@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASHBURN	LAUREN	D13689	1295182244D13	132 PIONEER TRL	CHASKA	MN

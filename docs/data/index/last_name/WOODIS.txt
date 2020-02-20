@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOODIS	KACIE	D13123	1669736674D13	370 3RD AVE S	ISLE	MN

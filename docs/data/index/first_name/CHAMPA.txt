@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHATTERJEE	CHAMPA	5085	1487849105508	7600 E CAMELBACK RD	SCOTTSDALE	AZ

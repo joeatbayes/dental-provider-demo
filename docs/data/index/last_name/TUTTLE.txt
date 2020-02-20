@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TUTTLE	KENT	DEN-DEN-LIC-9636	1497121362DEN	3540 W CAMELBACK RD	PHOENIX	AZ

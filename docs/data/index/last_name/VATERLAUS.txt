@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VATERLAUS	STANFORD	3249	1497728992324	7578 N LA CHOLLA BLVD	TUCSON	AZ

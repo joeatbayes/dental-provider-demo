@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JACOBSON	PATRECIA	D10897	1790802676D10	704 E HOWARD ST	HIBBING	MN

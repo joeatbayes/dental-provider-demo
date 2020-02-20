@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEPRI	DANIEL	13891	1558494351138	27730 GRATIOT AVE	ROSEVILLE	MI

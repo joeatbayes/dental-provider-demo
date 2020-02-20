@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REEDY	SUZANNE	12009981A	1093064339120	2301 W. JACKSON	MUNCIE	IN

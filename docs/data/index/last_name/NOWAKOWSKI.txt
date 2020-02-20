@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOWAKOWSKI	RICHARD	12008600A	1619985710120	3701 N EVERETT RD	MUNCIE	IN

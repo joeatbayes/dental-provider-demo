@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAYERLE	JAMES	6881	1154319457688	104 W 2ND ST	CHASKA	MN

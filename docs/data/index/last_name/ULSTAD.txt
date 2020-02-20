@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ULSTAD	BRANDON	11578	1376587907115	622 3RD ST	MADISON	MN

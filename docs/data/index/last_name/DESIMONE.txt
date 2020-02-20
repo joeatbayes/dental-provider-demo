@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DESIMONE	DAVID	8424	1982789731842	12725 43RD ST NE	SAINT MICHAEL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JARNAGIN	TERI	750	1790812618750	13012 OLD GLENN HWY	EAGLE RIVER	AK

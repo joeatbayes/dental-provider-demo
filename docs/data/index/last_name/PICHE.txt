@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PICHE	PETER	2901016740	1871627596290	335 E STATE STREET	TRAVERSE CITY	MI

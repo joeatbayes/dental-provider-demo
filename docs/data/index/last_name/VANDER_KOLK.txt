@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDER KOLK	JOHN	2901014158	1992093298290	15 ANDRE ST SE	GRAND RAPIDS	MI

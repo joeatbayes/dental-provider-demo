@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SELDEN	BLERTA	30610	1609266097306	520 TN 76	WHITE HOUSE	TN

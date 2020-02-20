@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHNITT	REBECCA	R576	1033542097R57	515 DELEWARE STREET S.E.	MINNEAPOLIS	MN

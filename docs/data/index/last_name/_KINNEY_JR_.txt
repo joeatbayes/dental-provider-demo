@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"KINNEY, JR."	GEORGE	7430	1326190299743	1000 RADIO DR	WOODBURY	MN

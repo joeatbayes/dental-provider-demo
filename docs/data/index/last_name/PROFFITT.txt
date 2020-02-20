@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PROFFITT	WILLIAM	DS4036	1649296906DS4	811 HIGH ST	MARYVILLE	TN

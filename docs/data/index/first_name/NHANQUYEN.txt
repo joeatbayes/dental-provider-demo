@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	NHANQUYEN	D11111	1871784819D11	1011 2ND ST N	SAINT CLOUD	MN

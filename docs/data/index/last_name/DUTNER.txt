@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUTNER	JOSEPH	6058-015	1184817405605	1060 GAFFNEY ROAD	FORT WAINWRIGHT	AK

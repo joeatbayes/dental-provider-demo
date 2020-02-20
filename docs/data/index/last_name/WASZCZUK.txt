@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASZCZUK	GEORGE	2901010928	1518179944290	24331 FORD RD	DEARBORN	MI

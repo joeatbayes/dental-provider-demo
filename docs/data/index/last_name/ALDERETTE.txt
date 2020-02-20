@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALDERETTE	TERENCE	3618	1518015775361	1277 E MISSOURI AVE	PHOENIX	AZ

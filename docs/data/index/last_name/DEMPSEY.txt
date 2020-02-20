@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMPSEY	JOHN	2235	1639176217223	4232 E CACTUS RD	PHOENIX	AZ

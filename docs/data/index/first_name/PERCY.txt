@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TWINE	PERCY	7259	1558567743725	2020 W BASELINE RD STE 172	PHOENIX	AZ

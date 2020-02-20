@@ -1,0 +1,2 @@
+KOLA	1
+KOLIN	1

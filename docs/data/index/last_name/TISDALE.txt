@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TISDALE	SCOTT	2901015365	1992879720290	31549 HARPER AVE	ST CLAIR SHORES	MI

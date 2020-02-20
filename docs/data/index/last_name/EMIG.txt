@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EMIG	DAVID	12114	1295743524121	3610 HENRY ST	MUSKEGON	MI

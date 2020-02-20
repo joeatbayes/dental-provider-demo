@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PHAN	THIHAN	6412	1750429619641	3400 N DYSART RD	AVONDALE	AZ

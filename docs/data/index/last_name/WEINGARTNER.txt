@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINGARTNER	GERARD	8289	1750320370828	7501 80TH ST S	COTTAGE GROVE	MN

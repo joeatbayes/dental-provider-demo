@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUNNILA	BRENDA	8776	1104806934877	206 N HILL AVE	OGILVIE	MN

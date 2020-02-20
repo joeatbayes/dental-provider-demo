@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLINEBURG	ROBERT	8257	1225091150825	1630 UNIVERSITY AVE W	SAINT PAUL	MN

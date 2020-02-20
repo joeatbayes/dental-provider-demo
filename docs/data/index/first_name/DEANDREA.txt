@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BELL	DEANDREA	D009262	1194106260D00	3155 W INDIAN SCHOOL RD	PHOENIX	AZ

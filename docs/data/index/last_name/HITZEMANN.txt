@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HITZEMANN	JOHN	8102	1982930525810	11354 WILDWOOD CT NE	BLAINE	MN

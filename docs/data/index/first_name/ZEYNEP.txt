@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARAKAT	ZEYNEP	2901019537	1639389687290	ST. JOHN MACOMB CAMPUS	WARREN	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERLE	ARTHUR	13920	1548383029139	5653 WALKER DR	GRAYLING	MI

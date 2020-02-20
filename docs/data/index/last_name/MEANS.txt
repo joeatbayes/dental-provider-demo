@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEANS	STEVEN	8508	1871660282850	2221 UNIVERSITY AVE SE	MPLS	MN

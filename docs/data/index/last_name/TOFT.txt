@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOFT	TRACY	D4192	1114177995D41	1901 1ST AVE NE	STEWARTVILLE	MN

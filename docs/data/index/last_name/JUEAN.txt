@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUEAN	ERNEST	D13348	1760802201D13	409 DUNLAP ST N	SAINT PAUL	MN

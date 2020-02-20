@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GETHMANN	REED	9154	1427047521915	221 E 1ST ST	FAIRMONT	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARKOSKI	VICTOR	10600	1003028382106	23422 FORD RD	DEARBORN HEIGHTS	MI

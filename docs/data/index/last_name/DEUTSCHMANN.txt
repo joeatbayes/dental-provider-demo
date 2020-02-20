@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEUTSCHMANN	EDWARD	9092	1093718710909	1222 N FRONTAGE RD	HASTINGS	MN

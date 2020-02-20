@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDERS	CHARLES	4143	1548245954414	1244 5TH ST	JELLICO	TN

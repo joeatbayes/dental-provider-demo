@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANRY	RYAN	65	1801091012658	347 W OAK ST STE B	EL DORADO	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STALMASTER	JOSEPH	1181	1265490320118	6000 KANAKANAK RD	DILLINGHAM	AK

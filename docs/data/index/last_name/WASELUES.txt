@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASELUES	JENNA	4059	1982087722405	245 W VAN ASCHE DR	FAYETTEVILLE	AR

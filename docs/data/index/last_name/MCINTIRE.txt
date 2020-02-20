@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCINTIRE	EMILY	D14200	1952967556D14	28 E MILL AVE	PELICAN RAPIDS	MN

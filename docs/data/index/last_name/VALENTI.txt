@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALENTI	JOHN	2901008713	1801222054290	29377 HOOVER RD	WARREN	MI

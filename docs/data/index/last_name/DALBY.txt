@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALBY	ROBERT	4176	1588193353417	2111 S OLD MISSOURI RD	SPRINGDALE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THORFINNSON	DAVID	10253	1346276219102	22 4TH ST NE	EAST GRAND FORKS	MN

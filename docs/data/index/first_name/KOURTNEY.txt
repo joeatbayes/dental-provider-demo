@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUMMEL	KOURTNEY	D010435	1932754231D01	3100 W CHANDLER BLVD STE C	CHANDLER	AZ

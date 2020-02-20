@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRIGGS	KYLE	1069	1386789378106	2702 DENALI ST	ANCHORAGE	AK

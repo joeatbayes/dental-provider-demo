@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEICH	MICHAEL	3232	1346381308323	9751 N 90TH PL	SCOTTSDALE	AZ

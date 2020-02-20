@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEWRIGHT	DOUGLAS	4727	1801858824472	702 E BELL RD	PHOENIX	AZ

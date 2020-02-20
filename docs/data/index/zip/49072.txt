@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARL	MICHAEL	13593	1336233030135	435 E. MAIN ST.	MENDON	MI

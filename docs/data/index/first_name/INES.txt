@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DE LLANO	INES	D11531	1972554145D11	3205 W 76TH ST	EDINA	MN

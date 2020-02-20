@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRKULA	GERALD	DS029906L	1205848181DS0	650 E INDIAN SCHOOL RD	PHOENIX	AZ

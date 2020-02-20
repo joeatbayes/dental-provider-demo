@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YALIM	LAURA	D010338	1306404876D01	81 W GUADALUPE RD STE 101	GILBERT	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINHOLD	LEE	D7928	1326048109D79	100 2ND ST SE	STEWARTVILLE	MN

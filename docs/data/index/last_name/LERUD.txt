@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LERUD	BRADLEY	9507	1427401827950	323 N LEROUX ST	FLAGSTAFF	AZ

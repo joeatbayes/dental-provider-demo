@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHATELEY	BARON	12007960	1538171830120	160 DIVISION ST	COLDWATER	MI

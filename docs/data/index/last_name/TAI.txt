@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAI	CHARLENE	R602	1689081978R60	2841 BRYANT AVE S APT 433	MINNEAPOLIS	MN

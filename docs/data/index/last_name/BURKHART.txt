@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURKHART	BETTY	15020	1376641944150	25110 TELEGRAPH RD	BROWNSTOWN	MI

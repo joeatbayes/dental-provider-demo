@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YAHN	WHITNEY	2901021236	1831591635290	5605 COLONY DR N	SAGINAW	MI

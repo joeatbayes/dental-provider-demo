@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOTT	BRADLEY	D12468	1396935474D12	1217 E 10TH AVE	ANCHORAGE	AK

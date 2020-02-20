@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MART	BRIAN	10108	1326116070101	2860 PIEDMONT AVE	DULUTH	MN

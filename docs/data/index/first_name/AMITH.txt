@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHETTY	AMITH	D12375	1992991004D12	21343 ARCHIBALD ROAD	DEERWOOD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMAJDA	EMILY	2901023162	1306404587290	181 EMMETT ST W	BATTLE CREEK	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKALA	MARK	D10168	1528127917D10	1905 PLAZA DR	EAGAN	MN

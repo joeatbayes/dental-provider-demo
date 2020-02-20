@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAHUTSKE	DANUTA	14804	1235338070148	91 S WASHINGTON ST	OXFORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TATAREK	JAMES	15453	1396848479154	1267 W 13 MILE RD	MADISON HEIGHTS	MI

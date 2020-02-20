@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THORN-BLACK	HATTIE	D8307	1215933486D83	1315 E 24TH ST	MINNEAPOLIS	MN

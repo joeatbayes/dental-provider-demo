@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHITWOOD	WALTER	DS004079	1679691992DS0	1110 W CLARK BLVD	MURFREESBORO	TN

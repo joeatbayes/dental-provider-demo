@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DATER	STEVEN	15026	1023228509150	170 MARCELL DR NE	ROCKFORD	MI

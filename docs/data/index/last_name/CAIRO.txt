@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAIRO	ALYSSA	2901017990	1538214580290	7141 DEXTER PINCKNEY RD	DEXTER	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOLZ	JEFFREY	D9203	1023171774D92	512 NE 1ST AVE	GRAND RAPIDS	MN

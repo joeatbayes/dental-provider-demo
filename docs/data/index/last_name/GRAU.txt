@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRAU	MATTHEW	11312	1467400515113	2850 CURVE CREST BLVD W STE 115	STILLWATER	MN

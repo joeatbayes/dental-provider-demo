@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASKIN	ANGELA	D4661	1326299900D46	42201 N. 41ST DR	ANTHEM	AZ

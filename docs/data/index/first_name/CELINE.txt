@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UPTON	CELINE	8860	1528347812886	6601 W THOMAS RD	PHOENIX	AZ

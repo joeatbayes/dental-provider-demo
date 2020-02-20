@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FERNANDEZ	ZULEIDY	3197	1669841565319	200 1ST ST SW	ROCHESTER	MN

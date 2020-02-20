@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PINT	MEGAN	D13403	1326454083D13	960 GRAND AVE	SAINT PAUL	MN

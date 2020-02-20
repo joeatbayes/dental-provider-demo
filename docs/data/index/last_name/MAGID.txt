@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGID	ADEL	17379	1700812195173	837 S LAPEER RD	OXFORD	MI

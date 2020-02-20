@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELTURK	ROY	2901019984	1619103728290	6887 DIXIE HWY	CLARKSTON	MI

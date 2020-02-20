@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINGET	WILLIAM	18409	1891856217184	924 S LINCOLN AVE	LAKEVIEW	MI

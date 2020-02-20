@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOUSMAN	JAY	D010038	1821580424D01	1929 E RAY RD	CHANDLER	AZ

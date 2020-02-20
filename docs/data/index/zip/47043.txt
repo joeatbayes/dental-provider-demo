@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINDLEY	ROBERT	12007987	1598708604120	727 HWY 56	VEVAY	IN

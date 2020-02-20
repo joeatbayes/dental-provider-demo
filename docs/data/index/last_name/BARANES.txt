@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARANES	BENJAMIN	D010486	1831748532D01	5225 N 19TH AVE STE C	PHOENIX	AZ

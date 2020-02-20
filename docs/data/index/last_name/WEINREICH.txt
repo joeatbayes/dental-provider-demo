@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINREICH	DANA	4965	1356465314496	12035 N SAGUARO BLVD	FOUNTAIN HILLS	AZ

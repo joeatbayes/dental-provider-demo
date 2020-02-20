@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENOIR	BERTRAM	TN0000002324	1538279302TN0	207 W RHOA AVE	SPRING CITY	TN

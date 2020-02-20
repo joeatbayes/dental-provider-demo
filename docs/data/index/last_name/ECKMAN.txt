@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ECKMAN	LONNIE	D7830	1003046665D78	7725 N 43RD AVE STE NO711	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STANYA	ANDREW	AA 645	1548323710AA6	1919 LATHROP ST	FAIRBANKS	AK

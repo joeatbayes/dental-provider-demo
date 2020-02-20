@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINDELL	JENNA	12013159A	1518526110120	1300 OLD HIGHWAY 135 NE	CORYDON	IN

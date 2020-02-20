@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FORDAHL	BREYNNE	12259	1790795235122	14727 60TH ST. N	STILLWATER	MN

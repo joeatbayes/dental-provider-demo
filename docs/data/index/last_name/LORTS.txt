@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LORTS	RONALD	AZ3526	1811092604AZ3	3409 N 56TH ST	PHOENIX	AZ

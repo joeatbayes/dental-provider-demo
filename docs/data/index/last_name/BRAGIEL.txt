@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAGIEL	GREGORY	890	1053491035890	2525 GAMBELL ST	ANCHORAGE	AK

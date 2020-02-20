@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIDDINGS	NICOLE	D11803	1386703189D11	4959 EXCELSIOR BLVD	ST LOUIS PARK	MN

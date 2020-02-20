@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWILLING	STACEY	3294	1295878957329	1400 W CENTER ST	SHERIDAN	AR

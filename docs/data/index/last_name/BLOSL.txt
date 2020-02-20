@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLOSL	TERENCE	2901011211	1497914055290	6767 W O AVE	KALAMAZOO	MI

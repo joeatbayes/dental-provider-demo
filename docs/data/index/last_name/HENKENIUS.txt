@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENKENIUS	BRADLEY	6514	1134293632651	710 N BEAVER ST	FLAGSTAFF	AZ

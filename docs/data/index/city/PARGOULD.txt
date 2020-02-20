@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PUCKETT	JOHN	8147	1013993492814	624 W. COURT ST.	PARGOULD	AR

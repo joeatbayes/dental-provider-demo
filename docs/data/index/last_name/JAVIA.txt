@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAVIA	MANISHA	4811	1700910056481	"9301 E. SHEA BLVD, STE #111"	SCOTTSDALE	AZ

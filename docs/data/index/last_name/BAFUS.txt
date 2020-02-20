@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAFUS	PAIGE	5419	1447319496541	3015 HIGHWAY 95	BULLHEAD CITY	AZ

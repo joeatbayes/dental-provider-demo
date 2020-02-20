@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VICARI	KAITLIN	12012790A	1578086948120	175-8 E US HIGHWAY 20	CHESTERTON	IN

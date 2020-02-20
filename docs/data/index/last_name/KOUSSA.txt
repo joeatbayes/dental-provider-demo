@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOUSSA	LAWRENCE	3782	1629083027378	2102 N COUNTRY CLUB RD STE C	TUCSON	AZ

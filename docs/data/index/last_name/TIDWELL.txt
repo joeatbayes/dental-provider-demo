@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TIDWELL	BILL	117592	1053391797117	CORNER OF ROUTE N12 AND N7	FORT DEFIANCE	AZ

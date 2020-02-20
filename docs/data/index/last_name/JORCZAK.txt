@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JORCZAK	JOHN	12009240	1164472874120	38 N 23RD ST	LAFAYETTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIBSON	TAMMIE	17022	1942214366170	200 W. HOSPITAL DRIVE	WHITERIVER	AZ

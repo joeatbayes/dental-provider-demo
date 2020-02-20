@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIDA	GUSTAVO	D010085	1871088419D01	1819 W DUNLAP AVE STE 1	PHOENIX	AZ

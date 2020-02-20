@@ -1,0 +1,2 @@
+KRON	3
+KRONZER	1

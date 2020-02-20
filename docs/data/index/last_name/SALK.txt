@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALK	CLIFFORD	12006043	1548323801120	122 W WASHINGTON BLVD	FORT WAYNE	IN

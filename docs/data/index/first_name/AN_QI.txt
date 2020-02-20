@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WU	AN QI	D14280	1558921833D14	200 1ST ST SW	ROCHESTER	MN

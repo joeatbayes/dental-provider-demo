@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KNOUSE	ERIN	29231	1962741769292	5955 ZEAMER AVE	JBER	AK

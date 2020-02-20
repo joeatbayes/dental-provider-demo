@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEI	JOHN	D7582	1659321420D75	917 1ST AVE SE	LONG PRAIRIE	MN

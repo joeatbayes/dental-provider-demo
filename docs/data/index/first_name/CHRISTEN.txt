@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAUFFMAN	CHRISTEN	3066	1700959079306	1018 AIRPORT RD	HOT SPRINGS	AR

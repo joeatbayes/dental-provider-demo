@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GURSAKAL	JESSICA	10278	1033560370102	7520 ENTERPRISE AVE	GERMANTOWN	TN

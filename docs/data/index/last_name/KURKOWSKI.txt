@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KURKOWSKI	MICHAEL	9278	1104823681927	3500 N. RICE STREET	ST. PAUL	MN

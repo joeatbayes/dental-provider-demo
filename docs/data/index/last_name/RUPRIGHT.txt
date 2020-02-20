@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUPRIGHT	ADRIENNE	12010760A	1710107578120	5327 S BEND DR	FORT WAYNE	IN

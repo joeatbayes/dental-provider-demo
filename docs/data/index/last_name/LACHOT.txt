@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACHOT	BRUCE	3112	1053482844311	8535 E HARTFORD DR STE 202	SCOTTSDALE	AZ

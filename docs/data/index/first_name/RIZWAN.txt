@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALVI	RIZWAN	D12418	1235332420D12	8960 SPRINGBROOK DR NW	COON RAPIDS	MN

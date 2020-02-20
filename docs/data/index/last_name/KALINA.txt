@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KALINA	JAMES	D11387	1780691048D11	204 STAR ST	MANKATO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL	JAMES	10676	1578742599106	216 W MAIN ST	KINGSLEY	MI

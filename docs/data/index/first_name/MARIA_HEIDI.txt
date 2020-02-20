@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIPIN	MARIA HEIDI	1584	1619379328158	4315 DIPLOMACY DR	ANCHORAGE	AK

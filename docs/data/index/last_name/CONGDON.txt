@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONGDON	ROBERT	D11508	1932152154D11	3950 VETERANS DR	SAINT CLOUD	MN

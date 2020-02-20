@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEMAY	AURORA	D13490	1902204142D13	927 TRETTEL LN	CLOQUET	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EMERT	JOHN	4488	1699813782448	1916 E LAMAR ALEXANDER PKWY	MARYVILLE	TN

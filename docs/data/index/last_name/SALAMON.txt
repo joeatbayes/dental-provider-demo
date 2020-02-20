@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALAMON	KRISTIN	19.02862	108390293619.	2920 N 4TH ST	FLAGSTAFF	AZ

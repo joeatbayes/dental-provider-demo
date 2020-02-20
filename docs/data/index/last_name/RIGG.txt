@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIGG	CHARLES	12005149A	1174661839120	7863 BROADWAY	MERRILLVILLE	IN

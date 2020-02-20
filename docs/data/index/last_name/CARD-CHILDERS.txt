@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARD-CHILDERS	OLIVIA	34197	1629561006341	1 VETERANS DR	MINNEAPOLIS	MN

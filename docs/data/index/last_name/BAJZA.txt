@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAJZA	MICHAEL	12009652A	1568688943120	1515 W GLEN PARK AVE	GRIFFITH	IN

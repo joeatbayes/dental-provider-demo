@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOSSE	BRIAN	12044	1699770479120	162 N CAUSEWAY ST	NORTH MUSKEGON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOTARIANNI	JOHN	12011283A	1184859803120	1825 W MCGALLIARD RD	MUNCIE	IN

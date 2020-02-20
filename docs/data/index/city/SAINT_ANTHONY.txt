@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ORECH	TARA	D13817	1508395146D13	2600 39TH AVE NE STE 225	SAINT ANTHONY	MN

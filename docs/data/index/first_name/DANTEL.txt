@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEAVER	DANTEL	D13769	1629451471D13	4100 SHORELINE DR	SPRING PARK	MN

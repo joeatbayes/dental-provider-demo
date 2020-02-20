@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARORA	PREETIKA	D12831	1568776862D12	2500 COMO AVE	SAINT PAUL	MN

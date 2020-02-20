@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRICH	DENNIS	895	1992717706895	2601 BONIFACE PKWY	ANCHORAGE	AK

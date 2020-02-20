@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALB	SANDU	LGL10	1710357074LGL	5001 WINNETKA AVE N	NEW HOPE	MN

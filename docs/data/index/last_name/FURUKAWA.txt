@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FURUKAWA	KARL	DE00005568	1154300846DE0	2240 E WINROW AVE	FORT HUACHUCA	AZ

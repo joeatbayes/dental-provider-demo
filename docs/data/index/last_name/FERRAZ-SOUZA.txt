@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FERRAZ-SOUZA	KATIE	D12669	1619103827D12	250 FULLER ST. S	SHAKOPEE	MN

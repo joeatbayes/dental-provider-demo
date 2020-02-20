@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MICHEL	SARA	D11536	1619096617D11	400 VILLAGE CENTER DR STE 100	NORTH OAKS	MN

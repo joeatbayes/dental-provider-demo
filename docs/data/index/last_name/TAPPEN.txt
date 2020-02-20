@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAPPEN	BRYAN	4249	1134653488424	600 RICHARDSON DR	JBER	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SABINO	MARYANN	D11403	1730105180D11	515 DELAWARE ST SE	MINNEAPOLIS	MN

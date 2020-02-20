@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALASSY	HATEM	D11992	1669461802D11	8001 HIGHWAY 7	ST LOUIS PARK	MN

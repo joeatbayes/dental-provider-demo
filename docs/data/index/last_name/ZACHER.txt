@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZACHER	MICHAEL	AZ4245	1396702601AZ4	4507 N 36TH STREET	PHOENIX	AZ

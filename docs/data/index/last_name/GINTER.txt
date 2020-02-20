@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GINTER	JESSICA	12012195A	1003225467120	17901 TURNERS DR	SOUTH BEND	IN

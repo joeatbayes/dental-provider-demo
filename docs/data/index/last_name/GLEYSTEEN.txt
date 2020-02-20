@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLEYSTEEN	MICHAEL	D8118	1932407798D81	250 CENTRAL AVE N STE 113	WAYZATA	MN

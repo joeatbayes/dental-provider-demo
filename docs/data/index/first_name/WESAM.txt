@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALANI	WESAM	9733	1053753723973	625 MORRISON SPRINGS RD	CHATTANOOGA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POSCH	TIMOTHY	9984	1861525552998	101 ROOSEVELT AVE	DETROIT LAKES	MN

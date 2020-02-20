@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZYLSTRA	TANNER	135404	1588141220135	3487 AIRPORT WAY	FAIRBANKS	AK

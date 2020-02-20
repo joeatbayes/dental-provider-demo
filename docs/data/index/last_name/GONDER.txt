@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GONDER	MORGAN	4092	1548610926409	900 N 7TH ST	WEST MEMPHIS	AR

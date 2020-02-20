@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLNICK	JASON	2901016484	1316915044290	21213 ECORSE RD	TAYLOR	MI

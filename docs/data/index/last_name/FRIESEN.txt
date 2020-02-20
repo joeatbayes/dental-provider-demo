@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIESEN	JOCELYN	2901022413	1306362322290	22010 EUREKA RD	TAYLOR	MI

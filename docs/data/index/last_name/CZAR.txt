@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CZAR	STEPHEN	2623	1881036044262	3231 S COUNTRY CLUB WAY STE 109	TEMPE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOUIE	JENNIFER	D12076	1386613958D12	14344 BURNHAVEN DR	BURNSVILLE	MN

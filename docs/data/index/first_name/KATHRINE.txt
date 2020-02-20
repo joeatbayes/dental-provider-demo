@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMMEL	KATHRINE	D07590	1275789257D07	5717 E 5TH ST	TUCSON	AZ

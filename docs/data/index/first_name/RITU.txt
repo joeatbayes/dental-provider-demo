@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AGGARWAL	RITU	D12315	1669699906D12	828 HAWTHORNE ST E	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRO	THOMAS	8110	1114049129811	307 N MAIN ST # 65	STEWARTVILLE	MN

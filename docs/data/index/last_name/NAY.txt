@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAY	JOHN	7142	1003972860714	2179 W 24TH ST	YUMA	AZ

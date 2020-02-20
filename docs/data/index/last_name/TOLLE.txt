@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOLLE	DOUGLAS	12009790	1780663526120	1712 W PLYMOUTH ST	BREMEN	IN

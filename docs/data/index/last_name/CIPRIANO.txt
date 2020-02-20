@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CIPRIANO	THOMAS	3364	1083788905336	6611 S RURAL RD STE 2	TEMPE	AZ

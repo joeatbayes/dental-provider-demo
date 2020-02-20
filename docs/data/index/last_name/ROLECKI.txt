@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROLECKI	ANNE	2901020010	1760798771290	410 E LUDINGTON AVE	LUDINGTON	MI

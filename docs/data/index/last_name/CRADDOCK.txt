@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRADDOCK	ROGER	6912	1114056694691	6268 POPLAR AVE	MEMPHIS	TN

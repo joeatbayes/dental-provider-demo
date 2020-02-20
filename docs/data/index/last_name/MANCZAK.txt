@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANCZAK	NEIL	2901019241	1497700991290	6250 S CEDAR ST	LANSING	MI

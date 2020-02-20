@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPARLING	DEBORAH	2347	1497826366234	116 BUENA VISTA RD	HOT SPRINGS	AR

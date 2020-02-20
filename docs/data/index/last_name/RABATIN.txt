@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RABATIN	KRISTINA	1542	1497166565154	4705 PIPER ST	ANCHORAGE	AK

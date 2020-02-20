@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADZIKOWSKI	NATALIA	2901022212	1982132049290	205 GROVE ST	MANCELONA	MI

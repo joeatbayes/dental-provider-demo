@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARDELL	MICHAEL	D7883	1164504437D78	14470 CAMEO AVE W	ROSEMOUNT	MN

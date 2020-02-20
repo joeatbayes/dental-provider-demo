@@ -1,0 +1,3 @@
+VOGEL	5
+VOGT	2
+VOGL	1

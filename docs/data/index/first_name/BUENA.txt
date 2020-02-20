@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOMINGUEZ	BUENA	15286	1508833229152	4291 STATE ST	SAGINAW	MI

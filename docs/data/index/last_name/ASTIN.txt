@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASTIN	BRANDON	110831	1063870855110	34115 STERLING HWY	ANCHOR POINT	AK

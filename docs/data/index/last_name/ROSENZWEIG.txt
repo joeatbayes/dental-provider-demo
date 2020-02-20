@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSENZWEIG	DENNIS	11118	1366491003111	1385 E 12 MILE RD	MADISON HEIGHTS	MI

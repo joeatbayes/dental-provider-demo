@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASSELLE	GERARD	836	1346466075836	2020 ABBOTT RD	ANCHORAGE	AK

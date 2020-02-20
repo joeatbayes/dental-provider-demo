@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRAFFT	KATIE	2901021999	1760833990290	501 LAPEER AVE	SAGINAW	MI

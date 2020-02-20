@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRATTEIG	KINDRA	11098	1003983107110	11721 STINSON AVE	CHISAGO CITY	MN

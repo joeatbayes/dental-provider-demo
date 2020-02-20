@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALACH	GEORGE	MN8156	1316968340MN8	5805 GRAND AVE	DULUTH	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLIAMS-BARNES	KIMBERLY	D4711	1336292598D47	2500 N ROSE ST	FLAGSTAFF	AZ

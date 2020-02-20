@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLPORT	DAVID	8045	1740387265804	124 TIMBER DRIVE	DAYTON	TN

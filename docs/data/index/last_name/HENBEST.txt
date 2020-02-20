@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENBEST	BARRY	2689	1861402000268	833 N CURTIS AVE	PEA RIDGE	AR

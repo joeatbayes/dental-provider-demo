@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	JAE WON	125055	1699289645125	726 E. 9TH AVENUE	ANCHORAGE	AK

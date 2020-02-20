@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARKOFSKY	STEWART	12305	1932302528123	3326 FORT ST	LINCOLN PARK	MI

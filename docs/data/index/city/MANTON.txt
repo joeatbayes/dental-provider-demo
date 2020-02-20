@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RITTER	CHRIS	D11624	1598739914D11	113 E 7TH ST	MANTON	MI

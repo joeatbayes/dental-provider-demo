@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCTIGUE	KATHRYN	11007	1194217638110	NOME BYPASS RD	NOME	AK

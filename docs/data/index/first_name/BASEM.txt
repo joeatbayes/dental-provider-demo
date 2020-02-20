@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AL-TAANI	BASEM	2901018142	1033280789290	18900 MICHIGAN AVE	DEARBORN	MI

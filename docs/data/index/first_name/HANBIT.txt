@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHI	HANBIT	1481	1487994075148	2421 E TUDOR RD	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDSTROM	LISA	D12681	1922235027D12	8977 HUNTERS WAY	APPLE VALLEY	MN

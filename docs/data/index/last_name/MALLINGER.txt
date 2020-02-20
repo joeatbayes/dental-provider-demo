@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALLINGER	MICHAEL	D9530	1740528140D95	50 MCANDREWS RD E	BURNSVILLE	MN

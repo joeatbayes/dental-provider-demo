@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAREK	OLOLADE	11402	1477664233114	2165 WHITE BEAR AVE	MAPLEWOOD	MN

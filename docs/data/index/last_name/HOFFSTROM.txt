@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOFFSTROM	ANJA	2901021945	1891147187290	1320 W RIDGE ST	MARQUETTE	MI

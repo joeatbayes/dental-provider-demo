@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMLETT	BUTCH	3397	1982634457339	622 W COURT ST	PARAGOULD	AR

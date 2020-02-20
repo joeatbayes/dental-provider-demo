@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATTERELL	SARAH	D12679	1497982318D12	10945 ULYSSES ST NE	BLAINE	MN

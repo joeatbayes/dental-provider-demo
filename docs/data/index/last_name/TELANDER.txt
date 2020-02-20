@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TELANDER	THOMAS	9816	1285691378981	7373 FRANCE AVE S	EDINA	MN

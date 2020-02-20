@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRIZMAN	JEANNE	D008524	1255687257D00	2249 E ADAMS ST	TUCSON	AZ

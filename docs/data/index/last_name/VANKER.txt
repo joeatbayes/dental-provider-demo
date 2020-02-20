@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANKER	DAVID	11406	1598980377114	837 FOREST AVE	BIRMINGHAM	MI

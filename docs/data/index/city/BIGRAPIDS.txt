@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STERN	PAUL	901018859	1780604843901	106 LOCUST	BIGRAPIDS	MI

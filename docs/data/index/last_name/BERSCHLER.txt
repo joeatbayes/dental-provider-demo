@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERSCHLER	BENJAMIN	D7500	1013918135D75	111 W. MONROE STREET	PHOENIX	AZ

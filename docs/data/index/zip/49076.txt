@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEWIS	LANA	2901018896	1619072691290	123 S MAIN ST	OLIVET	MI

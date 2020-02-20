@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWEDEH	OSMAN	11981	1225002579119	405 E MAIN STREET	BLOOMING PRAIRIE	MN

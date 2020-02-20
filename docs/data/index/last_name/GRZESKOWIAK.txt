@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRZESKOWIAK	THOMAS	7948	1053422808794	1430 HIGHWAY 96	WHITE BEAR LAKE	MN

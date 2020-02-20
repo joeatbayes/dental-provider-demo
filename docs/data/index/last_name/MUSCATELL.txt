@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUSCATELL	CANAAN	D13824	1457888463D13	1965 CLIFF LAKE RD STE 102	EAGAN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOTE	ARTHUR	9213	1710028444921	610 SMITHVIEW DR	MARYVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TANN	RICHARD	290102739	1669722856290	79 W ALEXANDRINE ST FL 3	DETROIT	MI

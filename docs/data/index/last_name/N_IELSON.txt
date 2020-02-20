@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+N IELSON	DAVID	AA659	1528088358AA6	6222 W DIMOND BLVD	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUCKER	KENNETH	8621	1760449359862	4640 NICOLS RD	EAGAN	MN

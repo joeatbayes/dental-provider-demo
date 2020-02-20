@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARLINGHOUSE	JOHN	3188	1043318256318	2680 E JOYCE BLVD	FAYETTEVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ECKARD	DONALD	2076	1396877569207	806 N 20TH PL	ROGERS	AR

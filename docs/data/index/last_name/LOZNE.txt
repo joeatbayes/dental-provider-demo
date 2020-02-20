@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOZNE	ELENA	D10225	1235298746D10	8980 HUDSON BLVD N	LAKE ELMO	MN

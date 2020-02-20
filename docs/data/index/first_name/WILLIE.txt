@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENNIS	WILLIE	2572	1720134463257	2500 E VAN BUREN ST	PHOENIX	AZ

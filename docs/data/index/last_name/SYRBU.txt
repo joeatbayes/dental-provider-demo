@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SYRBU	NATALIE	D13354	1144632555D13	1905 PLAZA DR	EAGAN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDRES	TIMOTHY	2901016469	1144315656290	1717 FORD AVE.	WYANDOTTE	MI

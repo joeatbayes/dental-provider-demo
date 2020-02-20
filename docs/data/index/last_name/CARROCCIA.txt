@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARROCCIA	ANTHONY	7717	1609876572771	2088 LOWES DR	CLARKSVILLE	TN

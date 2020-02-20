@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITIS	HARRY	2102	1750410619210	802 WEST KEISER STREET	OSCEOLA	AR

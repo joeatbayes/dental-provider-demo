@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RABINOWITZ	IRA	D9823	1720147242D98	4959 EXCELSIOR BLVD	ST LOUIS PARK	MN

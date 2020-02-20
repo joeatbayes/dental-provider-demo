@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POLLAK	LAWRENCE	11110	1942325725111	2184 N BEECH DALY RD	DEARBORN HTS	MI

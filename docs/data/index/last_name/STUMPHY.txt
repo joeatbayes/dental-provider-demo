@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STUMPHY	MARK	7883	1942523352788	1743 W PRINCE RD	TUCSON	AZ

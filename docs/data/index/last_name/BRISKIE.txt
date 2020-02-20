@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRISKIE	DANIEL	14206	1306820600142	1814 S ROCHESTER RD	ROCHESTER HILLS	MI

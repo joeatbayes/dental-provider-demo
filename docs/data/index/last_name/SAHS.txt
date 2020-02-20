@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAHS	KENNETH	6525	1710997978652	1615 14TH ST NW	ROCHESTER	MN

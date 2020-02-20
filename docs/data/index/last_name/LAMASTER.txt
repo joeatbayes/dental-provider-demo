@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMASTER	AARON	3632	1447441241363	123 N CENTER ST	LONOKE	AR

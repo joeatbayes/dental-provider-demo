@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAKAICHI	STEVEN	8396	1629072574839	1026 3RD ST	INTL FALLS	MN

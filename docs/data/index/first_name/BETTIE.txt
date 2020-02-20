@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRANE	BETTIE	D 5327	1215150263D53	1425 N BEAVER ST	FLAGSTAFF	AZ

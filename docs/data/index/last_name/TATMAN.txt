@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TATMAN	MARK	7528	1407874340752	110 W NORTH ST	PORTLAND	IN

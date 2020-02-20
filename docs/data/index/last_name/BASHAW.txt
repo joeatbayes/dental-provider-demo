@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASHAW	THOMAS	D09824	1922065416D09	710 DODGE AVE NW	ELK RIVER	MN

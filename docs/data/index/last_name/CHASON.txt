@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHASON	STEVE	2529	1558396119252	216 S SECOND ST	AUGUSTA	AR

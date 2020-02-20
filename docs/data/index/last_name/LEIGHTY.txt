@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEIGHTY	CHAD	12009572	1851480461120	830 N THEATRE RD	MARION	IN

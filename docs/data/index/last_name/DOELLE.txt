@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOELLE	DENNIS	AZ2133	1386947620AZ2	7223 E CAREFREE DR	CAREFREE	AZ

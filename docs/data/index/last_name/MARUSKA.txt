@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARUSKA	ERIN	D6686	1891810552D66	8466 W PEORIA AVE STE 12	PEORIA	AZ

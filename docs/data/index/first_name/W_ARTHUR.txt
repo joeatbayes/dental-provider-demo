@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCKMAN	W. ARTHUR	DS4535	1568518363DS4	11 SECURITY DR	JACKSON	TN

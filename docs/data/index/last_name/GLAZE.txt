@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLAZE	STEPHEN	D009600	1760840300D00	2702 N 3RD ST STE 4020	PHOENIX	AZ

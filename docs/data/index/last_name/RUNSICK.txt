@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUNSICK	BRIAN	3570	1972687994357	520 W PERSHING BLVD	NORTH LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AEBERSOLD	ANITA	2500	1386706224250	820 N UNIVERSITY AVE	LITTLE ROCK	AR

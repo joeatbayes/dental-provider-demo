@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARSINI	HEDAYAT	D5084	1235356262D50	"6524 W. INDIAN SCHOOL ROAD, SUITE A"	PHOENIX	AZ

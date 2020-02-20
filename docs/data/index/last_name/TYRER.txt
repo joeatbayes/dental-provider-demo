@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TYRER	DEAN	2525	1184713133252	2603 BROWNS LN	JONESBORO	AR

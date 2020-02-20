@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDQUIST	KRISTIN	9462	1629053392946	1668 COPE AVE E	MAPLEWOOD	MN

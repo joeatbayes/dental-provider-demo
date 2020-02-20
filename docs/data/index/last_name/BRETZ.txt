@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRETZ	TERI	D11745	1447274089D11	3401 WOODDALE AVE S	ST LOUIS PARK	MN

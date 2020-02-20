@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALCOLM	NANCY	3232	1841205622323	910 ENTERPRISE DR	JONESBORO	AR

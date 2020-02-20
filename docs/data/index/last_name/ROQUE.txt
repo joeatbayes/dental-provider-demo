@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROQUE	CHERI	7940	1659537769794	10213 N 92ND ST STE H-102	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAUCHER	CHELSEA	12012386A	1659746816120	13190 HAZEL DELL PKWY	CARMEL	IN

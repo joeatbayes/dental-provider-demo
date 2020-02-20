@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAR	HARJOT	D6387	1720192578D63	10630 N 59TH AVE	GLENDALE	AZ

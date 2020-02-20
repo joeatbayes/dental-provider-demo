@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALTER	LEILA	12009998A	1174671200120	2127 16TH ST	BEDFORD	IN

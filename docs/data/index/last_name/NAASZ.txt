@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAASZ	KATRINA	LL-340-13	1720187636LL-	4212 N 16TH ST	PHOENIX	AZ

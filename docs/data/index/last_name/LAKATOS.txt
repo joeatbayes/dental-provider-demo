@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAKATOS	MONICA	2901016607	1528121662290	1179 WHITEHALL RD	MUSKEGON	MI

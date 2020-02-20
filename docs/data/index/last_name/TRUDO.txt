@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRUDO	RICHARD	2901018855	1083723787290	4386 STATE ST	SAGINAW	MI

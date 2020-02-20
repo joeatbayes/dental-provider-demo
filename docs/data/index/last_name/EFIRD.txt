@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EFIRD	CLYDE	2077	1821004664207	927 S MAIN ST	MALVERN	AR

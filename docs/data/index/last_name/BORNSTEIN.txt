@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORNSTEIN	THOMAS	724	1558435446724	3245 HOSPITAL DR	JUNEAU	AK

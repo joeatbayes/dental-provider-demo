@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DE LOS RIOS	GABRIEL	D14297	1265086011D14	110 1ST ST N	MONTGOMERY	MN

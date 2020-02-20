@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOLIADKO	JOE	AK1042	1235151374AK1	4201 TUDOR CENTRE DR	ANCHORAGE	AK

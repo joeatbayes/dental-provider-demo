@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAY	DAVID	D8227	1023239316D82	6545 FRANCE AVE S	EDINA	MN

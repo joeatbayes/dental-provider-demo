@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARISI	SUE	2901018400	1477678472290	60 W BIG BEAVER RD	BLOOMFIELD HILLS	MI

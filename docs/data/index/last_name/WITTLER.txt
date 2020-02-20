@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITTLER	MICHELLE	12009794A	1568563468120	534 STATE ROAD 32 E	WESTFIELD	IN

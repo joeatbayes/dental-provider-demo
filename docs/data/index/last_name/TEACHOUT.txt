@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEACHOUT	LAUREN	4188	1396275350418	2551 STATE HIGHWAY 77 S	MARION	AR

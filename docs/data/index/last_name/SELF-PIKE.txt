@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SELF-PIKE	JILL	3403	1073632220340	3710 SOUTHERN HILLS BLVD STE 700	ROGERS	AR

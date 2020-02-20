@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAPPETT	ANDREW	1276	1609031285127	122 1ST AVE	FAIRBANKS	AK

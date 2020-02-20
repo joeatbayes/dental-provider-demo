@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OFSTEHAGE	JOHN	9033	1679679252903	1 VETERANS DR	MINNEAPOLIS	MN

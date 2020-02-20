@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUNGNER	ERIC	D12645	1124254248D12	800 CALIFORNIA AVE W	SAINT PAUL	MN

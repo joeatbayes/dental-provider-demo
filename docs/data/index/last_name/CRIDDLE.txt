@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRIDDLE	MICHAEL	2922	1538299441292	13619 N 59TH AVE	GLENDALE	AZ

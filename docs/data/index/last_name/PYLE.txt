@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PYLE	RICHARD	12009262	1992877617120	800 W UNIVERSITY AVE	MUNCIE	IN

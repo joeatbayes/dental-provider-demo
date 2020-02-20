@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OAKES DDS	W	DS2383	1164609657DS2	4513 HIXSON PIKE	HIXSON	TN

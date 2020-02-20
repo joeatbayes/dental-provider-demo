@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCALINDON	SCOTT	D14729	1225167158D14	211 SOUTH COURT STREET	AU GRES	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAPACZ	WALTER	2210	1184966855221	3646 E RAY RD STE B-14	PHOENIX	AZ

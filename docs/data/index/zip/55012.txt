@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIVARD	JEFFREY	8304	1962506329830	420 GRAND AVE.	CENTER CITY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GILLARD	JOHN	9098	1295797611909	945 ECHO DR SE	HUTCHINSON	MN

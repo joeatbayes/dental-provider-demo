@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JONES	NAVINA	D11483	1871695718D11	132 ELTON HILLS LN NW	ROCHESTER	MN

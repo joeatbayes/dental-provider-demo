@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIEHMER	TERENCE	6778	1275636409677	1739 W AJO WAY	TUCSON	AZ

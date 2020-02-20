@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUROWS	CLAIRE	1250	1114250586125	935 E WESTPOINT DR	WASILLA	AK

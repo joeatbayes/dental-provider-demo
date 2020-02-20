@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUPTA	ANISH	2901020371	1518251230290	28282 DEQUINDRE RD	WARREN	MI

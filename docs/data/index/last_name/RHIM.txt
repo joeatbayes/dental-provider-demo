@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RHIM	CHANG	12010392A	1932288057120	5500 S HOHMAN AVE	HAMMOND	IN

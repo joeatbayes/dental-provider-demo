@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEISEL	CIMONE	3712	1609003037371	1 CHILDRENS WAY # 107	LITTLE ROCK	AR

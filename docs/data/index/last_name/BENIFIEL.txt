@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BENIFIEL	BRUCE	12008886	1720171077120	925 E UNIVERSITY DR	GRANGER	IN

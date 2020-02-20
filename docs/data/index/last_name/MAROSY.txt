@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAROSY	DIANE	2933	1427167212293	400 PINE AVE	MENA	AR

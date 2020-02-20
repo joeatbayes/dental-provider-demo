@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RINDELAUB	DARCY	6666-015	1639126683666	3585 124TH AVE NW	COON RAPIDS	MN

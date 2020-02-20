@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMPSON	ISABEL	D7942	1285957068D79	725 N CENTRAL AVE	AVONDALE	AZ

@@ -1,0 +1,2 @@
+BOPP	1
+BOPPANA	1

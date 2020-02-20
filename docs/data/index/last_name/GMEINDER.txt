@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GMEINDER	LORI	6042015	1184716755604	10150 CITY WALK DR APT C	WOODBURY	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VARNO	JOSEPH	MN9810	1780845073MN9	5112 DUGGAN PLZ	EDINA	MN

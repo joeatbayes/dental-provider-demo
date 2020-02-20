@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANGSJOEN	ERIK	8228	1710045190822	1411 W SAINT GERMAIN ST	SAINT CLOUD	MN

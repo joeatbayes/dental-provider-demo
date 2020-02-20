@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUIDRY	JENNIFER	9962	1538222583996	451 MURFREESBORO PIKE	NASHVILLE	TN

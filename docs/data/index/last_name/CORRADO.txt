@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORRADO	ANDREW	12013186A	1912567173120	1941 W BOULEVARD	KOKOMO	IN

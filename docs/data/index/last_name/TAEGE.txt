@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAEGE	BRENDA	D5941	1265645873D59	8416 E SHEA BLVD	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HULITT	MARY	53537	1770759342535	1790 7TH ST E	SAINT PAUL	MN

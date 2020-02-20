@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHIKOS	JULIUS	6598	1295905065659	21775 WILDWOOD STREET	DEARBORN	MI

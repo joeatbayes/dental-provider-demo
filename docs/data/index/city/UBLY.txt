@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUCINARI	DAVID	D13604	1851508592D13	2228 MAIN ST	UBLY	MI

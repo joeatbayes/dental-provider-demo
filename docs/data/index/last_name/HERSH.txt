@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERSH	NELSON	12995	1366495434129	2300 HAGGERTY ROAD	WEST BLOOMFIELD	MI

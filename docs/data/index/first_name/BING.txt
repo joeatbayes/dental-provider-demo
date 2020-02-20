@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOWLER	BING	12007234A	1447479613120	1911 S WABASH ST	WABASH	IN

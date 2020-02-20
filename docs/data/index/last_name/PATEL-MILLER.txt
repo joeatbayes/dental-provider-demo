@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATEL-MILLER	RITA	19027875	1003045444190	102 E 107TH AVE	CROWN POINT	IN

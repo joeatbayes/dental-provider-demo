@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIGHALL	NEIL	D8852	1770503005D88	406 S 3RD ST	LA CRESCENT	MN

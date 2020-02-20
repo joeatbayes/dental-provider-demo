@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLINT	DAVID	15093	1235247727150	806 N WASHINGTON AVE	LANSING	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THIERER	TODD	041625-1	1851408165041	2500 COMO AVE	SAINT PAUL	MN

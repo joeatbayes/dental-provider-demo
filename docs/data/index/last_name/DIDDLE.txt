@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIDDLE	JOHN	DS 2753	1558385872DS2	9220 DUTCHTOWN ROAD	KNOXVILLE	TN

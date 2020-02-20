@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILMES	KRISTAL	D13982	1982194098D13	197 N TYLER ST	TYLER	MN

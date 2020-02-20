@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUSILIER	JEFFREY	2947	1114362043294	101 DENTISTA DR	HOT SPRINGS VILLAGE	AR

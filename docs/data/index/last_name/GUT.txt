@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUT	DENNIS	2901011054	1417075847290	9416 S MAIN ST	PLYMOUTH	MI

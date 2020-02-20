@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEHLS	GARY	1633	1992712574163	392 W JACKSON ST	PIGGOTT	AR

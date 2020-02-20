@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANDRY	CYNTHIA	2747	1023171808274	503 MCCLELLAN ST	LEPANTO	AR

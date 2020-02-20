@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OESTREICH	AMANDA	D13061	1891057816D13	4131 26TH ST NW	ROCHESTER	MN

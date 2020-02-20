@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VUKODINOVICH	THOMAS	9526	1124172754952	542 SNELLING AVE S	SAINT PAUL	MN

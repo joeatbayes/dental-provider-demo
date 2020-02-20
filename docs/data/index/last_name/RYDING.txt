@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYDING	BRUCE	11628	1710198114116	31350 TELEGRAPH RD	BINGHAM FARMS	MI

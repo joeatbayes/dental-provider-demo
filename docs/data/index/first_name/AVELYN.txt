@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITE	AVELYN	1834446	1487731345183	11532 MORANG DR	DETROIT	MI

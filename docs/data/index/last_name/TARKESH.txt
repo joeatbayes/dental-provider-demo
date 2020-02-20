@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARKESH	NOZAR	D010431	1902458086D01	3530 S VAL VISTA DR	GILBERT	AZ

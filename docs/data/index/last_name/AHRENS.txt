@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AHRENS	JOHN	2042	1588777056204	403 E 7TH ST	MOUNTAIN HOME	AR

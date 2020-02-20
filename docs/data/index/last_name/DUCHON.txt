@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUCHON	MARTHA	2479	1528080488247	622 N COUNTRY CLUB RD	TUCSON	AZ

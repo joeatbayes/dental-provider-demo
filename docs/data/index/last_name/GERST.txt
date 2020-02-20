@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERST	BARRY	7880	1851330054788	2701 NICOLLET AVE	MINNEAPOLIS	MN

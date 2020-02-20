@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BECKFORD	ANDREA	1023	1043316557102	123 MARMONT ST	NILES	MI

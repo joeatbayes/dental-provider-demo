@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRULLARD	TAMMY	2901014156	1710020680290	2340 E STADIUM BLVD	ANN ARBOR	MI

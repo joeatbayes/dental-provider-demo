@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIM	SEOK-JIN	12010267A	1104949783120	1121 W MICHIGAN ST	INDIANAPOLIS	IN

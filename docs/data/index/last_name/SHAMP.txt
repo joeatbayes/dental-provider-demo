@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHAMP	DOUGLAS	9126	1457349599912	7270 FORESTVIEW LN N	MAPLE GROVE	MN

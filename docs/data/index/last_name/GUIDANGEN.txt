@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUIDANGEN	JOAN	101495	1306369970101	1717 W COWLES ST	FAIRBANKS	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEDLOCK	KEVIN	AA1001	1912241704AA1	MILE 187.5 GLENN HWY	GLENNALLEN	AK

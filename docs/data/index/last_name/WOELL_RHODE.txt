@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOELL RHODE	ELIZABETH	D13559	1336521806D13	1717 E 66TH ST	RICHFIELD	MN

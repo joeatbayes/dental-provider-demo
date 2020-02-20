@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUDER	JOSEPH	DS7362	1982707337DS7	3105 KIRBY WHITTEN PARKWAY	BARTLETT	TN

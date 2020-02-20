@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEORGES	ALINA	2901022616	1942796867290	4005 HIGHLAND RD	WATERFORD	MI

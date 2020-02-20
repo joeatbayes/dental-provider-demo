@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOSMAN	CODRUTA	D12031	1568520328D12	205 PLEASANT AVE S	PARK RAPIDS	MN

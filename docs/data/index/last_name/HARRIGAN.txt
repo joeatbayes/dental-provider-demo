@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRIGAN	ROBERT	2840	1255323507284	3143 N 32ND ST	PHOENIX	AZ

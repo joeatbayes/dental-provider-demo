@@ -1,0 +1,2 @@
+GAUGER	1
+GAUGH	1

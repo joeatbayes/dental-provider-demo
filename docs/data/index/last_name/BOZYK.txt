@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOZYK	WHITNEY	2901023217	1588223895290	6714 S WESTNEDGE AVE	PORTAGE	MI

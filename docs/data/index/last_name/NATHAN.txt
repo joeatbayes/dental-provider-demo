@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NATHAN	JOHN	D13854	1760917199D13	200 1ST ST SW	ROCHESTER	MN

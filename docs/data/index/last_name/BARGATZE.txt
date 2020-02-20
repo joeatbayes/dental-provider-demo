@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARGATZE	HONEY	9467	1295893378946	522A BRANDIES CIR	MURFREESBORO	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHN	VANCHIT	12010162A	1790721991120	3750 GUION RD	INDIANAPOLIS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COWGILL	KEMPER	7063	1134212525706	120 W MAIN ST	CALEDONIA	MN

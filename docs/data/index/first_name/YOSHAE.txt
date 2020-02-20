@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLETCHER	YOSHAE	DO10424	1720640279DO1	9160 S HOUGHTON RD STE 100	TUCSON	AZ

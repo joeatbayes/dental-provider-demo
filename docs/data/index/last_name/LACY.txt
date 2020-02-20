@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACY	RYAN	D009788	1861915407D00	2025 N POWER RD STE 101	MESA	AZ

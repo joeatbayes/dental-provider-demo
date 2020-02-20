@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARZOLF	JAMES	2440	1346450236244	1417 N BEAVER ST	FLAGSTAFF	AZ

@@ -1,0 +1,2 @@
+ALICE	8
+ALICIA	6

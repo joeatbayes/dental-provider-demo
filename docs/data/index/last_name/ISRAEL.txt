@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISRAEL	MEREDITH	2901018695	1467539015290	11885 E 12 MILE RD	WARREN	MI

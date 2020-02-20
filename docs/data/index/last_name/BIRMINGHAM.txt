@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIRMINGHAM	MARK	106211	1538528641106	4501 E SNIDER DR	WASILLA	AK

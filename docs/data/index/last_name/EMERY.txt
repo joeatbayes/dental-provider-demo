@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EMERY	WILLIAM	DS-3087	1114092277DS-	306 BLUEBIRD DR	GOODLETTSVILLE	TN

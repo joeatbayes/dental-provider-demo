@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRIESSEN	STEPHANIE	D13368	1184036048D13	311 DEWEY ST	FOLEY	MN

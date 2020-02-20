@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARD	STEPHEN	2901014859	1235276882290	45270 JOY RD	PLYMOUTH	MI

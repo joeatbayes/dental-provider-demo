@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASADI	GOLINAZ	5400	1740249127540	6601 W THOMAS RD	PHOENIX	AZ

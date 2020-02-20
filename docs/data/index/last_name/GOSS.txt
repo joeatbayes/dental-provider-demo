@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOSS	LINDSAY	D008167	1902196371D00	2987 W. ELLIOT ROAD	CHANDLER	AZ

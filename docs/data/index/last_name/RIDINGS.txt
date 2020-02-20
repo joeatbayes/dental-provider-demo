@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIDINGS	ALBERT	2901008959	1871607838290	335 W HURON ST	MILFORD	MI

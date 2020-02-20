@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPRITZER	IRA	22DI01421000	139686943422D	500 INDIANA AVE	WINSLOW	AZ

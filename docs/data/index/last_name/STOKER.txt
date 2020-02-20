@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOKER	CHAD	5354	1629025259535	625 W SOUTHERN AVE STE E-145	MESA	AZ

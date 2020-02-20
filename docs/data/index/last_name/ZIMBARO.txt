@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIMBARO	JOHN	1931	1053632125193	3400 HIGHWAY 95	BULLHEAD CITY	AZ

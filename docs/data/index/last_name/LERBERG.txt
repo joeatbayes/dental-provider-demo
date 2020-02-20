@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LERBERG	LEE	D7570	1891751004D75	4410 NATHAN LN N	PLYMOUTH	MN

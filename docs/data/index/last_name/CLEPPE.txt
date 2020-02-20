@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLEPPE	DAVID	2901016781	1841341351290	16 S SAINT JOSEPH AVE	NILES	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAYLORD	WILLIAM	1158	1003951161115	713 N BEAVER ST	FLAGSTAFF	AZ

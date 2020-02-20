@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+D'AOUST	DIANA	15552	1740678531155	7 N 10TH ST	NASHVILLE	TN

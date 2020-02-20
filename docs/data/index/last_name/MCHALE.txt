@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCHALE	JAMES	11841	1528136314118	15310 TRENTON RD	SOUTHGATE	MI

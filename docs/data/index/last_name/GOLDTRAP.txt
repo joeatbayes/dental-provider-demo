@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLDTRAP	ROBERT	3242	1699951996324	8309 PHOENIX AVE	FORT SMITH	AR

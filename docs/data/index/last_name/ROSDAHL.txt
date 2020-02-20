@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSDAHL	KEITH	D4345	1073791919D43	1959 COMMERCE CENTER CIR.	PRESCOTT	AZ

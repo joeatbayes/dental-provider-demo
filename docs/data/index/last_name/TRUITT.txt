@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRUITT	JAMES	12008154A	1124166723120	490 BOWEN PARK AVE	HUNTINGTON	IN

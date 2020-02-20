@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUNDET	CINDY	D9853	1154493310D98	3925 W 50TH ST STE 203	EDINA	MN

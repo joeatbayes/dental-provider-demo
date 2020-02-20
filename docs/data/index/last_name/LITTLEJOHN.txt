@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LITTLEJOHN	EDWARD	D8070	1043339401D80	255 HARRIET ST	WINONA	MN

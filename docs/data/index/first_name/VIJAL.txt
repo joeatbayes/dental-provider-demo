@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VADECHA	VIJAL	D010123	1770069387D01	1619 N DYSART RD	AVONDALE	AZ

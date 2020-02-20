@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MATTHIAE	JAMES	D9265	1982779989D92	206 1ST ST SE	WADENA	MN

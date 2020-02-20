@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARNING	TIMOTHY	9842	1457804718984	7333 SHALLOWFORD RD	CHATTANOOGA	TN

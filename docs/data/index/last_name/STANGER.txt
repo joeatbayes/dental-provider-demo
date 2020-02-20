@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STANGER	RYAN	D7754	1083840748D77	6601 S RURAL RD	TEMPE	AZ

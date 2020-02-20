@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORTIS	CHARLOTTE	16286	1568686731162	2805 E MOUNT HOPE AVE	LANSING	MI

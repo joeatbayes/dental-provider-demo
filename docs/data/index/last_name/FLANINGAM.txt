@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLANINGAM	JOHN	12007430A	1124142526120	514 N MAIN ST	PRINCETON	IN

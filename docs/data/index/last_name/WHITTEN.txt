@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITTEN	DON	2097	1134295553209	7400 N HILLS BLVD	SHERWOOD	AR

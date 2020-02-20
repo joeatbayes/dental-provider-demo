@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANGURI	MAE	10638	1851801955106	694 S WILLOW AVE	COOKEVILLE	TN

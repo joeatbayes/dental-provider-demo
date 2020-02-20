@@ -1,0 +1,2 @@
+BEAM	1
+BEAMS	1

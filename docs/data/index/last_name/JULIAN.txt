@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JULIAN	LOWELL	7953	1295809648795	7275 147TH ST W	APPLE VALLEY	MN

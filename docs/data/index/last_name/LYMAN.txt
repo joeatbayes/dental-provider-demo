@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LYMAN	JASON	5256	1881760155525	407 E IOWA	HOLBROOK	AZ

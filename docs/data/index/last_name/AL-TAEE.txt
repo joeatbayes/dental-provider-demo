@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AL-TAEE	ANAS	R750	1275188823R75	515 DELAWARE ST SE	MINNEAPOLIS	MN

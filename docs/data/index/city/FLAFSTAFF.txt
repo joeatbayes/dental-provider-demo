@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KING	SUE	2588	1992958995258	2708 N 4TH ST	FLAFSTAFF	AZ

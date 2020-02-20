@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAKUBAS	JOAN	10142	1093806598101	4721 HIAWATHA AVE	MINNEAPOLIS	MN

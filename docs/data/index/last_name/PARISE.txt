@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARISE	MARY	2901013755	1841476306290	4201 SAINT ANTOINE ST	DETROIT	MI

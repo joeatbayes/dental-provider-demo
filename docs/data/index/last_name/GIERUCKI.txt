@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIERUCKI	MAUREEN	2901018127	1194807974290	715 N BROADWAY ST	UNION CITY	MI

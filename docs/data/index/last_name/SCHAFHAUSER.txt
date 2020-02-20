@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAFHAUSER	MICHAEL	D8783	1912964800D87	30 7TH ST E	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANCHESTER	ELIZABETH	D13311	1063845618D13	6600 FRANCE AVE S	EDINA	MN

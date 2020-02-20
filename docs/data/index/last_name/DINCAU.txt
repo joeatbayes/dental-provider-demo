@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DINCAU	MICHAEL	16763	1912064981167	1237 E PARKDALE AVE	MANISTEE	MI

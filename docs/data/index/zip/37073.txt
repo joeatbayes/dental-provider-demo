@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLIS	DAVID	DS7699	1841397007DS7	2524 HIGHWAY 41 S	GREENBRIER	TN

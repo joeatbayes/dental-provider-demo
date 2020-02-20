@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZEMENS	LISA	16963	1548237456169	30795 23 MILE RD	CHESTERFIELD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALNATOUR	AHMAD	61072	1578795126610	7645 N ORACLE RD	ORO VALLEY	AZ

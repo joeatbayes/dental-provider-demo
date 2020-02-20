@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEUER	SARAH	D10895	1366546822D10	20 JUNIPER ST N	LESTER PRAIRIE	MN

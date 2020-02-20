@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KJELLBERG	GREGORY	9918	1174511570991	127 N BROADWAY ST	NEW ULM	MN

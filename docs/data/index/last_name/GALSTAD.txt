@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALSTAD	IRVIN	7078	1235172735707	1416 CENTRAL AVE NE	EAST GRAND FORKS	MN

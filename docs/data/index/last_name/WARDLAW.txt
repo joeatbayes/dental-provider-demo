@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WARDLAW	DAVID	2815	1386704385281	8315 CANTRELL ROAD	LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KREKLAU	STEVEN	MN9373	1285678466MN9	7710 BROOKLYN BLVD	BROOKLYN PARK	MN

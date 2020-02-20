@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PINKERTON	VALARIE	4476	1417136839447	6373 E TANQUE VERDE RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALAGE	RONALD	DS0000003572	1578533915DS0	710 NORTH MAIN ST	CLINTON	TN

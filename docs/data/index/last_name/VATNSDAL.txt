@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VATNSDAL	LORRIS	8949	1235176033894	205A 2ND AVE NW	ROSEAU	MN

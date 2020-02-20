@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAGGETT	JEFFREY	DS4678	1760712574DS4	304 E COLLEGE ST	DICKSON	TN

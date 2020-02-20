@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BECHTEL	JONATHAN	17632	1275625337176	609 E JOLLY RD	LANSING	MI

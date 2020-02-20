@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIHALO	MARK	12008927A	1679520647120	1339 W STATE ROAD 2	LAPORTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUDSON	GARRY	AR2123	1568562809AR2	7146 SR 247	POTTSVILLE	AR

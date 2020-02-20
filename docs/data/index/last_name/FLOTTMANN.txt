@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLOTTMANN	RICHARD	2136	1952509747213	2330 N 75TH AVE	PHOENIX	AZ

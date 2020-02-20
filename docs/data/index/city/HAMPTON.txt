@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURKE	TEDDY	8073	1568444180807	23325 WATER ST	HAMPTON	MN

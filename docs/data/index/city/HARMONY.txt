@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SATTLER	FRANZ	D7467	1265437677D74	30 1ST AVE SE	HARMONY	MN

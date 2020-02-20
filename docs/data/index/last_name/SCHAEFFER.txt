@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAEFFER	SARAH	21720	1598841587217	CORNER OF RT N12 &N7	FORT DEFIANCE	AZ

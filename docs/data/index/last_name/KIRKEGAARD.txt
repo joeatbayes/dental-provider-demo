@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIRKEGAARD	PAUL	9453	1053301960945	2278 COMO AVE	SAINT PAUL	MN

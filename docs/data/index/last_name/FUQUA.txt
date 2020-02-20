@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUQUA	LEONARD	DS0000002917	1063493500DS0	505 N KENTUCKY ST	KINGSTON	TN

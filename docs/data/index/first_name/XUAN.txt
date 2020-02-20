@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOU	XUAN	D12834	1588957351D12	5270 W 84TH ST	BLOOMINGTON	MN

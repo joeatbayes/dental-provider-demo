@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MATHISON	CHRISTOPHER	D11045	1366494254D11	1616 30TH AV S	MOORHEAD	MN

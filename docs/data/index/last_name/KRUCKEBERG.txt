@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRUCKEBERG	BREANNA	D009327	1518339118D00	1504 4TH ST NE	WASECA	MN

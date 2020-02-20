@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VEKER	STEVEN	D10301	1891819256D10	3925 W 44TH ST	EDINA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEFFRIES	JERRY	1875	1467544809187	1122 S WALDRON RD	FT SMITH	AR

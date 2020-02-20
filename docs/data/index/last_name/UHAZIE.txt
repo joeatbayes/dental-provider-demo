@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UHAZIE	PERRY	14784	1649312703147	2700 5TH AVE. S.	ESCANABA	MI

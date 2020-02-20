@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BENIAN	RICHARD	14656	1902866239146	9880 E GRAND RIVER AVE	BRIGHTON	MI

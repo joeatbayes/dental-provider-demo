@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GURSKY	BRUCE	2901011812	1962635409290	1952 BAYOU DR	BLOOMFIELD HILLS	MI

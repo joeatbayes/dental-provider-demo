@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCORD	TRENTON	3925	1952749517392	614 E EMMA AVE	SPRINGDALE	AR

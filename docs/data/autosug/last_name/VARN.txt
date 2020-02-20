@@ -1,0 +1,2 @@
+VARNER	2
+VARNO	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPTI	ELIAS	D10842	1982892030D10	855 VILLAGE CENTER DR	NORTH OAKS	MN

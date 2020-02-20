@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRENSHAW	JERE	DS 2617	1861496317DS2	1623 E REELFOOT AVE	UNION CITY	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAWBRIDGE	DAVID	2901010034	1669768982290	1 WATER ST	BOYNE CITY	MI

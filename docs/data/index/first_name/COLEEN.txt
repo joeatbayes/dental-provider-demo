@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCACHICK	COLEEN	9748	1841358819974	501 3RD ST	INTERNATIONAL FALLS	MN

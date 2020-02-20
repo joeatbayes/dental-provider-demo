@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEECH	DALL	1200	1558578252120	810 W 8TH ST	SAFFORD	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIZZIO	VINCENT	15442	1972662237154	6760 ALLEN RD	ALLEN PARK	MI

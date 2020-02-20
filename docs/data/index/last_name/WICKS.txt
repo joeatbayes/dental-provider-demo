@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WICKS	RUSSELL	3320	1841372257332	910 MADISON AVE	MEMPHIS	TN

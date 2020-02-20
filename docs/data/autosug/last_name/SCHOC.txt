@@ -1,0 +1,2 @@
+SCHOCH	1
+SCHOCK	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OKUN	BRUCE	2015	1811989403201	1050 E SOUTHERN AVE	TEMPE	AZ

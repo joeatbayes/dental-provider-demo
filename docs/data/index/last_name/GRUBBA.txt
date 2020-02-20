@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRUBBA	GREGORY	AA 731	1669684353AA7	4200 LAKE OTIS	ANCHORAGE	AK

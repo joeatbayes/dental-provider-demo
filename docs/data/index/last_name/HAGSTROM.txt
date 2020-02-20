@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAGSTROM	DAVID	D11449	1639150006D11	2112 VIKING DR NW	ROCHESTER	MN

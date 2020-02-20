@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CICHORACKI	JULIE	2901019164	1649313503290	162 S WATER ST	MARINE CITY	MI

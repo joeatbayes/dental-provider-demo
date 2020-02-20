@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORE	JANEEN	8778	1841220100877	7277 CHARLOTTE PIKE	NASHVILLE	TN

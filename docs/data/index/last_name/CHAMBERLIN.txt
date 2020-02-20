@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAMBERLIN	THOMAS	5549	1710190905554	3800 W RAY RD STE 9	CHANDLER	AZ

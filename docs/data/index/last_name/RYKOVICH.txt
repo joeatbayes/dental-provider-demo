@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYKOVICH	THOMAS	7513	1083739288751	1201 LINCOLN WAY W	MISHAWAKA	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUDMUNDSEN	JULIA	2901015606	1063597300290	5001 W ST JOE HWY	LANSING	MI

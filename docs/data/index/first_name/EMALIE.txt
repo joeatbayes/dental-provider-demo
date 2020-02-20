@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUTTON	EMALIE	10073	1598146425100	311 W 8TH ST	COLUMBIA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RANDOL	CLIFFORD	D007995	1700025673D00	4550 E THOMAS RD	PHOENIX	AZ

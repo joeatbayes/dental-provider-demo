@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPANISH	MARTY	D12417	1225232101D12	800 MARIE AVE	SOUTH SAINT PAUL	MN

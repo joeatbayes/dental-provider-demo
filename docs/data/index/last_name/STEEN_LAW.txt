@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEEN LAW	SANDRA	D10991	1629115639D10	5804 EXCELSIOR BLVD	ST LOUIS PARK	MN

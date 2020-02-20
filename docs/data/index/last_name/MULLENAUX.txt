@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MULLENAUX	DANIEL	6562	1790873032656	6549 E UNIVERSITY DR	MESA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIXON	DANIEL	DS2316	1699852988DS2	3515 CENTRAL PIKE	HERMITAGE	TN

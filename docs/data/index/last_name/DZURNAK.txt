@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DZURNAK	RICHARD	12185	1740354562121	30673 UTICA ROAD	ROSEVILLE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PREISCH	JAMES	12010523	1588684997120	1005 E LASALLE AVE	SOUTH BEND	IN

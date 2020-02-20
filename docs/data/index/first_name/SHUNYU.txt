@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIEH	SHUNYU	D4556	1972507333D45	2072 E SOUTHERN AVE	TEMPE	AZ

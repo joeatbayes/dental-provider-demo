@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAUDLIN	DANIEL	10702	1295834059107	3060 WEST CENTRE STREET	PORTAGE	MI

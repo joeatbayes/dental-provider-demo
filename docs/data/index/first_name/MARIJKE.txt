@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIERSEMA	MARIJKE	13213	1568507754132	3167 KALAMAZOO AVE SE	GRAND RAPIDS	MI

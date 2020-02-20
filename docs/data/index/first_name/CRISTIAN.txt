@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIERRA	CRISTIAN	10092	1265849426100	1037 WEST MAIN STREET	LEBANON	TN

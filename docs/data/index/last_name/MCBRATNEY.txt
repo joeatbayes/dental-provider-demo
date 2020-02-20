@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCBRATNEY	JOHN	566	1750415170566	6200 LAKE OTIS PKWY	ANCHORAGE	AK

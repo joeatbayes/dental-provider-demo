@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULDT	WILLIAM	D8754	1003860727D87	324 WEST SUPERIOR ST	DULUTH	MN

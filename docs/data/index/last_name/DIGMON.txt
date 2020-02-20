@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIGMON	LUCY	3676	1205099975367	3409 GATEWAY COVE	JONESBORO	AR

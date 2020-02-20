@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPIESKE	KURT	1275755779	1275755779616	600 PARK AVE	GRAND HAVEN	MI

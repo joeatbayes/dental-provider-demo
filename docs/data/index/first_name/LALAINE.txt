@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	LALAINE	12009923B	1023168887120	9595 WHITLEY DR	INDIANAPOLIS	IN

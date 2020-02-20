@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCOOK	DAVID	D7059	1205049681D70	1102 S GREENFIELD RD	MESA	AZ

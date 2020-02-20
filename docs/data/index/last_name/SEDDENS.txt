@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEDDENS	KEVIN	3026	1528123569302	1401 DUDLEY STREET	TEXARKANA	AR

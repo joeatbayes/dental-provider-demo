@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLATTERY	MICHAEL	2821	1093872418282	18440 N 7TH ST	PHOENIX	AZ

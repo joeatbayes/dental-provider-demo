@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAHR	THOMAS	1209	1285841858120	1277 E MISSOURI AVE STE 217	PHOENIX	AZ

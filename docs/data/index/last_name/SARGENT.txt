@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SARGENT	JOHN	298	1063541886298	3112 AIRPORT WAY	FAIRBANKS	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOELKE	CRISTINA	D010194	1417423104D01	201 S 36TH ST	PHOENIX	AZ

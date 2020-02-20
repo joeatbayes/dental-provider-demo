@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VARADI	ZOLTAN	D5731	1811012362D57	10147 GRAND AVE	SUN CITY	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPIGUZZA	ANDREWA	12011996A	1922447556120	4041 PARNELL AVE	FORT WAYNE	IN

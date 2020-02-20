@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PFANNENSTIEL	TERESA	19549	1548222839195	1109 S MAIN ST	ROYAL OAK	MI

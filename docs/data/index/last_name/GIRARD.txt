@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIRARD	CHARLES	10672	1093860413106	505 N JACKSON ST	JACKSON	MI

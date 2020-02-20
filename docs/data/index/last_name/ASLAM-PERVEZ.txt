@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASLAM-PERVEZ	NAWAF	S131	1982046892S13	200 1ST ST SW	ROCHESTER	MN

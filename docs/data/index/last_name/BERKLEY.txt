@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERKLEY	TERRY	D6022	1669541116D60	1830 S ALMA SCHOOL RD	MESA	AZ

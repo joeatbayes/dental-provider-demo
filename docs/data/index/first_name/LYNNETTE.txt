@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELIASON	LYNNETTE	D9959	1639222136D99	1230 COUNTY ROAD E E	SAINT PAUL	MN

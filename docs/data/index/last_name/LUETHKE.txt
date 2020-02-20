@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUETHKE	LARRY	DS5001	1972504371DS5	117 W SEVIER AVE	KINGSPORT	TN

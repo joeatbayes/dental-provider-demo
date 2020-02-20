@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRIESTER	WILLIAM	2498	1992871388249	5866 RIDGE BEND RD	MEMPHIS	TN

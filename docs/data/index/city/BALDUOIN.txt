@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUTTON	MAURICE	2901008143	1467468819290	1615 MICHIGAN AVE	BALDUOIN	MI

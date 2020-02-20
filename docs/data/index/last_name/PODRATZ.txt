@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PODRATZ	ADAM	5409-015	1124029913540	5201 BLOOMINGTON AVE	MINNEAPOLIS	MN

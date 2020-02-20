@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOODROW	GERALD	AZ4004	1962556597AZ4	3409 N 56TH ST	PHOENIX	AZ

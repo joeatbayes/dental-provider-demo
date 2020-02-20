@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOTIFF	STEPHANIE	D13850	1851820880D13	40 CENTRAL AVE	OSSEO	MN

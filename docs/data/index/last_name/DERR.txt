@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DERR	ROBERT	8696	1538275581869	7825 TERREY PINE CT	EDEN PRAIRIE	MN

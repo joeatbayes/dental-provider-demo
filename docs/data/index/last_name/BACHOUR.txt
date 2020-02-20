@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BACHOUR	PETRA	D14253	1750942223D14	515 DELAWARE ST SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LALLY	JOHN	2164	1194745745216	601 N 2ND ST	MCGEHEE	AR

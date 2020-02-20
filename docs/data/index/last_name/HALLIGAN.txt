@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLIGAN	COLLEEN	13057	1811214588130	1829 FIFTH AVE SOUTH	ANOKA	MN

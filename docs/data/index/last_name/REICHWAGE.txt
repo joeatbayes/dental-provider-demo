@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REICHWAGE	DAVID	6980	1578733713698	2031 REED RD	FORT WAYNE	IN

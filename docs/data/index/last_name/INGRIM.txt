@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INGRIM	GUY	696	1720278195696	4201 TUDOR CENTRE DR	ANCHORAGE	AK

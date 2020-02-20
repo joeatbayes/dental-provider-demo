@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADASHEK	SCOTT	D07951	1568629236D07	2080 E WILLIAMS FIELD RD STE 104	GILBERT	AZ

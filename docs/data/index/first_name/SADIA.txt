@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUBAIRI	SADIA	3595	1003973942359	820 N UNIVERSITY AVENUE	LITTLE ROCK	AR

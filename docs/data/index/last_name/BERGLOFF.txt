@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGLOFF	JONATHAN	D6677	1427260546D66	1070 E RAY RD	CHANDLER	AZ

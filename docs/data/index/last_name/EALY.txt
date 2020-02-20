@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EALY	TODD	7992	1154311884799	9203 LEE HWY	OOLTEWAH	TN

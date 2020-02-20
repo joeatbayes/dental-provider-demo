@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELOVICH	SIARA	D13137	1386990539D13	1736 COPE AVE E	MAPLEWOOD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHATKOWSKI	SUSAN	9494	1710080080949	1131 6 STREET NW	ROCHESTER	MN

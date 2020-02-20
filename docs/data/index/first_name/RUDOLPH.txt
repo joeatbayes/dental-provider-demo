@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUEHL	RUDOLPH	D4086	1487745014D40	2600 SILVER CREEK RD	BULLHEAD CITY	AZ

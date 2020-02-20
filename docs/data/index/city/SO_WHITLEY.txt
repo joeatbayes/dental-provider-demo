@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LYNCH	KELLY	8585	1578796405858	202 STATE ST	SO. WHITLEY	IN

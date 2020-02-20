@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITNEY	PAUL	3598	1528167681359	5200 E CORTLAND BLVD	FLAGSTAFF	AZ

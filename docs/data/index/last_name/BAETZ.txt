@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAETZ	RANDALL	2901011004	1174624746290	7150 DIXIE HWY	CLARKSTON	MI

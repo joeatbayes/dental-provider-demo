@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRIS	ANYA	2901022385	1164962015290	2900 N SAGINAW ST	FLINT	MI

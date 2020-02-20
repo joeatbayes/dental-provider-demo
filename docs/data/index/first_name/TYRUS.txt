@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAMPBELL	TYRUS	12008966	1750419404120	931 E 86TH ST	INDIANAPOLIS	IN

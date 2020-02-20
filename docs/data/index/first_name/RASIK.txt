@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATEL	RASIK	D3347	1982841367D33	8010 E. MCDOWELL RD.	SCOTTSDALE	AZ

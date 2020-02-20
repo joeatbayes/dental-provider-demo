@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOWELL	BENJAMIN	D010335	1316506330D01	323 N LEROUX ST STE 100	FLAGSTAFF	AZ

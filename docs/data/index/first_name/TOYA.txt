@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAWSON	TOYA	DS00000005113	1619076676DS0	2348 PARK AVENUE	MEMPHIS	TN

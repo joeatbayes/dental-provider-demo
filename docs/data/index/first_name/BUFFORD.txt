@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUFFRIDGE	BUFFORD	1965	1457649220196	2606 BROWNS LN	JONESBORO	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAOUD	JOURAISH	18924	1730362492189	2600 N M 52	STOCKBRIDGE	MI

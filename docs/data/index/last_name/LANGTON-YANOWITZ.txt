@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANGTON-YANOWITZ	SONJA	D12797	1487966701D12	18 3RD ST SW	ROCHESTER	MN

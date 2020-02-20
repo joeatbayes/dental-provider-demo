@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BINSTOCK	KATRINA	D11222	1154490472D11	445 LAKE ST E	WAYZATA	MN

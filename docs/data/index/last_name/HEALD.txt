@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEALD	STEPHEN	8476	1639183189847	1700 PACKARD ST	ANN ARBOR	MI

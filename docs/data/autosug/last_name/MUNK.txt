@@ -1,0 +1,2 @@
+MUNK	2
+MUNKEL	1

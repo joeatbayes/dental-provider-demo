@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAVE-MANSKER	REBECCA	1291	1386706737129	807 COLLEGE ROAD	FAIRBANKS	AK

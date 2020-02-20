@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICARD	RAPHAEL	6847	1841422334684	26700 S US HIGHWAY 85	BUCKEYE	AZ

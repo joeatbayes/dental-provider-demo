@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RESTAURI	DONALD	13193	1699820928131	5589 E. M-36	PINCKNEY	MI

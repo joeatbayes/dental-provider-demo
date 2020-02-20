@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALEX	SONIA	12010252A	1598837726120	10438 OLIO RD	FISHERS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+APPELDOORN	JEROME	7396	1154345247739	600 PROFESSIONAL DR	NORTHFIELD	MN

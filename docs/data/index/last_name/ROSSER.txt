@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSSER	ROCKEY	D009724	1689102972D00	781 S COTTON LN STE 100	GOODYEAR	AZ

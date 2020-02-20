@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HSIA	LAWRENCE	DS3931	1811047368DS3	1010 JUNE RD	MEMPHIS	TN

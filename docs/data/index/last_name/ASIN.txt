@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASIN	ROYA	D10077	1538655485D10	11111 N SCOTTSDALE RD STE 120	SCOTTSDALE	AZ

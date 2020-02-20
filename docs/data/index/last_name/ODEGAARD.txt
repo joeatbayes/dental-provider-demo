@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ODEGAARD	DANIEL	D7836	1104004993D78	825 NICOLLET MALL	MINNEAPOLIS	MN

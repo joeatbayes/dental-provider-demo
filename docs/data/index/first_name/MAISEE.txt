@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOUA-MCDANIEL	MAISEE	D14178	1831755776D14	1313 PENN AVE N	MINNEAPOLIS	MN

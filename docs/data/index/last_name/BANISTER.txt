@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANISTER	ROBERT	2692	1710099387269	4 MEDICAL LN	CONWAY	AR

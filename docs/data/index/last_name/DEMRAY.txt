@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMRAY	WILLIAM	2901011027	1518983402290	371 E MAIN STREET	NORTHVILLE	MI

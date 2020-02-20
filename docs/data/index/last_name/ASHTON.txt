@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASHTON	RICHARD	D9703	1346448412D97	9915 W MCDOWELL RD	AVONDALE	AZ

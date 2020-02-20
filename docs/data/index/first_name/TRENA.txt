@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARPENTER	TRENA	D6179	1669532057D61	5190 E FARNESS DR STE 100	TUCSON	AZ

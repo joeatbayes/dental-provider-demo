@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEWARDSON	JAMES	D12262	1598874117D12	METRO DENTALCARE	BURNSVILLE	MN

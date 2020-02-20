@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUTTING	JACLYN	9028	1346477056902	6025 BROOKVALE LN	KNOXVILLE	TN

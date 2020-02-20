@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRANDHI	ANUPAMA	S48	1821185844S48	1720 HIGHWAY 59 S	THIEF RIVER FALLS	MN

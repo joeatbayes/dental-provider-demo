@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MESSER	TIMOTHY	8092	1598963449809	7842 PLAYERS CLUB PKWY W	MEMPHIS	TN

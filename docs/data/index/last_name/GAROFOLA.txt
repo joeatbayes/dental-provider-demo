@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAROFOLA	ANTHONY	12652	1003921156126	516 WHITES RD	KALAMAZOO	MI

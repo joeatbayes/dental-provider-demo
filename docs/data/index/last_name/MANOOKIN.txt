@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANOOKIN	KAREN	2901019411	1740449255290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

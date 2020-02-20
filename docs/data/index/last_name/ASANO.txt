@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASANO	GARY	12939	1952371502129	1055 W FAIR AVE	MARQUETTE	MI

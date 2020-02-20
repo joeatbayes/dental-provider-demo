@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREIDEN	DENIS	DS4200	1770651333DS4	725 W BROOKHAVEN CIR	MEMPHIS	TN

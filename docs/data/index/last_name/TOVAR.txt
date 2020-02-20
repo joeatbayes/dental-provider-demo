@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOVAR	IVAN	5928	1588751986592	9784 W. YEARLING RD	PEORIA	AZ

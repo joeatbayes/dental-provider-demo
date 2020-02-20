@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERSEY	MICHAEL	2661	1942319769266	180 MAIN STREET	MAMMOTH SPRING	AR

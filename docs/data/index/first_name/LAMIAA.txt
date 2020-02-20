@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DANG	LAMIAA	D009552	1588017453D00	4550 E BELL RD BLDG 8	PHOENIX	AZ

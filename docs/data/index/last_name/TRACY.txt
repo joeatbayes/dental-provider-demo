@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRACY	STACY	4478	1689631160447	1712 E GUADALUPE RD	TEMPE	AZ

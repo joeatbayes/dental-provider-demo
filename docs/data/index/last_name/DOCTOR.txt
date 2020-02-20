@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOCTOR	MICHAEL	2901014067	1255443321290	2115 M 119	PETOSKEY	MI

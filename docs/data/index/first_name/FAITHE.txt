@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SARAZIN	FAITHE	2901018948	1023159605290	1550 W QUINCY ST	HANCOCK	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAARI	NICHOLAS	D12518	1780846774D12	1271 GIBBS AVE	FALCON HEIGHTS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUDWICK	JACOB	12007299	1902921281120	129 W OAK ST	DUNKIRK	IN

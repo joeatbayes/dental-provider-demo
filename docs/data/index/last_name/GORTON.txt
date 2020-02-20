@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GORTON	JOHN	D7266	1487713814D72	616 4TH ST NE	STAPLES	MN

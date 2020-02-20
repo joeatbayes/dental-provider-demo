@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHEY	TYLER	12012114A	1033529581120	3315 S 7TH ST	TERRE HAUTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAROL	JAY	12006615	1922178540120	7134 CALUMET AVE	HAMMOND	IN

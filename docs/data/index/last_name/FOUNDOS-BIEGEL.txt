@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOUNDOS-BIEGEL	SUSAN	12009988A	1740496645120	1444 119TH ST	WHITING	IN

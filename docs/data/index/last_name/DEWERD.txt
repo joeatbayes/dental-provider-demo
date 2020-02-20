@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEWERD	THOMAS	D9357	1316113624D93	3359 W BROADWAY AVE	ROBBINSDALE	MN

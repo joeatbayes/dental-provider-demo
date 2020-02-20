@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LABOMBARD	BERNARD	17945	1174615249179	1012 LAFAYETTE	BAY CITY	MI

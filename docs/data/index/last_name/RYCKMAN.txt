@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYCKMAN	TERRENCE	2901009648	1003093469290	310 N PARK ST	OWOSSO	MI

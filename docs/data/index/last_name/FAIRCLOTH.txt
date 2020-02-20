@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAIRCLOTH	MEGAN	2901020939	1497192462290	390 RIVER ST	MANISTEE	MI

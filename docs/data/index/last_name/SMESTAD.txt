@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMESTAD	JACOB	D12807	1891016523D12	2020 1ST AVE	HIBBING	MN

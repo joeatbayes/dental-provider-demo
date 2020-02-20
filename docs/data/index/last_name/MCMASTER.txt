@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCMASTER	DOUGLAS	2682	1720125883268	4601 E 5TH ST	TUCSON	AZ

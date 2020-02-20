@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAUSCHEL	VINCENT	5375	1164483475537	600 S DOBSON RD	CHANDLER	AZ

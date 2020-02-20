@@ -1,0 +1,2 @@
+NOSAL	1
+NOSARI	1

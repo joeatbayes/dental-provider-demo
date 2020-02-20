@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAYLOR	HERSCHEL	DS2742	1043386758DS2	1655 HILLSBORO BLVD	MANCHESTER	TN

@@ -1,0 +1,2 @@
+POUND	3
+POUNDER	1

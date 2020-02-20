@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIM	JAE HA	2901023211	1902463052290	5200 S WESTNEDGE AVE	PORTAGE	MI

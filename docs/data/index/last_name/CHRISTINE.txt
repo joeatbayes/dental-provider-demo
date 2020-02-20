@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHRISTINE	RAYMOND	12008252	1083641120120	604 E BOULEVARD	KOKOMO	IN

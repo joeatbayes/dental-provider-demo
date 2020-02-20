@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHARA	JOSEPH	D10774	1245303395D10	408 SAINT PETER ST	SAINT PAUL	MN

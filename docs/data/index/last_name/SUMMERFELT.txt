@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUMMERFELT	HANNAH	1560	1710391610156	3539 THOMAS ST	FAIRBANKS	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAMPLES	EDWARD	6041	1477753796604	4001 E BELL RD	PHOENIX	AZ

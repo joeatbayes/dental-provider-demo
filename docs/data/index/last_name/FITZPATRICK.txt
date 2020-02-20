@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FITZPATRICK	EDWARD	14404	1194765305144	18303 E 10 MILE RD	ROSEVILLE	MI

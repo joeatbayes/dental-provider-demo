@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TREHARNE	RICHARD	10404	1992854319104	7500 80TH ST S	COTTAGE GROVE	MN

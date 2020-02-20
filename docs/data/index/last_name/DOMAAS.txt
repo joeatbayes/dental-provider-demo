@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOMAAS	DAVID	9409	1700045556940	408 N 1ST ST	MINNEAPOLIS	MN

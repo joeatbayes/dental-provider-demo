@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMPTON	DUANE	12008856A	1023062338120	7225 US 31 S	INDIANAPOLIS	IN

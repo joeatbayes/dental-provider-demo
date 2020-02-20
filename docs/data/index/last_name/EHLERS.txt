@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EHLERS	DONALD	D8928	1477559078D89	1537 E 66TH ST	RICHFIELD	MN

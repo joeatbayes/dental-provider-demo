@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIECK	CHARLES	12005678A	1407948516120	12 S 4TH ST	VINCENNES	IN

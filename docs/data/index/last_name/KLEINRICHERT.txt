@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLEINRICHERT	TODD	12010006A	1447372362120	210 W WHITLEY ST	CHURUBUSCO	IN

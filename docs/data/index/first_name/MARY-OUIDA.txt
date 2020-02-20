@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CREASY	MARY-OUIDA	8351	1134455496835	624 W POPLAR AVE	COLLIERVILLE	TN

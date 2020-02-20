@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMAS	IKE ARTHUR	4508	1144393406450	2277 SWANSON AVENUE	LAKE HAVASU CITY	AZ

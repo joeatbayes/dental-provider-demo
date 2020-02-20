@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NELSEN	CHALSEY	D12844	1316259716D12	823 N BROADWAY ST	SPRING VALLEY	MN

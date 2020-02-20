@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEISCHEL	DOUGLAS	D4398	1467591826D43	7125 E LINCOLN DR	PARADISE VALLEY	AZ

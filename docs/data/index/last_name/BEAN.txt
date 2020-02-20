@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEAN	JOHN	12008202A	1245246388120	1610 N LEBANON ST	LEBANON	IN

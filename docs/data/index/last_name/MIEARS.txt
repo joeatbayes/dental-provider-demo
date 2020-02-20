@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIEARS	JAMES	903	1932202215903	1919 LATHROP ST. STE 211	FAIRBANKS	AK

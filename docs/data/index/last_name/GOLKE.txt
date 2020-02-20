@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLKE	DAVID	9799	1295855906979	2306 S BROADWAY ST	ALEXANDRIA	MN

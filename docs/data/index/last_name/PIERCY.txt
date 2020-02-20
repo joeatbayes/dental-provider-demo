@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIERCY	JOEL	1843	1871684084184	2319 BROWNS MILL RD	JOHNSON CITY	TN

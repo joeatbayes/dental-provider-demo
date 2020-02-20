@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAMBLE	MADELEINE	D14204	1831756287D14	515 DELAWARE ST SE	MINNEAPOLIS	MN

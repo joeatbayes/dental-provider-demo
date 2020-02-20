@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIPNIK	DANIEL	2901014430	1114021227290	33512 FIVE MILE RD	LIVONIA	MI

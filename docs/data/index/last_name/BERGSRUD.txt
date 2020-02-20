@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGSRUD	MICHELLE	9066	1073635926906	6060 CLEARWATER DR	MINNETONKA	MN

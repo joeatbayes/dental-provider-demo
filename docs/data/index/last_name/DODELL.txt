@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DODELL	DAVID	2887	1730184383288	5855 W UTOPIA RD	GLENDALE	AZ

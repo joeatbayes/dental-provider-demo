@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAILEY	ASHLY	2901020187	1558680108290	1601 MARQUETTE ST	BAY CITY	MI

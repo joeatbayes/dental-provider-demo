@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WISENER	JEFFERY	3226	1285642819322	620 N 13TH ST	ROGERS	AR

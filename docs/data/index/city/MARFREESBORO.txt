@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSON	RACHEL	8558	1922119387855	513 N THOMPSON LN	MARFREESBORO	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERWIN	DANIEL	DS0000007090	1922138312DS0	460 N PARKWAY	JACKSON	TN

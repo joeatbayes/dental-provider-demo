@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAJAC	ROBERT	12008335	1689757585120	890 RICHARD RD	DYER	IN

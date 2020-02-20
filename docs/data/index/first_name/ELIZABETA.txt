@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARL	ELIZABETA	2901021084	1689008252290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERWEELE	RICHARD	DS-029913-L	1992794804DS-	5955 ZEAMER AVE	ELMENDORF AFB	AK

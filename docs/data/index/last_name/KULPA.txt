@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KULPA	JAMES	2901010615	1992805386290	64845 VANDYKE	WASHINGTON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OUWINGA	STEVEN	18036	1790866622180	2515 5TH AVE S	ESCANABA	MI

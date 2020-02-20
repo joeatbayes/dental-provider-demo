@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINGLETON	ILIANA	2901019111	1841435666290	4124 56TH ST SW	WYOMING	MI

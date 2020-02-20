@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIBERG	RICHARD	7141	1427050483714	1790 LEXINGTON AVE N	ROSEVILLE	MN

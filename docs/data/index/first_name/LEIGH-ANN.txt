@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUERMAN	LEIGH-ANN	4699	1245459924469	5855 W UTOPIA RD	GLENDALE	AZ

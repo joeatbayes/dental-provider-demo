@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANIC	RANDY	IN9219	1508987769IN9	910 I ST	LA PORTE	IN

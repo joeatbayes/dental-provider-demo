@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOSS	JEANNI	D12009	1174839948D12	15167 EDGEWOOD DR	BRAINERD	MN

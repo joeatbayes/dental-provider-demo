@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YAPEL	MICHAEL	D10526	1619029741D10	1011 2ND ST N #202	ST CLOUD	MN

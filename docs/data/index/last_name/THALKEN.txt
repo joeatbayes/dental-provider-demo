@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THALKEN	MELISSA	D12101	1952401333D12	24920 295TH AVE	LONG PRAIRIE	MN

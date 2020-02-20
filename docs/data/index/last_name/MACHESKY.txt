@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACHESKY	HAROLD	D10214	1780639682D10	3950 VETERANS DR	SAINT CLOUD	MN

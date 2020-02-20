@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAJYAGURU	PAYAL	D009072	1558760066D00	3011 S LINDSAY RD	GILBERT	AZ

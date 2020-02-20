@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKELLENGER	JOHN	11634	1598852865116	1103 DELTA AVE	GLADSTONE	MI

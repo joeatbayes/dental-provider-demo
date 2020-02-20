@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOTTRENG	ROBERT	D11780	1477519528D11	120 LANDMARK DR	OWATONNA	MN

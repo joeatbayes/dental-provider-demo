@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOREST	JOSEPH	14528	1043227978145	45100 STERRITT ST	UTICA	MI

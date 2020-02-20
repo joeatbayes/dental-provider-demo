@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERBERT	LEE ANN	D10013	1962525089D10	1525 CO RD 101 N	PLYMOUTH	MN

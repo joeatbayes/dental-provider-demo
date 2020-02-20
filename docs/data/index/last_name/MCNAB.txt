@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNAB	ROBERT	9220	1245335371922	5346 PENN AVE S	MINNEAPOLIS	MN

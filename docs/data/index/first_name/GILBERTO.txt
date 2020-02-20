@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOPEZ	GILBERTO	3501	1245392653350	1021 SOUTH 21ST ST	FORT SMITH	AR

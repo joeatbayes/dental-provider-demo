@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOULT	MCKINLEY	30-024544	149712166930-	5955 ZEAMER AVE	JBER	AK

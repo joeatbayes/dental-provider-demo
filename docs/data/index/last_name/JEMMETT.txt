@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEMMETT	LYNSEY	63841	1255776225638	1717 W COWLES ST	FAIRBANKS	AK

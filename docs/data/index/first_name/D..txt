@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ATKINSON	D.	16	1295730562165	2633 MALVERN AVE	HOT SPRINGS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CASE	TIMOTHY	DS7950	1023006673DS7	3918 TENNESSEE AVE	CHATTANOOGA	TN

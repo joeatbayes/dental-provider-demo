@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHRIST	CHARLES	DS2467	1386625663DS2	350 BLOUNTVILLE HWY	BRISTOL	TN

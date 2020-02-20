@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOVIG	MEAGAN	8407	1144361106840	309 HOLLY LN	MANKATO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONWAY	KATHERINE	10148	1346307683101	955 HIGHWAY 55	HASTINGS	MN

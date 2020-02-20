@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DERAGISCH	BRENT	11953	1164643292119	1500 NORTHWAY DRIVE	ST CLOUD	MN

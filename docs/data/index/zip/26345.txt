@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BELCHER	PERRY	D9820	1942278833D98	119 NE FIRST ST	LITTLE FALLS	MN

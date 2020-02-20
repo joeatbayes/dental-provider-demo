@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINNIEAR	SCOTT	2901013667	1407069222290	1500 W MORRELL ST	JACKSON	MI

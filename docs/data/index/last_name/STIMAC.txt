@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIMAC	EDWARD	2901011402	1962543967290	201 S LAFAYETTE ST	SOUTH LYON	MI

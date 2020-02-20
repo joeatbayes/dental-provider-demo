@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHEATHAM	DAVID	DS4516	1942292370DS4	1754 MADISON ST	CLARKSVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRAETZEL	DARON	30-022361	116451666230-	200 MC AULEY COURT	HOT SPRINGS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MISHLER	LORRE	12009589B	1497809461120	1461 SOUTH 7TH STREET	TERRE HAUTE	IN

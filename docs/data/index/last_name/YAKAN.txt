@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YAKAN	ABED	0	1477903904031	2700 MARTIN LUTHER KING JR. BLVD.	DETROIT	MI

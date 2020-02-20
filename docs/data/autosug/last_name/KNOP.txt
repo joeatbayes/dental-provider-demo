@@ -1,0 +1,2 @@
+KNOP	3
+KNOPP	1

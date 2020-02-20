@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FORTNER	JAMES	2015	1588990089201	4335 HIGHWAY 70 E	WHITE BLUFF	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRODE	DANIEL	2901020910	1821435454290	3767 28TH ST SE	GRAND RAPIDS	MI

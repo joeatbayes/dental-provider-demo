@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUSE	LAWRENCE	2901007578	1306040779290	5901 KING HWY	COMSTOCK	MI

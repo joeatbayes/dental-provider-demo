@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERIE	JANET	9511	1942318043951	1615 14TH ST NW	ROCHESTER	MN

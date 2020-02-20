@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLEIS	RONALD	105005	1215960877105	2200 FORT ROOTS DR	NORTH LITTLE ROCK	AR

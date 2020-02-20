@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERNIER	LAWRENCE	14476	1669481461144	26001 GRAND RIVER AVE	REDFORD	MI

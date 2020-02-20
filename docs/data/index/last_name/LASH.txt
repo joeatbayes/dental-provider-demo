@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASH	STEVEN	9358	1538276340935	6177 ORCHARD LAKE ROAD	WEST BLOOMFIELD	MI

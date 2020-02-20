@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUETTE	SALLY	9669	1699783860966	7373 FRANCE AVE SO	EDINA	MN

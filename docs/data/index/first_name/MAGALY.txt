@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FERREIRA	MAGALY	LGL15	1891238929LGL	2690 SNELLING AVE N STE 250	ROSEVILLE	MN

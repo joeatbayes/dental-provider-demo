@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COCQUYT	SUSAN	12009553	1619035896120	734 E IRELAND RD	SOUTH BEND	IN

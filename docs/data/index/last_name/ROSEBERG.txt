@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSEBERG	KELLIE	D12121	1265511844D12	306 BRIGHTON AVE S	BUFFALO	MN

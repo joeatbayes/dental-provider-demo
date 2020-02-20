@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAFLEUR	KACY	3835	1265491542383	3814 E 5TH ST	TUCSON	AZ

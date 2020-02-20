@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEWART	W.D.	1922069558	1922069558870	620 JULIA AVE E	WYNNE	AR

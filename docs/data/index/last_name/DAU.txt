@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAU	JAMES	D11437	1205899408D11	5601 NICOLLET AVE	MINNEAPOLIS	MN

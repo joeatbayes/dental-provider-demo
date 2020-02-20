@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEUMANN	ANDREW	D11277	1740364108D11	608 E MADISON AVE	MANKATO	MN

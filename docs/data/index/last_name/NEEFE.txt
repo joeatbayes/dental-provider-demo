@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEEFE	ALAN	10814	1285767558108	1600 GILMORE AVE	WINONA	MN

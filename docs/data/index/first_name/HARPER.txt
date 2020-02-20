@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GASTON	HARPER	2547	1679622260254	2211 CRESTMOOR RD	NASHVILLE	TN

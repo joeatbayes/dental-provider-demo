@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VINES	JULIA	DS 7530	1215994512DS7	403 E G ST	ELIZABETHTON	TN

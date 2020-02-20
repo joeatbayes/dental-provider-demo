@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TURRY	THOMAS	9762	1932370475976	20 LAKE ST N	FOREST LAKE	MN

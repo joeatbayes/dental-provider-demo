@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOVASKO	JOSEPH	12006616A	1043291800120	601 W US HIGHWAY 30	SCHERERVILLE	IN

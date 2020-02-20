@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DILL	DONALD	6203	1023187556620	732 6TH STREET	WESTBROOK	MN

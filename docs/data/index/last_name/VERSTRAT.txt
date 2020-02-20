@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERSTRAT	NINA	8746	1568658185874	5606 HIGHWAY 153	HIXSON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRUSE	MICHAEL	52677	1316071848526	9601 LILE DR	LITTLE ROCK	AR

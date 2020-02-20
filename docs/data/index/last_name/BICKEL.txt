@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BICKEL	MIRANDA	2901021275	1033523311290	11 N MAPLE ST	GRANT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEVIER	MALCOLM	3498	1811059256349	2665 DONAGHEY AVE	CONWAY	AR

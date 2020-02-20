@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAU	JEANNE	MN9323	1487863205MN9	20174 HERITAGE DRIVE	LAKEVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESPOSITO	WILLIAM	DS-028688-L	1528170289DS-	223 CIBECUE CIRCLE	SAN CARLOS	AZ

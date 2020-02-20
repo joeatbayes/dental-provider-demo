@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUSE	GERALD	8475	1346300175847	1101 ONE AND A HALF S WASHINGTON	LANSING	MI

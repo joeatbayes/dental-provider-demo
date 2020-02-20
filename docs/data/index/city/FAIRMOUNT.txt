@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRYER	BRUCE	12007146A	1730240722120	215 E WASHINGTON ST	FAIRMOUNT	IN

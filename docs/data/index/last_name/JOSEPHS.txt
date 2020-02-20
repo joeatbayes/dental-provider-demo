@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOSEPHS	SONYA	D11570	1366422909D11	3000 43RD ST NW	ROCHESTER	MN

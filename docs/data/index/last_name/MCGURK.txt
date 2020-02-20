@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGURK	SUZANNE	3400	1679636971340	12501 CANTRELL ROAD	LITTLE ROCK	AR

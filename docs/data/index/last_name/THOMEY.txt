@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMEY	PIERRE	9641	1720130826964	404 W 65TH ST	RICHFIELD	MN

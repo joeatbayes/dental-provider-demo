@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARTZ	THOMAS	3159	1770742546315	237 DUNBAR CAVE RD STE A	CLARKSVILLE	TN

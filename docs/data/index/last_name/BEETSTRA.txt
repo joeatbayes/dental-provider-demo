@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEETSTRA	STEPHEN	3506	1467464065350	1 CHILDRENS WAY	LITTLE ROCK	AR

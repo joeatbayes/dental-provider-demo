@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENRY	CHARLES	1998	1144364217199	18555 N 79TH AVE	GLENDALE	AZ

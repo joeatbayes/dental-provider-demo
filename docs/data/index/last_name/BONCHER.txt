@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BONCHER	ELISE	2901019968	1457504151290	550 CHERRY ST SE	GRAND RAPIDS	MI

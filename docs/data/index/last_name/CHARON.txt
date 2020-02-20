@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHARON	DAVID	1841677713	1841677713928	1730 E BEVERLY AVE	KINGMAN	AZ

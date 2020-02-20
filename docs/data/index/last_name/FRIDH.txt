@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIDH	DANIEL	IN7235	1952486854IN7	1200 ANDREW AVE	LA PORTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WU	GEORGE WEI-CHIH	2901019259	1548433741290	2222 FULLER CT APT 215A	ANN ARBOR	MI

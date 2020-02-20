@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOONEY	MELANIE	3483	1548333404348	1700 HARRISON ST	BATESVILLE	AR

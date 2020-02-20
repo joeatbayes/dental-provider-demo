@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERCHANT	BIRJU	D4822	1578644605D48	"2525 S. RURAL ROAD, STE.2N"	TEMPE	AZ

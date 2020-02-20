@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCALLIONS	STEVEN	DS7889	1568514982DS7	66 E HILL DR	MOUNT JULIET	TN

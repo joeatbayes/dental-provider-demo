@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLAS	PETER	14086	1548387699140	2150 LAKE MICHIGAN DRIVE NW	GRAND RAPIDS	MI

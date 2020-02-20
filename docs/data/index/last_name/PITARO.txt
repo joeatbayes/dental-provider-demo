@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PITARO	ROSEMARY	17136	1629116272171	15510 LIVERNOIS	DETROIT	MI

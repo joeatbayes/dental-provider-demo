@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOMENDERA	JAMES	10613	1588879738106	1135 S LAPEER RD	LAKE ORION	MI

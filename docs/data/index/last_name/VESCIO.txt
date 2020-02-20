@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VESCIO	RONALD	D9124	1518043827D91	2677 INNSBRUCK DR	NEW BRIGHTON	MN

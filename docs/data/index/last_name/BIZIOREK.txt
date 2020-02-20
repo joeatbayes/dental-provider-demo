@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIZIOREK	THOMAS	12593	1851342851125	2266 MITCHELL PARK DR	PETOSKEY	MI

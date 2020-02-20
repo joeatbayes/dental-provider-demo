@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRUNWALD	ERICA	2901018141	1184738304290	22905 W MAIN ST # 571	ARMADA	MI

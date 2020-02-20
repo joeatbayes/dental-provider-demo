@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARGROVE	JEREMY	D010003	1891285425D01	301 N CENTRAL AVE	SHOW LOW	AZ

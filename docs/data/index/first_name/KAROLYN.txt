@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEORGE	KAROLYN	WY1050	1689774895WY1	10566 N HIGHWAY 191	ELFRIDA	AZ

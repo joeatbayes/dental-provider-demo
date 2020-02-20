@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEARS	BART	D008718	1144668732D00	9660 E 22ND ST	TUCSON	AZ

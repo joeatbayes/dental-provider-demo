@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOAZ	NICHOLE	DS0000005333	1659450757DS0	5805 LEE HWY	CHATTANOOGA	TN

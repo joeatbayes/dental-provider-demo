@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRISHINA	DARIA	D14172	1619532991D14	1963 ROBERT ST S STE 100	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRUEY	STEPHEN	TN. D.S.4010	1447323209TN.	3622 E MORRIS BLVD	MORRISTOWN	TN

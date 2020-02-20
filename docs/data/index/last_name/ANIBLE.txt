@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANIBLE	JOHN	2901021839	1982051868290	302 S FRONT ST	DOWAGIAC	MI

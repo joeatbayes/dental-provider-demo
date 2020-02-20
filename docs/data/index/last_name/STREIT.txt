@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STREIT	BARNEY	D4702	1790838308D47	512 E WHITEHOUSE CANYON RD	GREEN VALLEY	AZ

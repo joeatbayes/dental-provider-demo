@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NADEAU	RICHARD	10368	1568674794103	1994 PORTLAND AVE	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRIESE	ANDREW	3544	1023196086354	3200 ROGERS AVE	FORT SMITH	AR

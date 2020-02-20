@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAVREN	BETH	D11463	1699764431D11	15785 95TH AVE N	MAPLE GROVE	MN

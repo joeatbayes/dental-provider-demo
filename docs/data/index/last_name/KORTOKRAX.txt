@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KORTOKRAX	RICHARD	1200-8109	1295756773120	301 WALNUT ST	MADISON	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STERN-LUBAHN	CHRISTA	17912	1619978087179	106 LOCUST ST	BIG RAPIDS	MI

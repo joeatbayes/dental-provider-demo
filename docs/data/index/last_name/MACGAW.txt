@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACGAW	MARK	8139	1912012097813	1207 MACON VIEW DR	CORDOVA	TN

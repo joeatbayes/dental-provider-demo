@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOTANI	SALLY	19049	1316960214190	3131 44TH ST SW	GRANDVILLE	MI

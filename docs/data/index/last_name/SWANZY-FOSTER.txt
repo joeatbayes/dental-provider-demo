@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWANZY-FOSTER	MEGHAN	1318	1457689671131	2600 DENALI ST STE 500	ANCHORAGE	AK

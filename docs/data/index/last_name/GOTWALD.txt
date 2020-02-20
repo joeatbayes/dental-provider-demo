@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOTWALD	DAVID	7118	1467546887711	2 E WALNUT ST	WASHINGTON	IN

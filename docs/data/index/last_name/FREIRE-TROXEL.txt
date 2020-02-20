@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREIRE-TROXEL	MICHELLE	3720	1518196815372	900 N 7TH ST	WEST MEMPHIS	AR

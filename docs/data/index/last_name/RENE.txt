@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENE	GARY	6894	1619934791689	7373 FRANCE AVE S	EDINA	MN

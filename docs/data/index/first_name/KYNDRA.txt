@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEBER	KYNDRA	D14282	1780236976D14	405 SIBLEY ST STE 240	SAINT PAUL	MN

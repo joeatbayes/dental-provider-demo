@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROEHLING	KATHRYN	2901020426	1548546898290	5716 MICHIGAN AVE	DETROIT	MI

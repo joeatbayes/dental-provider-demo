@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JANICKE	JOHN	1479	1487877684147	1277 E. MISSOURI AVE #205	PHOENIX	AZ

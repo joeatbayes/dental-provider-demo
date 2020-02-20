@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALWIN	BAIRD	10067	1952427619100	12000 ELM CREEK BLVD N	MAPLE GROVE	MN

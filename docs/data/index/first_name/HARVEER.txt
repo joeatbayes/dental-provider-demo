@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAUR	HARVEER	D008941	1194137950D00	1323 E SARAGOSA ST	CHANDLER	AZ

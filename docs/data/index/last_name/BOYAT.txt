@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOYAT	ROBERT	D09880	1336138163D09	1919 MAINSTREET	HOPKINS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAINES	JERRIE	DS3483	1265837108DS3	4845 HIXSON PIKE STE C	HIXSON	TN

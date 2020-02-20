@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUSTAD DAVIDSON	WHITNEY	12242	1720165905122	906 WOODLAND AVE	DULUTH	MN

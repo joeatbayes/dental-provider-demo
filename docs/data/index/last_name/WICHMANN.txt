@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WICHMANN	JEFFREY	D12069	1184712838D12	7373 147TH ST. W. #116	APPLE VALLEY	MN

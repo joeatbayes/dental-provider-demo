@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEYSMAN	TRIPTI	11304	1174535280113	825 NICOLLET MALL	MINNEAPOLIS	MN

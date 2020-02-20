@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GANDARA	LILLIAN	D5970	1003877382D59	1904 W PARKSIDE LN	PHOENIX	AZ

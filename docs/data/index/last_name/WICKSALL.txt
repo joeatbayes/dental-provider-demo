@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WICKSALL	MICHEL	16961	1912165556169	4500 CASCADE RD SE	GRAND RAPIDS	MI

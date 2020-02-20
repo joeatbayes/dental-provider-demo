@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASTUDILLO	NATHALIE	D13866	1700306149D13	2442 COUNTY HWY 10	MOUNDS VIEW	MN

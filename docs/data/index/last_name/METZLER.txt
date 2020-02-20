@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+METZLER	GARY	12008118	1174568745120	318 E 3RD ST	MISHAWAKA	IN

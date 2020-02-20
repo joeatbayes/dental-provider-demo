@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROUTT	MICHAEL	D11573	1245399773D11	5320 HYLAND GREENS DR	BLOOMINGTON	MN

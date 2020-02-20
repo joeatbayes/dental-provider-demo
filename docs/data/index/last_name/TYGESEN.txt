@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TYGESEN	YANCY	2901016661	1023224342290	2395 JOLLY RD	OKEMOS	MI

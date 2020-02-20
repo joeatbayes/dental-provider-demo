@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUSMAN	GORDON	IN7571	1679710107IN7	210 N. FRONT ST.	RENSSELAER	IN

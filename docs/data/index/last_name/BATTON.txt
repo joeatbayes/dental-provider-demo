@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BATTON	PHILIP	12007319A	1043262967120	11 HOWARD ST	SHELBYVILLE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILHITE	ROBERT	DS3492	1316942568DS3	1300 HATCHER LN	COLUMBIA	TN

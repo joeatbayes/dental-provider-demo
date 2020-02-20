@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THANE	JOHN	1997	1083771638199	414 HAZEL ST	TEXARKANA	AR

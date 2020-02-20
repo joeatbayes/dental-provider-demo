@@ -1,0 +1,2 @@
+PINAL	1
+PINKY	1

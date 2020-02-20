@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HORTON	DELANA	3869	1215088216386	1233 SW AVE EXT	JOHNSON CITY	TN

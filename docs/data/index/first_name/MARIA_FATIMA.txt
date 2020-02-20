@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEWIS	MARIA FATIMA	9007	1568871093900	3030 N 67TH PL	SCOTTSDALE	AZ

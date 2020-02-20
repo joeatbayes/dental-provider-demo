@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BISHOP	KYLEE	D008747	1669812558D00	7645 N ORACLE RD	ORO VALLEY	AZ

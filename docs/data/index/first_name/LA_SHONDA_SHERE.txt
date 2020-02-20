@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WRIGHT	LA SHONDA SHERE	10884	1326504184108	140 MACON WAY	HARTSVILLE	TN

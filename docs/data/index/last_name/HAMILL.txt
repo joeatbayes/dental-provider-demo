@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMILL	SCHUYLER	14178	1578675005141	751 CHESTNUT ST	BIRMINGHAM	MI

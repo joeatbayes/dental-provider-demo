@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SONNABEND	KATIE	D14079	1043706211D14	608 MADISON AVE	MANKATO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWITZER-NADASDI	RHONDA	7162	1306047402716	1721 PATTERSON ST	NASHVILLE	TN

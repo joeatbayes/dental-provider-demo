@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWITZER	HARRY	12008998A	1588772644120	517 EAST 5TH STREET	HUNTINGBURG	IN

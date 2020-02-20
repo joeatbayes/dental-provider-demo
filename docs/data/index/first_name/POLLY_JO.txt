@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOGAN	POLLY JO	D11950	1043221153D11	13961 60TH ST	STILLWATER	MN

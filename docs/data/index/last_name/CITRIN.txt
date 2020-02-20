@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CITRIN	JAY	1985	1881745396198	5601 N ORACLE RD	TUCSON	AZ

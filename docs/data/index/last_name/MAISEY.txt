@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAISEY	DAVID	1053	1003147273105	3401 DENALI ST	ANCHORAGE	AK

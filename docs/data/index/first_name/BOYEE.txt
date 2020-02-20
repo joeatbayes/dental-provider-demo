@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARWU	BOYEE	D13595	1942684782D13	7643 JOLLY LN	BROOKLYN PARK	MN

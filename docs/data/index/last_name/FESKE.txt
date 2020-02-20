@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FESKE	CHARLES	6232	1083632921623	7600 N 15TH ST STE 170	PHOENIX	AZ

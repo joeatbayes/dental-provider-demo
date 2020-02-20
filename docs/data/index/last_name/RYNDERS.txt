@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYNDERS	PAUL	D10333	1326116849D10	1403 SILVER LAKE RD NW	NEW BRIGHTON	MN

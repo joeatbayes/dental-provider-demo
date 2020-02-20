@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALIK	DIMPLE	D11732	1760690390D11	715 FLORIDA AVE S	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEYER	DAVID	D009860	1285143420D00	10005 E OSBORN RD	SCOTTSDALE	AZ

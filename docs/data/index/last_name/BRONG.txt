@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRONG	NICHOLAS	D13138	1437414034D13	800 MARIE AVE	SOUTH SAINT PAUL	MN

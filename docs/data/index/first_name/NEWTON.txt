@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENDERSON	NEWTON	85835	1154588069858	20359 N 59TH AVE	GLENDALE	AZ

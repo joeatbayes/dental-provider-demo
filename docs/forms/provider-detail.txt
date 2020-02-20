@@ -1,0 +1,508 @@
+- widget:
+    id: provLastName
+    data_type: text
+    type: text
+    label : Last Name
+    label_class: wrap
+    size: 35
+    data_context: name.last
+    class: input_field
+    suggest:
+      uri: /data/autosug/last_name/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+
+- widget:
+    id: provFirstName
+    data_type: text
+    type: text
+    label : First Name
+    label_class: wrap
+    size: 35
+    data_context: name.first
+    class: input_field
+    suggest:
+      uri: /data/autosug/first_name/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+- widget:
+    id: provNPI
+    data_type: text
+    type: text
+    label : NPI #
+    title: National Provider Number
+    label_class: wrap
+    size: 35
+    data_context: npi
+    class: input_field
+    suggest:
+      uri: /data/autosug/npi/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+- widget:
+    id: provGender
+    data_type: text
+    type: text
+    label : Gender
+    label_class: wrap
+    size: 1
+    data_context: gender
+    class: input_field
+
+- widget:
+    id: provSpecial
+    data_type: text
+    type: text
+    label : Specialization
+    label_class: wrap
+    size: 35
+    data_context: specialization
+    class: input_field
+    suggest:
+      uri: /data/autosug/specialty/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+- widget:
+    id: provCredential
+    data_type: text
+    type: text
+    label : Credential
+    label_class: wrap
+    size: 35
+    data_context: credential
+    class: input_field
+    suggest:
+      uri: /data/autosug/npi/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+
+
+- widget:
+    id: provAdress1
+    data_type: text
+    type: text
+    label : Address Line 1
+    label_class: wrap
+    size: 35
+    data_context: addr.mail.street_1
+    class: input_field
+
+
+- widget:
+    id: provAdress2
+    data_type: text
+    type: text
+    label : Address Line 2
+    label_class: wrap
+    size: 35
+    data_context: addr.mail.street_2
+    class: input_field
+
+- widget:
+    id: provCity
+    data_type: text
+    type: text
+    label : City
+    label_class: wrap
+    size: 25
+    data_context: addr.mail.city
+    class: input_field
+    suggest:
+      uri: /data/autosug/city/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+- widget:
+    id: provState
+    data_type: text
+    type: dropdown
+    label : State
+    label_class: wrap
+    data_context: addr.mail.state
+    class: input_field
+    option_source:
+      uri: /data/states.txt
+      method: GET
+      parse: TSV
+
+- widget:
+    id: provZip
+    data_type: text
+    type: text
+    label : Zip
+    label_class: wrap
+    size: 13
+    data_context: addr.mail.zip
+    class: input_field
+    valid_pat:
+       pattern: ^[0-9]{5}(?:-[0-9]{4})?$
+       message : Invalid zipcode try 5 digits or zip plus 4. eg: 84401 or 84401-8178
+    suggest:
+      uri: /data/autosug/zip/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+
+- widget:
+    id: provMailAddrGroup
+    label: Mailing Address
+    type: widgetGroup
+    class: vgroup
+    layout: horizontal
+    widgets: 
+     - provAdress1
+     - provAdress2
+     - provCity
+     - provState
+     - provZip
+
+
+- widget:
+    id: provBusAdress1
+    data_type: text
+    type: text
+    label : Address Line 1
+    label_class: wrap
+    size: 35
+    data_context: addr.bus.street_1
+    class: input_field
+
+
+- widget:
+    id: provBusAdress2
+    data_type: text
+    type: text
+    label : Address Line 2
+    label_class: wrap
+    size: 35
+    data_context: addr.bus.street_2
+    class: input_field
+
+- widget:
+    id: provBusCity
+    data_type: text
+    type: text
+    label : City
+    label_class: wrap
+    size: 25
+    data_context: addr.bus.city
+    class: input_field
+    suggest:
+      uri: /data/autosug/city/{auto_sug_value}.txt
+      parse: TSV
+      class: auto_sug_items
+
+- widget:
+    id: provBusState
+    data_type: text
+    type: dropdown
+    label : state
+    label_class: wrap
+    data_context: addr.bus.state
+    class: input_field
+    option_source:
+      uri: /data/states.txt
+      method: GET
+      parse: TSV
+
+- widget:
+    id: provBusZip
+    data_type: text
+    type: text
+    label : Zip
+    label_class: wrap
+    size: 13
+    data_context: addr.bus.zip
+    class: input_field
+    valid_pat:
+       pattern: ^[0-9]{5}(?:-[0-9]{4})?$
+       message : Invalid zipcode try 5 digits or zip plus 4. eg: 84401 or 84401-8178
+    suggest:
+      uri: /data/autosug/zip/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+
+- widget:
+    id: provBusAddrGroup
+    label: Business Address
+    type: widgetGroup
+    class: hgroup
+    layout: horizontal
+    widgets: 
+     - provBusAdress1
+     - provBusAdress2
+     - provBusCity
+     - provBusState
+     - provBusZip
+
+
+- widget:
+    id: provLicenseNumber
+    data_type: text
+    type: text
+    label : License State Number
+    label_class: wrap
+    size: 25
+    data_context: licNum
+    class: input_field
+    ignore-case-match: true
+    suggest:
+      uri: /data/autosug/lic_num/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+- widget:
+    id: provLicenseState
+    data_type: text
+    type: dropdown
+    label : License State 
+    label_class: wrap
+    data_context: prov.license.state
+    class: input_field
+    option:
+       - {"label" : "Michigan", "value" : "MI"}
+       - {"label" : "Indiana", "value": "IN"}
+       - {"label" : "Arkansas", "value" : "AK"}
+
+
+
+- widget:
+    id: provLanguages
+    data_type: text
+    type: dropdown
+    label : Languages 
+    label_class: wrap
+    size: 1
+    data_context: languages
+    class: input_field
+    placeholder: Select All that apply
+    option:
+       - {"label" : "Arabic", "value" : "AB"}
+       - {"label" : "English", "value" : "EN"}
+       - {"label" : "German", "value" : "GR"}
+       - {"label" : "Hinidi", "value" : "HI"}
+       - {"label" : "Spanish", "value": "CH"}
+       - {"label" : "French", "value" : "FR"}
+       - {"label" : "Japanese", "value" : "JP"}
+
+- widget:
+    id: provAccomodations
+    data_type: text
+    type: dropdown
+    label : Accomodations 
+    label_class: wrap
+    size: 1
+    data_context: Accomodations
+    class: input_field
+    placeholder: Select All that apply
+    option:
+       - {"label" : "All", "value" : "AL"}
+       - {"label" : "Accessible Communications", "value" : "AC"}
+      
+    
+
+- widget:
+    id: provLangAccomGrp
+    type: widgetGroup
+    label: Languages & Accomodations
+    class: vgroup
+    layout: horizontal
+    renderFieldset: true
+    widgets: 
+      - provLanguages
+      - provAccomodations
+
+
+
+- widget:
+    id: provContactsEmail
+    data_type: text
+    type: text
+    label : Email Address
+    label_class: wrap
+    size: 25
+    data_context: email
+    class: input_field
+
+- widget:
+    id: provContactsEmailType
+    data_type: text
+    type: dropdown
+    label : Type 
+    label_class: wrap
+    data_context: type
+    class: input_field
+    option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Work", "value" : "W"}
+       - {"label" : "Home", "value": "H"}
+       - {"label" : "Cell", "value" : "M"}
+       - {"label" : "Cell Work", "value" : "CW"}
+
+- widget:
+    id: provContactsDefault
+    data_type: text
+    type: dropdown
+    label : Default
+    label_class: wrap
+    data_context: default
+    class: input_field
+    option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Y", "value" : "Y"}
+       - {"label" : "N", "value": "N"}
+
+- widget:
+  id: provContactsEmailTbl
+  label: Email 
+  type: table
+  max_visible_rows: 5
+  class: mtable
+  data_context: contacts.email
+  total_line: false
+  skip_col_header: true
+  render_as_div: true
+  add_button:
+     label: Add Email
+     class: simple_add
+     skip: false
+  columns: 
+     - provContactsEmail
+     - provContactsEmailType
+     - provContactsDefault
+
+
+
+- widget:
+    id: provContactsPhone
+    data_type: text
+    type: text
+    label : Phone Number
+    label_class: wrap
+    size: 25
+    data_context: phone_num
+    class: input_field
+
+- widget:
+    id: provContactsPhoneType
+    data_type: text
+    type: dropdown
+    label : Type 
+    label_class: wrap
+    data_context: type
+    class: input_field
+    option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Work", "value" : "W"}
+       - {"label" : "Home", "value": "H"}
+       - {"label" : "Spouse", "value" : "S"}
+
+- widget:
+    id: provContactsPhoneDefault
+    data_type: text
+    type: dropdown
+    label : Default
+    label_class: wrap
+    data_context: default
+    class: input_field
+    option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Y", "value" : "Y"}
+       - {"label" : "N", "value": "N"}
+
+
+- widget:
+  id: provContactsPhoneNumTbl
+  label: Phone Numbers
+  type: table
+  max_visible_rows: 5
+  class: mtable
+  data_context: contacts.email
+  total_line: false
+  skip_col_header: true
+  render_as_div: true
+  add_button:
+     label: Add Phone Number
+     class: simple_add
+     skip: false
+  columns: 
+     - provContactsPhone
+     - provContactsPhoneType
+     - provContactsPhoneDefault
+
+
+- widget:
+    id: provContactsGroup
+    type: widgetGroup
+    label: Contacts
+    class: vgroup
+    layout: vertical
+    renderFieldset: true
+    widgets: 
+      #- provLangAccomGrp
+      - provContactsEmailTbl
+      - provContactsPhoneNumTbl
+
+
+- widget:
+    id: provTopFieldsGroup
+    type: widgetGroup
+    class: silent_group
+    renderFieldset: false
+    layout: horizontal
+    widgets: 
+     - provFirstName
+     - provLastName
+     - provGender
+     - provNPI
+     - provCredential
+     - provSpecial
+     - provLicenseNumber
+
+
+- widget:
+    id: provDetailLeftFieldsGroup
+    type: widgetGroup
+    class: silent_group
+    renderFieldset: false
+    layout: horizontal
+    widgets: 
+     - provTopFieldsGroup
+     - provBusAddrGroup
+     - provMailAddrGroup
+
+
+- widget:
+    id: provDetailRightFieldsGroup
+    type: widgetGroup
+    class: silent_group
+    renderFieldset: false
+    layout: horizontal
+    widgets: 
+     - provLangAccomGrp
+     #- provLanguages
+     #- provAccomodations
+     - provContactsGroup
+     
+
+
+- form:
+   id : provDetailForm
+   class: inputFrm
+   label: Provider Detail Form
+   show_data_obj_div: dataObjDivBottom
+   autocomplete: false
+   fetch:
+      uri: /data/recs/{dataObjId}.json
+      method: GET
+      parse: JSON
+
+   widgets:   
+     - provDetailLeftFieldsGroup
+     - provDetailRightFieldsGroup

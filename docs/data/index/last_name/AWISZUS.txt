@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AWISZUS	SIMONA	D11716	1912968199D11	153 CESAR CHAVEZ ST	SAINT PAUL	MN

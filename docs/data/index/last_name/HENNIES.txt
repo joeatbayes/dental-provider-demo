@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENNIES	SAMUEL	D11048	1457364150D11	14213 GOLF COURSE DR	BAXTER	MN

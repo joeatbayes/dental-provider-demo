@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIANECKI	MICHAEL	12534	1730237181125	51190 D W SEATON DR	CHESTERFIELD	MI

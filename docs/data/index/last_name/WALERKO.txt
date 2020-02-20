@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALERKO	FRANK	8158	1699802280815	6060 LUTE RD	PORTAGE	IN

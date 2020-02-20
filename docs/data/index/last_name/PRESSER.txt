@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRESSER	RICHARD	12010594A	1679607394120	7207 ENGLE RD	FORT WAYNE	IN

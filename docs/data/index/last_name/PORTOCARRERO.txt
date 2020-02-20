@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PORTOCARRERO	JAVIER	D6685	1427022912D66	702 E BELL RD	PHOENIX	AZ

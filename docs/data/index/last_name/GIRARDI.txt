@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIRARDI	AMANDA	9657	1053847319965	4726 E VERBENA DR	PHOENIX	AZ

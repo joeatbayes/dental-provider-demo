@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COTTRILL	DANNI	9485	1023363314948	268 MISTY DR	PLEASANT VIEW	TN

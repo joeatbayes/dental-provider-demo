@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASSENAAR	SARA	D14164	1689716193D14	226 N STATE STREET	ALMA	MI

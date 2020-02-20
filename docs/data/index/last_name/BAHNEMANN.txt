@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAHNEMANN	CAROL	D10492	1568521995D10	11269 JEFFERSON HWY N	CHAMPLIN	MN

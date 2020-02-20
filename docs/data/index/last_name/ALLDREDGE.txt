@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLDREDGE	CARLA	19026963	1790842003190	4727 ROSEBUD LN STE A	NEWBURGH	IN

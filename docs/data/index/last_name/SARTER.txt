@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SARTER	JAMES	2901012624	1699941153290	624 CHENE ST	DETROIT	MI

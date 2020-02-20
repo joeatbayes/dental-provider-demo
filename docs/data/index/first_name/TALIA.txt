@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHACKELFORD	TALIA	2901021371	1922415223290	4216 24TH AVE	FORT GRATIOT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FALK	BRUCE	D8236	1205997442D82	49949 350TH ST	SALOL	MN

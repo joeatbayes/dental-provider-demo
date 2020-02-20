@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DREWRY	ALAN	DS2758	1932286259DS2	602 WEST COLLEGE STREET	FAYETTEVILLE	TN

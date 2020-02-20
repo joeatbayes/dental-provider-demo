@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLISTER	KAREN	14250	1831180355142	1220 E NAPIER AVE	BENTON HARBOR	MI

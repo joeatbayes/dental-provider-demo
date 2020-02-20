@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGAJNA	WILLIAM	8280	1841357373828	2005 8TH AVE E	HIBBING	MN

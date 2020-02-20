@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOSTER	COLT	1264	1285895193126	1700 E BOGARD RD	WASILLA	AK

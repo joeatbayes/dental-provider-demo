@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEISEL	KURT	5669	1497167134566	504 N HUMPHREYS ST	FLAGSTAFF	AZ

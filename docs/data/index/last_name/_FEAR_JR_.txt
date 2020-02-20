@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"FEAR, JR."	DALBERT	2901013142	1194842500290	2058 S STATE ST	ANN ARBOR	MI

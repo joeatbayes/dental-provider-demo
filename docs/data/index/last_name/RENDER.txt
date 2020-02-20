@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENDER	RICHARD	7242	1619925039724	8900 PENN AVE S	BLOOMINGTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEVERSON	FREDERICK	9188	1104830231918	200 MAIN STREET	NICOLLET	MN

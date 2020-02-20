@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHARDSON	TORIE	12012693A	1467980284120	2204 S PARK AVE	ALEXANDRIA	IN

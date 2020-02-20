@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YASMER	EMILY	D5780	1568518207D57	8975 E GOLF LINKS RD	TUCSON	AZ

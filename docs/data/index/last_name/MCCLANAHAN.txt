@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLANAHAN	SCOTT	FF28	1396948246FF2	516 DELAWARE ST SE	MINNEAPOLIS	MN

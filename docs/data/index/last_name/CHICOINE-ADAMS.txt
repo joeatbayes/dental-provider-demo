@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHICOINE-ADAMS	REBECCA	2901021859	1376991984290	285 JAMES ST	HOLLAND	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARPER	JOHN	2901012170	1497761639290	17200 MACK AVE	GROSSE POINTE CITY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PINTER	GARY	2901010279	1184735425290	1101 S LINCOLN RD	ESCANABA	MI

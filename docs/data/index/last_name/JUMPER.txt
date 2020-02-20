@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUMPER	JAMES	1956	1639220791195	715 MILITARY RD	BENTON	AR

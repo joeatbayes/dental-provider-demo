@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANBLARICUM	C SUE	DS5005	1558692392DS5	412 COLLEGE ST	LAFAYETTE	TN

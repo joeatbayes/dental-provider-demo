@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCINTOSH	TIMOTHY	16084	1245356195160	3250 PLYMOUTH RD	ANN ARBOR	MI

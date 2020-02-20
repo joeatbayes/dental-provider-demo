@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FONKERT	JODI	D10807	1285718304D10	1101 SOUTH FIRST STREET	WILLMAR	MN

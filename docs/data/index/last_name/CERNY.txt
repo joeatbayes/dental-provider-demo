@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CERNY	JULIA	52617	1497861322526	167 NORTH MAIN STREET	TUBA CITY	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLSEY	STEPHANIE	DN15419	1912075854DN1	726 HIGHWAY 51 N	COVINGTON	TN

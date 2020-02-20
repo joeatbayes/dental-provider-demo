@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL	MAREN	D13197	1467771154D13	979 POINTE WAY	SAINT PAUL	MN

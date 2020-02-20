@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRODERSON	ARTHUR	7757	1104814003775	6665 CAHILL AVE	INVER GROVE HEIGHTS	MN

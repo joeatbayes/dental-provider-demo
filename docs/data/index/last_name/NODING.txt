@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NODING	KRISTINA	D13712	1740639624D13	116 MAIN ST S	PIERZ	MN

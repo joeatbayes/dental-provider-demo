@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDINGER	ROBERT	D2600	1366410128D26	620 LEE ST	WINSLOW	AZ

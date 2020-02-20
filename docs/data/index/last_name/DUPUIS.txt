@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUPUIS	THOMAS	2901011893	1699736199290	24929 GODDARD RD	TAYLOR	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIZK	NERMIN	D13418	1225442627D13	12265 CENTRAL AVE NE	BLAINE	MN

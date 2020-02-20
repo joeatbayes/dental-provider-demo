@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DVORACEK	GENE	D7993	1174699888D79	12 BRIDGE SQ	ANOKA	MN

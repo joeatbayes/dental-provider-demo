@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AURORA	NAVBIR	D5791	1821056938D57	3410 N 24TH ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHULER	SCOTT	12009626	1366533929120	3018 CHARLESTOWN XING	NEW ALBANY	IN

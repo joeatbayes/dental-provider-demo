@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARVIS	ALLAN	D6860	1174592711D68	8001 HIGHWAY 7	ST LOUIS PARK	MN

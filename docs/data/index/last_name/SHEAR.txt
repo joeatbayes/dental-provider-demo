@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEAR	STEVEN	12008999A	1629099064120	9002 N MERIDIAN ST	INDIANAPOLIS	IN

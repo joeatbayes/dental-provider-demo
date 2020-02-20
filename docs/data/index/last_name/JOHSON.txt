@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHSON	RANDALL	8212	1477659589821	2355 ARIEL ST N	MAPLEWOOD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STROSBERG	ALAN	027188-1	1134186232027	3601 S 6TH AVE	TUCSON	AZ

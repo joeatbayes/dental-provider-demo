@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHELEGEY	KLI ANNE	14496	1073671624144	721 N WASHINGTON AVE	BAY CITY	MI

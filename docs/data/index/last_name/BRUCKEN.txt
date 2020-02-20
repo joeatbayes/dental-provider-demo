@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUCKEN	RANDALL	12010142	1548473416120	3711 ROME DRIVE	LAFAYETTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EVERT	EMILY	D009198	1710307558D00	10785 N ORACLE RD	ORO VALLEY	AZ

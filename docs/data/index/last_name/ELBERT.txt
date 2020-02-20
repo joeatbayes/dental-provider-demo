@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELBERT	AMANDA	D12685	1336375641D12	1670 BEAM AVE	MAPLEWOOD	MN

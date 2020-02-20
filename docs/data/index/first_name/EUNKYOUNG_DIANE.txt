@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	EUNKYOUNG DIANE	18844	1356493019188	143 E MAIN ST	BENTON HARBOR	MI

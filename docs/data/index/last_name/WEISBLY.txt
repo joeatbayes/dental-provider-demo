@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEISBLY	GARY	AR2066	1942394440AR2	12921 CANTRELL RD.	LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDERSON	CLENNAN	D7283	1134156524D72	515 DELAWARE ST SE	MINNEAPOLIS	MN

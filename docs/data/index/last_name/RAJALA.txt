@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAJALA	KRISTIN	9286	1467466052928	501 WEST COLLEGE DRIVE	BRAINERD	MN

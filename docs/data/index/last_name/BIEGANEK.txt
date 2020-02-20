@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIEGANEK	VICTOR	D11575	1104986538D11	917 GRAND AVE	SAINT PAUL	MN

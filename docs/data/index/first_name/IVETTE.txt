@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JORGE	IVETTE	9291	1194193508929	2010 E ELLIOT RD	TEMPE	AZ

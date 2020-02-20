@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FEUILLERAT	JAY	D13881	1376063818D13	277 3RD ST N	BAYPORT	MN

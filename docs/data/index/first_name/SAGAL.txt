@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUR	SAGAL	9787	1467854216978	409 DUNLAP ST N	SAINT PAUL	MN

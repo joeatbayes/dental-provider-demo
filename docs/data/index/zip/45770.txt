@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLAR	WILLIAM	8268	1205005626826	1 PENN PLAZA	PETOSKEY	MI

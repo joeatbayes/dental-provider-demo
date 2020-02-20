@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEELINGER	CHELSEA	4116	1144670126411	108 DOVER RD	WEST MEMPHIS	AR

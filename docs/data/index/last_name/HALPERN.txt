@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALPERN	LESLIE	7445	1023009669744	1005 DB TODD JR BLVD	NASHVILLE	TN

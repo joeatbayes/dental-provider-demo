@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRINEGAR	DANIEL	12010574A	1376769802120	409 W 6TH ST	JEFFERSONVILLE	IN

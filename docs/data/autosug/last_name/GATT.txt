@@ -1,0 +1,2 @@
+GATTI	1
+GATTO	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REEDER	DAVID	D6893	1518199405D68	8960 SPRINGBROOK DR NW	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALTAYIB	NUSIBAH	PENDING	1629366919PEN	973 SKYLINE DR SW	ROCHESTER	MN

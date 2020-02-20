@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITTEMORE	JOHN	7364	1376732503736	2165 WEST ST	GERMANTOWN	TN

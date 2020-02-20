@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOWELL	ALAN	3830	1982781910383	906 W UNIVERSITY AVE STE 110	FLAGSTAFF	AZ

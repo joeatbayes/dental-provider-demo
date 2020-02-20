@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GASSMANN	CARL	D4868	1275681330D48	10603 N HAYDEN RD	SCOTTSDALE	AZ

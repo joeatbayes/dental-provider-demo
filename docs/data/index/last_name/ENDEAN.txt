@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ENDEAN	AIMEE	D13218	1952746216D13	1525 COUNTY ROAD 101 N	PLYMOUTH	MN

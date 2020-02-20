@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PSALTIS	WILLIAM	1806	1043323397180	6610 E CARONDELET DRIVE	TUCSON	AZ

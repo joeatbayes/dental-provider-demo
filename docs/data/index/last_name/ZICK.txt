@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZICK	DANIEL	2901014170	1629281274290	2410 LAKE LANSING RD	LANSING	MI

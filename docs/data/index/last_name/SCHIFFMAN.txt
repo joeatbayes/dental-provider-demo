@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIFFMAN	ERIC	D9513	1417021619D95	2550 UNIVERSITY AVE W	SAINT PAUL	MN

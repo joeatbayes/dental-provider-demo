@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINNEBERG	BARRY	D7100	1063574358D71	436 ASHLAND AVE APT 6	SAINT PAUL	MN

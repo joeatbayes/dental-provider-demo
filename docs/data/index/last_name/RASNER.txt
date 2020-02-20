@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RASNER	DAVID	7635	1417945502763	90 YUM YUM RD	SOMERVILLE	TN

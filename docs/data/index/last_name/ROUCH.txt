@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROUCH	WILLIAM	12009778	1497801195120	2300 W FRANKLIN ST	EVANSVILLE	IN

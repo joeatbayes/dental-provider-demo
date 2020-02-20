@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARSS	JEANNE	D9687	1386901858D96	3475 PLYMOUTH BLVD	PLYMOUTH	MN

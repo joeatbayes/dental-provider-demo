@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	TUYEN	D11658	1295888428D11	350 ELIOT AVE.	RUSH CITY	MN

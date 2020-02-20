@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERWERF	RAYMOND	2117	1013126101211	1630 S STAPLEY DR	MESA	AZ

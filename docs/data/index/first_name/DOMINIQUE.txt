@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LE	DOMINIQUE	D14193	1427615632D14	212 CLYDESDALE TRL STE 1040	MEDINA	MN

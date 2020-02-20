@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RABANAL	ALEJANDRO	D6797	1366579963D67	7600 E CAMELBACK RD	SCOTTSDALE	AZ

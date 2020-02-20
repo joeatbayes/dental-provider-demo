@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEI	CHRIS	13788	1417153388137	22615 MICHIGAN AVE	DEARBORN	MI

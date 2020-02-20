@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAYDUK	MICHAEL	12008530	1114009057120	450 ST JOHN ROAD	MICHIGAN CITY	IN

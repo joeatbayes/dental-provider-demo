@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEISMAN	HERBERT	FL 16	1447570791FL1	8500 FRANLO RD	EDEN PRAIRIE	MN

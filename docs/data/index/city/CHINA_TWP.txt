@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIULIANO	ANTHONY	2901016483	1790823540290	5013 ST CLAIR HWY	CHINA TWP	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINSLER	JULIE	12011248A	1316103716120	7750 W 200 S	TOPEKA	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COPLIN	CHRISTOPHER	5451	1407901069545	2046 N 24TH ST	PHOENIX	AZ

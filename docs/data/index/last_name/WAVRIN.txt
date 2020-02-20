@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAVRIN	DENNIS	7851	1508833898785	207 S MAIN ST	LE SUEUR	MN

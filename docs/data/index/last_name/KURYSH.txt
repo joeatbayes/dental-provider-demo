@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KURYSH	MEREDITH	D12116	1467566505D12	828 HAWTHORNE AVE E	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NICKERSON	GARY	12009939A	1386669257120	2833 LINCOLN ST	HIGHLAND	IN

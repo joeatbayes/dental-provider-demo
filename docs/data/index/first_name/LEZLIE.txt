@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NELSON	LEZLIE	D10713	1699825612D10	375 JACKSON ST STE 200	SAINT PAUL	MN

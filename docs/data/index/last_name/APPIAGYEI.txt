@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+APPIAGYEI	AKOSUA	2901022650	1558854356290	1615 MICHIGAN AVE	BALDWIN	MI

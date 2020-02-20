@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIMINICK	BRADLEY	11078	1417516733110	2975 FORT HENRY DR STE A	KINGSPORT	TN

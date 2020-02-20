@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRASAVAGE	ROSA	D4518	1962462705D45	13706 W BELL RD	SURPRISE	AZ

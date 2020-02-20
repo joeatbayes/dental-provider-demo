@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARAWI	MOATAZ	5987	1518964774598	7701 E INDIAN SCHOOL RD	SCOTTSDALE	AZ

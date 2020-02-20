@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHOPP	CRYSTAL	D13609	1013384353D13	33 E CHAPMAN ST	ELY	MN

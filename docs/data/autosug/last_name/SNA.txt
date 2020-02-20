@@ -1,0 +1,2 @@
+SNAPP	2
+SNARE	1

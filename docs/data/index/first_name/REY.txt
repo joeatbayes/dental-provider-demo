@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGELIN	REY	2892	1437170842289	1467 W ELLIOT RD	GILBERT	AZ

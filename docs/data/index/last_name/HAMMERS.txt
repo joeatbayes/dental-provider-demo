@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMMERS	GREGORY	9000	1316960727900	206 WALKER AVE N	NEW YORK MILLS	MN

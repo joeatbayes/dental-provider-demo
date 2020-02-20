@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDYKE	MICHELLE	L548046	1831222454L54	1745 HOLTON RD	MUSKEGON	MI

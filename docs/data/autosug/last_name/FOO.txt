@@ -1,0 +1,2 @@
+FOOR	1
+FOOTE	1

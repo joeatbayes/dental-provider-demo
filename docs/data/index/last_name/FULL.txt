@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FULL	AMY	D14188	1811553894D14	401 JEWETT ST	MARSHALL	MN

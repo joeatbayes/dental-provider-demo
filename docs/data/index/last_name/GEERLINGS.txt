@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEERLINGS	ARIC	2901021941	1205286853290	220 N GLOCHESKI DR	MANISTEE	MI

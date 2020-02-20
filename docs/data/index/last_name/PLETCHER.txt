@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLETCHER	AUSTIN	12012498A	1013369701120	605 W DOUGLAS RD	MISHAWAKA	IN

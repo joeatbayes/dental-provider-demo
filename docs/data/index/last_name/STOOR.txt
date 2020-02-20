@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOOR	MICHAEL	G008273	1497958870G00	407 N LINDSAY RD	MESA	AZ

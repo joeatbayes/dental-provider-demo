@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLE	TRAVIS	11552	1609993278115	69 LAKE ST N	FOREST LAKE	MN

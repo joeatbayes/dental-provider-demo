@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERRYMAN	RICHARD	DS2003	1053394411DS2	301 W MARKET ST	BOLIVAR	TN

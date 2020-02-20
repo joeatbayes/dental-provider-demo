@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BADALOV	ROBERT	D5930	1235163270D59	801 N WILMOT RD	TUCSON	AZ

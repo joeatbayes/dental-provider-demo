@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOLDERSMA	DANIEL	12012577A	1518410117120	604 AUSTON CT	GOSHEN	IN

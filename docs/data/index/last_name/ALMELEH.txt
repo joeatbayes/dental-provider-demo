@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALMELEH	STEPHEN	019-017159	1760556815019	1332 119TH ST	WHITING	IN

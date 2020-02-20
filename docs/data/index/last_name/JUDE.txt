@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUDE	JENNIFER	D11546	1295703007D11	119 NE FIRST STREET	LITTLE FALLS	MN

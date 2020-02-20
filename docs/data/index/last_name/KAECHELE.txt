@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAECHELE	DENNIS	2901017639	1568682938290	1671 WEST US HWY 12	CLINTON	MI

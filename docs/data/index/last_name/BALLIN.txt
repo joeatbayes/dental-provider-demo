@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALLIN	ANDREW	D7932	1891869293D79	6053 NICOLLET AVE	MINNEAPOLIS	MN

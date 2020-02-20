@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEDDIREDDY	ANITHA	D12331	1407057664D12	520 MAIN ST	HAWLEY	MN

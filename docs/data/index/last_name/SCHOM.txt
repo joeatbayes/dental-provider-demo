@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOM	JAMES	7841	1952416497784	1400 LOOKOUT DRIVE	NORTH MANKATO	MN

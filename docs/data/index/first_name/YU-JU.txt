@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YANG	YU-JU	2901019503	1326241373290	806 TUURI PL	FLINT	MI

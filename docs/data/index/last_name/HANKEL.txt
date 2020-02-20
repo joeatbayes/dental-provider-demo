@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANKEL	ROBERT	4523	1902972961452	1895 N TREKELL RD	CASA GRANDE	AZ

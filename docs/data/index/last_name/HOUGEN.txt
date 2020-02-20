@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOUGEN	OLIVIA	797	1457575870797	826 CHIEF EDDIE HOFFMAN HIGHWAY	BETHEL	AK

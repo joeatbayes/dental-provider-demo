@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIERI	CHASE	10507	1013447382105	1715 DOWNTOWN WEST BLVD	KNOXVILLE	TN

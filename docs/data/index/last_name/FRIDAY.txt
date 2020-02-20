@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIDAY	MARGERY	DS 3422	1447572235DS3	7095 HIGHWAY 70 S	BELLEVUE	TN

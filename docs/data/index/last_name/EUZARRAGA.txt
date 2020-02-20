@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EUZARRAGA	JANET	D5347	1356458129D53	4206 E CHANDLER BLVD STE 20	PHOENIX	AZ

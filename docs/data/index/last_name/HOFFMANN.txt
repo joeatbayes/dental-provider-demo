@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOFFMANN	WILLIAM	9698	1619947314969	15655 37TH AVE. N.	PLYMOUTH	MN

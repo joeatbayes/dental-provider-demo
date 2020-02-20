@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUCIA	JOHN	14277	1942331301142	30300 HOOVER ROAD	WARREN	MI

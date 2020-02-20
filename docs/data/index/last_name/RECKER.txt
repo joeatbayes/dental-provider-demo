@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RECKER	BRYAN	D12733	1861693491D12	2112 VIKING DR NW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEKARNA	JOSEPH	6253	1427020148625	215 BROADWAY ST S	JORDAN	MN

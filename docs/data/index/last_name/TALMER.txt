@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TALMER	SAMUEL	2901010493	1144342361290	400 W CLARKSTON RD	LAKE ORION	MI

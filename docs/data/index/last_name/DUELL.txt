@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUELL	PHILIP	2901014599	1235222977290	22341 WEST ROAD	WOODHAVEN	MI

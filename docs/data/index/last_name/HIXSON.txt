@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIXSON	WILLIAM	2476	1265448070247	2411 MCCAIN BLVD	NORTH LITTLE ROCK	AR

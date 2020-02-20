@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LESTER	QUINTARIAS	0	1235621863061	1005 DR DB TODD JR BLVD	NASHVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAL	ARTHUR	2233	1508083643223	4715 N 32ND ST	PHOENIX	AZ

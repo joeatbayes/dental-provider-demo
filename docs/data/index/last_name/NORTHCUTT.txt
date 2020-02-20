@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORTHCUTT	SARA	7885	1356452718788	1441 NEW HIGHWAY 96 WEST	FRANKLIN	TN

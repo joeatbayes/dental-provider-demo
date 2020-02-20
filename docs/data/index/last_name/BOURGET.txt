@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOURGET	JACOB	10384	1639527716103	923 NASHVILLE PIKE STE A	GALLATIN	TN

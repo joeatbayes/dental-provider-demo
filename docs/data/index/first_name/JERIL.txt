@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COOPER	JERIL	DS8468	1437223849DS8	4610 BRAINERD RD	CHATTANOOGA	TN

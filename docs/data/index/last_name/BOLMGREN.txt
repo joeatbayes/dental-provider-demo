@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOLMGREN	GARY	9129	1215157631912	381 SOUTHDALE MEDICAL CENTER	EDINA	MN

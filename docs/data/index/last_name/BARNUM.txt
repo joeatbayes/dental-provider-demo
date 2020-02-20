@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARNUM	GEOFFREY	10226	1104106228102	10260 N 90TH ST	SCOTTSDALE	AZ

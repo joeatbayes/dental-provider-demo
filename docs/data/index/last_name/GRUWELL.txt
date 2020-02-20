@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRUWELL	SCOTT	5145	1508087123514	200 1ST ST SW	ROCHESTER	MN

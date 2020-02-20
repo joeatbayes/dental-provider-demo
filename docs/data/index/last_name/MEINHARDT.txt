@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEINHARDT	JOSPEH	8900	1033395926890	2513 LOUANNA ST	MIDLAND	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FABER	NATHAN	1179	1679744585117	2N FLOOR INTERSEA MALL	DUTCH HARBOR	AK

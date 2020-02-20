@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEENE GREGORY	EMMALEE	2990	1235242421299	1018 N WASHINGTON ST	MAGNOLIA	AR

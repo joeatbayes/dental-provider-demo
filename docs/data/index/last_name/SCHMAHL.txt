@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHMAHL	ELIZABETH	5381	1477885754538	3029 S KINNEY RD	TUCSON	AZ

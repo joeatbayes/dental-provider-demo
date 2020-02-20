@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERNODLE	DAVID	1904	1457679342190	708 E DIXON RD	LITTLE ROCK	AR

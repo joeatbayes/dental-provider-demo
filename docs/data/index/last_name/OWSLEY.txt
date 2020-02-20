@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OWSLEY	DAVID	4033	1417041104403	33 W 3RD ST	COOKEVILLE	TN

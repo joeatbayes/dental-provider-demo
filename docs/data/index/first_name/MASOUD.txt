@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ATTAR	MASOUD	10602	1679632848106	1726 2ND AVE NO	SAUK RAPIDS	MN

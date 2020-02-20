@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCAMIS	ROBERT	2367	1316005986236	4016 FORT HENRY DRIVE	KINGSPORT	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISRAELSEN	JUSTIN	8200	1619236742820	1900 PASEO SAN LUIS	SIERRA VISTA	AZ

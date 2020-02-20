@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OGIE	ROBERT	5538	1548328206553	2451 S AVENUE A	YUMA	AZ

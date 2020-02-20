@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUKAVSKY	TIMOTHY	3956	1689730988395	6151 E CAMELOT DR	MESA	AZ

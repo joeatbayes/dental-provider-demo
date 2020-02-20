@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAWLEY	STANLEY	3811	1114350410381	2654 HORSESHOE CIR	HUGHES	AR

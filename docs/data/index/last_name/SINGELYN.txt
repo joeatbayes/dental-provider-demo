@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINGELYN	ROBERT	15066	1104968528150	2300 HAGGERTY RD	WEST BLOOMFIELD	MI

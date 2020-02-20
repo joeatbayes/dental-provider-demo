@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	HONGHA	D010363	1184282253D01	1848 HOPE AVE STE 2	KINGMAN	AZ

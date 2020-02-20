@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VASCHE	DENNIS	3288	1770644254328	8223 W INDIAN SCHOOL RD	PHOENIX	AZ

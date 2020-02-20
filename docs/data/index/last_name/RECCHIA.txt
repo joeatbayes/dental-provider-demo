@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RECCHIA	NANCY	17694	1639236219176	538 N OLD WOODWARD	BIRMINGHAM	MI

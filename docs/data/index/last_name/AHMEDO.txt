@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AHMEDO	M.BASHAR	12287	1417043316122	1247 TIMBERSHORE LN	EAGAN	MN

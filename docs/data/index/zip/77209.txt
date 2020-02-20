@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKKE	JOSEPH	3445	1649264433344	1090 ARNOLD DR	LITTLE ROCK	AR

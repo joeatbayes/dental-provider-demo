@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOPEZ	GIANIRA	2901018076	1336227743290	5270 W BASELINE RD	LAVEEN	AZ

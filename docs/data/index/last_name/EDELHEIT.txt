@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDELHEIT	CRAIG	15817	1316978943158	23020 POWER RD	FARMINGTON	MI

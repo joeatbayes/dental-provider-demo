@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPIGNER	BRUCE	2885	1942426234288	926 E MCDOWELL RD STE 120	PHOENIX	AZ

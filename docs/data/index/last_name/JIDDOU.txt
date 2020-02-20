@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JIDDOU	PAULINE	18645	1184812034186	18181 W 12 MILE RD	LATHRUP VILLAGE	MI

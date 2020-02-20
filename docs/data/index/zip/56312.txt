@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BELLING	LYLE	D7524	1720132095D75	500 BORGERDING AVE.	BELGRADE	MN

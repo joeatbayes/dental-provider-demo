@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGEE	POLINA	D009769	1427587005D00	980 WILLOW CREEK RD STE 103	PRESCOTT	AZ

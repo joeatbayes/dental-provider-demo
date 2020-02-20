@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POWELL-STEELE	MARYKAY	14781	1023171642147	8080 MOORSBRIDGE RD	PORTAGE	MI

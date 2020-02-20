@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSTLUND	LYNN	9039	1174671358903	1043 PAYNE AVE	SAINT PAUL	MN

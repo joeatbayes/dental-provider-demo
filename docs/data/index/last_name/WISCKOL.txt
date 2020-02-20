@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WISCKOL	RICHARD	14482	1225040140144	35223 GRAND RIVER	FARMINGTON	MI

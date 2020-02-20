@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROWN	THOMAS	1284 DENTIST	1194958520128	"1122 SO WALDRON, STE A"	FT. SMITH	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEIME	ANNA	D12780	1912282997D12	512 66TH AVE N	BROOKLYN CENTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHESTAK	ROBERT	7741	1710990981774	241 CLEVELAND AVE S	SAINT PAUL	MN

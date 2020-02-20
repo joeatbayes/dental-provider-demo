@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HECKER	DONNA	D11288	1164863064D11	7770 DELL RD	CHANHASSEN	MN

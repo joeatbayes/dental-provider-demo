@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRICHERZ	JACOB	D14044	1841784519D14	1604 1ST ST S	WILLMAR	MN

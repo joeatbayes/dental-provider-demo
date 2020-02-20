@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YUE	CHRISTOPHER	S11	1538218615S11	411 MAIN ST	SAINT PAUL	MN

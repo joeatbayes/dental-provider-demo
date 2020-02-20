@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COOKE	FRIEDA	12009952	1205934973120	6355 ROCKVILLE RD	INDIANAPOLIS	IN

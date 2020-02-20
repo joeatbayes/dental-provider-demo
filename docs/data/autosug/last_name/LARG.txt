@@ -1,0 +1,2 @@
+LARGURA	3
+LARGE	1

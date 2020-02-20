@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REGULA	CHESTER	2901012093	1669541470290	38000 ANN ARBOR TRL	LIVONIA	MI

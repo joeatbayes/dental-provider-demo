@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASTER	GEORGE	2202	1871679019220	3501 N SCOTTSDALE RD	SCOTTSDALE	AZ

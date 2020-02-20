@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JURKOVICH	MARK	8654M	1588621338865	29663 GATEWAY AVE	CHISAGO CITY	MN

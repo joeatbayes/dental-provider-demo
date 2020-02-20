@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUCAET	GARY	13343	1902928708133	3777 18 MILE RD	STERLING HEIGHTS	MI

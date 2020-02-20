@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOMROCK	JEFFREY	D10390	1497894646D10	22 E CALVARY RD	DULUTH	MN

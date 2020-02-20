@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIMA	RUSSELL	D3339	1174780415D33	1980 HIWAY 95	BULLHEAD CITY	AZ

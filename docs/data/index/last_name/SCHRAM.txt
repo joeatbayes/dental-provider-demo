@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHRAM	DAVID	10693	1619196300106	2600 BEMIDJI AVE N	BEMIDJI	MN

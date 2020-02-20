@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+APELGREN	JAYCE	D13938	1619358397D13	3938 CEDAR GROVE PKWY	EAGAN	MN

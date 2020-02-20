@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	VANG	D14218	1225695174D14	5901 94TH AVE N STE 105	BROOKLYN PARK	MN

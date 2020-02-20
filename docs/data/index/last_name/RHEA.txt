@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RHEA	JOHN	2658	1710012273265	805 N PALM ST	LITTLE ROCK	AR

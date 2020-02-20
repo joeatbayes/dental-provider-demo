@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DICELLO	ANTHONY	14485	1952537128144	167 NORTH MAIN STREET	TUBA CITY	AZ

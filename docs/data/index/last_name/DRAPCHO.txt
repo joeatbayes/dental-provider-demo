@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRAPCHO	JESSICA	D12209	1255414504D12	7950 MAIN ST	MAPLE GROVE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOEBEL	ELIZABETH	9944	1891215497994	620 E 10TH ST	COOKEVILLE	TN

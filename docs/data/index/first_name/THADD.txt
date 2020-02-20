@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JENNINGS	THADD	4021	1619021029402	1093 HANCOCK RD	BULLHEAD CITY	AZ

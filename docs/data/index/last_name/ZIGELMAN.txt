@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIGELMAN	MARINA	D12374	1932392834D12	3152 MINNEHAHA AVE	MINNEAPOLIS	MN

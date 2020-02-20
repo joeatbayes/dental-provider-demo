@@ -1,0 +1,100 @@
+- widget:
+  id: provSpecialtyType
+  type: dropdown
+  data_type: dropdown
+  label: Specialty Type
+  label_class: wrap
+  data_context: type
+  class : input_field
+  option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Dentist doctorate in dental surgery D.D.S", "value" : "122300000X"}
+       - {"label" : "General Practice", "value": "1223G0001X"}
+       - {"label" : "Dental Public Health", "value" : "1223D0001X"}
+       - {"label" : "Pediatric Dentistry", "value" : "1223P0221X"}
+       - {"label" : "Periodontics", "value" : "1223P0300X"}
+       - {"label" : "Prosthodontics", "value" : "1223P0700X"}
+       - {"label" : "Oral and Maxillofacial Pathology", "value" : "1223P0106X"}
+       - {"label" : "Oral and Maxillofacial Radiology", "value" : "1223D0008X"}
+       - {"label" : "Oral and Maxillofacial Surgery", "value" : "1223X0400X"}
+
+- widget:
+    id: provSpecialStatus
+    data_type: text
+    type: dropdown
+    label : Status
+    label_class: wrap
+    data_context: status
+    class: input_field
+    ignore-case-match: true
+    option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Active", "value": "A"}
+       - {"label" : "Inactive", "value": "I"}
+  
+
+- widget:
+  id: provSpeciaEffectiveDate
+  type: date
+  data_type: date
+  label: Effective Date
+  label_class: wrap  
+  data_context: effective_date
+  class : input_field
+
+
+- widget:
+  id: provSpecialtyBoardCert
+  type: dropdown
+  label_class: wrap
+  data_type: text
+  label: Board Certified
+  data_context: board_cert
+  class : input_field
+  option:
+       - {"label" : "-", "value" : "-"}
+       - {"label" : "Yes", "value" : "Y"}
+       - {"label" : "No", "value" : "N"}
+
+
+- widget:
+    id: provSpecialtyRowGroup
+    type: widgetGroup
+    class: vgroup
+    layout: horizontal
+    collapsed: false    
+    cell_class: tdLeft
+    renderFieldset: false
+    widgets: 
+     - provSpecialtyType
+     - provSpecialStatus
+     - provSpeciaEffectiveDate
+     - provSpecialtyBoardCert
+
+- widget:
+  id: provSpecialtyTable
+  label: Specialty
+  type: table
+  max_visible_rows: 10
+  min_rows: 1
+  class: mtable
+  data_context: specialty
+  total_line: false
+  skip_col_header: true
+  add_button:
+     label: Add Specialty
+     class: addRow
+     skip: false
+  columns: 
+    - provSpecialtyRowGroup
+
+
+- form:
+   id : provSpecialtyTabForm
+   class: inputFrm
+   xlabel: Provider Specialty
+   show_data_obj_div: dataObjDivBottom
+   autocomplete: false
+   widgets:   
+     - provSpecialtyTable
+ 

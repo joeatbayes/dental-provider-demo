@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRITZ	JOHN	3748	1326232257374	4550 E THOMAS RD	PHOENIX	AZ

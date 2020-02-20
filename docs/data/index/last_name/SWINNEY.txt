@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWINNEY	BRENT	12010095	1497935977120	888 SIM HODGIN PKWY	RICHMOND	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKAALEN	JAMES	D5795	1154352375D57	3227 E BELL RD	PHOENIX	AZ

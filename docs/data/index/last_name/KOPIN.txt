@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPIN	JOHN	2901010902	1740437433290	1200 N TELEGRAPH RD	PONTIAC	MI

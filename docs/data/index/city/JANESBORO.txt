@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FERGUS	JAMES	3645	1598707531364	900 SOUTHWEST DR STE C & D	JANESBORO	AR

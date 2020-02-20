@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COURTER	NYLA	8561	1447209259856	9786 W DELPHI PIKE 27	CONVERSE	IN

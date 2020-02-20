@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STITES	JOHN	DS3244	1770509796DS3	112 EAST FIRST STREET	CROSSVILLE	TN

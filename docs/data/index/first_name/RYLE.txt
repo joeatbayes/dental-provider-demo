@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADKE	RYLE	AA549	1649315227AA5	2136 AIRPORT WAY	FAIRBANKS	AK

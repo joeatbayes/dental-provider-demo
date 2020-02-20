@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIEKE	JOHN	D11208	1154373595D11	701 PARK AVE	MINNEAPOLIS	MN

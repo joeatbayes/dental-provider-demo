@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDERSON	HARLAN	D8141	1962595595D81	315 SW THIRD STREET	WILLMAR	MN

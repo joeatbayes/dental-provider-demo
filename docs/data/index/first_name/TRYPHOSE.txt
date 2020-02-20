@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHARLES	TRYPHOSE	8039	1801945530803	3030 N 67TH PL UNIT 126	SCOTTSDALE	AZ

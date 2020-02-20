@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANFINSEN	KATIE	D13434	1740694520D13	8960 SPRINGBROOK DR NW	COON RAPIDS	MN

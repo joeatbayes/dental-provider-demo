@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLAZER	MARCIA	3950	1629192190395	11000 N SCOTTSDALE RD	SCOTTSDALE	AZ

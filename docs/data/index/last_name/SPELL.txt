@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPELL	CHARLIE	DS6919	1639230170DS6	6223 MOUNT MORIAH ROAD EXT	MEMPHIS	TN

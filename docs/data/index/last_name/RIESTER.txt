@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIESTER	ANNA	D10410	1376602896D10	800 LASALLE AVE	MINNEAPOLIS	MN

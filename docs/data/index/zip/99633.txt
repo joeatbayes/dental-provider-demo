@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCAS	KELLY	AA673	1023239902AA6	2 SCHOOL HOUSE RD	NAKNEK	AK

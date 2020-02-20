@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABT	BENJAMIN	1568697654	1568697654928	5415 DISTINCTION WAY	PRESCOTT	AZ

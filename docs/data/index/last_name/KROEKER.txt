@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KROEKER	CLINT	D14069	1518451707D14	20143 IDEALIC AVE # 105	LAKEVILLE	MN

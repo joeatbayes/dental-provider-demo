@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KASSMAN	ANDREW	2495	1740365592249	6700 N. ORACLE ROAD	TUCSON	AZ

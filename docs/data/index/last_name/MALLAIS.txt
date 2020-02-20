@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALLAIS	TERRA	2901020258	1164737300290	305 N STATE ST	OSCODA	MI

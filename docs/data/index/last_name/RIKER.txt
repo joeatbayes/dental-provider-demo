@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIKER	PAUL	14570	1750402137145	1600 KINGSWAY CT	TRENTON	MI

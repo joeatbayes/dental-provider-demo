@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEN	CHRISTY	118813	1376838714118	4200 LAKE OTIS PKWY	ANCHORAGE	AK

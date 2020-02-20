@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOMINGO	MICHAEL	51322	1710036009513	15444 W COOLIDGE ST	GOODYEAR	AZ

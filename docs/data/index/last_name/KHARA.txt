@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KHARA	SATBIR	D010463	1275187726D01	2010 E. ELLIOT RD. SUITE 105	TEMPE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CYR	AUDREY	D13809	1215465059D13	1832 MAPLE GROVE RD	DULUTH	MN

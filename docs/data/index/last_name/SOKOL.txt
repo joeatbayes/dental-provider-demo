@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOKOL	IVO	4083	1649497785408	10371 N ORACLE RD	TUCSON	AZ

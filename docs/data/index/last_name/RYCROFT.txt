@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYCROFT	CHESTER	7115	1861571309711	1120 N MAIN ST	EVANSVILLE	IN

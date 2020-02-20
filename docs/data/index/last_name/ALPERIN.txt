@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALPERIN	MURRAY	825	1528197209825	1130 S 3RD ST	MEMPHIS	TN

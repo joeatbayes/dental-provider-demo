@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUEHN	ANDREW	D14182	1063079242D14	1121 SE 4TH AVE	GRAND RAPIDS	MN

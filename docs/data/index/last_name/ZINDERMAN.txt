@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZINDERMAN	MARTHA	16180	1023047115161	31620 SCHOOLCRAFT RD	LIVONIA	MI

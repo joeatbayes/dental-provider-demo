@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLASGOW	KARRIE	D12216	1871632026D12	1260 YANKEE DOODLE RD	EAGAN	MN

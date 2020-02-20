@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WERNETTE	CRAIG	2901014167	1679780134290	17 S MAIN ST	CLAWSON	MI

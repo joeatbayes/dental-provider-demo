@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURDUA	ANTHONY	17882	1427101872178	600 N MAIN ST	ROCHESTER	MI

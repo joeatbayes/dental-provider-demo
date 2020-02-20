@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZHANG	XIAODAN	D14166	1578129573D14	1615 14TH ST NW	ROCHESTER	MN

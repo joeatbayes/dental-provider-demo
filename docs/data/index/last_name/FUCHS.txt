@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUCHS	MICHAEL	11058	1154980217110	508 PRINCETON RD STE 101	JOHNSON CITY	TN

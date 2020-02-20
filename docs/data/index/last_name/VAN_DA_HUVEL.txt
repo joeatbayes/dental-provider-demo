@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN DA HUVEL	SCOTT	2745	1083696934274	2601 E ROOSEVELT ST	PHOENIX	AZ

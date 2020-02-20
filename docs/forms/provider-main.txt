@@ -1,0 +1,105 @@
+- widget:
+  id: provLicenseTab
+  class: tabbar subtab
+  icon: none
+  type: tabbar
+  content_div: provTabContent
+  tabs:
+   -tab: 
+       id: tabProvLicLic
+       label: License
+       icon: none
+       active: true
+       form: forms/provider-license
+   - tab:
+       id: tabProvSpecialty
+       label: specialty
+       icon: none
+       active: false
+       form: forms/provider-specialty
+   - tab:
+       id: tabProvPermit
+       label: Permit
+       icon: none
+       active: false
+       form: forms/provider-permit
+   - tab: 
+       id: tabProvSanctions
+       label: sanctions
+       icon: none
+       active: false
+       form: forms/provider-sanctions
+
+# Add a notion of a boolean flag to change icon.
+
+- widget:
+  id: provMainTabBar
+  class: tabbar
+  type: tabbar
+  # content Div is a child div id
+  # created to render child pages or 
+  # forms into.
+  content_div: provTabContent
+  tabs:
+   - tab:
+       label: Summary
+       symbol: 10003;
+       icon:
+         -data_context: prov.status.providerTab
+         -state:
+            -symbol: &#10003;
+            match: true
+            class: tabGood
+       form: forms/provider-summary
+       active: false;
+   - tab:
+      label: Provider
+      symbol: 128269;
+      icon: none
+      form: forms/provider-detail
+      active: true
+   - tab:
+      label: License
+      icon: none
+      child: provLicenseTab
+      active: false
+      symbol: 128270;
+   - tab:
+       label: Special Programs
+       icon: none
+       form: forms/provider-special-programs
+   - tab:
+        label: Business Office
+        icon: none
+        form: forms/business-Office
+   - tab:
+        label: Participation
+        icon: none
+        label: Credentialing
+   - tab:
+        label: Claims Deductions
+        icon: none
+        child: provClaimDeduct
+
+- widget:
+  id: provTabContent
+  class: tabContent
+  type: emptydiv
+
+- form:
+   id : ProvMainPage
+   class: inputFrm
+   xlabel: Provider Main Page
+   show_data_obj_div: dataObjDivBottom
+   autocomplete: false
+   fetch:
+      uri: /data/recs/{dataObjId}.json
+      method: GET
+      parse: JSON
+
+   widgets:   
+    - provMainTabBar
+    - provTabContent
+ 
+
+ 

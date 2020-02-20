@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELMI	NAFISA	D14047	1558872010D14	115 BROADWAY ST NE	MINNEAPOLIS	MN

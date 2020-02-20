@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HULTGREN	BRUCE	8152	1073534632815	7825 TERREY PINE COURT	EDEN PRAIRIE	MN

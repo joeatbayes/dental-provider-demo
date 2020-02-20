@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZARGER	THOMAS	DS2427	1821310384DS2	240 SOUTH PETERS RD	KNOXVILLE	TN

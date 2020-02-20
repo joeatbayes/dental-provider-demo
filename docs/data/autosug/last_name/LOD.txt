@@ -1,0 +1,3 @@
+LODS	2
+LODGE	1
+LODHI	1

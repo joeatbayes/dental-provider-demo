@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARNESEN	PAUL	D8979	1053434175D89	1525 CO RD 101 N	PLYMOUTH	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"PARRISH, III"	LEE	3788	1588870513378	99 WHITE BRIDGE RD	NASHVILLE	TN

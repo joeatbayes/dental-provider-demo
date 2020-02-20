@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AINLEY	CHARLES	2613	1205056843261	707 LINWOOD DRIVE	PARAGOULD	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARINELLO	ALAINA	10772	1336632512107	5550 HIGHWAY 153 STE 100	HIXSON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEARNIC	AVERIL	2901018916	1700907490290	225 E GRAND RIVER AVE	BRIGHTON	MI

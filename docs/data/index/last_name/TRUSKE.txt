@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRUSKE	JOSEPH	8887	1376565192888	3901 24TH AVENUE	FORT GRATIOT	MI

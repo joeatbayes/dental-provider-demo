@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMERE-HECK	BARBARA	12007877	1033216411120	10 EAST MAIN STREET	GOSPORT	IN

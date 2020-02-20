@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALL	STERLING	D4996	1023219078D49	6520 N 7TH AVE	PHOENIX	AZ

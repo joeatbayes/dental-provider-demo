@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOPPEL	BRIAN	12007657A	1841255593120	5774 W US HIGHWAY 52	NEW PALESTINE	IN

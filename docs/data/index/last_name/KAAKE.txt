@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAAKE	GREGORY	8798	1336202829879	1415 SUNDBY ROAD	DULUTH	MN

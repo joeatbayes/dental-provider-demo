@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEISTLINE	DAVID	100529	1275917742100	625 E 34TH AVE STE 200	ANCHORAGE	AK

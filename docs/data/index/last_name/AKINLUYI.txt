@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AKINLUYI	FUNSHO	D13568	1104200948D13	4128 2ND ST S	SAINT CLOUD	MN

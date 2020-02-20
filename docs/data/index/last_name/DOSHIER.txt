@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOSHIER	ROBERT	2938	1750479671293	125 SISCO AVE	HARRISON	AR

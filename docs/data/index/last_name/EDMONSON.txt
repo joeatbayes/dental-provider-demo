@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDMONSON	THOMAS	3036-98	1467423103303	673MDG	JBER	AK

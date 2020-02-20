@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAIZ	ERIC	D009959	1134567381D00	6677 W THUNDERBIRD RD STE H120	GLENDALE	AZ

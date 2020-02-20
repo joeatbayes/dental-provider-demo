@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUTE	HEATHER	D12719	1144458605D12	8980 HUDSON BLVD N	LAKE ELMO	MN

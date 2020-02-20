@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHAMA	JOSEPH	D11593	1992794028D11	5100 EDEN AVE	EDINA	MN

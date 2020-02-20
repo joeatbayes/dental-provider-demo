@@ -1,0 +1,3 @@
+LAYMAN	2
+LAY	1
+LAYNE	1

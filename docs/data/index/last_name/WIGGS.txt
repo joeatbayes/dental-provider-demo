@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIGGS	JOSEPH	6871	1417921354687	845 S HIGHLAND ST	MEMPHIS	TN

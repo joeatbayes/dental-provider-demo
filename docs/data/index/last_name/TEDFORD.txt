@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEDFORD	SAMUEL	8080	1053326157808	115 INTERSTATE DR NW	CLEVELAND	TN

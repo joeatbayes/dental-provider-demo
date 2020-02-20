@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COMPETENTE	KAREN	D11271	1093884280D11	4255 PHEASANT RIDGE DR NE	BLAINE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SNEESBY	TODD	1009	1831480151100	3340 PROVIDENCE DR	ANCHORAGE	AK

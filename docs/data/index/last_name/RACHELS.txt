@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RACHELS	SCOTT	9706	1790127892970	40 W CALDWELL ST	MOUNT JULIET	TN

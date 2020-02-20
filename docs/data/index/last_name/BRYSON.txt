@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYSON	STEVEN	2901021915	1821446840290	2765 E GRAND RIVER AVE	HOWELL	MI

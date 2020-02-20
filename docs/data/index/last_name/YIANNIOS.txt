@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YIANNIOS	NICHOLAS	15680	1205857570156	3718 S PINNACLE HILLS PKWY	ROGERS	AR

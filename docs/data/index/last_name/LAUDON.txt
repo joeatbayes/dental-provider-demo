@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAUDON	SCOTT	818	1154456861818	2819 DAWSON ST	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ETKIN	BRUCE	2188	1629376009218	7181 E CAMELBACK RD	SCOTTSDALE	AZ

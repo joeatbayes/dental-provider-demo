@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLIPFEL	CHELSEA	2901022307	1447789193290	40 E BEECH ST	FRUITPORT	MI

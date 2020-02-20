@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEISEL	THOMAS	8861	1013060201886	200 SOUTH WENONA ST	BAY CITY	MI

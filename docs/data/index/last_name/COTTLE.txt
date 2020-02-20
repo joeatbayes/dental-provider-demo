@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COTTLE	BRAD	D6088	1154533016D60	2346 E BROWN RD	MESA	AZ

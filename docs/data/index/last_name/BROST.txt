@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROST	GERALD	9522	1023111549952	8600 NICOLLET AVE	BLOOMINGTON	MN

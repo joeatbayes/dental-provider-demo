@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMNITT	THORNTON	135506	1922586932135	36297 KENAI SPUR HWY	SOLDOTNA	AK

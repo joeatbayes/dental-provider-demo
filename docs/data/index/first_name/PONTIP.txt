@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAILLIE	PONTIP	6469	1346273752646	1050 N SAN FRANCISCO ST	FLAGSTAFF	AZ

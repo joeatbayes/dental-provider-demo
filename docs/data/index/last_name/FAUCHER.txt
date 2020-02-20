@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAUCHER	NATASHA	L2498950	1265874960L24	67640 S MAIN ST	RICHMOND	MI

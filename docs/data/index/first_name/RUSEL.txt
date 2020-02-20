@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLLISTER	RUSEL	2901012996	1487745774290	4426 W KL AVE	KALAMAZOO	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HELLIE	CHARLES	2901010677	1811020332290	3688 W LIBERTY RD	ANN ARBOR	MI

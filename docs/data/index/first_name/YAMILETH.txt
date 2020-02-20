@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATE	YAMILETH	3302	1245309160330	2618 SE J ST SUITE 6	BENTONVILLE	AR

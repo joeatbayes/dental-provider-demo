@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADZIUN	JAMES	D9743	1851513477D97	110 5TH STREET NW	BRAHAM	MN

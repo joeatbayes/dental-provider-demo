@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOWAN	JAMES	8952	1164539706895	205 WABASHA ST S	ST PAUL	MN

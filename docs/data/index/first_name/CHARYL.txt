@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINGARTEN	CHARYL	D12862	1285948125D12	2200 LONDON RD	DULUTH	MN

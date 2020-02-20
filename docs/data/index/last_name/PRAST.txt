@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRAST	ELIZABETH	2091020228	1699087635209	123 SOUTH ST	CHELSEA	MI

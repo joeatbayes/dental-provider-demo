@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EICKMAN	MICHAEL	D12920	1639463706D12	310 RED LAKE BLVD	THIEF RIVER FALLS	MN

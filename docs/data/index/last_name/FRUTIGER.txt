@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRUTIGER	RICHARD	D15825	1043352552D15	226 N STATE ST	ALMA	MI

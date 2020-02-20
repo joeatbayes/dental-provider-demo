@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEERING	THOMAS	DS4300	1275659948DS4	529A HARTSVILLE PIKE	GALLATIN	TN

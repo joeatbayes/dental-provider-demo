@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WERKMAN	GARY	D13533	1538234000D13	72 W CHICAGO ST	COLDWATER	MI

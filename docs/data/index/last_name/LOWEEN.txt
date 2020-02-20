@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOWEEN	CHAD	D11362	1194937821D11	5305 E VIKING BLVD	WYOMING	MN

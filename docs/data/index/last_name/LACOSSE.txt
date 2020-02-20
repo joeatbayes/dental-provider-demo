@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACOSSE	ROBERT	10455	1538144670104	1420 LONDON RD	DULUTH	MN

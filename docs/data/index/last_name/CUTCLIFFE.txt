@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CUTCLIFFE	JAMES	4866	1396899910486	3401 WOODDALE AVE S	ST LOUIS PARK	MN

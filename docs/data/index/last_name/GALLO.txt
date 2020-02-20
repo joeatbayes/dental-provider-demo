@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALLO	WILLIAM	8828	1174507495882	322 BAY ST	PETOSKEY	MI

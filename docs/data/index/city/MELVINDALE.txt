@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POTOCSKY	IVAN	9561	1144401811956	3113 OAKWOOD	MELVINDALE	MI

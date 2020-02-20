@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIOWANI	CHITRA	A3854	1275734063A38	18631 N 19TH AVE	PHOENIX	AZ

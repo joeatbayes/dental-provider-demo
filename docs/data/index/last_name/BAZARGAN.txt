@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAZARGAN	HALEH	8563	1588950521856	430 W FINNIE FLAT RD	CAMP VERDE	AZ

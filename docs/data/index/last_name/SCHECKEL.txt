@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHECKEL	JOHN	D02217	1598297285D02	3143 N 32ND ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROMINE	RICHARD	12007512A	1427269539120	202 S SYCAMORE ST	SWAYZEE	IN

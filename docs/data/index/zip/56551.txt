@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGLUND	MICHAEL	8647	1841401197864	404 DOUGLAS AVENUE	HENNING	MN

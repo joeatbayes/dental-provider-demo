@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARRIX	SCOTT	12009068	1588700124120	2525 CALIFORNIA ST	COLUMBUS	IN

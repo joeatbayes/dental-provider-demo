@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INGOGLIA	JOSEPH	D7980	1699057950D79	15730 N 83RD WAY STE 101	SCOTTSDALE	AZ

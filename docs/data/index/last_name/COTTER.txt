@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COTTER	JAMES	14392	1528274339143	1125 THOMAS EDISON DR	PORT HURON	MI

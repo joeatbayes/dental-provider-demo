@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HINRICHS	JAMES	D08901	1033282603D08	516 DELAWARE ST SE	MINNEAPOLIS	MN

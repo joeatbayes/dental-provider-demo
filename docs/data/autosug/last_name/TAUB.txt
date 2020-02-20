@@ -1,0 +1,2 @@
+TAUBE	2
+TAUB	1

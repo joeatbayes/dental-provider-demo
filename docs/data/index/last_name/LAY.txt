@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAY	GEORGE	1781	1417017724178	606 SEARCY ST	HEBER SPRINGS	AR

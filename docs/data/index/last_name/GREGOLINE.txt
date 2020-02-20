@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GREGOLINE	JOHN	12007472	1932265659120	9220 E FAIRWAY BLVD	SUN LAKES	AZ

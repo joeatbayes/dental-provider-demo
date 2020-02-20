@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GASS	DONALD	3318	1871611632331	595 N DOBSON RD	CHANDLER	AZ

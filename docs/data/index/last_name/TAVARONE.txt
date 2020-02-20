@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAVARONE	ELLEN	17253	1558429605172	602 WEST PRAIRIE ST	VICKSBURG	MI

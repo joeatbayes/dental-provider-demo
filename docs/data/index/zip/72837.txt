@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARKES	ROBERT	2475	1598835357247	7050 SR 7 NORTH	DOVER	AR

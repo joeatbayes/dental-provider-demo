@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENZINGER	FRANK	12006386B	1669541801120	1813 STATE ST	NEW ALBANY	IN

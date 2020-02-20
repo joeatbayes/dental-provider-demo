@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHEMEHORN	ANDREW	9701	1386658532970	2333 W LINCOLN RD	KOKOMO	IN

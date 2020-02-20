@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARLIN	NEAL	D009406	1821416835D00	105 N LITCHFIELD RD	GOODYEAR	AZ

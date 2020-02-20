@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TABOR-COBB	CAMILLE	9010	1609101740901	920 PORTER ST	MEMPHIS	TN

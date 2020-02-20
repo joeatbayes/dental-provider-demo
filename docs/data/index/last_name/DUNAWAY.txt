@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNAWAY	ERIN	8521	1528235470852	1160 E LEWIS AND CLARK PKWY	CLARKSVILLE	IN

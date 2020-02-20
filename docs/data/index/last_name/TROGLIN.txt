@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROGLIN	STEPHANIE	D009040	1912306440D00	6920 E SHEA BLVD	SCOTTSDALE	AZ

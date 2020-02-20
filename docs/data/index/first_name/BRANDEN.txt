@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WELCH	BRANDEN	2901022826	1154897353290	505 E ALCOTT ST	KALAMAZOO	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRASKA	CHARLES	10257	1578687810102	15 7TH AVE NW	ROCHESTER	MN

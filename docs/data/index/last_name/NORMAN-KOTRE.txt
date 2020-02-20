@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORMAN-KOTRE	SHANNON	2901017629	1073695326290	2240 S HURON PKWY	ANN ARBOR	MI

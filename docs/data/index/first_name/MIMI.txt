@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOANG	MIMI	D11923	1295836872D11	7300 147TH ST W	APPLE VALLEY	MN

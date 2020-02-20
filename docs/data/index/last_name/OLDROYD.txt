@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLDROYD	ROGER	5840	1205925526584	2532 E 7TH AVE	FLAGSTAFF	AZ

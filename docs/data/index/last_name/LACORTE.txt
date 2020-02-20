@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACORTE	MICHAEL	4600	1962468702460	8351 N ORACLE RD	ORO VALLEY	AZ

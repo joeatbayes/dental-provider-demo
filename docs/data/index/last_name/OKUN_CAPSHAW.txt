@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OKUN CAPSHAW	AMY	6201	1689669368620	1050 E SOUTHERN AVE	TEMPE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLTZ	COLLEEN	D13654	1275981276D13	1970 BUERKLE RD	WHITE BEAR LAKE	MN

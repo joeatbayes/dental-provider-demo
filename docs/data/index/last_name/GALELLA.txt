@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALELLA	STEVE	DS3221	1811971161DS3	875 W POPLAR AVE	COLLIERVILLE	TN

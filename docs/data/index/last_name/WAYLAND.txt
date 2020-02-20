@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAYLAND	RYAN	1241	1760467476124	3340 PROVIDENCE DR	ANCHORAGE	AK

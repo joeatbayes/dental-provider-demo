@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOTTE	TYMON	2901018712	1184845844290	17700 MACK AVE	GROSS POINTE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUGO	JAMES	8847	1407993397884	715 NO SIBLEY AVE	LITCHFIELD	MN

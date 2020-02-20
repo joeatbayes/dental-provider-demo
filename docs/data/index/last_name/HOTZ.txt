@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOTZ	WAYNE	1084	1396838892108	3449 E REZANOF DR	KODIAK	AK

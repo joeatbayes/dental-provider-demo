@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLTMANN	CATRIONA	3781	1053620864378	713 S MAIN ST	STUTTGART	AR

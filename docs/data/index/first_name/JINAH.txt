@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	JINAH	5870	1356402556587	4731 E SOUTHERN AVE	PHOENIX	AZ

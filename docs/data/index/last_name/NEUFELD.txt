@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEUFELD	FRANK	6996	1891887147699	45 3RD AVE SE	HUTCHINSON	MN

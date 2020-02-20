@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITTE	KURT	D9637	1821127127D96	1601 COMO AVE SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROWNFIELD	JOHN	D11336	1720103286D11	2000 S BROADWAY ST	NEW ULM	MN

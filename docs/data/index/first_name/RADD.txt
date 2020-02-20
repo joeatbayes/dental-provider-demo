@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUKAS	RADD	4953	1831129428495	8300 N THORNYDALE RD	TUCSON	AZ

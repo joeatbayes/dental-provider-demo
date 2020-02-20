@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOLATA	ANDRZEJ	15316	1679581912153	26370 GRAND RIVER AVE	REDFORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEIDL	JAMIE	12067	1437228566120	915 37TH AVE S	MOORHEAD	MN

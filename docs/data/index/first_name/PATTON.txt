@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINKIN	PATTON	4232	1326345323423	3996 N FRONTAGE RD	FAYETTEVILLE	AR

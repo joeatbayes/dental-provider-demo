@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAKE	RICHARD	2901011056	1366620304290	1626 LANGLEY AVE	SAINT JOSEPH	MI

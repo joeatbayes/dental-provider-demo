@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEROUIN	TYLER	D13417	1437564085D13	1136 WASHINGTON AVE	DETROIT LAKES	MN

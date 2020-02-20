@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEARD	RANDY	10180	1447349535101	113 MAIN ST S	CLEARBROOK	MN

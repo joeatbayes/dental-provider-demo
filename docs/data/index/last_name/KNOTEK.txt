@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KNOTEK	GEORGIA	12009242	1689789182120	1852 FIELDS BLVD STE B	GREENFIELD	IN

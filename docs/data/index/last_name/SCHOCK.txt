@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOCK	MONICA	D10421	1437416815D10	515 DELAWARE ST SE	MINNEAPOLIS	MN

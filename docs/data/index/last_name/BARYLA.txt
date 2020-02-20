@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARYLA	ALICIA	AZ4351	1215052998AZ4	3414 W UNION HILLS DR	PHOENIX	AZ

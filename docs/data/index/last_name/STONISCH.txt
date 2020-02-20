@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STONISCH	MARY SUE	14752	1275692352147	20040 MACK AVE	GROSSE POINTE WOODS	MI

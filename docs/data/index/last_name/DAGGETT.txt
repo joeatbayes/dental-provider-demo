@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAGGETT	WILLIAM	6852	1104012723685	4676 E 5TH ST	TUCSON	AZ

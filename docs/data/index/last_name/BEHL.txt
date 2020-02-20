@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEHL	JACK	2901017730	1831177401290	2229 US 23 S	ALPENA	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOTCHER	JACK	DS0000003654	1619967676DS0	1928 ALCOA HWY	KNOXVILLE	TN

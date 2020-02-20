@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUGO	ESTEBAN	D12334	1225004880D12	13040 RIVERDALE DR NW	COON RAPIDS	MN

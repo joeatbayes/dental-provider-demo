@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIRSH	DAVID	8260	1295846392826	11475 ROBINSON DR NW	COON RAPIDS	MN

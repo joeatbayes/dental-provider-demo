@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIETRZYNSKI	DOMINIK	2901020331	1750693149290	11552 E 12 MILE RD	WARREN	MI

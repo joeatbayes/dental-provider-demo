@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINN-ORN	LORI	D10746	1912078874D10	303 MAIN STREET	ELK RIVER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VENEBERG	CANDACE	3792	1619073814379	12020 E SHEA BLVD	SCOTTSDALE	AZ

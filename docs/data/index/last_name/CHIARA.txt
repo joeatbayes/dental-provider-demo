@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHIARA	DANIEL	6101	1073532073610	2935 N COUNTRY CLUB RD	TUCSON	AZ

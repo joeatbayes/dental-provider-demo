@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PHAIR	CRAIG	D9681	1053685230D96	515 DELAWARE ST SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDIN	GREGORY	AZ DO2834	1942691779AZD	11550 E PARADISE LANE	SCOTTSDALE	AZ

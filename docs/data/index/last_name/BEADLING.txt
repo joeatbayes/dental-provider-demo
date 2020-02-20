@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEADLING	KENNETH	14276	1588710826142	1850 WHITES RD	KALAMAZOO	MI

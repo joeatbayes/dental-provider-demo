@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIGGERT	WILLIAM	2901009956	1811001852290	285 JAMES STREET	HOLLAND	MI

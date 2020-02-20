@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARASIGAN	FRANCES LOUISE	11023	1083273148110	124 S MAIN ST	SPARTA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPECK	STEPHEN	3280	1083838965328	3515 CENTRAL PIKE	HERMITAGE	TN

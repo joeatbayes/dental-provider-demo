@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUDNEY	B	DS2387	1538375340DS2	311 ASBURY AVE	RIPLEY	TN

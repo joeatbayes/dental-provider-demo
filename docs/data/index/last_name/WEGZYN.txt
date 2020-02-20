@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEGZYN	MARK	8912	1598883746891	914 NEW HIGHWAY 68	SWEETWATER	TN

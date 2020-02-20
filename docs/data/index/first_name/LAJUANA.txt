@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISAAC	LAJUANA	2901016354	1679651863290	19207 SCHAEFER HWY	DETROIT	MI

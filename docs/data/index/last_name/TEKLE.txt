@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEKLE	LEAH	19.029234	132639880119.	635 E BASELINE RD	PHOENIX	AZ

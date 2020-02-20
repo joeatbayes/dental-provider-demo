@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INDOVINA	ANTHONY	D12045	1548323033D12	2130 CLIFF RD	EAGAN	MN

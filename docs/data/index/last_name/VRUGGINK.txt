@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VRUGGINK	SETH	2901018162	1013035245290	522 S BEACON BLVD	GRAND HAVEN	MI

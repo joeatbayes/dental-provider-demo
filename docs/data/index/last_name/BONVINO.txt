@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BONVINO	TRUDY	10859	1518023464108	14065 COMMERCE AVE NE	PRIOR LAKE	MN

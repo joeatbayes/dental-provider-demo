@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WNEK	JOSEPH	2901020271	1760790596290	3650 N MAIN ST	MISHAWAKA	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAJIA	REGINA	17124	1669549531171	3768 PACKARD ST	ANN ARBOR	MI

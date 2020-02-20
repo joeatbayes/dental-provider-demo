@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANYAS	WALTER	4642	1891816534464	216 W WATAUGA AVE	JOHNSON CITY	TN

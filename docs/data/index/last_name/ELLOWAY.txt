@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLOWAY	ZAKAR	5554	1861509523555	1419 N BEAVER ST	FLAGSTAFF	AZ

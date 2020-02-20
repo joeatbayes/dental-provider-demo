@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEALE	LARRY	10481	1720160393104	204 W SHERMAN ST	CARO	MI

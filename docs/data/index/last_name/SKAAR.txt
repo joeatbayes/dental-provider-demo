@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKAAR	DANIEL	D9596	1598865750D95	1630 UNIVERSITY AVE W	SAINT PAUL	MN

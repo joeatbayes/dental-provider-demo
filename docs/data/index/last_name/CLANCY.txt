@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLANCY	PAUL	2901011377	1720154487290	41620 SIX MILE	NORTHVILLE	MI

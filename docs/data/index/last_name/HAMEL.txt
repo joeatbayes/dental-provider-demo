@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMEL	KARL	11057	1629018692110	39393 VAN DYKE	STERLING HEIGHTS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OZTURK	NUREDDIN	12320	1891974861123	5100 EDEN AVE STE 209	EDINA	MN

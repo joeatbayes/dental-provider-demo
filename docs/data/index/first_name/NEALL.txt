@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JACKSON	NEALL	3520	1679699607352	715 EAST ELDRIDGE AVENUE	WYNNE	AR

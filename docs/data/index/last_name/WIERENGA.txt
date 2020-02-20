@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIERENGA	MICHAEL	2901020644	1578823993290	4320 44TH ST SW	GRANDVILLE	MI

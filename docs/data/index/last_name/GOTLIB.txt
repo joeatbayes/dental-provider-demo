@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOTLIB	DANIEL	12393	1316022999123	G-6061 NORTH SAGINAW RD	MOUNT MORRIS	MI

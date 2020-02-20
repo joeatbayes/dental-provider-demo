@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALES	ALEXANDRA	19.031243	190232891719.	951 SOUTHPOINT CIR	VALPARAISO	IN

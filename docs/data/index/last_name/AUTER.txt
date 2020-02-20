@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AUTER	DANIEL	DS0000005006	1497085435DS0	508 PRINCETON RD	JOHNSON CITY	TN

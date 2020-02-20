@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEIP	MICHAEL	D05238	1144282872D05	1061 STATE ROUTE 260	COTTONWOOD	AZ

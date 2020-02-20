@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEARSE	SHANELLE	2901600180	1891357109290	2240 LIVERNOIS RD	TROY	MI

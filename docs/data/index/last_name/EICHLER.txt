@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EICHLER	DAVID	850	1548283328850	3375 BADGER RD STE 1	NORTH POLE	AK

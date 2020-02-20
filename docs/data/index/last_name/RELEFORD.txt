@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RELEFORD	RICHARD	D6576	1437130200D65	530 E MCDOWELL	PHOENIX	AZ

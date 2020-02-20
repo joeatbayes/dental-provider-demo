@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOYE	FRED	11495	1144356692114	3258 BOWERS HARBOR RD	TRAVERSE CITY	MI

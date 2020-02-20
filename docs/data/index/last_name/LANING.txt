@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANING	JOHN	2267	1922186899226	10319 W MARKHAM ST	LITTLE ROCK	AR

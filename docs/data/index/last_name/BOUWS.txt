@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOUWS	JOHN	1760596555	1760596555616	2663 44TH ST SW	WYOMING	MI

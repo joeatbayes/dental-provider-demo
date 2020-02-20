@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CERNEY	JAMES	406	1962426700406	4001 GEIST RD	FAIRBANKS	AK

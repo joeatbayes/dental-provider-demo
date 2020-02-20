@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ECHARD	ERIC	3946	1467746446394	1339 MORELAND DRIVE	KINGSPORT	TN

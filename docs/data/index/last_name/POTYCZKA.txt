@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POTYCZKA	DARYL	4782	1487791018478	1355 E. FLORENCE AVE. #107	CASA GRANDE	AZ

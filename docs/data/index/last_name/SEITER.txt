@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEITER	JACOB	4036	1316326028403	2157 PRINCE ST	CONWAY	AR

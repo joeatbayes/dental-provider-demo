@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OKANE	KRISTI	D9627	1356368120D96	2221 FORD PKWY	ST PAUL	MN

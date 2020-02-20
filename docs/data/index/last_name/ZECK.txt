@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZECK	STEPHEN	12007191	1659485696120	423 NORTH BROAD ST	GRIFFITH	IN

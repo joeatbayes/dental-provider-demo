@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAWORTH	CALVIN	D9070	1013138205D90	1932 LONDON RD	DULUTH	MN

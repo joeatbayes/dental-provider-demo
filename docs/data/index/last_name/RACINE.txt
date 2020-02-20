@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RACINE	PAUL	13499	1457351298134	573 W VIENNA ST	CLIO	MI

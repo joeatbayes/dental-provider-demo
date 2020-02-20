@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLLINSHEAD	JOYCE	D11115	1134291669D11	109 3RD ST WEST	HALSTAD	MN

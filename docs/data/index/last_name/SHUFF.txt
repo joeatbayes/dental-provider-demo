@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHUFF	NICHOLAS	D008723	1689013294D00	5545 E BROADWAY BLVD STE 107	TUCSON	AZ

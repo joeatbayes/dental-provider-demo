@@ -1,0 +1,2 @@
+LENTZ	3
+LENTS	1

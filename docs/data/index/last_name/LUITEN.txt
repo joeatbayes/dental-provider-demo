@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUITEN	DOUGLAS	710	1952521346710	4001 LAUREL ST	ANCHORAGE	AK

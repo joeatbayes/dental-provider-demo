@@ -1,0 +1,2 @@
+VIDYA	2
+VIDAS	1

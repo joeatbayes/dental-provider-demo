@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIATRAS	JARED	2016017466	1083062780201	1714 W HUNT HWY STE 100	QUEEN CREEK	AZ

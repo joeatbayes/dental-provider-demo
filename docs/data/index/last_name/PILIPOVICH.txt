@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PILIPOVICH	STEVEN	12009142	1326038498120	800 POPLAR ST	TERRE HAUTE	IN

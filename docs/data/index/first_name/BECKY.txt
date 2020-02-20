@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSON	BECKY	10699	1134133309106	600 PROFESSIONAL DR	NORTHFIELD	MN

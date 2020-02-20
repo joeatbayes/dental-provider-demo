@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GHANG	YOHAN	12011221A	1376793513120	2505 LAPORTE AVE STE 111	VALPARAISO	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUTHER	PAUL	3733	1528057098373	2140 FAIRVIEW BLVD	FAIRVIEW	TN

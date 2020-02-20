@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUFOUR	ANNETTE	2901016068	1487677688290	1100 1ST AVE N.	ESCANABA	MI

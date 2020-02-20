@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOSHAW	LANI	DD2176	1043281892DD2	6270 W MAIN ST	EAU CLAIRE	MI

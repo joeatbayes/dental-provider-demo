@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COULTER	LONNITA	2901022495	1104345958290	4646 JOHN R ST	DETROIT	MI

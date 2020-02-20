@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REYNOLDS	BLAIN	9912	1255735148991	921 E 3RD ST	CHATTANOOGA	TN

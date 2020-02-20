@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BONGARD	TERRENCE	8412	1609938596841	3620 E 41ST ST	MINNEAPOLIS	MN

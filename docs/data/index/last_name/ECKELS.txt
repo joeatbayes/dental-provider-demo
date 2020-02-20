@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ECKELS	DONALD	8843	1184620007884	3300 EDINBOROUGH WAY	EDINA	MN

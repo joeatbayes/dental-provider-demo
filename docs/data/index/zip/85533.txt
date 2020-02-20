@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OWENS	STEVEN	2541	1538389465254	#1 N. CORONADO BLVD.	CLIFTON	AZ

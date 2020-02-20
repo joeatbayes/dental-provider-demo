@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PHAM	PHUONG-GIANG	D11831	1427047638D11	1026 7TH ST W	SAINT PAUL	MN

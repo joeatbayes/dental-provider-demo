@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RATINER	STEVEN	10252	1952416539102	41840 HAYES RD	CLINTON TOWNSHIP	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YEE-YICK	DONALD	11105	1982712428111	1270 COPE AVE E	MAPLEWOOD	MN

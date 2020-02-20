@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRICK	SAMUEL	9189	1497068589918	451 MURFREESBORO RD	NASHVILLE	TN

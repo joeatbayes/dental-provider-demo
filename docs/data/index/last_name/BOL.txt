@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOL	RUTH	51668	1124246376516	6509 HIGHWAY 41A	PLEASANT VIEW	TN

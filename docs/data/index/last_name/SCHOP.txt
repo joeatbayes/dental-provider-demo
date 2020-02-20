@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOP	DEREK	5135	1407817935513	899 N WILMOT RD	TUCSON	AZ

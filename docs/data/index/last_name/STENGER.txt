@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STENGER	JAMES	93780	1801846985937	79 W ALEXANDRINE ST	DETROIT	MI

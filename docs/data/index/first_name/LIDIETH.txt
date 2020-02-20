@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIBBY	LIDIETH	5548	1518062405554	20950 N TATUM BLVD STE 320	PHOENIX	AZ

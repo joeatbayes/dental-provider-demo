@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRATT	MISTI	12011063A	1588859664120	79 W ALEXANDRINE ST	DETROIT	MI

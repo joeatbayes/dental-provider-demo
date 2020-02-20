@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABUSTEIT	OMAR	S115	1366992034S11	7806 MARKET BLVD	CHANHASSEN	MN

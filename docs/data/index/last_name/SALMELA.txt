@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALMELA	RICHARD	D10795	1982932844D10	18148 MINNETONKA BLVD	WAYZATA	MN

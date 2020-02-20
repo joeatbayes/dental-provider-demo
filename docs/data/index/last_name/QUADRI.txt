@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUADRI	MOHIUDDIN	D13915	1831618073D13	4243 4TH AVE S	MINNEAPOLIS	MN

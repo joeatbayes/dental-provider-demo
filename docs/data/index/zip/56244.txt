@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARLSON	TIMOTHY	D10212	1306931720D10	657 ATLANTIC AVE	HANCOCK	MN

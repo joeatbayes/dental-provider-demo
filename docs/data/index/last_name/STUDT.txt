@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STUDT	DAVID	18373	1659497329183	4170 PONTIAC LAKE RD	WATERFORD	MI

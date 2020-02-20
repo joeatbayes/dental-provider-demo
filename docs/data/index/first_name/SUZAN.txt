@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STACKNIK	SUZAN	2901011868	1174675334290	124 QUINCY ST	HANCOCK	MI

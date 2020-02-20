@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEKOSTER	STEVEN	7797	1639114630779	2 FRANKLIN ST	HUTCHINSON	MN

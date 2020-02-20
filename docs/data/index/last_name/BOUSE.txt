@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOUSE	FLOYD	404	1689843252404	3745 GEIST RD	FAIRBANKS	AK

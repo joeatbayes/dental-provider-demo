@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDOYA	MARISELA	D7339	1073761730D73	5855 E STILL CIR	MESA	AZ

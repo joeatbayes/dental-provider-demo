@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOLAND	RICHARD	2262	1194809517226	2100 NORTH KILLOUGH	WYNNE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAPLE	BRENT	3073	1497886808307	5204 VILLAGE PKWY STE 14	ROGERS	AR

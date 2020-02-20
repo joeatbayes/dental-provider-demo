@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAHLEEN	ROBERT	7531	1306923164753	217 NASSAU ST	SAINT PETER	MN

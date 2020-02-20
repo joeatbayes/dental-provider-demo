@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JACKREL	LORIN	4477	1841226230447	2150 S DOBSON RD	MESA	AZ

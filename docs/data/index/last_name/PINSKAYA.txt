@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PINSKAYA	YULIYA	12010639A	1891869632120	4825 E 96TH ST	INDIANAPOLIS	IN

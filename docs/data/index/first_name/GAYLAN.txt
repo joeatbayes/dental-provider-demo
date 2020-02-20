@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROWN	GAYLAN	3096	1881702421309	102 HIGHWAY 70 E	DICKSON	TN

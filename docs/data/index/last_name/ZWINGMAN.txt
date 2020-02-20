@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZWINGMAN	DAVID	DZ017320	1144208729DZ0	3350 SHATTUCK RD	SAGINAW	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOFSKI	JEROME	9159	1619998556915	1253 GENEVA AVE N	OAKDALE	MN

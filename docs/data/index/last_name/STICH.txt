@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STICH	ERIC	D10385	1639142169D10	7373 FRANCE AVE S	EDINA	MN

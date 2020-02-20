@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDNER	RYAN	D11117	1790805109D11	4243 4TH AVE S	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ECK	STEVEN	D7412	1477639466D74	4201 TUDOR CENTRE DR	ANCHORAGE	AK

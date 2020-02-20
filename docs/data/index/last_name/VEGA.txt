@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VEGA	LUIS	DTP459	1407875958DTP	3601 TVC	NASHVILLE	TN

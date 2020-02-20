@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLIS-LAMBERT	RUTH	DS5252	1881895266DS5	805 GROVE ST	LOUDON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASEK-THROM	LAURA	2901021520	1881144236290	200 TURWILL LN	KALAMAZOO	MI

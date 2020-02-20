@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCURDY	TED	2280	1861415713228	1718 MEMORIAL DR	CLARKSVILLE	TN

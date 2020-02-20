@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALONEY	STEPHEN	AA0557	1932205507AA0	1113 W FIREWEED LN	ANCHORAGE	AK

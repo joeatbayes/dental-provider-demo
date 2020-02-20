@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARTMEL	JERRY	12005711A	1326158692120	325 N WALNUT ST	SEYMOUR	IN

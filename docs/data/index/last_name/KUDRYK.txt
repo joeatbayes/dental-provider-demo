@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUDRYK	VAL	D6792	1649312158D67	3103 CLEARWATER DR	PRESCOTT	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINLINSON	JACOB	1418	1164784666141	712 W 12TH ST	JUNEAU	AK

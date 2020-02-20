@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BATES	DELOSS	8450	1376677443845	1125 MICHIGAN AVE E STE 7	BATTLE CREEK	MI

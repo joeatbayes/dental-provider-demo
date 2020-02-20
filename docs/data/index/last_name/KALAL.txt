@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KALAL	GREGORY	726	1750339180726	724 POSTAL SERVICE LOOP	FORT RICHARDSON	AK

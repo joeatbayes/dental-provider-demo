@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOMINICK	SAMUEL	5248	1508088790524	10850 S 48TH ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TUINSTRA	RYAN	D009814	1144744533D00	750 N KENDRICK ST STE 100	FLAGSTAFF	AZ

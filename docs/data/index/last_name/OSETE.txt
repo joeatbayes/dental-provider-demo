@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSETE	JOSE	4364	1245328194436	2001 W ORANGE GROVE RD	TUCSON	AZ

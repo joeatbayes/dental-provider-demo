@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVIS	JANECE	D4553	1083975288D45	19369 N 59TH AVE	GLENDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LECLERE	SARAH	12011998A	1972943223120	253 W MAIN ST	MONROVIA	IN

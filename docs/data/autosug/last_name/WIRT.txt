@@ -1,0 +1,2 @@
+WIRTH	1
+WIRTZ	1

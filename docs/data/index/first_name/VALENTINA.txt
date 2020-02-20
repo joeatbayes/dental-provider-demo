@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RONNING	VALENTINA	1538691423	1538691423651	13961 60TH ST N	STILLWATER	MN

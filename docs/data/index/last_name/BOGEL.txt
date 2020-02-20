@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOGEL	SARAH	D11156	1013042837D11	1395 CURVE CREST BLVD W	STILLWATER	MN

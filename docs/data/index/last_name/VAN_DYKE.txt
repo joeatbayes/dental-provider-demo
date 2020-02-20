@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN DYKE	BRYNN	8735	1285073676873	7550 N 19TH AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NANCE	F. KENT	3369	1134217243336	3860 HIGHWAY 412 E	SILOAM SPRINGS	AR

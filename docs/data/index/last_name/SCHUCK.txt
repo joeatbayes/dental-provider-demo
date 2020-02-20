@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUCK	ANGELA	D10996	1194884478D10	1400 LOOKOUT DRIVE	NORTH MANKATO	MN

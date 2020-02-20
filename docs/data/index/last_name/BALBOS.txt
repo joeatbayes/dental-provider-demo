@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALBOS	TORI	D008757	1902245434D00	3765 CROSSINGS DR	PRESCOTT	AZ

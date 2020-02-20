@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BADYAL	MANPREET	5722	1265581235572	590 N ALMA SCHOOL RD STE 5	CHANDLER	AZ

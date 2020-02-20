@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RATZ	LARRY	15740	1245448612157	9499 HOLLY RD	GRAND BLANC	MI

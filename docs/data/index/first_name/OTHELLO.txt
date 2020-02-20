@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLER	OTHELLO	1986	1154404853198	1123 SO UNIVERISTY AVE	LITTLE ROCK	AR

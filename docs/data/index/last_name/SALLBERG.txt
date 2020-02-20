@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALLBERG	PHILIP	8357	1992786966835	308 CENTER ST W	ROSEAU	MN

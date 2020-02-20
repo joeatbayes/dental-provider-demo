@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GENDLER	JOSEPH	D11258	1306836291D11	1222 MAINSTREET	HOPKINS	MN

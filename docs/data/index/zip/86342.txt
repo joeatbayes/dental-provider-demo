@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARTER	RYAN	D009128	1912346008D00	4283 N. PIMA WAY	LAKE MONTEZUMA	AZ

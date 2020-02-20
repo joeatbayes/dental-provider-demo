@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITE	CLARICE	ML0000008122	1891776845ML0	12173 MAIN ST STE B	MASON	TN

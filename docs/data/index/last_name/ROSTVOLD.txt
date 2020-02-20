@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSTVOLD	JAMES	9461	1386712537946	1043 E HIGHWAY 169	GRAND RAPIDS	MN

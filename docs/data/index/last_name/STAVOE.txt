@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAVOE	ERIC	3421	1992826770342	14045 N 7TH ST	PHOENIX	AZ

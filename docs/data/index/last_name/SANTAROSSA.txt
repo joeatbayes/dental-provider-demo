@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANTAROSSA	THOMAS	13006	1700955788130	7210 N MAIN ST	CLARKSTON	MI

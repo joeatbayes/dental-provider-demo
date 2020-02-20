@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARIAS	LENNY	D06862	1497733901D06	4955 N SABINO CANYON RD STE 103	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHNIEDER	LAURA	8439	1174887392843	2525 W CAREFREE HWY STE 154	PHOENIX	AZ

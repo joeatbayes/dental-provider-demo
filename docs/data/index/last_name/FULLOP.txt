@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FULLOP	JANOS	12010443A	1346290764120	803 E 4TH ST	MOUNT VERNON	IN

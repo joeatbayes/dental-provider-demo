@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUSMAN	STEPHANIE	D6151	1851367544D61	706 E BELL RD	PHOENIX	AZ

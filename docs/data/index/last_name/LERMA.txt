@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LERMA	HOLLY	D7275	1437350469D72	8900 E PINNACLE PEAK RD STE D210	SCOTTSDALE	AZ

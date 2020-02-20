@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALIN	DAVID	DS2170	1891809695DS2	343 FRANKLIN ROAD	BRENTWOOD	TN

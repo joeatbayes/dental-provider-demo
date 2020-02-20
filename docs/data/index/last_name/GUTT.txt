@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUTT	PAUL	2901016215	1255448593290	308 STATE STREET	PETOSKEY	MI

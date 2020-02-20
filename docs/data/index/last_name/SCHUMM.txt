@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUMM	KRAIG	D13979	1821588666D13	2000 S BROADWAY ST	NEW ULM	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RODRIGUEZ	MAIRA	2901018189	1265646129290	24929 GODDARD RD	TAYLOR	MI

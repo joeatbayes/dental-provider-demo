@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERRIWEATHER	AMBER	30-022873	172023648230-	5366 MENDENHALL MALL	MEMPHIS	TN

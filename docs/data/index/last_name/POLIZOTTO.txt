@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POLIZOTTO	SCOTT	6133	1134254535613	809 WALL STREET	VALPARAISO	IN

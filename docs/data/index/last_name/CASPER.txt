@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CASPER	ROBERT	8001	1841289329800	3436 DENMARK AVE	EAGAN	MN

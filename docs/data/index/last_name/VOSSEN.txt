@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOSSEN	LINDSEY	D12439	1689866600D12	1759 17TH AVE E	SHAKOPEE	MN

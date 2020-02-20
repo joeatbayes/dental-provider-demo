@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOSSICK	GREGORY	2901013949	1982725990290	37 N WASHINGTON ST	OXFORD	MI

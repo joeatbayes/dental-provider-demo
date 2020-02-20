@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAEGGQUIST	GRIFFITH	D5062	1760443105D50	4212 N 16TH ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARWARD	CHRISTOPHER	8420	1750643763842	1360 W IRVINGTON RD	TUCSON	AZ

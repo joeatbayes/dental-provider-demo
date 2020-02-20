@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOOKER	WILLIAM	2197	1730228339219	718 N HUMPHREYS ST	FLAGSTAFF	AZ

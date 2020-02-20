@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOWDEN	DANIEL	DS3249	1063582161DS3	5350 POPLAR AVE	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZALTSGENDLER	IRINA	11197	1972591162111	6230 10TH ST N	OAKDALE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HSU	KUO-TUNG	D11848	1487771960D11	505 WALNUT STREET N.	CLEARWATER	MN

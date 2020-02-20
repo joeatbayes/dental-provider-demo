@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RALLIS	DAVID	11973	1275500076119	200 1ST ST SW	ROCHESTER	MN

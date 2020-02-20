@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAVINO	MICHAEL	9604	1568527166960	2500 HIGHWAY 88	MINNEAPOLIS	MN

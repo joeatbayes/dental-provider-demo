@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOMMEN	SALLY	12850	1871566612128	11745 E MICHIGAN AVE	GRASS LAKE	MI

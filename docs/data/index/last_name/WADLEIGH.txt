@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WADLEIGH	GREGORY	D7050	1720245251D70	42407 N VISION WAY	ANTHEM	AZ

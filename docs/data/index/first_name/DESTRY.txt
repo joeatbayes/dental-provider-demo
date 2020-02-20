@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COOK	DESTRY	6405	1326139452640	2525 W CAREFREE HWY	PHOENIX	AZ

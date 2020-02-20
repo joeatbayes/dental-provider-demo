@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORIARTY	MICHAEL	712	1932122504712	400 4TH AVE.	SEWARD	AK

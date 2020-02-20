@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORIARITY	JOHN	2901013182	1427183763290	830 STATE ST	BOYNE CITY	MI

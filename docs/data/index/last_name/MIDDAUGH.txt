@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIDDAUGH	GLEN	12010393	1053316901120	2801 ANTON ROAD	TERRE HAUTE	IN

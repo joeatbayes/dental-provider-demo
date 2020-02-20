@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KISHEL	EDWARD	7215	1972684678721	261 NORTH RUTH STREET	ST PAUL	MN

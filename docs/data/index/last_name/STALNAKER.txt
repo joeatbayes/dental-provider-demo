@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STALNAKER	MEREDITH	11265	1639537277112	875 UNION AVE	MEMPHIS	TN

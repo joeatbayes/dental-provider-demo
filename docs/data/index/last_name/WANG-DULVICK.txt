@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WANG-DULVICK	DIANA	AZ4226	1487793444AZ4	4125 W CHANDLER BLVD	CHANDLER	AZ

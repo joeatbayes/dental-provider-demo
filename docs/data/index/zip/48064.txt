@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WESTFALL	JACQUELINE	17426	1689778052174	2277 SCIENCE PARKWAY	OKEMOS	MI

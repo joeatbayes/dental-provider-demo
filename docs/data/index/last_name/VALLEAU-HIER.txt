@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALLEAU-HIER	AIMEE	2901016883	1497860191290	2000 43RD ST SE	GRAND RAPIDS	MI

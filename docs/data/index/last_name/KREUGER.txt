@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KREUGER	LARRY	9210	1174696835921	5851 DULUTH ST STE 218	GOLDEN VALLEY	MN

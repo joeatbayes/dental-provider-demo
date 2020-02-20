@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUSSEF	RIAD	D11177	1689746737D11	8401 SEASONS PKWY	WOODBURY	MN

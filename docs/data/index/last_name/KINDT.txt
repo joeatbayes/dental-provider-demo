@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINDT	TIMOTHY	3777	1497818306377	1244 N GREENFIELD RD	MESA	AZ

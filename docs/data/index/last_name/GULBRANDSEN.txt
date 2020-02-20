@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GULBRANDSEN	STEPHEN	D08618	1609849850D08	7373 FRANCE AVE S	EDINA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDEREST	JAN	2901014473	1932223591290	106 S MAIN ST	ALMONT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUPT	THOMAS	9417	1194801548941	33116 PALMER RD	WESTLAND	MI

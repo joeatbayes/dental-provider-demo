@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWEARINGEN	JOHN	10441	1376962613104	780 RIDGE LAKE BLVD STE 101	MEMPHIS	TN

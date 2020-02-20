@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLITCRAFT	GEORGE	1535	1720044597153	3003 HIWAY 95	BULLHEAD CITY	AZ

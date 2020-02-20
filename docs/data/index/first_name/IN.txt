@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	IN	14578	1932394103145	2755 CARPENTER RD	ANN ARBOR	MI

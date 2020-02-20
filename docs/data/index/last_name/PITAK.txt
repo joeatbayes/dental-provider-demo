@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PITAK	DIANE	2901014861	1134292048290	110 E LAKE ST	SOUTH LYON	MI

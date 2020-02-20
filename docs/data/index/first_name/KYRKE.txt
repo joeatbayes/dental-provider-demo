@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAILLIE	KYRKE	6457	1427081843645	1050 N SAN FRANCISCO ST	FLAGSTAFF	AZ

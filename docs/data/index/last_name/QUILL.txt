@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUILL	THOMAS	12009037	1700041530120	5217 COMMERCE CIR	INDIANAPOLIS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLANSKER	WILLIAM	AK395	1720184161AK3	1600 E TUDOR RD	ANCHORAGE	AK

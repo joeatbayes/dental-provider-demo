@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARKOWSKI	RICHARD	10341	1649226432103	701 PARK AVE	MINNEAPOLIS	MN

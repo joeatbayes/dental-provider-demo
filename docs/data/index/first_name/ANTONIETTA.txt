@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAYBRIGHT	ANTONIETTA	D6589	1073631628D65	3202 E GREENWAY RD	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARGENAU	ROY	14869	1245390772148	3411 CENTRAL ST	DEXTER	MI

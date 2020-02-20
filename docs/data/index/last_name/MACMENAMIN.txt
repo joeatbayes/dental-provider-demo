@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACMENAMIN	LUKE	D11556	1679645733D11	8401 SEASONS PKWY	WOODBURY	MN

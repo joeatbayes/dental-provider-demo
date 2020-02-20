@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUSTER	BRIAN	2901018043	1447475462290	1500 WATERTOWER PL	EAST LANSING	MI

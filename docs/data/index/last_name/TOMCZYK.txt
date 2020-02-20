@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMCZYK	CHRISTOPHER	2901015688	1053369462290	220 W COLFAX ST	HASTINGS	MI

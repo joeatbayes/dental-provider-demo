@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAPLE	WENDY	12010584A	1801096003120	718 E BROADWAY	LOGANSPORT	IN

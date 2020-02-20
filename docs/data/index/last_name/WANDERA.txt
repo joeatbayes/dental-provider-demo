@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WANDERA	R	D11618	1144206863D11	8785 COLUMBINE RD	EDEN PRAIRIE	MN

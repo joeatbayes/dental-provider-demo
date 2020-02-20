@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAKEL	DANIEL	12009265	1750331641120	38 N 23RD ST	LAFAYETTE	IN

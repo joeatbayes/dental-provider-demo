@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOENNES	MICHAEL	D08971	1265460075D08	131 MAIN AVENUE W	WINSTED	MN

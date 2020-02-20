@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEGLEY	MACY	9950	1871014068995	8131 SAWYER BROWN RD STE 501	NASHVILLE	TN

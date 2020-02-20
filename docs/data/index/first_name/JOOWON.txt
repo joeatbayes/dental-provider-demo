@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUH	JOOWON	18213	1306946645182	806 N WASHINGTON AVE	LANSING	MI

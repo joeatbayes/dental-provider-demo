@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MULLIKIN	ALEXANDER	R643	1396295150R64	1 VETERANS DR	MINNEAPOLIS	MN

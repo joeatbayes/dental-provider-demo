@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VELASQUEZ-PLATA	DIEGO	18270	1336127786182	1100 TORREY RD	FENTON	MI

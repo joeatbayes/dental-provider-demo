@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARIVE	CRAIG	12011834A	1417219403120	4019 COLUMBUS AVE	ANDERSON	IN

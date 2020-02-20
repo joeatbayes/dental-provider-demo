@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TERRY	KREG	12012972A	1356836415120	1555 N WAYNE ST	ANGOLA	IN

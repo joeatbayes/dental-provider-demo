@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HULEN	CHRISTOPHER	12009766	1558465054120	423 S MAIN ST	TIPTON	IN

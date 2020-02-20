@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARLOW	STEPHEN	2901021525	1619357290290	2241 HILTON RD STE 1	FERNDALE	MI

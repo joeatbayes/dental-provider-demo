@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORHEAD	WALTER	550	1144409509550	215 FRONT ST	WRANGELL	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DESJARLAIS	MARC	D13172	1194018747D13	3245 HOSPITAL DR	JUNEAU	AK

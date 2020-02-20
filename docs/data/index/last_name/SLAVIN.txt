@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLAVIN	CHARLES	12006828A	1548376619120	315 W WASHINGTON ST	MUNCIE	IN

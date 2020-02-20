@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANHOUTEN	KELLI	3773	1508187626377	118 HICKORY HILLS DR	HELENA	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOLIN	THOMAS	D7332	1811057409D73	525 W 3RD ST	WILLMAR	MN

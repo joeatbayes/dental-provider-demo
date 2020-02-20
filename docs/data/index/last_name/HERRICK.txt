@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERRICK	JAMES	D6866	1497712210D68	607 1ST DR NW	AUSTIN	MN

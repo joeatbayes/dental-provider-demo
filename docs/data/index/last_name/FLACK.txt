@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLACK	KEITH	D10923	1740355064D10	1400 LOOKOUT DRIVE	NORTH MANKATO	MN

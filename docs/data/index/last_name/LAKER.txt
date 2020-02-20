@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAKER	GERALD	7875	1447396437787	17886 FARMINGTON RD	LIVONIA	MI

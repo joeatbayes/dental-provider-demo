@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAN	BOSCO	2901010055	1316057094290	323 W CHICAGO ST	COLDWATER	MI

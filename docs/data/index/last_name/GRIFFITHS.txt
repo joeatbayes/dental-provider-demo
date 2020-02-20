@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRIFFITHS	REBECCA	4480	1427015601448	3420 E SHEA BLVD	PHOENIX	AZ

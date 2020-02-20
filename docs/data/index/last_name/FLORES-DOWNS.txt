@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLORES-DOWNS	SUSAN	D5478	1457440794D54	1842 E BASELINE RD	TEMPE	AZ

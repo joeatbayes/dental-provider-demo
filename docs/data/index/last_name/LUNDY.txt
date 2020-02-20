@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDY	LIZA	3853	1093086043385	315 N BOWMAN RD	LITTLE ROCK	AR

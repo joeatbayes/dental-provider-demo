@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TESKE	WALTER	D7478	1336208891D74	6545 FRANCE AVE S	EDINA	MN

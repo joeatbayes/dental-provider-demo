@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOBERAY	ANNELLE	D9674	1487612750D96	6203 DELL RD	EDEN PRAIRIE	MN

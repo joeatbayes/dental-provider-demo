@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAG	RICHARD	1575	1780757799157	2122 N CRAYCROFT RD	TUCSON	AZ
