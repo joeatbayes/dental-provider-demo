@@ -1,0 +1,164 @@
+
+
+
+- widget:
+  id: provSpecProgType
+  type: dropdown
+  data_type: dropdown
+  label: Type
+  label_class: wrap
+  data_context: state
+  class : input_field
+  option_source:
+      uri: /data/lookup/spec_program_options.txt
+      method: GET
+      parse: TSV
+
+- widget:
+  id: provSpecProgEnrollStat
+  type: dropdown
+  data_type: text
+  label_class: wrap
+  label: Enrollment Status
+  data_context: enroll_stat
+  class : input_field
+  option:
+    - {"label" : "-", "value" : "-"}
+    - {"label" : "Opt In", "value" : "in"}
+    - {"label" : "Opt Out", "value" : "out"}
+
+- widget:
+  id: provSpecProgStatus
+  type: dropdown
+  data_type: text
+  label_class: wrap
+  label: Status
+  data_context: stat
+  class : input_field
+  option:
+    - {"label" : "-", "value" : "-"}
+    - {"label" : "Active", "value" : "A"}
+    - {"label" : "Inactive", "value" : "I"}
+
+
+- widget:
+  id: provSpecProgLevel
+  type: dropdown
+  data_type: text
+  label_class: wrap
+  label: Level
+  data_context: level
+  class : input_field
+  option:
+    - {"label" : "-", "value" : "-"}
+    - {"label" : "Provider", "value" : "P"}
+    - {"label" : "Business", "value" : "B"}
+
+
+- widget:
+  id: provSpecProgEffDate
+  type: date
+  data_type: date
+  label_class: wrap
+  label: Effective Date
+  data_context: effective_date
+  class : input_field
+
+- widget:
+  id: provSpecProgTranDate
+  type: date
+  data_type: date
+  label_class: wrap
+  label: Transaction Date
+  data_context: trans_date
+  class : input_field
+
+- widget:
+  id: provSpecProgEndDate
+  type: date
+  data_type: date
+  label_class: wrap
+  label: End Date
+  data_context: trans_date
+  class : input_field
+
+- widget:
+  id: provSpecProgClaimRejDate
+  type: date
+  data_type: date
+  label_class: wrap
+  label: Claim Rejection Date
+  data_context: claim_rej_date
+  class : input_field
+
+
+- widget:
+  id: provSpecProgReinclusDate
+  type: date
+  data_type: date
+  label_class: wrap
+  label: Reinclusion Date
+  data_context: Reinclusion Date
+  class : input_field
+
+- widget:
+  id: provSpecProgBusName
+  type: text
+  data_type: text
+  label_class: wrap
+  label: Business Name
+  data_context: bus_name
+  class : input_field
+  # TODO: Hookup auto suggest with this field
+
+
+- widget:
+    id: provSpecProgRowGrp
+    type: widgetGroup
+    class: hgroup
+    layout: horizontal
+    collapsed: true    
+    cell_class: tdLeft
+    renderFieldset: false
+    widgets: 
+         - provSpecProgType
+         - provSpecProgEnrollStat
+         - provSpecProgStatus
+         - provSpecProgLevel
+         - provSpecProgEffDate
+         - provSpecProgTranDate
+         - provSpecProgEndDate
+         - provSpecProgClaimRejDate
+         - provSpecProgReinclusDate
+         - provSpecProgBusName
+
+- widget:
+  id: provSpecProgTbl
+  xlabel: Special Programs
+  type: table
+  # We add a table that only has one column
+  # To allow better reflow using CSS flex cell_class
+  # and wrapping while the table supplies the row 
+  # indexing.
+  max_visible_rows: 10
+  min_rows: 1
+  class: mtable
+  data_context: spec_prog
+  total_line: false
+  skip_col_header: true
+  add_button:
+     label: Add Special Program
+     class: addRow
+     skip: false
+  columns: 
+    - provSpecProgRowGrp
+
+- form:
+   id : provSpecialPrograms
+   class: inputFrm
+   xlabel: Special Programs
+   show_data_obj_div: dataObjDivBottom
+   autocomplete: false
+   widgets:   
+    - provSpecProgTbl
+ 

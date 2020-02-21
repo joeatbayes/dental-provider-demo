@@ -1,0 +1,157 @@
+- widget:
+    id: provELicNum
+    data_type: text
+    type: text
+    label : License Number
+    label_class: wrap
+    size: 25
+    data_context: lic_num
+    class: input_field
+    ignore-case-match: true
+    suggest:
+      uri: /data/autosug/lic_num/{auto_sug_value}.txt
+      parse: tsv
+      class: auto_sug_items
+
+- widget:
+  id: provELicState
+  type: dropdown
+  data_type: dropdown
+  label: State
+  label_class: wrap
+  data_context: state
+  class : input_field
+  option_source:
+      uri: /data/states.txt
+      method: GET
+      parse: TSV
+
+- widget:
+  id: provELicIssueDate
+  type: date
+  data_type: date
+  label: Issue Date
+  label_class: wrap  
+  data_context: issue_date
+  class : input_field
+
+
+- widget:
+  id: provELicExpireDate
+  type: date
+  data_type: date
+  label: Expire Date
+  label_class: wrap  
+  data_context: expire_date
+  class : input_field
+
+  
+- widget:
+  id: provELicProfReview
+  type: dropdown
+  data_type: text
+  label_class: wrap
+  label: Professional Review
+  data_context: prof_review
+  class : input_field
+  option:
+       - {"label" : "0 - No Review Noted", "value" : "0"}
+
+  
+- widget:
+  id: provELicStatus
+  type: dropdown
+  label_class: wrap
+  data_type: text
+  label: Status
+  data_context: status
+  class : input_field
+  option:
+       - {"label" : "Active", "value" : "A",  "class" : "greenBoxed"}
+       - {"label" : "Inactive", "value" : "I"}
+
+  
+- widget:
+  id: provELicEffectiveDate
+  type: date
+  data_type: text
+  label: Effective Date
+  label_class: wrap
+  data_context: effective_date
+  class : input_field
+  
+- widget:
+  id: provELicStatusReason
+  type: textarea
+  data_type: text
+  label: Status Reason`
+  label_class: wrap
+  data_context: status_reason
+  class : input_field
+
+- widget:
+    id: provLicLeft
+    type: widgetGroup
+    class: hgroup
+    layout: vertical
+    renderFieldset: false
+    widgets: 
+         - provELicNum
+         - provELicState
+         - provELicIssueDate
+         - provELicExpireDate
+         - provELicProfReview
+
+- widget:
+    id: provLicStatusGroup
+    type: widgetGroup
+    class: hgroup
+    layout: horizontal
+    renderFieldset: true
+    label: status
+    widgets: 
+         - provELicStatus
+         - provELicEffectiveDate
+         - provELicStatusReason
+
+
+- widget:
+    id: provLicRowGroup
+    type: widgetGroup
+    class: hgroup
+    layout: horizontal
+    collapsed: true    
+    cell_class: tdLeft
+    renderFieldset: false
+    widgets: 
+         - provLicLeft
+         - provLicStatusGroup
+
+
+- widget:
+  id: provLicenseTable
+  xlabel: License
+  type: table
+  max_visible_rows: 10
+  min_rows: 1
+  rows_extra: 1
+  class: mtable
+  data_context: license
+  total_line: false
+  skip_col_header: true
+  add_button:
+     label: Add License
+     class: addRow
+     skip: false
+  columns: 
+    - provLicRowGroup
+
+- form:
+   id : provLicenseTabForm
+   class: inputFrm
+   xlabel: Provider License
+   show_data_obj_div: dataObjDivBottom
+   autocomplete: false
+   widgets:   
+    - provLicenseTable
+ 
