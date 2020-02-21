@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUPANCIC	JOHN	10700	1891809224107	1515 E 25TH ST	HIBBING	MN

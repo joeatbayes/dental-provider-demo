@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CANADY	JOHNNY	2769	1598893422276	2301 W WALNUT ST	ROGERS	AR

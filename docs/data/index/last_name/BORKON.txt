@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORKON	BERNARD	D7402	1225086465D74	5407 EXCELSIOR BLVD	ST LOUIS PARK	MN

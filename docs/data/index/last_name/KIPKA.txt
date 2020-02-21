@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIPKA	DONN	2901010445	1821199670290	1010 N 3RD ST	MARQUETTE	MI

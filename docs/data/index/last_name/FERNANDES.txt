@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FERNANDES	THOMAS	D8279	1205114162D82	1120 W SR 89A	SEDONA	AZ

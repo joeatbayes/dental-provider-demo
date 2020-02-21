@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIMICH	THOMAS	7534	1265481881753	310 RED LAKE BLVD	THIEF RIVER FALLS	MN

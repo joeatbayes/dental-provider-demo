@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURAN	JAVIER	DS037407	1316129059DS0	4170 STATE ST	SAGINAW	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RETHMAN	KEVIN	3884	1346347234388	1747 WILLOW CREEK RD	PRESCOTT	AZ

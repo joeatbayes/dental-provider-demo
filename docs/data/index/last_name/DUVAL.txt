@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUVAL	ANNA	8877	1346491636887	1900 PATTERSON ST STE 101	NASHVILLE	TN

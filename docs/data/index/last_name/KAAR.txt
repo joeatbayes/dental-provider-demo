@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAAR	DARIAN	D6000	1730385659D60	8987 W OLIVE AVE	PEORIA	AZ

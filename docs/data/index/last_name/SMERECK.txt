@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMERECK	KAREN	16800	1316026917168	7278 NORTH SHELDON ROAD	CANTON	MI

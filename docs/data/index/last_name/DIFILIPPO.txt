@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIFILIPPO	DANIEL	1407902588	1407902588989	201 E WESTOVER ST	EAST TAWAS	MI

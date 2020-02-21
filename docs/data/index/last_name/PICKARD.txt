@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PICKARD	JESSICA	DEN4108	1164650933DEN	1202 N MAIN ST	AUBURN	IN

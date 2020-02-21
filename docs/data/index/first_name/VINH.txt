@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUYNH	VINH	D9612	1659659142D96	1905 E MCKELLIPS RD	MESA	AZ

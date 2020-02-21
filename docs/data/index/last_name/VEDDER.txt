@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VEDDER	JAMES	2901010039	1437265840290	176 N RIPLEY BLVD	ALPENA	MI

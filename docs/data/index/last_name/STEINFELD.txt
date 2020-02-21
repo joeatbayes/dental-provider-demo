@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEINFELD	JOEL	1864	1013036284186	6761 E TANQUE VERDE RD	TUCSON	AZ

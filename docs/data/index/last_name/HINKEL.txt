@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HINKEL	RONALD	12007998A	1780830893120	1435 UNION ST	LAFAYETTE	IN

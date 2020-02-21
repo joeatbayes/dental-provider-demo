@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL	CHARNIA	1538523477	1538523477313	4272 SAINT ANTOINE ST	DETROIT	MI

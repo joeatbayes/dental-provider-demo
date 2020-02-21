@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUMSTARK	REYNOLD	2901010390	1578624110290	5605 COLONY DR N	SAGINAW	MI

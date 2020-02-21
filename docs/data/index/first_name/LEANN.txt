@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALO	LEANN	10976	1366465221109	3900 VINEWOOD LN N	PLYMOUTH	MN

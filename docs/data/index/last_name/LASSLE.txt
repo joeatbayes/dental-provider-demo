@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASSLE	MICHAEL	R532	1457606758R53	515 DELAWARE ST SE	MINNEAPOLIS	MN

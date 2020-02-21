@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLASS	ROBERT	5034	1023192697503	131 NORTH TRIGG AVE	GALLATIN	TN

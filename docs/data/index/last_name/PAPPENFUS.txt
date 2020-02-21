@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAPPENFUS	GREGORY	6587	1659432052658	1545 NORTHWAY DRIVE	ST CLOUD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARR	GUTHRIE	12008891A	1134217755120	4900 US 231 SOUTH	LAFAYETTE	IN

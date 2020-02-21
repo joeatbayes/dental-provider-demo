@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGRI	KENNETH	D 4264	1972711083D42	16620 N 40TH ST	PHOENIX	AZ

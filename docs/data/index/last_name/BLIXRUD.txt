@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLIXRUD	CHRIS	10403	1174604110104	1439 ARCADE ST	SAINT PAUL	MN

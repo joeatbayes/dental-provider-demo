@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSEN	SEYMOUR	2510	1265491534251	1550 E MARYLAND AVE	PHOENIX	AZ

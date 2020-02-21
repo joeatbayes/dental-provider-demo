@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAMMENTHALER	DOUGLAS	4289	1821582842428	2886 W WALNUT ST	ROGERS	AR

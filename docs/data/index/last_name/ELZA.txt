@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELZA	WILLIAM	7817	1043442874781	5855 W UTOPIA RD	GLENDALE	AZ

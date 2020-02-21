@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLMAN	LACEY	1811381916	1811381916480	10850 N 90TH ST	SCOTTSDALE	AZ

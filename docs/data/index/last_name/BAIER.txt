@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAIER	LISA	2901020656	1386904050290	G3222 BEECHER RD	FLINT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUISH	KYLE	D8070	1689989972D80	21321 E OCOTILLO RD STE 133	QUEEN CREEK	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUHLMANN	JEFFREY	D13229	1013355593D13	12904 CENTRAL AVE NE	BLAINE	MN

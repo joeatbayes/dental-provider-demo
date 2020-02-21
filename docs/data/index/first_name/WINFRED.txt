@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRIS	WINFRED	1933	1962672873193	711 QUANDT AVE	SPRINGDALE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASSEY WAGNER	KATHRYN	3577	1184700494357	2000 FIELDERS RD	JONESBORO	AR

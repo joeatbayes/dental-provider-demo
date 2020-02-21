@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STUCKWISCH	JASON	12010383A	1841300217120	325 N WALNUT ST	SEYMOUR	IN

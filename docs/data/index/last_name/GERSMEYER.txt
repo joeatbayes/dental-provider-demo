@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERSMEYER	PAUL	8775	1336293026877	14605 GLAZIER AVE	APPLE VALLEY	MN

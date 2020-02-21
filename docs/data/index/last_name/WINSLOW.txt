@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINSLOW	RIKKI	8565	1063897981856	1060 GAFFNEY RD # 1055	FORT WAINWRIGHT	AK

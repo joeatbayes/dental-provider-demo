@@ -1,0 +1,2 @@
+MIN_CHUL	1
+MIN_SUK	1

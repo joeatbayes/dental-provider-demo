@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JANZARUK	RICHARD	6719	1932120417671	3225 NICHOL AVE	ANDERSON	IN

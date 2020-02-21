@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEARE	WILLIAM	12006432	1609825546120	1421 N MAIN ST	EVANSVILLE	IN

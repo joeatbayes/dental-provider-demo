@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOUA	CHIA	D13994	1104316801D13	1670 BEAM AVE STE 204	MAPLEWOOD	MN

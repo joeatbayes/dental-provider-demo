@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HILLESHEIM	RYAN	D13528	1831579408D13	6411 RICHFIELD PKWY	RICHFIELD	MN

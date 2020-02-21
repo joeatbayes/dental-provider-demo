@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCRIPTURE	KAREN	12008514	1407969983120	2104 E CENTER ST	WARSAW	IN

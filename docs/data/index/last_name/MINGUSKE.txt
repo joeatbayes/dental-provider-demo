@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINGUSKE	THOMAS	2901011457	1306026711290	344 S COCHRAN AVE	CHARLOTTE	MI

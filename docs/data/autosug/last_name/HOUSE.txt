@@ -1,0 +1,2 @@
+HOUSE	3
+HOUSER	1

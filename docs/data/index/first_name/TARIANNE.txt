@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WACHTEL	TARIANNE	D5129	1043497613D51	9002 E DESERT COVE DR	SCOTTSDALE	AZ

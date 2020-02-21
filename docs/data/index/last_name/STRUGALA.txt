@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRUGALA	LAWRENCE	D7936	1073683389D79	6849 N ORACLE RD	TUCSON	AZ

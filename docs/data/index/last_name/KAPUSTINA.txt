@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAPUSTINA	YANA	9955	1508229766995	2641 N 44TH ST STE 101	PHOENIX	AZ

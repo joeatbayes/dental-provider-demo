@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUPTA	AKANKSHA	R580	1356774954R58	515 DELAWARE STREET SE	MINNEAPOLIS	MN

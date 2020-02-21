@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEROD	CARLY	D14290	1013569136D14	120 WALNUT ST	WINONA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHO	KYUNG	2901021937	1316396203290	181 EMMETT ST W	BATTLE CREEK	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STUMPF	LOUIS	12012164A	1174937502120	3935 E SOUTHPORT RD	INDIANAPOLIS	IN

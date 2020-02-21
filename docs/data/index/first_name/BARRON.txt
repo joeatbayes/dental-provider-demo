@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COMPTON	BARRON	12010144A	1730212382120	2829 CHARLESTOWN RD	NEW ALBANY	IN

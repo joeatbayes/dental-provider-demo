@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENNY	LARRY	DS2012	1407891427DS2	411 PRINCETON ROAD	JOHNSON CITY	TN

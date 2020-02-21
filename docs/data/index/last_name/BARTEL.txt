@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTEL	WILLIAM	1449	1578875282144	23233 N PIMA RD	SCOTTSDALE	AZ

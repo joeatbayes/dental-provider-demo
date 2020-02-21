@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSON	JUDITH	12006611B	1164518023120	237 N UNION ST	UNION CITY	IN

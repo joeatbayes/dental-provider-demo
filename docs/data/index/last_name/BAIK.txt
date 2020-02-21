@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAIK	JAMES	D05527	1982967311D05	6601 W THOMAS RD	PHOENIX	AZ

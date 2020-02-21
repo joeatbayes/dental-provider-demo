@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FROMELL-THEIS	ANN	8272	1912967084827	9000 WALNUT STREET	ROCKFORD	MN

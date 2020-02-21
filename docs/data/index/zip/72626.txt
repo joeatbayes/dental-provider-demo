@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALEXANDER	GEORGE	2889	1609031137288	1629 HARDING BLVD	COTTER	AR

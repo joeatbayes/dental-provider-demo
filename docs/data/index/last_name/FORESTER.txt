@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FORESTER	DAVID	11385	1447461595113	32905 W 12 MILE RD	FARMINGTON HILLS	MI

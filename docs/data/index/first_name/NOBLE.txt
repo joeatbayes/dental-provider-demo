@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALLISON	NOBLE	2249	1588683700224	1 PROFESSIONAL DR	BELLA VISTA	AR

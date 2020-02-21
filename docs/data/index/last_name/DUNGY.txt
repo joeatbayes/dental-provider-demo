@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNGY	LINDEN	10129	1548226327101	511 ELM ST	FARMINGTON	MN

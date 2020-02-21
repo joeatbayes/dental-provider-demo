@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARTVIGSEN	RULON	1995	1922034347199	9000 N ORACLE RD	ORO VALLEY	AZ

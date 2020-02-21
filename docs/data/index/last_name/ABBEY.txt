@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABBEY	DIANE	3415	1104154145341	5575 POPLAR AVENUE	MEMPHIS	TN

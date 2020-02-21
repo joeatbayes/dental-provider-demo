@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUI	ELSA	2901019310	1982807178290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

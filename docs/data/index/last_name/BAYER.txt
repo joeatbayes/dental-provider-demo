@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAYER	JENNIFER	7055	1952493066705	12005 N TATUM BLVD	PHOENIX	AZ

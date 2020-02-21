@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEEVERS	ROGER	12007659A	1699869560120	326 W FRANKLIN ST	ELKHART	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURICK	RICHARD	DS0000004740	1982633574DS0	1310 24TH AVE S	NASHVILLE	TN

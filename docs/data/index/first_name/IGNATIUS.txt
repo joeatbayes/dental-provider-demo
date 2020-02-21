@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	IGNATIUS	9633	1356339337963	14400 W BURNSVILLE PKWY	BURNSVILLE	MN

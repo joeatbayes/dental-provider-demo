@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIESSLER	JOHN	1508968496	1508968496517	210 E HILLSDALE ST	LANSING	MI

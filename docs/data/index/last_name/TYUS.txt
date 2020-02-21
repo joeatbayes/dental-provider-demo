@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TYUS	JAMES	3352	1801068150335	113 GRAYLYNN DR	NASHVILLE	TN

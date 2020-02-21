@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARDINAL	AARON	12011700A	1306182852120	703 VIGO ST	VINCENNES	IN

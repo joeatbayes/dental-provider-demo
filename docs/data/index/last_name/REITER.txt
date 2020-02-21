@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REITER	MARK	10457	1760888028104	717 S STATE ST	FAIRMONT	MN

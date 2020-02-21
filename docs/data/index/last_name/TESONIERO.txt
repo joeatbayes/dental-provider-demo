@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TESONIERO	JOHANNA	6546	1124102892654	7425 E SHEA BLVD	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLINTHORNE	JOHN	2901012468	1275735078290	1303 PACKARD ST	ANN ARBOR	MI

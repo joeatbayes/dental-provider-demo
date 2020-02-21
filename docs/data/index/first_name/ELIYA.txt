@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAIDI	ELIYA	5462	1598726721546	600 S DOBSON RD	CHANDLER	AZ

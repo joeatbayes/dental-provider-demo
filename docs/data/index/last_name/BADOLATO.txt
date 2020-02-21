@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BADOLATO	JOHN	D5649	1194704296D56	8952 E DESERT COVE AVE	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONRAD	TORI-THUY	D12562	1982866885D12	2665 W 78TH ST	CHANHASSEN	MN

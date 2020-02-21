@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIDEEN	BRADLEY	8936	1407025521893	140 BIRCH ST N STE 106	CAMBRIDGE	MN

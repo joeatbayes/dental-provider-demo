@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEIGAND	BARBI	D008763	1720428352D00	5045 W BASELINE RD STE 135	LAVEEN	AZ

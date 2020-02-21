@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISRAELSON	COLLEEN	D10501	1396813853D10	8063 HADLEY AVE S	COTTAGE GROVE	MN

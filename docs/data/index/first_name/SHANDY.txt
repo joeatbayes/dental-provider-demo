@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONDIE	SHANDY	6261	1679574404626	5656 S POWER RD	HIGLEY	AZ

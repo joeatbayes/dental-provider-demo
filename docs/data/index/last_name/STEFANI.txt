@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEFANI	JEFFREY	11481	1235104530114	512 66TH AVE N	BROOKLYN CENTER	MN

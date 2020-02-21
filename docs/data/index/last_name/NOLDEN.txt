@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOLDEN	NYLA	D10460	1427161082D10	4131 26TH ST NW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUMPHREY-DAVIS	THERYL	7826	1407181480782	1909 HAMPHIRE PIKE	COLUMBIA	TN

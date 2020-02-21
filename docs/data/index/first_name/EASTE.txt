@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WARNICK	EASTE	1559	1730591298155	3818 WESTMINSTER WAY	ANCHORAGE	AK

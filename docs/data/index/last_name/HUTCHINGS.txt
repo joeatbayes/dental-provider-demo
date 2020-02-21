@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUTCHINGS	BRIAN	33777	1730593054337	223 S ALASKA ST	PALMER	AK

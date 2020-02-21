@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLIN	PAUL	9708	1619011962970	516 DELAWARE ST SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOBECK	JAMES	D8594	1144392580D85	20288 HIGHWAY 15 N	HUTCHINSON	MN

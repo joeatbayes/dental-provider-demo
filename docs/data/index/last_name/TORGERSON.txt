@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TORGERSON	SPENCER	D009339	1003285834D00	22717 S ELLSWORTH RD # R	QUEEN CREEK	AZ

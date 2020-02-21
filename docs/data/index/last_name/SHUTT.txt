@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHUTT	JENNY	3588-11	1487949087358	100 ENOCH BLVD	SAVANNAH	TN

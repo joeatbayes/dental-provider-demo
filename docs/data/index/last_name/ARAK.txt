@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARAK	MARC	2502	1790897486250	1550 E MARYLAND AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAYER	DESIREE	MI15540	1447450440MI1	4040 ALPINE AVE NW	CONSTOCK PARK	MI

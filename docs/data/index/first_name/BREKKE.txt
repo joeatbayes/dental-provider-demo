@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUDELSON	BREKKE	D14080	1922594753D14	2020 1ST AVE	HIBBING	MN

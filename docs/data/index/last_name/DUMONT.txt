@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUMONT	JANINE	2813	1134295926281	19369 N 59TH AVE	GLENDALE	AZ

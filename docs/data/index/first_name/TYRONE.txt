@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	TYRONE	12011536A	1548579592120	10010 DUPONT CIRCLE CT	FORT WAYNE	IN

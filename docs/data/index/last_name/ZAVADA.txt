@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAVADA	RICHARD	D13469	1427464593D13	200 1ST ST SW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIESZ	JASON	D11668	1285686071D11	84 33RD AVE S	ST CLOUD	MN

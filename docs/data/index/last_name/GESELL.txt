@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GESELL	HENRY	7841	1184763641784	23219 MARTER RD	ST CLAIR SHORES	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAN	HUI-CHEN	2901019977	1184859282290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDERSON	CAROL	1014	1538255385101	1025 10TH AVE	CLARKFIELD	MN

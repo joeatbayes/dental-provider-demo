@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARRERA	FERNANDO	1098	1811062292109	1001 NOBLE ST	FAIRBANKS	AK

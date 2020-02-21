@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROSELIUS	JOHN	8348	1134266869834	9120 BALTIMORE ST NE	BLAINE	MN

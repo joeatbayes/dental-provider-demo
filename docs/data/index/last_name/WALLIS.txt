@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALLIS	JON	D009781	1821510728D00	2028 N TREKELL RD STE 107	CASA GRANDE	AZ

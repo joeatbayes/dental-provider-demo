@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMER	BRYCE	7178	1164080867717	875 UNION AVE	MEMPHIS	TN

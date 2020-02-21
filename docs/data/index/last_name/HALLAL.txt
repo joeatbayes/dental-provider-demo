@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLAL	REEM	2901020666	1295098515290	600 N MAIN ST	ROCHESTER	MI

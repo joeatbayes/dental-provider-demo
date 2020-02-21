@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROUCH	SPENCER	2901021832	1407204431290	432 MUNSON PL	TRAVERSE CITY	MI

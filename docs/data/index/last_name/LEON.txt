@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEON	WILLIAM	D12001	1366514440D12	6209 42ND AVE N	CRYSTAL	MN

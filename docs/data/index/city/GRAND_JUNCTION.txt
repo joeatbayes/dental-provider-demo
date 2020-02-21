@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDWARDS	NICHOLAS	DS4045	1033224589DS4	507 HWY 57	GRAND JUNCTION	TN

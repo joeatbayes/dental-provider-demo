@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINSELL	EDWARD	2901010078	1992891766290	3245 HOSPITAL DR	JUNEAU	AK

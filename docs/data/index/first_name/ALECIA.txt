@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICE	ALECIA	21603	1841255494216	43200 DEQUINDRE RD	STERLING HEIGHTS	MI

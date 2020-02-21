@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERRE	RICHARD	11581	1316984644115	1101 W HURON ST	WATERFORD	MI

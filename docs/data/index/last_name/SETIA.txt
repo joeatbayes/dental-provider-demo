@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SETIA	SHVETA	D13453	1730595729D13	1430 HIGHWAY 96	WHITE BEAR LAKE	MN

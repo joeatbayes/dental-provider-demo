@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEZELL	RICHARD	10341	1144225418103	400 S NELSON ST	POTTERVILLE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARMATZ	DAVID	DS026519L	1053382374DS0	4212 N. 16TH STREET	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLAN	NICHOLAS	30349	1609166644303	2831 E SOUTHERN AVE	MESA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIOIA	WILLIAM	AZ1888	1669694584AZ1	7550 NORTH 19TH AVENUE	PHOENIX	AZ

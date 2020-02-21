@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEMARAN	KIANNA	D010342	1053970061D01	2217 W HAPPY VALLEY RD STE 100	PHOENIX	AZ

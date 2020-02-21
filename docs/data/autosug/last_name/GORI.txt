@@ -1,0 +1,2 @@
+GORIS	2
+GORIEE	1

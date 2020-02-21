@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAVLICK	JOHN	12007779A	1306864442120	1302 VALE PARK RD	VALPARAISO	IN

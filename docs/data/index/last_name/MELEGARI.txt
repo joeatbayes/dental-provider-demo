@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MELEGARI	KIMBERLY	18323	1447289632183	31620 SCHOOLCRAFT RD	LIVONIA	MI

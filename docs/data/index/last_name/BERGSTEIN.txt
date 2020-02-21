@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGSTEIN	MICHAEL	D11218	1306804455D11	1601 HIGHWAY 13 E	BURNSVILLE	MN

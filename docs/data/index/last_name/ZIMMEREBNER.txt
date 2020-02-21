@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIMMEREBNER	SCOTT	4130	1871046078413	932 N GASKILL ST	HUNTSVILLE	AR

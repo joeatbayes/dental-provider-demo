@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLOWARD	DANIEL	D008862	1386065985D00	10621 N 35TH AVE	PHOENIX	AZ

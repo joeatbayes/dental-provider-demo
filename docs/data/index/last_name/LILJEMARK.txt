@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LILJEMARK	WILLIAM	7105	1346345238710	1537 E 66TH ST # 100	RICHFIELD	MN

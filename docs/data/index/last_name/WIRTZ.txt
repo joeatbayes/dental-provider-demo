@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIRTZ	KARL	2315	1659760692231	13830 W CAMINO DEL SOL	SUN CITY WEST	AZ

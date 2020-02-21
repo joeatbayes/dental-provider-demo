@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPERLING	STEVEN	9482	1285644401948	1615 14TH ST NW	ROCHESTER	MN

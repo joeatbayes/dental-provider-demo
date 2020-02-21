@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZHANG	GUIZHEN	S28	1770744146S28	4801 HIGHWAY 61 N STE 300	WHITE BEAR LAKE	MN

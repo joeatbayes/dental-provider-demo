@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SICK	TODD	1487870325	1487870325480	4940 W RAY RD	CHANDLER	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZELLIN	NANCY	2901013366	1609092238290	40255 GRAND RIVER AVE	NOVI	MI

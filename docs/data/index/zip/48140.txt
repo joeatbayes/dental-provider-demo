@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRUEGER	RIGA	2901011829	1992895254290	2906 LEWIS AVE	IDA	MI

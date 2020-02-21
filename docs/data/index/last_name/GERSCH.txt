@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERSCH	NICHOLAS	11806	1700938909118	G-5051 W BRISTOL RD	FLINT	MI

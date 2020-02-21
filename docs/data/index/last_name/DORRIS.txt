@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DORRIS	JOSHUA	D009808	1457874901D00	21136 E CREEKSIDE DR	QUEEN CREEK	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIXLER	JOHN	12013043A	1558843698120	7207 ENGLE RD STE 2	FORT WAYNE	IN

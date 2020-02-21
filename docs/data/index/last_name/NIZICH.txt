@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIZICH	ANTHONY	1206	1457449373120	2219 JORDAN AVE	JUNEAU	AK

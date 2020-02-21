@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARTRICK	NANCY	12800	1336396167128	32609 WOODWARD AVE	ROYAL OAK	MI

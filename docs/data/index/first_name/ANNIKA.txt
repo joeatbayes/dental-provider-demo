@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMON	ANNIKA	D12301	1902911803D12	410 CHURCH ST SE	MINNEAPOLIS	MN

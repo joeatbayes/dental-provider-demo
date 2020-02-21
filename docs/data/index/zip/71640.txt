@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	RUBY	2737	1912015348273	144 S MAIN ST	EUDORA	AR

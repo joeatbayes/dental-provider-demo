@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KALPIN	JENNIFER	D12155	1902960081D12	8960 SPRINGBROOK DR NW	COON RAPIDS	MN

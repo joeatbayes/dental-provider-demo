@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAETHER	DANIEL	10086	1609980804100	2855 CAMPUS DR	PLYMOUTH	MN

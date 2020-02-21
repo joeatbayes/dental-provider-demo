@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEISTLE	RICHARD	2901008010	1497769335290	121 MAIN ST	BUCHANAN	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRENCH	MICHAEL	4106	1376994434410	601 N 2ND ST	MC GEHEE	AR

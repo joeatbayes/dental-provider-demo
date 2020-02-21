@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEWES	MICHAEL	D14248	1962065524D14	200 1ST ST SW	ROCHESTER	MN

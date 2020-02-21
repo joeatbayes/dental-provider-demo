@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AXEL	RICHARD	7654	1780722678765	522 FAXON RD	NORWOOD YOUNG AMERICA	MN

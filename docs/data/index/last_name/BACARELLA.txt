@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BACARELLA	JOHN	12448	1316093743124	1050 N MONROE ST	MONROE	MI

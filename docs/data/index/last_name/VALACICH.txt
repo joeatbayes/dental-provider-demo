@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALACICH	GREGORY	2950	1104912906295	4890 S MISSION RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REGNIER	GWEN	D13721	1568815298D13	10611 FRANCE AVE S	BLOOMINGTON	MN

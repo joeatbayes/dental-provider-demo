@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LO	LALEE	D13932	1184139933D13	1119 W FRONTAGE RD	OWATONNA	MN

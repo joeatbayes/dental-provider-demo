@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAYMAN	JOSEPH	2901014769	1447311279290	822 SNOW APPLE DR	TRAVERSE CITY	MI

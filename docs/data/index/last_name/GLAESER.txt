@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLAESER	RONALD	235	1679697924235	3708 RHONE CIR	ANCHORAGE	AK

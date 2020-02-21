@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEON	JOSHUA	1239	1861698466123	2421 E TUDOR RD STE 101	ANCHORAGE	AK

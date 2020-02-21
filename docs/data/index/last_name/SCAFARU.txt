@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCAFARU	DANA	3336	1639189673333	13540 W CAMINO DEL SOL	SUN CITY WEST	AZ

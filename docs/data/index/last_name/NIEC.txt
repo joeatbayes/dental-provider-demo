@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIEC	ADRIAN	2901022809	1205318250290	22541 GRATIOT AVE	EASTPOINTE	MI

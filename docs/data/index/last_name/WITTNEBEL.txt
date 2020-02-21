@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITTNEBEL	JAMES	6916	1619047925691	100 CENTRAL AVE	OSSEO	MN

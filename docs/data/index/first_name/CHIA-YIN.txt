@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LO	CHIA-YIN	D12248	1881858199D12	ONE VETERANS DRIVE 160	MINNEAPOLIS	MN

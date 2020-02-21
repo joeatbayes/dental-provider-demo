@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IMBODEN	KAREN	3056	1821182353305	326 N ROSSER ST	FORREST CITY	AR

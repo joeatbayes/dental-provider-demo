@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANTONINI	JOSEPH	6471	1407974421647	421 WEST MEDCALF ST	DALE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUASTEFERRO	KARLENE	DS037109	1952397358DS0	701 BROADWAY	NASHVILLE	TN

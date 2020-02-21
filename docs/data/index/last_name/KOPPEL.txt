@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPPEL	HAROLD	1780	1235354762178	136 FILES RD	HOT SPRINGS	AR

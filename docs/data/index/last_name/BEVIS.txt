@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEVIS	RICHARD	D7060	1457446676D70	187 CHESHIRE LN N STE 800	PLYMOUTH	MN

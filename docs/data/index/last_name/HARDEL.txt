@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARDEL	THOMAS	MN10733	1528163854MN1	949 OLD HIGHWAY 8 NW	NEW BRIGHTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUENES	SARA	D13121	1528320496D13	1790 7TH ST E	SAINT PAUL	MN

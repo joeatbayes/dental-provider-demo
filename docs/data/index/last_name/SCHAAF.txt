@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAAF	JACK	12007273	1780754846120	1121 W MICHIGAN ST	INDIANAPOLIS	IN

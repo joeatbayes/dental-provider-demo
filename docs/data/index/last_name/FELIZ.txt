@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FELIZ	CHRISTINA	D008155	1477786390D00	103 MEDICINE WAY ROAD	PERIDOT	AZ

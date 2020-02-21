@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KADEMANI	RUPAM	12023	1578629648120	379 S MAIN ST	ZUMBROTA	MN

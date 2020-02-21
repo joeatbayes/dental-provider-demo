@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RODERICK	RUSSELL	4906	1912013020490	26232 N TATUM BLVD	PHOENIX	AZ

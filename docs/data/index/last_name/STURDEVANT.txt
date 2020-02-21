@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STURDEVANT	TAMMY	D12405	1104029347D12	335 4TH AVE	PERHAM	MN

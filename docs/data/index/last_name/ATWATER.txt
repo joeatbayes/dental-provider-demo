@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ATWATER	DOUGLAS	14176	1033292305141	526 N MONROE ST	MONROE	MI

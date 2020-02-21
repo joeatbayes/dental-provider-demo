@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARE	GEORGE	DS4646	1033204433DS4	237 DUNBAR CAVE RD STE A	CLARKSVILLE	TN

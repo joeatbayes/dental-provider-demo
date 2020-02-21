@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEKREY	LEE	D13401	1659785269D13	3359 W BROADWAY AVE	ROBBINSDALE	MN

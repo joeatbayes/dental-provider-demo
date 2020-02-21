@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JASEK	BRITTNEY	12012503A	1477903813120	2327 45TH ST	HIGHLAND	IN

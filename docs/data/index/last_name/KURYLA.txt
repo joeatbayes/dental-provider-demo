@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KURYLA	JESSICA	MN11230	1982781399MN1	1720 LOR RAY DR	NORTH MANKATO	MN

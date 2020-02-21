@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAITOR	VICKI	D10306	1316047087D10	1789 WOODLANE DR	WOODBURY	MN

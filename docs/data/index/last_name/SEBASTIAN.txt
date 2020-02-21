@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEBASTIAN	RICHARD	1574	1265528178157	3971 E PARADISE FALLS DR	TUCSON	AZ

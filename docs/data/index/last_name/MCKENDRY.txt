@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCKENDRY	DOUGLAS	3944	1285028092394	"US HIGHWAY 160, S OF MP 394.3"	KAYENTA	AZ

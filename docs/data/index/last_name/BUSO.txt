@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUSO	HANNAH	5899	1831106434589	8020 DALLAS ST	FORT SMITH	AR

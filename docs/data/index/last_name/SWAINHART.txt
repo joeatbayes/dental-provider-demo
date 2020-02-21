@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWAINHART	SAMUEL	D009223	1144577792D00	34597 N 60TH ST	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRUVE	WILLIAM	D7886	1952467540D78	204 N 4TH STREET	WATERVILLE	MN

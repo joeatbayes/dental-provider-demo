@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAY	ALLISTAIR	D5850	1689703316D58	1111 N GILBERT RD STE. 117	GILBERT	AZ

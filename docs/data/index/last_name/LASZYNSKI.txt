@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASZYNSKI	MICHAEL	12011442A	1497068324120	1360 E 4TH ST	ROCHESTER	IN

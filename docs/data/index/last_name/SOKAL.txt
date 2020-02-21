@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOKAL	GILBERT	1816	1194834721181	2934 W INA RD	TUCSON	AZ

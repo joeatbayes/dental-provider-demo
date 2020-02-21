@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHE	STEPHANIE	2901022199	1538638606290	606 W STADIUM BLVD	ANN ARBOR	MI

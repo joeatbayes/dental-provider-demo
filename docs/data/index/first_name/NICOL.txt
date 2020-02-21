@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SADLER	NICOL	D12134	1811059355D12	12904 CENTRAL AVE NE	BLAINE	MN

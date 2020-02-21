@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURBIN	DAWN	12010001	1245343201120	1161 CHURCH AVE	CORYDON	IN

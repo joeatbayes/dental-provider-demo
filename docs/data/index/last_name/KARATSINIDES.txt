@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARATSINIDES	ANDREAS	2901022576	1578031274290	690 S MAIN ST	PLYMOUTH	MI

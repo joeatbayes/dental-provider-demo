@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YAUCH	DOUGLAS	2901018316	1366638280290	8585 N CROSWELL RD	SAINT LOUIS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	MANDIE	21424	1265656482214	829 CHIEF EDDIE HOFFMAN HIGHWAY	BETHEL	AK

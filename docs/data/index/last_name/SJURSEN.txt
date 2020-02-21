@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SJURSEN	ROBERT	7288	1114131943728	2020 FIELDSTONE PKWY	FRANKLIN	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMONAKOS	GEORGE	D10978	1891931432D10	2226 CENTRAL AVE NE	MINNEAPOLIS	MN

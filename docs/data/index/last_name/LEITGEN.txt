@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEITGEN	STEPHEN	9940	1063553881994	7324 BUSH LAKE DR	BLOOMINGTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WYTKO	MARIA	D009998	1588155337D00	267 E BELL RD	PHOENIX	AZ

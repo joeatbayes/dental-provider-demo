@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STENBERG	DONNA	9652	1578990321965	1395 CURVE CREST BLVD	STILLWATER	MN

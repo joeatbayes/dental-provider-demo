@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCOVILL	GERALD	D7077	1841275625D70	25 MAIN ST S	WINNEBAGO	MN

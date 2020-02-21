@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EULBERG	DANIEL	9180	1275570772918	17909 HWY 7	MINNETONKA	MN

@@ -1,0 +1,2 @@
+NGOC	2
+NGOC-CAM	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGRAW	HARRIET	2901011849	1760474548290	112 E 3RD ST	HARBOR SPRINGS	MI

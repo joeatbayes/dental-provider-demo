@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEWART	KAREN-LEE	2901016591	1205816527290	2390 S STATE ST	ANN ARBOR	MI

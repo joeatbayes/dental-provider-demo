@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEDLIN	KIMLEA	9244	1154408722924	1296 AGVIK ST	BARROW	AK

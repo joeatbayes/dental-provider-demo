@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MURPHY	CREIGHTEN	D8585	1912968454D85	309 HOLLY LN	MANKATO	MN

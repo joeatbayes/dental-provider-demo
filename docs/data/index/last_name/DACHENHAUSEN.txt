@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DACHENHAUSEN	WALLACE	4216	1073670105421	1227 WILLOW CREEK RD	PRESCOTT	AZ

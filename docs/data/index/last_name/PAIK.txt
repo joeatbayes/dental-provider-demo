@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAIK	GERALD	5575	1205983392557	13822 N 35TH DR	PHOENIX	AZ

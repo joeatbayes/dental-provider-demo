@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEVORAK	RICHARD	D10709	1982765319D10	2001 2ND STREET SW	ROCHESTER	MN

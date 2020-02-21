@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRETZMEYER	JOHN	8144	1164403267814	1099 MOORE LAKE DR E	FRIDLEY	MN

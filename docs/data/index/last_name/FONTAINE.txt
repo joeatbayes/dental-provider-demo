@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FONTAINE	JENNIFER	12010668A	1053422022120	6450 US HIGHWAY 6	PORTAGE	IN

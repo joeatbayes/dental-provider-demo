@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRAVELY-GRIFFIN	TAMARA	8079	1265536619807	404 E COLLEGE ST	DICKSON	TN

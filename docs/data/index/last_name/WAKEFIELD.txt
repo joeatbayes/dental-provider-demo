@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAKEFIELD	SHELLEY	9428	1861485815942	14682 PENNOCK AVE	APPLE VALLEY	MN

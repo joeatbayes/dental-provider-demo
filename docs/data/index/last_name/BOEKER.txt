@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOEKER	JOHN	10358	1720073554103	1751 HWY 52 N	ROCHESTER	MN

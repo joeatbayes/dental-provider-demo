@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANLAECKEN	NATHAN	K685	1356837454K68	515 DELAWARE ST SE	MINNEAPOLIS	MN

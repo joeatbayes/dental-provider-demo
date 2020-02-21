@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARNOPOL	MARC	14572	1750300414145	6615 COMMERCE RD	WEST BLOOMFIELD	MI

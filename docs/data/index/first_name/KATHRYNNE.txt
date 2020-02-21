@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRYKE	KATHRYNNE	D11144	1295880045D11	925 E SUPERIOR ST	DULUTH	MN

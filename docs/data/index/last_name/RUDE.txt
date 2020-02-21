@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUDE	CRAIG	8500	1093868580850	106 E WASHINGTON AVE	FERGUS FALLS	MN

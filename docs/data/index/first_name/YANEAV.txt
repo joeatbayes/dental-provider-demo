@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COHEN	YANEAV	D 4997	1306068184D49	14269 N 87TH ST	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THIELBAR	SCOTT	18643	1598774424186	340 SEMINOLE RD	MUSKEGON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REINER	DEBRA	2901016201	1497835284290	8339 LEWIS AVE	TEMPERANCE	MI

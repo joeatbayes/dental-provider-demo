@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOWDER	TOM	2056	1588852966205	2709 W HUNTSVILLE AVE	SPRINGDALE	AR

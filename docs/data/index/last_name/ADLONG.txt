@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADLONG	LUKE	4101	1922458090410	2755 PRINCE ST	CONWAY	AR

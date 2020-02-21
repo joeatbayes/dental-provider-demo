@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERDERESE	DOMINIC	12923	1609058981129	47 HARBOUR VIEW PT	LINWOOD	MI

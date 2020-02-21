@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUKASKA	JEANNE	5733	1306050281573	20875 N PIMA RD STE 105	SCOTTSDALE	AZ

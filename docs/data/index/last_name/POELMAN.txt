@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POELMAN	DAVID	5638	1578789632563	1070 E RAY RD	CHANDLER	AZ

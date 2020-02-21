@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORALES	THELMA	3459	1760499602345	200 N 24TH ST	ROGERS	AR

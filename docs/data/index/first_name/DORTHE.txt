@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARTMANN	DORTHE	D10840	1346239605D10	212 STAR ST	MANKATO	MN

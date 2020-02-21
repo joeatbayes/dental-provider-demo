@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CIACCO	SAMUEL	10546	1609903335105	23400 MICHIGAN AVE	DEARBORN	MI

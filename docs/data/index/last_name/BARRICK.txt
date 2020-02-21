@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARRICK	THOMAS	6918	1134347776691	1121 W MICHIGAN STREET	INDIANAPOLIS	IN

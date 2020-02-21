@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KILCREASE	JOHN	3733	1558423061373	2861 N COLLEGE AVE	FAYETTEVILLE	AR

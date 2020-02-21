@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAO	LOAN	D5035	1881602183D50	2015 N DOBSON RD	CHANDLER	AZ

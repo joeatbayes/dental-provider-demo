@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUGATE	ERIC	7869	1275756900786	1277 HIGHWAY 411	VONORE	TN

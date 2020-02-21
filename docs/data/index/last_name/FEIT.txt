@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FEIT	JULIE	D11359	1669570560D11	14929 FLORENCE TRAIL	APPLE VALLEY	MN

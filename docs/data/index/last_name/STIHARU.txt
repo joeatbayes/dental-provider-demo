@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIHARU	TUDOR	D13624	1265728299D13	15785 95TH AVE N	MAPLE GROVE	MN

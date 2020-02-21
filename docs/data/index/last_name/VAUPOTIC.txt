@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAUPOTIC	LOUIS	2901015561	1043269533290	5050 SCHAEFER RD	DEARBORN	MI

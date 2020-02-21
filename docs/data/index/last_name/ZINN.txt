@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZINN	AMY	12997	1972872844129	17821 HIGHWAY 7 STE 2F	MINNETONKA	MN

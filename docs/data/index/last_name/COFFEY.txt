@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COFFEY	BENJAMIN	2386	1063986271238	424 N HIGH ST	MORRISTOWN	TN

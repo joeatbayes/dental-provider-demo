@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JERONIMUS	DONALD	D7427	1780606822D74	10 CENTRAL AVE	OSSEO	MN

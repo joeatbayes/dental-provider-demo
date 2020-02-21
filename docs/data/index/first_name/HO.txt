@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	HO	D12317	1770629438D12	6240 QUINWOOD LN N STE 102	MAPLE GROVE	MN

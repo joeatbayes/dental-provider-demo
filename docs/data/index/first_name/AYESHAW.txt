@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KHAN	AYESHAW	D009227	1619357175D00	407 N 4TH ST	BUCKEYE	AZ

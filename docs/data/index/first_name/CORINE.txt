@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCLELLAN	CORINE	D11538	1629137500D11	12904 CENTRAL AVE NE	BLAINE	MN

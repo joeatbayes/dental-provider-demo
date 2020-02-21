@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSSI	JOSEPH	13853	1841219623138	4611 N BRETON CT SE	KENTWOOD	MI

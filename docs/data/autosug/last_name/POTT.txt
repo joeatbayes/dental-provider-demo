@@ -1,0 +1,2 @@
+POTTS	3
+POTTER	2

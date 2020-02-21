@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REDFORD	DONALD	DS003845	1972563468DS0	350 BLOUNTVILLE HWY	BRISTOL	TN

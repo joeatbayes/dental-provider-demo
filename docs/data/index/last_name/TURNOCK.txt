@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TURNOCK	JACK	12006435B	1487894838120	330 WEST LEXINGTON AVE	ELKHART	IN

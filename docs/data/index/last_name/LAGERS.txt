@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAGERS	BRADLEY	2390	1891709374239	4845 E THUNDERBIRD RD	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TURNER	THOMAS	4892	1902916786489	1235 S GILBERT RD	MESA	AZ

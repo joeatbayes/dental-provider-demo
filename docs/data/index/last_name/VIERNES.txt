@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIERNES	SARA	12010470A	1619925955120	6820 PARKDALE PL	INDIANAPOLIS	IN

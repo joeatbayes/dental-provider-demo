@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEAFUS	THOMAS	D11136	1235293564D11	700 VILLAGE CENTER DR	NORTH OAKS	MN

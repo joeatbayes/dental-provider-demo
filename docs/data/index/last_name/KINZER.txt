@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINZER	DEBORAH	3920	1528106093392	2167 BIRCH SQ	LAKE HAVASU CITY	AZ

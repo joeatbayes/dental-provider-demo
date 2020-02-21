@@ -1,0 +1,2 @@
+SHIRER	1
+SHIREY	1

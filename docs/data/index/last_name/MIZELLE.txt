@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIZELLE	LARRY	10910	1760670491109	7298 JACKMAN RD	TEMPERANCE	MI

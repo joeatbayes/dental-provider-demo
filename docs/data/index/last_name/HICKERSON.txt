@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HICKERSON	RANDALL	2156	1538189246215	1015 E 35TH ST	TEXARKANA	AR

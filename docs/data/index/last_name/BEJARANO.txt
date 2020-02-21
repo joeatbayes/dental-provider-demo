@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEJARANO	STEPHEN	D10627	1609865062D10	2 S PINE DR	CIRCLE PINES	MN

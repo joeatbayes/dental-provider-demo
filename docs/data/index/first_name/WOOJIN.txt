@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KWON	WOOJIN	D11714	1265487565D11	3201 JOHNSON ST NE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOKENSGARD	THOMAS	MN8922	1689687881MN8	3351 ASPEN GROVE DR	FRANKLIN	TN

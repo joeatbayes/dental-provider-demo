@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENEGAR	GARY	1942	1326145350194	1831 N GREEN ACRES RD	FAYETTEVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAPOZ	STEPHEN	2901021895	1417306820290	875 UNION AVENUE	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWANTON	TARA	2901017272	1992957534290	4460 EAST COUNTY ROAD F-41	OSCODA	MI

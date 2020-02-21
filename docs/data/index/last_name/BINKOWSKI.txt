@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BINKOWSKI	JANET	2901017498	1790953818290	6100 DIXIE HWY STE A	CLARKSTON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FISCHARD	SUZANNE	D13158	1780932103D13	720 MAIN ST	MENDOTA HEIGHTS	MN

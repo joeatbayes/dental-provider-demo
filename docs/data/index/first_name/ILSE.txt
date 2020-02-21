@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARGER	ILSE	8197	1598721060819	29850 HARPER	ST CLAIR SHORES	MI

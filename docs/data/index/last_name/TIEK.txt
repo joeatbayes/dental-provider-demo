@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TIEK	BRANDON	12010566	1780754960120	14390 CLAY TERRACE BLVD	CARMEL	IN

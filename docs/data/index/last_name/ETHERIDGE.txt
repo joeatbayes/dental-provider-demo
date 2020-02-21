@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ETHERIDGE	KIP	2901018064	1609987445290	736 CAPITAL AVE SW	BATTLE CREEK	MI

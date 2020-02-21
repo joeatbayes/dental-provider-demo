@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAYNIE	BRACY	8836	1659533479883	102 HARTMAN DR	LEBANON	TN

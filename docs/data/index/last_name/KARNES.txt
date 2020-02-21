@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARNES	GEORGE	DS0000005393	1386646958DS0	1409 W MARKET ST	JOHNSON CITY	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUSCHILDT	AMY	D6570	1265591945D65	1057 N KOLB RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUMACHER	CHELSI	D13691	1174970842D13	945 ECHO DR SE	HUTCHINSON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPLETT	MICHAEL	D11542	1295822591D11	1736 EAST COPE AVE	MAPLEWOOD	MN

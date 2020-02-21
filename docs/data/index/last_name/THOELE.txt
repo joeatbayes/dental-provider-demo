@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOELE	OWEN	D12453	1336336536D12	11269 JEFFERSON HWY N	CHAMPLIN	MN

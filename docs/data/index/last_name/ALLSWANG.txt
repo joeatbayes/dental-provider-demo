@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLSWANG	RENA	2901020278	1831403856290	20302 EUREKA RD	TAYLOR	MI

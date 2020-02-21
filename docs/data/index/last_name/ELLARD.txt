@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLARD	SCOTT	12873	1497820120128	5835 OAKLAND DR	PORTAGE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARR-THOMPSON	SHERYL	15094	1831215151150	322 E EXCHANGE ST	OWOSSO	MI

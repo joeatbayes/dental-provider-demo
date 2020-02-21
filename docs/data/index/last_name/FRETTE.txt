@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRETTE	KENT	10703	1710052659107	605 HILLCREST	OWATONNA	MN

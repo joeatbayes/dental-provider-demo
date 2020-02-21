@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOCIA	ADAM	3527	1972664860352	540 NORTH 13TH STREET	ROGERS	AR

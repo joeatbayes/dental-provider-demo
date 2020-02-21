@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARRUTHERS	CURTIS	8338	1861582876833	3823 RINGGOLD RD	EAST RIDGE	TN

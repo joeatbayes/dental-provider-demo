@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDNARK	JOSEPH	2901021112	1336579242290	2802 N SAGINAW RD	MIDLAND	MI

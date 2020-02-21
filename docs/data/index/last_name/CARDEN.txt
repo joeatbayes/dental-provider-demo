@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARDEN	ZACHARY	DS2628	1619178456DS2	4216 CROSS ST	CHATTANOOGA	TN

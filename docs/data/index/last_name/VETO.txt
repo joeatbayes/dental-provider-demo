@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VETO	RONALD	4992	1730174533499	5100 E HIGHWAY 90	SIERRA VISTA	AZ

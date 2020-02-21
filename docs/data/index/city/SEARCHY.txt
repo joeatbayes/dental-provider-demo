@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATTERSON	ALMA	2957	1063573780295	600 WEST ARCH AVENUE	SEARCHY	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRILEY	JOHN	DS3335	1104984285DS3	1127 E LAMAR ALEXANDER PKY	MARYVILLE	TN

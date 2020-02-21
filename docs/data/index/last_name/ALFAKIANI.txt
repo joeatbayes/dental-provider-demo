@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALFAKIANI	KAMAL	6779	1023170107677	3170 N ARIZONA AVE	CHANDLER	AZ

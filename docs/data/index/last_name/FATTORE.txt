@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FATTORE	JULIE	18596	1710957618185	39520 WOODWARD AVE	BLOOMFIELD HILLS	MI

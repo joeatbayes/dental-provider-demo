@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEEN	DOUGLAS	AA 830	1174724132AA8	222TONGASS DRIVE	SITKA	AK

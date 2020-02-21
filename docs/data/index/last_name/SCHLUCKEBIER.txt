@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLUCKEBIER	GARY	2901016837	1891831475290	921 N PINE RIVER ST	ITHACA	MI

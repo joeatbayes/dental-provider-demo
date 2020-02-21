@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOVELAND	JARED	D7811	1720217300D78	9660 E 22ND ST STE 160	TUCSON	AZ

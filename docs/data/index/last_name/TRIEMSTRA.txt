@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRIEMSTRA	SUZANNE	6493	1346414885649	2525 S CLEVELAND AVE	SAINT JOSEPH	MI

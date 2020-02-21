@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAX	JOSEPH	8876	1578695490887	112 MAIN ST	PIERZ	MN

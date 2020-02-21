@@ -1,0 +1,4 @@
+value	label
+-	-
+001	Medicare Opt Out
+002	Medicare Preclusion List

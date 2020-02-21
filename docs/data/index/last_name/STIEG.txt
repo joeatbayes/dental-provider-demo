@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIEG	MARK	D03615	1548629819D03	5855 W UTOPIA RD	GLENDALE	AZ

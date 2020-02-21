@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WESTERN	BRADLEY	8027	1285946483802	150 S HIGHWAY 69 STE 5	DEWEY	AZ

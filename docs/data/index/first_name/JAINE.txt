@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOO	JAINE	21154	1144370008211	513 N THOMPSON LN	MURFREESBORO	TN

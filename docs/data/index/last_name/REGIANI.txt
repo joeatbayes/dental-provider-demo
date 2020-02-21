@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REGIANI	DAVID	11926	1396964466119	"10435 ORTONVILLE ROAD, SUITE B"	CLARKSTON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PREECE	TERRY	1274	1447255955127	12501 OLD SEWARD HWY	ANCHORAGE	AK

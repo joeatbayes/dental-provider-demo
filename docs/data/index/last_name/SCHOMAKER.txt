@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOMAKER	CHRISTOPHER	6219	1508904707621	1161 E MAIN ST	MESA	AZ

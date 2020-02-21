@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRAWAT	JAMES	12008872A	1174737431120	912 EAST MAIN STREET	RICHMOND	IN

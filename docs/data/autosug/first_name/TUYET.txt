@@ -1,0 +1,2 @@
+TUYET	2
+TUYET_NGA	1

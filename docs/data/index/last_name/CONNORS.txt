@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONNORS	JAMES	9044	1831288463904	201 NORTH BROAD ST	MANKATO	MN

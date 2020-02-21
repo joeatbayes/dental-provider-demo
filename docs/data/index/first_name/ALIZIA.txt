@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WESTFALL	ALIZIA	2901016960	1083839658290	2881 PLATT ROAD	ANN ARBOR	MI

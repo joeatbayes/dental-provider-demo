@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUDAK	BRUCE	9182	1801018965918	1500 NORTHWAY DRIVE	ST CLOUD	MN

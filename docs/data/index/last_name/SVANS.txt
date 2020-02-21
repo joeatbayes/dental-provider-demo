@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SVANS	ERIK	5302	1992763833530	4045 E BELL RD	PHOENIX	AZ

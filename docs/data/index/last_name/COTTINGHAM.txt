@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COTTINGHAM	KAREN	12010109A	1447466925120	3916 SHORE DR	INDIANAPOLIS	IN

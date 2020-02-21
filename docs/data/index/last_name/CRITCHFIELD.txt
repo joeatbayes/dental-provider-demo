@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRITCHFIELD	ROBERT	2558	1447257068255	18275 N 59TH AVE	GLENDALE	AZ

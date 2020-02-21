@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TALUS	DOUGLAS	D10137	1831122639D10	3645 RHODE ISLAND AVE S	ST LOUIS PARK	MN

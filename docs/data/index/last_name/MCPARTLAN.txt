@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCPARTLAN	DONALD	8764	1275691610876	3033 EXCELSIOR BLVD	MPLS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVIS	JOHN PHILIP	4306	1013490218430	4100 W 28TH AVE	PINE BLUFF	AR

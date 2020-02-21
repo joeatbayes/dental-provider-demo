@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLOTZ	GARY	12229	1881639201122	2711 BROADWAY AVE	SLAYTON	MN

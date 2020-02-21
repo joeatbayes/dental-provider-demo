@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOREMAN	GLENN	D1887	1558398255D18	8147 E EVANS RD	SCOTTSDALE	AZ

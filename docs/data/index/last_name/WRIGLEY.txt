@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WRIGLEY	DEBROAH	1108	1184849820110	322 MULDOON RD STE C	ANCHORAGE	AK

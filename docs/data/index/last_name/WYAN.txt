@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WYAN	VICKI	DI 014669	1124086061DI0	1060 GAFFNEY ROAD 7500	FORT WAINWRIGHT	AK

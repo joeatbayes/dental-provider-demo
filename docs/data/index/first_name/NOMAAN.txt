@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARIQ	NOMAAN	54208	1407091440542	3940 RAYMOND AVE	KINGMAN	AZ

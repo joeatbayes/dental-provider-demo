@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HINCKLEY	NATHAN	6226	1083926992622	8085 W BELL RD STE 103	PEORIA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIMMER	GERALD	9675	1598815292967	9800 COUNTY ROAD 9	PLYMOUTH	MN

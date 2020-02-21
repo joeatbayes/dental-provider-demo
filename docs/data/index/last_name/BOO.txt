@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOO	SARAH	D10365	1821148347D10	4717 HIGHWAY 61 N	WHITE BEAR LAKE	MN

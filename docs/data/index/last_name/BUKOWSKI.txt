@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUKOWSKI	MARY	2901011980	1013065853290	1416 W MILHAM AVE	PORTAGE	MI

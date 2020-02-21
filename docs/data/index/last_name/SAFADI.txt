@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAFADI	TAREK	19028274	1386963635190	8159 E 109TH AVE	CROWN POINT	IN

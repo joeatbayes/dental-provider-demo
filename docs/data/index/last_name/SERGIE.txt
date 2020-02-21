@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SERGIE	SUSAN	1500	1124466552150	829 CHIEF EDDIE HOFFMAN HIGHWAY	BETHEL	AK

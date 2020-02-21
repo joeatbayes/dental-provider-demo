@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRAWFORD	SUSAN	709	1659371185709	MILE 124.5 TOK CUTOFF	TOK	AK

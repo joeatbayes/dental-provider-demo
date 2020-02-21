@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOODSELL	THOMAS	2901013150	1851475081290	131 E. COLUMBIA AVE.	BATTLE CREEK	MI

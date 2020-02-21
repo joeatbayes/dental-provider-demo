@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAFF	J.	12008660	1447382429120	303 E 11TH ST	RUSHVILLE	IN

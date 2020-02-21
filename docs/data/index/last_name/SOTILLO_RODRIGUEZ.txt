@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOTILLO RODRIGUEZ	JULIO	D13124	1013275049D13	701 25TH AVE S	MINNEAPOLIS	MN

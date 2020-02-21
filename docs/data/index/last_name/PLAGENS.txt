@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLAGENS	JULIE	12009563	1487712683120	604 SOUTH EDDY ST	SOUTH BEND	IN

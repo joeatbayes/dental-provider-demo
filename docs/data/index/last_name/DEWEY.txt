@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEWEY	STEPHEN	2901019346	1548314289290	220 W GARFIELD AVE	CHARLEVOIX	MI

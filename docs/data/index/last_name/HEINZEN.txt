@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEINZEN	SUSAN	54285	1871690727542	150 S TULSA AVE	RUSSELLVILLE	AR

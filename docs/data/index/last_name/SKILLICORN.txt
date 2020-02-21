@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKILLICORN	JOHN	D7519	1760471106D75	186 WESTWOOD CIR	MORA	MN

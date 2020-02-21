@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEMMER	SCOTT	2901011967	1568515401290	205 E. EDGERTON ST.	HOWARD CITY	MI

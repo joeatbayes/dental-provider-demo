@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRELD	TARYN	2901020425	1093003733290	3579 HENRY ST	NORTON SHORES	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONROY	JERRY	10548	1356396006105	2900 CHICAGO AVE	MINNEAPOLIS	MN

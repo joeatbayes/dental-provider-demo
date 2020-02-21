@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINEGAR	DAVID	D9340	1619242328D93	255 W HIGHWAY 210 STE 1	MCGREGOR	MN

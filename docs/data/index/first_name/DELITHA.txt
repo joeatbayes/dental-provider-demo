@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAYLOR	DELITHA	1275695991	1275695991734	28050 FORD RD STE D	GARDEN CITY	MI

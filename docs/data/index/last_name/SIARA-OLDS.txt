@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIARA-OLDS	NICOLE	2901018908	1962648618290	38110 MICHIGAN AVE	WAYNE	MI

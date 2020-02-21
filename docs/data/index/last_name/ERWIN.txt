@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERWIN	RACHEL	9025	1174763304902	413 N THOMPSON LN	MURFREESBORO	TN

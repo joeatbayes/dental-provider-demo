@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCLENDON	KALISHA	2901021935	1649622937290	5716 MICHIGAN AVE	DETROIT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PALMQUIST	ROGER	7959	1497712442795	303 W 5TH ST	RED WING	MN

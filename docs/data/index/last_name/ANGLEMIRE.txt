@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANGLEMIRE	THOMAS	12009209	1891825626120	12545 ADAMS RD	GRANGER	IN

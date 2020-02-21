@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOKER	GIANNA	LGL14	1730538661LGL	973 SKYLINE DR SW	ROCHESTER	MN

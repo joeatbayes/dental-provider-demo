@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CURCURU	GRACE	16130	1407928955161	1359 CHAMPAIGN	LINCOLN PARK	MI

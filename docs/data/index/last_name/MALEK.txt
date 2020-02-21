@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALEK	JOSEPH	9183	1992729347918	1700 MIDLAND RD	SAGINAW	MI

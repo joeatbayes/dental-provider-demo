@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALAND	ROBERT	8421	1619073939842	2500 COMO AVE	ST PAUL	MN

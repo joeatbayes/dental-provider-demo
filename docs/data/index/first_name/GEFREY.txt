@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RASMUSSEN	GEFREY	9468	1275600652946	9750 COUNTY ROAD 9	PLYMOUTH	MN

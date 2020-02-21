@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLT	ALISHA	R721	1225514847R72	515 DELAWARE ST SE	MINNEAPOLIS	MN

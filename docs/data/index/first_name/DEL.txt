@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEDEKER	DEL	845	1033394234845	4501 E SNIDER DR	WASILLA	AK

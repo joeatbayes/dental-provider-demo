@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEIMAR	RICHARD	9589	1376618579958	11256 86TH AVE. NO.	MAPLE GROVE	MN

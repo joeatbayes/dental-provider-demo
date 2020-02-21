@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORNELIUS	CURTIS	7262	1295902187726	3601 S 6TH AVE	TUCSON	AZ

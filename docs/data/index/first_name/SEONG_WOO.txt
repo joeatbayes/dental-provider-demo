@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	SEONG WOO	D13845	1396278503D13	MAYO CLINIC 200 1ST ST SW	ROCHESTER	MN

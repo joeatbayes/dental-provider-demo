@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMONEAUX	RICHARD	2529	1780718163252	4566 N 1ST AVE	TUCSON	AZ

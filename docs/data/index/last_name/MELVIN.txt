@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MELVIN	ELIZABETH	10994	1689231961109	1540 ROCK SPRINGS RD	SMYRNA	TN

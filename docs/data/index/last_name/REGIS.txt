@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REGIS	JOHN	14932	1508816588149	36375 HARPER AVE	CLINTON TOWNSHIP	MI

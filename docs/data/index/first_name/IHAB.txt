@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALAMAT	IHAB	4301073140	1659310498430	51685 VAN DYKE AVE	SHELBY TOWNSHIP	MI

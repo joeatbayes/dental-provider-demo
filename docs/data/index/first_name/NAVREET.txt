@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAR	NAVREET	6676	1285643338667	5115 W THOMAS RD	PHOENIX	AZ

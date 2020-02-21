@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAEDGE	CARL	D7677	1194713305D76	1525 LIVINGSTON AVE	WEST SAINT PAUL	MN

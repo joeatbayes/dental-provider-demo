@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WETHERINGTON	PAMELA	8228	1316937667822	311 23RD AVE N	NASHVILLE	TN

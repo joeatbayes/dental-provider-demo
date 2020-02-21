@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARDITO	BILL	2230	1952570616223	855 W BELL RD	NOGALES	AZ

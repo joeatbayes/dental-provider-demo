@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	NAM-RENE	AZ5074	1225191968AZ5	320 E WESTERN AVE	AVONDALE	AZ

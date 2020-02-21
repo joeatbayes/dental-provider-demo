@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STREETER	RICHARD	TN4999	1881633139TN4	1105 W STONE DR	KINGSPORT	TN

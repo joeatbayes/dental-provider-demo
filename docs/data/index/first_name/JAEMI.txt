@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHO	JAEMI	31289	1740665058312	1136 N MULDOON RD STE 110	ANCHORAGE	AK

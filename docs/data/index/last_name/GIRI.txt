@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIRI	SUBHA	D12296	1891712154D12	200 1ST ST SW	ROCHESTER	MN

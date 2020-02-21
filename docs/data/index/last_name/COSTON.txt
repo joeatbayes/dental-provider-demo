@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COSTON	ALEXIS	60752	1619250644607	1057 N KOLB RD	TUCSON	AZ

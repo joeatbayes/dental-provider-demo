@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SVOBODA	LANCE	D11474	1639118771D11	701 PARK AVE	MINNEAPOLIS	MN

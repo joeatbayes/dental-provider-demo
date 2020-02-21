@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DONSKER	ROBERT	D8297	1467615997D82	3844 CENTRAL AVE NE	COLUMBIA HEIGHTS	MN

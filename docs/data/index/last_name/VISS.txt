@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VISS	CRYSTAL	PENDING	1710545272PEN	2816 S 4TH AVE	YUMA	AZ

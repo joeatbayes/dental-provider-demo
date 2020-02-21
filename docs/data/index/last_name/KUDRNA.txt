@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUDRNA	KRISTA	D12412	1780886176D12	1222 N FRONTAGE RD	HASTINGS	MN

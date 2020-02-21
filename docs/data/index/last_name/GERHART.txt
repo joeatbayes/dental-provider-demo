@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERHART	LAWRENCE	2693	1861540262269	1331 N SWAN RD	TUCSON	AZ

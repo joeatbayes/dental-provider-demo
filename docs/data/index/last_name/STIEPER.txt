@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIEPER	BRADLEY	2901020381	1619260494290	10460 PELHAM RD	TAYLOR	MI

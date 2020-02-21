@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAGAO	JOSHUA	D009249	1407236151D00	3922 N ORACLE RD	TUCSON	AZ

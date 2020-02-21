@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDQUIST	LENNARD	D7323	1457480238D73	1601 HIGHWAY 13 E	BURNSVILLE	MN

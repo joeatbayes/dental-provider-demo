@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIS	REBECCA	D12922	1598059008D12	115 E MAIN ST	LUVERNE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAPAI	JOSEPH	2901011343	1265515613290	315 W NORTH ST	BRIGHTON	MI

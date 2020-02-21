@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLURE	TONY	2011012490	1346284445201	4501 DIPLOMACY DR	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPRENGER	NATHAN	1831401793	1831401793520	295 W VALENCIA RD	TUCSON	AZ

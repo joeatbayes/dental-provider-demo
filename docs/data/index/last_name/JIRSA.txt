@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JIRSA	RICHARD	3843	1093775488384	1229 WILLOW CREEK RD	PRESCOTT	AZ

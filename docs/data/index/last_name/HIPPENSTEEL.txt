@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIPPENSTEEL	DAVID	DS8197	1255321659DS8	1720 WEST AVE	CROSSVILLE	TN

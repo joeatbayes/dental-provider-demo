@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROGGOW	PAUL	9644	1285978221964	604 SECOND STREET	JACKSON	MN

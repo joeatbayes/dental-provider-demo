@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASHLOCK	LANCE	DS00007770	1750449690DS0	5336 ESTATE OFFICE DR	MEMPHIS	TN

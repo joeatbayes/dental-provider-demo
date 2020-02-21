@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLANDER	KARL	12008256	1114138187120	7750 MADISON AVE	INDIANAPOLIS	IN

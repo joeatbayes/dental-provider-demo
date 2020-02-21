@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAM	SARA	D12972	1992084909D12	800 PRAIRIE CENTER DRIVE	EDEN PRAIRIE	MN

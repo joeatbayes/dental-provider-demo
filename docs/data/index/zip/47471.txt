@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIPP	TODD	12009046	1922108943120	115 E MAIN ST	WORTHINGTON	IN

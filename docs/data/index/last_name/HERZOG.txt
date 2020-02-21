@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERZOG	LAUREN	D14039	1467945378D14	321 WESTERN AVE	FERGUS FALLS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERKEN	LEONARD	D008361	1477554483D00	10509 N ORACLE RD	ORO VALLEY	AZ

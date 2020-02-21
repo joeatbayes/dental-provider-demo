@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSMUNDSON	PATRICIA	11192	1770734725111	1100 HIGHWAY 25 N	BUFFALO	MN

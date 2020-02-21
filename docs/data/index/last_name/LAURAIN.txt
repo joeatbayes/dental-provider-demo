@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAURAIN	ALAN	D.S.3583	1346461936D.S	2711 MURFREESBORO RD.	ANTIOCH	TN

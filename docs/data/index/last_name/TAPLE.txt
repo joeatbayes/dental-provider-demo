@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAPLE	LOREN	10386	1265537260103	1227 NORTHWOOD PKWY	EAGAN	MN

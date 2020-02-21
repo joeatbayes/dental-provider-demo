@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GABRIELLA	ADAM	D1466	1518068733D14	500N HWY 89	PRESCOTT	AZ

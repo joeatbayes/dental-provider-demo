@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOW	BLAKE	6265	1568564201626	4701 W INDIAN SCHOOL RD	PHOENIX	AZ

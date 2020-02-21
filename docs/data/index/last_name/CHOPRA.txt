@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHOPRA	DICK	4724	1417096306472	235 W WESTERN AVE STE 7	AVONDALE	AZ

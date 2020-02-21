@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEACH	BRECK	4365	1336709583436	2111 S OLD MISSOURI RD	SPRINGDALE	AR

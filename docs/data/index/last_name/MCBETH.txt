@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCBETH	SUSAN	90	1467507061904	500 N DIXIELAND RD	ROGERS	AR

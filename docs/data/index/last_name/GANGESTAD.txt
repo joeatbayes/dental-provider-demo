@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GANGESTAD	JUSTIN	D13729	1477905990D13	13442 ELMWOOD DR	BAXTER	MN

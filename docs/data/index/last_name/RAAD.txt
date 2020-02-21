@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAAD	RICHARD	D13803	1053310730D13	41400 DEQUINDRE RD	STERLING HEIGHTS	MI

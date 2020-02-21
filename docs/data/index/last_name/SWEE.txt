@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWEE	GERALD	8424	1013991959842	1401 SPARTA ST	MC MINNVILLE	TN

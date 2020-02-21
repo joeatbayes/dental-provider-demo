@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLEZEWSKI	MICHELLE	1093	1588723639109	330 E TUDOR RD	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURBROW	DARRELL	AR 2414	1700954187AR2	2701 N I ST	FORT SMITH	AR

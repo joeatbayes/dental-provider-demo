@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LALOMIA	TERESE	10041	1144331257100	5100 GAMBLE DR	ST LOUIS PARK	MN

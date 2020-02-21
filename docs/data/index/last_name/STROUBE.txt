@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STROUBE	MARISSA	9011	1821227018901	608 COMMONS DR	GALLATIN	TN

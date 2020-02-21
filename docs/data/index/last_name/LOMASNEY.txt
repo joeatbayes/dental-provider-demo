@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOMASNEY	DAVID	17518	1124211859175	1017 HURON AVE	PORT HURON	MI

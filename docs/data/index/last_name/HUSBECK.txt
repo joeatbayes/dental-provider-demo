@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUSBECK	EDWARD	10231	1386793685102	200 N HOMER ST	LANSING	MI

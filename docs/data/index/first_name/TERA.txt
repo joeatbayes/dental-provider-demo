@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOYD	TERA	D13827	1013444348D13	2209 JEFFERSON ST	ALEXANDRIA	MN

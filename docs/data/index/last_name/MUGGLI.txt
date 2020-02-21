@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUGGLI	ADAM	1313	1811120462131	951 E BOGARD RD	WASILLA	AK

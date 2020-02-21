@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZECKEL	ISAAC	12011730A	1528349800120	1001 NORTH STURDY RD.	VALPARAISO	IN

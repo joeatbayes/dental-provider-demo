@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OATIS	JOHN	2294	1427143692229	17250 N 43RD AVE	GLENDALE	AZ

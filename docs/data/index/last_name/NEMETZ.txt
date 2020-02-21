@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEMETZ	MICHAEL	D9392	1285726430D93	113 NORTHTOWN DR NE	BLAINE	MN

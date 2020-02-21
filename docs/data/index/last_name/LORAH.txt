@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LORAH	ABIGAIL	2901021483	1447663687290	16979 FARMINGTON RD	LIVONIA	MI

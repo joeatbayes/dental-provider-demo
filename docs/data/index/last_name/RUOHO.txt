@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUOHO	JENNY	D11744	1215099643D11	1475 WHITE OAK DR	CHASKA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BICHLER	GREG	9746	1609987098974	5237 DOUGLAS DR	CRYSTAL	MN

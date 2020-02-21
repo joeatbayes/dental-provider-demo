@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPOELHOF	HEIDI	D12423	1912175332D12	701 PARK AVE	MINNEAPOLIS	MN

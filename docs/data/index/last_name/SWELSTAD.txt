@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWELSTAD	JASON	18533	1609948066185	321 WESTERN AVE	FERGUS FALLS	MN

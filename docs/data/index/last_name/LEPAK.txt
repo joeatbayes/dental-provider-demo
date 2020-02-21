@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEPAK	JOSEPH	2901007880	1548290059290	8910 COMMERCE RD	COMMERCE	MI

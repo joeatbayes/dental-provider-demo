@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILBAUER	KESHIA	D14006	1992297956D14	1201 FRANKLIN AVE	SAUK RAPIDS	MN

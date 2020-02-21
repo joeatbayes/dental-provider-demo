@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"CRAIG, JR."	THOMAS	5913	1679623110591	4283 RALEIGH MILLINGTON RD	MEMPHIS	TN

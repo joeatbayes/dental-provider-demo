@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURMON	JOHN	ARK 2697	1730250036ARK	103 W CHURCH ST	WARREN	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIDHU	JAGJOT	DE00010680	1548327661DE0	3499 N CAMPBELL AVE	TUCSON	AZ

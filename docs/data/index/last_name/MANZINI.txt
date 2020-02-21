@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANZINI	ELEANOR	D14301	1902452527D14	210 OLD HIGHWAY 61 S	HINCKLEY	MN

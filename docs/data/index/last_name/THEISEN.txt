@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THEISEN	ERIKA	D12795	1083934905D12	22 2ND AVE S	SAUK RAPIDS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAADT	GARY	12008618A	1093843823120	1204 E NATIONAL AVE	BRAZIL	IN

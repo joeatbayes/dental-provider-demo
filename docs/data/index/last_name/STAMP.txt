@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAMP	SCOTT	9235	1073566287923	3950 VETERANS DR	ST CLOUD	MN

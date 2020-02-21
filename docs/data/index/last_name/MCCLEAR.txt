@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLEAR	NANCY	2901016270	1770682486290	1127 W STATE ST	HASTINGS	MI

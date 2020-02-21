@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EBERHART	MAHLON	5640	1477674224564	544 LINCOLN WAY W	MISHAWAKA	IN

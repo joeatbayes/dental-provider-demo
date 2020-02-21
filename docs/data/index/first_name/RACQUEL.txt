@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALOUF	RACQUEL	2901600229	1396307047290	12807 W WARREN AVE	DEARBORN	MI

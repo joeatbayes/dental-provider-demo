@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINSER	SHAWN	2901019830	1023271038290	1315 E HOWARD CITY EDMORE RD	EDMORE	MI

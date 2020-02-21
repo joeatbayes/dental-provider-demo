@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EICHHORN	SCOTT	3191	1699782128319	2915 E MOORE AVE	SEARCY	AR

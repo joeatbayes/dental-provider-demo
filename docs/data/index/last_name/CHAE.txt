@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAE	THOMAS	2901021658	1306220041290	27115 GRATIOT AVE	ROSEVILLE	MI

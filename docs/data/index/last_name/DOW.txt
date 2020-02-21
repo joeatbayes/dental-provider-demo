@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOW	SHARON	2901016931	1427123413290	211 HARLEY ST	JONESVILLE	MI

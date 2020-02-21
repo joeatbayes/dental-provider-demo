@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNKERSON	CHARLES	DS3350	1447335591DS3	409 N POPLAR ST	PARIS	TN

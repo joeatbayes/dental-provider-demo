@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIEMER	JASON	D11216	1811057292D11	1600 SAINT JOHNS BLVD	MAPLEWOOD	MN

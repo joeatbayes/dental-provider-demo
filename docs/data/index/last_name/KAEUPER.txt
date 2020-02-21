@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAEUPER	THOMAS	12007618A	1073647756120	1015 S A ST	RICHMOND	IN

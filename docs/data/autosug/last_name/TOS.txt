@@ -1,0 +1,3 @@
+TOSH	1
+TOSI	1
+TOSTO	1

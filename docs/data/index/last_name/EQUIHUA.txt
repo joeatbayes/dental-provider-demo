@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EQUIHUA	RACHEL	4210	1487178729421	5111 ROGERS AVE	FORT SMITH	AR

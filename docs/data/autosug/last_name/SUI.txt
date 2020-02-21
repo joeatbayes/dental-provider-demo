@@ -1,0 +1,3 @@
+SUI	1
+SUIT	1
+SUITER	1

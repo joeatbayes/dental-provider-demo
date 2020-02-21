@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEIMANN	WILLIAM	2542	1902936677254	1526 W GLENDALE AVE STE 103	PHOENIX	AZ

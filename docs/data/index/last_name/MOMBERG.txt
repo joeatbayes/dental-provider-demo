@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOMBERG	LANDON	DEN.00203726	1821576430DEN	1000 GREG KRUSCHEK AVE	NOME	AK

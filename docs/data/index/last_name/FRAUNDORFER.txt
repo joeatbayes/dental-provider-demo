@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRAUNDORFER	MARGAUX	10703	1619991247107	520 W MAIN ST	GREENTOWN	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRATZ	MICHAEL	D10956	1356457683D10	3939 W 50TH ST	EDINA	MN

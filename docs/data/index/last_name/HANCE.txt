@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANCE	PAUL	2683	1396854014268	1025 SIDNEY ST	BATESVILLE	AR

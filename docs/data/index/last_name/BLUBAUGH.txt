@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLUBAUGH	KATHERINE	11836	1437341229118	3408 FAIRLAWN DR	MINNETONKA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIERSUM	JOEL	AA799	1467462341AA7	411 REZANOF DR E	KODIAK	AK

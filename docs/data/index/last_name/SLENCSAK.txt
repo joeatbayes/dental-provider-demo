@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLENCSAK	CAROLE	3687	1447213517368	7500 E ANGUS DR	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOSAL	LEONARD	2901011174	1427254069290	10641 HIGHLAND RD	WHITE LAKE	MI

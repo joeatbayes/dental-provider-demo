@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAPPAS	TELLY	10192	1760562128101	7921 MINNETONKA BLVD	SAINT LOUIS PARK	MN

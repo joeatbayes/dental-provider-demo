@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KACK	MEGAN	D13539	1871979096D13	530 W PLEASANT ST	MANKATO	MN

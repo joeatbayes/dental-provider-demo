@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	GLENN	12006986A	1649391467120	108 N MAIN ST	MONTPELIER	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FASBENDER	MICHAEL	9798	1689678088979	128 3RD AVE NW	AUSTIN	MN

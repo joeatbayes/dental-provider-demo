@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERTANSOTTO	CHRIS	D12157	1346395068D12	1829 5TH AVENUE	ANOKA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PORWOLL	DANA	D12819	1427369446D12	1716 2ND AVE N	SAUK RAPIDS	MN

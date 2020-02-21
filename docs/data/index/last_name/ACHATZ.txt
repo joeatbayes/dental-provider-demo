@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ACHATZ	CHAD	DE60682826	1699220863DE6	7342 E THOMAS RD	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRIEGER	KORINNE	D7347	1134312051D73	10601 N HAYDEN RD BLDG I	SCOTTSDALE	AZ

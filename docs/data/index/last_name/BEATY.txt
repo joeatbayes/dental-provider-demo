@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEATY	MICHAEL	12009222	1437109915120	2166 E MAIN ST	DANVILLE	IN

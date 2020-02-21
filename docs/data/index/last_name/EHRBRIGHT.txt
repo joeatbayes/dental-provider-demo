@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EHRBRIGHT	CHRISTOPHER	5519	1871669820551	1895 N TREKELL RD	CASA GRANDE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MICHALOWICZ	BRYAN	10028	1306909023100	2500 COMO AVENUE	ST. PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUITEMAN	LOGAN	2901022636	1407348485290	181 EMMETT ST W	BATTLE CREEK	MI

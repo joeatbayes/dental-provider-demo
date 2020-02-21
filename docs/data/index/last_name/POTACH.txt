@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POTACH	KURT	MN8894	1053473637MN8	607 1ST DR NW	AUSTIN	MN

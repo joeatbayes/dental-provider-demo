@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIESE	MARK	12009808	1043230782120	706 N MAIN ST	MONTICELLO	IN

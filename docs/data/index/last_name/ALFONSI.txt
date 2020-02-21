@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALFONSI	MARIE	762	1033311618762	900 W FIREWEED LN	ANCHORAGE	AK

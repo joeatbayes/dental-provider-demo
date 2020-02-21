@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SELMAN	TERRY	10572	1952433666105	19228 W MCNICHOLS RD	DETROIT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VESGA	JUAN	D12007	1184731648D12	2001 BLOOMINGTON AVE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUKHORUKOV	SARAH	10059	1821586744100	2441 STATE ST STE 1	NEW ALBANY	IN

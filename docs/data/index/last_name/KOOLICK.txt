@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOOLICK	BEN	AZ6037	1104818467AZ6	8390 W CACTUS RD STE 110	PEORIA	AZ

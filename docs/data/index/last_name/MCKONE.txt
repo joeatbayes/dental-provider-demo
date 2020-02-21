@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCKONE	JAMES	D8146	1932373180D81	109 BUSHAWAY RD	WAYZATA	MN

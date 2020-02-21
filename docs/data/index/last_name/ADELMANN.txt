@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADELMANN	CRAIG	10008	1598753873100	14247 OCONNELL CT	SAVAGE	MN

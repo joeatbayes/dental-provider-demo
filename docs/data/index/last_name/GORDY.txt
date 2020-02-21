@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GORDY	SPENCER	3926	1477991065392	550 CHESTNUT ST	CONWAY	AR

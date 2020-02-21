@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FISER	BROOKS	3995	1447664347399	3200 ROGERS AVE	FORT SMITH	AR

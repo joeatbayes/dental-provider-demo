@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEHRING	CHRISTINA	2901020900	1780020057290	292 E SAGINAW RD	SANFORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUSZAK	EDWIN	D6376	1518151778D63	2711 S ALMA SCHOOL RD	MESA	AZ

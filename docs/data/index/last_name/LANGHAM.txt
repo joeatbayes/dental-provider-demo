@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANGHAM	SUE	8405	1932391455840	1210 PEABODY AVE	MEMPHIS	TN

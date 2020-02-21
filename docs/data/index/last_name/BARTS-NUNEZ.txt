@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTS-NUNEZ	CAITLIN	12012472A	1255789038120	1360 E. 4TH STREET	ROCHESTER	IN

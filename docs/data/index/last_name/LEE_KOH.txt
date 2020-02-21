@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE KOH	NAOMI	8719	1932384146871	417 FRAZIER AVE	CHATTANOOGA	TN

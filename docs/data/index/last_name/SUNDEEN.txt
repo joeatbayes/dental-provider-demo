@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUNDEEN	KURT	9458	1053361535945	1132 LARPENTEUR AVE W	ST PAUL	MN

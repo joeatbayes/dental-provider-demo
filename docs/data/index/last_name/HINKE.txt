@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HINKE	PETER	D10206	1811088131D10	4289 SHERIDAN AVE S	MINNEAPOLIS	MN

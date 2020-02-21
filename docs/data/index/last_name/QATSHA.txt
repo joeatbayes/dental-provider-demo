@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QATSHA	PATRICK	2901018905	1669569299290	9555 COMMERCE RD	COMMERCE TWP	MI

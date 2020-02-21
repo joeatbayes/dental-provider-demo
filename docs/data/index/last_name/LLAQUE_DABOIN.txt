@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LLAQUE DABOIN	DANIELA	FL56	1912559386FL5	515 DELAWARE ST SE	MINNEAPOLIS	MN

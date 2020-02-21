@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAR	FARNAZ	D13386	1073983896D13	515 DELAWARE ST SE	MINNEAPOLIS	MN

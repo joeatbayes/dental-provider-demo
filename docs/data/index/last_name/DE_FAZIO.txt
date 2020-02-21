@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DE FAZIO	MICHELLE	D13646	1962894683D13	5625 CENEX DR	INVER GROVE HEIGHTS	MN

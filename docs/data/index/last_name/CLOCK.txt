@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLOCK	ADAM	12010542A	1649272121120	530 PLAZA DR STE J	COLUMBUS	IN

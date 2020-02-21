@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIGGS	ORVILLE	D3338	1609022763D33	3908 E GRANT RD	TUCSON	AZ

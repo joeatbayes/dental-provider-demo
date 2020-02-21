@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NELIS	CHRISTOPHER	19030697	1568824803190	25 N STATE ST	ZEELAND	MI

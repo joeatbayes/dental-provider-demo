@@ -1,0 +1,2 @@
+DE_BALL	1
+DE_BEDOUT	1

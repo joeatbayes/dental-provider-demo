@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHEA	YANNIE	R660	1821449133R66	616 WASHINGTON AVE SE APT 213	MINNEAPOLIS	MN

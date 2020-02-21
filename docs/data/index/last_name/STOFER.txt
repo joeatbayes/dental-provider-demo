@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOFER	WILLIAM	12010074	1689718603120	3505 N STATE ROAD 15	WARSAW	IN

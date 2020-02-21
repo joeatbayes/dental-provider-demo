@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARELA	DAVID	7921	1982855839792	2033 E WARNER RD STE 115	TEMPE	AZ

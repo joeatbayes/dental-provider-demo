@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INIGUEZ	LUIS	AZ5202	1053481002AZ5	3201 W PEORIA AVE	PHOENIX	AZ

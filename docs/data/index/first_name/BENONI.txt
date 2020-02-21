@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASDELL	BENONI	IN12006175	1629135181IN1	229 J F KENNEDY AVE	LOOGOOTEE	IN

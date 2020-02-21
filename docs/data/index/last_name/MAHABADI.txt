@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAHABADI	SAMIRA	D11582	1205834850D11	5851 DULUTH ST	GOLDEN VALLEY	MN

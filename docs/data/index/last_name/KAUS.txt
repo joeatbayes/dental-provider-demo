@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAUS	WILLIAM	D6922	1871793299D69	401 E BELL RD	PHOENIX	AZ

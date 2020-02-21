@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RITKAJORN	TANAWAT	R428	1184955221R42	515 DELAWARE ST SE	MINNEAPOLIS	MN

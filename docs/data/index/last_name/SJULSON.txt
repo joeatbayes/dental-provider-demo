@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SJULSON	ROGER	8437	1720140841843	109 JOHNSON AVE N	FOSSTON	MN

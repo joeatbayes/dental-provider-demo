@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHELLING	BRONSON	D13397	1629487921D13	315 18TH ST SE	OWATONNA	MN

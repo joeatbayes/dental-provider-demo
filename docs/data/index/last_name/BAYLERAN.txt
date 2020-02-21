@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAYLERAN	EDWARD	9487	1457497752948	31370 TELEGRAPH RD	BINGHAM FARMS	MI

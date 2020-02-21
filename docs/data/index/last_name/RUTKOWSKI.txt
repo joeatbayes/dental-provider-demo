@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUTKOWSKI	RICHARD	10965	1194803502109	2812 S 11TH ST	NILES	MI

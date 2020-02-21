@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDINGHAUS	RICHARD	2901020856	1619967791290	1200 KIRTS BLVD	TROY	MI

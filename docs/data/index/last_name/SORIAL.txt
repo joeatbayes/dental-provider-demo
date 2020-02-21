@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SORIAL	DAVID	2901018796	1053321240290	14745 NORTHLINE RD	SOUTHGATE	MI

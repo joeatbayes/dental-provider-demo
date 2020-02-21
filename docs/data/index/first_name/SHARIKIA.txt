@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRIS	SHARIKIA	8126	1366502148812	360 E H CRUMP BLVD	MEMPHIS	TN

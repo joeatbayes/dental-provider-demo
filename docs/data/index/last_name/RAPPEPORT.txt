@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAPPEPORT	STEPHEN	2241	1689626269224	304 N GREENWOOD AVE	FORT SMITH	AR

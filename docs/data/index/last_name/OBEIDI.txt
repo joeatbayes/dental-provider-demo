@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OBEIDI	AYAT	D010112	1831678341D01	19420 N 59TH AVE STE D400	GLENDALE	AZ

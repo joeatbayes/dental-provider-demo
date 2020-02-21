@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FROEBER	PATTI	10272	1245294792102	312 CENTRAL AVE SE	MINNEAPOLIS	MN

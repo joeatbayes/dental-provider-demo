@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSTERKAMP	JAMES	4651	1720494131465	3250 N CAMPBELL AVE	TUCSON	AZ

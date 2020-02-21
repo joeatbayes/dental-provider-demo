@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERSCHFUS	MARVIN	13344	1528047172133	2341 COOLIDGE HWY	BERKLEY	MI

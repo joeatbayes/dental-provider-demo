@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YI	YOONJIN	D14064	1558867440D14	3780 MARKETPLACE DR NW STE 112	ROCHESTER	MN

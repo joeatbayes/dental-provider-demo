@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHULSKI	FRED	98	1306997416989	114 MINNIE ST	FAIRBANKS	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DYCUS	RICHARD	4771	1215041967477	390 S LOWE AVE	COOKEVILLE	TN

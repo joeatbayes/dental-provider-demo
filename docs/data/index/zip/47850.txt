@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRINGFELLOW	ANTHONY	12008659	1609803279120	820 W. MAIN ST.	FARMERSBURG	IN

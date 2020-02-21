@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEIBAUR	CHAD	1337	1467763375133	102 10TH AVE	FAIRBANKS	AK

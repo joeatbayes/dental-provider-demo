@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARISEAU	MARY	D9702	1891848362D97	1975 11TH AVE E	MAPLEWOOD	MN

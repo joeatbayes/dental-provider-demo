@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+APATA	LARHONDA	4091	1437602141409	340 BUCKEYE DR	HARRIET	AR

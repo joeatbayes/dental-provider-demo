@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SY	ANNE	12011491A	1548578495120	210 N FRONT ST	RENSSELAER	IN

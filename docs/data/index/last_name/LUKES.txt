@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUKES	NATHAN	964	1619080504964	3340 ARCTIC BLVD	ANCHORAGE	AK

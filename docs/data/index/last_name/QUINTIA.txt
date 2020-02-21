@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUINTIA	RONALD	D3539	1356376297D35	6369 E TANQUE VERDE RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ENZ	MIKE	AE2170974	1821178583AE2	520 HIGHWAY 96 W	SHOREVIEW	MN

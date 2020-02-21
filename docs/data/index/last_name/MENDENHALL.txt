@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MENDENHALL	WADE	5259	1275543233525	10665 W INDIAN SCHOOL RD	AVONDALE	AZ

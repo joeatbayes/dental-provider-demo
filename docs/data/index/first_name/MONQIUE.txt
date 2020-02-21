@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDSEY	MONQIUE	2901017499	1770751653290	28050 FORD RD	GARDEN CITY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OVALLE	SAUL	D11727	1629066840D11	212 STAR ST	MANKATO	MN

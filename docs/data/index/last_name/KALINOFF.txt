@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KALINOFF	FRED	7211	1538303698721	1405 ANNE ST NW	BEMIDJI	MN

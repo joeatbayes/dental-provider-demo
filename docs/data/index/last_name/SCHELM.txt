@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHELM	WILLIAM	12006528A	1598843906120	5933 STELLHORN RD	FT WAYNE	IN

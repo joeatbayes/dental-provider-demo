@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAEK	SEUNGHO	19076	1134254428190	1808 S PENNSYLVANIA AVE	LANSING	MI

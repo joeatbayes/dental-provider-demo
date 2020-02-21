@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POKORNEY	MARK	9866	1265597058986	1000 HIGHWAY 25 SOUTH	BUFFALO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEMMER	JULI	2901011979	1396718623290	455 CHERRY ST SE	GRAND RAPIDS	MI

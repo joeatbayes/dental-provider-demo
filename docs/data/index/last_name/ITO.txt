@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ITO	COLLIN	D5310	1407902562D53	4909 E CHANDLER BLVD	PHOENIX	AZ

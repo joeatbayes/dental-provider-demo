@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OPPEL	FREDERICK	2901014243	1265502223290	425 E. CENTRE ST.	PORTAGE	MI

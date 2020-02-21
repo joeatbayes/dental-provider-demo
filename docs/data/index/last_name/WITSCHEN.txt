@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITSCHEN	DAVID	10138	1790735512101	710 9TH ST N	VIRGINIA	MN

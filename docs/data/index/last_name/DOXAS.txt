@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOXAS	GEORGE	12007105	1073801536120	5254 HOHMAN AVE	HAMMOND	IN

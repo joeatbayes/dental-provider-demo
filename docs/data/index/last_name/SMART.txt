@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMART	STEPHEN	2321	1801830948232	318 THOMPSON AVE	EL DORADO	AR

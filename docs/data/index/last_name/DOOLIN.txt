@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOOLIN	KURT	13666	1518029040136	433 W UNIVERSITY DR	ROCHESTER	MI

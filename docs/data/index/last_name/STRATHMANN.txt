@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRATHMANN	ROBERT	9462	1578505673946	2107 AURELIUS RD	HOLT	MI

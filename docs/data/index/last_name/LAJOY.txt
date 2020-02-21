@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAJOY	HARTLEY	7220	1720077316722	8578 MORGAN LN	EDEN PRAIRIE	MN

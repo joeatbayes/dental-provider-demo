@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOCH	SHEENA	D12821	1184945867D12	636 BROADWAY ST NE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOODNER	WAYNE	07549511Q	1346257912075	1751 W ORANGE GROVE ROAD	TUCSON	AZ

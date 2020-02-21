@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLEPICKA	LARRY	D9075	1811056237D90	1515 SAINT FRANCIS AVE	SHAKOPEE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPRAGUE	RICHARD	AA367	1831206226AA3	15 W EXCEL	PETERSBURG	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKER	NATHAN	D5844	1629183520D58	3303 S LINDSAY ROAD	GILBART	AZ

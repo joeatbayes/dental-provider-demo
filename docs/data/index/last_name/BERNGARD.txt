@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERNGARD	SAMUEL	O12O74	1407919103O12	1729 E SAGINAW ST	LANSING	MI

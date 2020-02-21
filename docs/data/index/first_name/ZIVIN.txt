@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARK	ZIVIN	2901021641	1124409560290	5200 S WESTNEDGE AVE	PORTAGE	MI

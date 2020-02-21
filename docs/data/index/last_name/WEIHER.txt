@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEIHER	DOUGLAS	1861557365	1861557365651	13481 60TH ST N	OAK PARK HEIGHTS	MN

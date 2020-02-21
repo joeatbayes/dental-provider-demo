@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENAKER	JESSICA	12011438A	1285945550120	508 N GREEN RIVER RD	EVANSVILLE	IN

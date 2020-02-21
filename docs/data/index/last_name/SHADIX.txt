@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHADIX	SARAH	9520	1184989535952	4311 GALLATIN PIKE	NASHVILLE	TN

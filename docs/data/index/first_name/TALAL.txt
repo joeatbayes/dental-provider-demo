@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASWAD	TALAL	5719	1437277084571	1430 N CENTRAL AVE	AVONDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORDQUIST	AMY	D008427	1023365764D00	3885 S ARIZONA AVE STE 3	CHANDLER	AZ

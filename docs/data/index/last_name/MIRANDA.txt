@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIRANDA	DAVID	5149	1639290364514	216 W WATAUGA AVE	JOHNSON CITY	TN

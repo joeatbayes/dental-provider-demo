@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEDSTROM	ALYSSA	D11942	1487879243D11	303 E 3RD STREET	GRAND MARAIS	MN

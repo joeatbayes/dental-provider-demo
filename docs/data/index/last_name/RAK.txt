@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAK	MICHAEL	2901014848	1831204155290	455 BUTTERNUT DR	HOLLAND	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOU	JENNIFER	9605	1033370457960	875 UNION AVE	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCAFFERY	HAROLD	8599	1124245014859	1262 N MACOMB ST	MONROE	MI

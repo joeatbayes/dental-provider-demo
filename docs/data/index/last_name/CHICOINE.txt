@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHICOINE	MARK	13336	1497896344133	950 N 10TH STREET	KALAMAZOO	MI

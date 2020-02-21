@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOFTIS	LISA	2905	1710078803290	306 S ASH ST	MALVERN	AR

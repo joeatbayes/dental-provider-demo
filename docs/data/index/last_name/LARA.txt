@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LARA	SANDRA	D11832	1598728123D11	520 MAIN ST	HAWLEY	MN

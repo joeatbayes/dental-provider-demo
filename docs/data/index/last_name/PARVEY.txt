@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARVEY	DENNIS	D8455	1760541908D84	12265 CENTRAL AVE NE	BLAINE	MN

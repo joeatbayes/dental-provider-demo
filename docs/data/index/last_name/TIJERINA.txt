@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TIJERINA	YVONNE	23263	1750579512232	6000 KANAKANAK RD	DILLINGHAM	AK

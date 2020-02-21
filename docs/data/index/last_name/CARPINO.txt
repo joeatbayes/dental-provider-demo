@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARPINO	RACHEL	D14091	1467939629D14	4243 4TH AVE S	MINNEAPOLIS	MN

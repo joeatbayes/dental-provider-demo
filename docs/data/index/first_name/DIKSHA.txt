@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHETH	DIKSHA	D14075	1760978647D14	1790 7TH ST E	SAINT PAUL	MN

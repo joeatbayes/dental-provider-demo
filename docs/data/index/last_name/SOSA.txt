@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOSA	ARTURO	9276949-9922	1982014684927	1260 S CAMPBELL AVE	GREEN VALLEY	AZ

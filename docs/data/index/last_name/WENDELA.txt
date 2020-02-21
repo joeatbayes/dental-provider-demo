@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WENDELA	GLENN	2901010502	1447266481290	803 SUPERIOR ST	PORT HURON	MI

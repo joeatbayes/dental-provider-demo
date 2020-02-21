@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEDRICK	GENE	12005647A	1821140153120	100 NORTH HARRISON STREET	SALEM	IN

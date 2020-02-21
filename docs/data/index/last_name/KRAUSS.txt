@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRAUSS	TIMOTHY	12009127	1780710301120	8307 W 10TH ST	INDIANAPOLIS	IN

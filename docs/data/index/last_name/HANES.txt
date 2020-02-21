@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANES	RUSSELL	3507	1336100569350	1900 PASEO SAN LUIS	SIERRA VISTA	AZ

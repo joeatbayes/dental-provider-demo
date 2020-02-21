@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JERNBERG	ISAIAH	12012105A	1679984199120	1436 LOCUST ST	TERRE HAUTE	IN

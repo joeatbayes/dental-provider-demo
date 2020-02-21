@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROOMFIELD	ANGELA	3571	1568472694357	614 E EMMA AVE STE 300	SPRINGDALE	AR

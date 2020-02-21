@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGAN	K.	D2721	1316045990D27	4235 N 32ND ST	PHOENIX	AZ

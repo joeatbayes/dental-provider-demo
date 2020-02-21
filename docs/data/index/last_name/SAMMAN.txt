@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAMMAN	FADI	2901018101	1427014513290	3515 FORT ST	LINCOLN PARK	MI

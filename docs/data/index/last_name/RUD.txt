@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUD	JEFFREY	9966	1750433603996	4178 KNOB DR	EAGAN	MN

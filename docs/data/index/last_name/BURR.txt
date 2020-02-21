@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURR	FREDERICK	8270	1205030921827	314 E COLLEGE ST	DICKSON	TN

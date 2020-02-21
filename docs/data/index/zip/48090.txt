@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUSTER	RICHARD	7987	1720177876798	27150 RYAN ROAD	WARREN	MI

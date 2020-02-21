@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRENG	JACOB	2901021958	1780034298290	404 W SUPERIOR ST	WAYLAND	MI

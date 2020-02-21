@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	SANGYOUNG	9361	1174691521936	125 S NAPPANEE ST	ELKHART	IN

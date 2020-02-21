@@ -1,0 +1,3 @@
+WAFA	1
+WAFID	1
+WAFIQ	1

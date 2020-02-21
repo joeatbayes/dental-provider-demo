@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUESSLE	SCOTT	D5728	1245459478D57	E. ON HWY 160 TO RTE 59 BEHIND CHAPTER	KAYENTA	AZ

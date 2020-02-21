@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOY	PATRICK	D9089	1962483420D90	3340 REPUBLIC AVE	ST LOUIS PARK	MN

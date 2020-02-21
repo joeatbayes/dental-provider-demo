@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NETWON	DANIEL	7974	1013075357797	190 EDGEWOOD AVE	CLINTON	TN

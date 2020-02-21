@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERZBERG	MARK	8687	1073731998868	VA MEDICAL CENTER	MINNEAPOLIS	MN

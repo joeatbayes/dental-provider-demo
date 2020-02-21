@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIMARIO	VERONICA	19024582	1891799508190	1717 S CALHOUN ST	FORT WAYNE	IN

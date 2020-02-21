@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINSE	LAWRENCE	2401	1619018041240	2708 N 4TH ST	FLAGSTAFF	AZ

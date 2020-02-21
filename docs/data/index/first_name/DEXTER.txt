@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLEMMING	DEXTER	2901017976	1174663611290	22150 ALLEN RD	WOODHAVEN	MI

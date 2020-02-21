@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIZAREK	JOHN	R731	1093182271R73	515 DELAWARE ST SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COVARRUBIAS	MYRA	2901019008	1508005190290	3003 W. DICKMAN RD.	SPRINGFIELD	MI

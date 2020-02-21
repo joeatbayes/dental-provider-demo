@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERTER	JAMES	MI15820	1417072877MI1	1901 PAULINE BLVD	ANN ARBOR	MI

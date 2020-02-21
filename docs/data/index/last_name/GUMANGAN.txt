@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUMANGAN	RHODELIA JANE	D008847	1811325525D00	295 W VALENCIA RD	TUCSON	AZ

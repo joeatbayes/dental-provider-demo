@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KNIFF	BRIAN	1748	1366683575174	#4 CIRCULO COPA	TUBAC	AZ

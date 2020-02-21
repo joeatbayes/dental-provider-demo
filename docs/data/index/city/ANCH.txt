@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOFSTAD	STEVEN	704	1982770863704	400 W NORTHERN LIGHTS	ANCH	AK

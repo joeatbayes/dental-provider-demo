@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KREZ	KENT	7218	1669504734721	11255 STATE HWY 55	PLYMOUTH	MN

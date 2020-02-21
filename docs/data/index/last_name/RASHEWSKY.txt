@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RASHEWSKY	STEPHANIE	2901020838	1629397872290	519 ADA DR SE	ADA	MI

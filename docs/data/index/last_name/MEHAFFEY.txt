@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEHAFFEY	EMILY	3629	1730389602362	5111 JFK BLVD	NORTH LITTLE ROCK	AR

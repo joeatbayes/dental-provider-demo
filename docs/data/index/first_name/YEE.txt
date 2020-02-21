@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YANG	YEE	AR3453	1235465303AR3	530 ATKINS BLVD	MARIANNA	AR

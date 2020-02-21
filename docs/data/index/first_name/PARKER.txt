@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNCAN	PARKER	2901600133	1841858636290	321 N WARREN	SAGINAW	MI

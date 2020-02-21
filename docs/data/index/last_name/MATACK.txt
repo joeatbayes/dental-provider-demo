@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MATACK	NICHOLAS	D13811	1194020719D13	421 E 4TH ST	DULUTH	MN

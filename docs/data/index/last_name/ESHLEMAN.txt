@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESHLEMAN	KELSEY	1050607	1407082738105	13961 60TH ST N	STILLWATER	MN

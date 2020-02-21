@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHALM	FRANCIS	2901014806	1932314242290	15389 HALL RD	MACOMB	MI

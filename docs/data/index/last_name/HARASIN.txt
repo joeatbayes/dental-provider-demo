@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARASIN	JOHN	12496	1245440569124	4300 STATE ST	SAGINAW	MI

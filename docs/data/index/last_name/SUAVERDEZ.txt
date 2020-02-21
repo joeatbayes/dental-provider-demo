@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUAVERDEZ	JAY	5831	1952498263583	1631 N. 144TH AVE	GOODYEAR	AZ

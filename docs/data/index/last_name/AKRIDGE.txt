@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AKRIDGE	CATHERINE	4290	1922593433429	82 SOUTHWINDS RD	FARMINGTON	AR

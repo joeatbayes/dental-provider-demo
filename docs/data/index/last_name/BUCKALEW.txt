@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUCKALEW	SARAH	3798	1073744876379	3024 S. UNIVERSITY	LITTLE ROCK	AR

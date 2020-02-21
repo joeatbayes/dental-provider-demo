@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VITEK	ALEXA	18878	1578614210188	13173 SCHAVEY RD	DEWITT	MI

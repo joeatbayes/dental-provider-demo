@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FORTIER	GUY	8238	1194844282823	5725 MAPLECREST RD	FORT WAYNE	IN

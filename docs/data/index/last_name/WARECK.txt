@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WARECK	LAWRENCE	2901013338	1568501278290	601 S. GRAND AVENUE	LANSING	MI

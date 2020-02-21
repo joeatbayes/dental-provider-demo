@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERGES	RANDALL	9414	1902922750941	6016 MAIN ST	ROCKFORD	MN

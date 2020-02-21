@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEE	DANIEL	7035	1184765703703	6000 S MCCLINTOCK DR	TEMPE	AZ

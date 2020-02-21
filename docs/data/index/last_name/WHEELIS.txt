@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHEELIS	BRADLEY	3048	1538273362304	1010 MAIN ST.	MELBOURNE	AR

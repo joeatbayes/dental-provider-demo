@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARMSTRONG	ERICA	3713	1043447550371	808 N ILLINOIS ST	HARRISBURG	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOWLES	ARTHUR JR.	12236	1477763753122	2223 PACKARD ST	ANN ARBOR	MI

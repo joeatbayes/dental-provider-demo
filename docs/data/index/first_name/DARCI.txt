@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KNOWLTON	DARCI	D10790	1841260148D10	828 HAWTHORNE ST E	SAINT PAUL	MN

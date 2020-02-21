@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PUCKETT	LUTHER	8548	1225155070854	508 N CHURCH ST	LIVINGSTON	TN

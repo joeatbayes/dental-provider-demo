@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENZ	RODNEY	D7104	1922173798D71	4207 ALDRICH AVENUE NORTH	MINNEAPOLIS	MN

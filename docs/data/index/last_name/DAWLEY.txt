@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAWLEY	JOANNE	12472	1477676039124	16315 W 12 MILE RD	SOUTHFIELD	MI

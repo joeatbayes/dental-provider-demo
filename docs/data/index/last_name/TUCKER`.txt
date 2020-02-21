@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TUCKER`	ROBERT	2561	1942212915256	105 RIDGEWAY ST	HOT SPRINGS	AR

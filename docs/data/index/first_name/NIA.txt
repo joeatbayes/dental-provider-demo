@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIGBY	NIA	12011256	1093970717120	2340 E 10TH ST	INDIANAPOLIS	IN

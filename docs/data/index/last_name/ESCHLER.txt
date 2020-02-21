@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESCHLER	BRADFORD	2901012729	1497961809290	3945 OKEMOS RD STE A2	OKEMOS	MI

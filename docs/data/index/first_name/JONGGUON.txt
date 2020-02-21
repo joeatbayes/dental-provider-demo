@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIM	JONGGUON	115372	1659820728115	9138 ARLON ST STE B4	ANCHORAGE	AK

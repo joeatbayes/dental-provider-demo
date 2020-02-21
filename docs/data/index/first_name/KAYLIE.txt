@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAMPHUIS	KAYLIE	2901021932	1912356692290	550 CHERRY ST SE	GRAND RAPIDS	MI

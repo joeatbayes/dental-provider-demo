@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHIPTON	BRIAN	2901021331	1740695907290	100 CHERRY ST SE	GRAND RAPIDS	MI

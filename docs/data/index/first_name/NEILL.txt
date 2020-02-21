@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TREECE	NEILL	AR1966	1760542443AR1	1528 NO 39TH	FORT SMITH	AR

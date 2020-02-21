@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADAMSON	LORI	5718	1508001470571	570 BRANDIES CIR	MURFREESBORO	TN

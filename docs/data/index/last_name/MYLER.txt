@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MYLER	EDWIN	EMG8643	1134334709EMG	708 CHIPPEWA SQ	MARQUETTE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDREASEN	KARL	D10904	1912970062D10	1912 LEXINGTON AVE N	ROSEVILLE	MN

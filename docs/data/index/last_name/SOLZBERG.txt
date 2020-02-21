@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOLZBERG	BARRY	24668	1295918209246	6486 E OBERLIN WAY	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHNEIDWIND	SARA	2901017867	1235358201290	126 E MAIN ST	MANCHESTER	MI

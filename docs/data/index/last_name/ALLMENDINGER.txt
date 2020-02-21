@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLMENDINGER	BRIAN	D5353	1043294424D53	655 S DOBSON RD	CHANDLER	AZ

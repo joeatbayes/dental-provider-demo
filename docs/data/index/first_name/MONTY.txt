@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMSON	MONTY	D3834	1639277122D38	1220 W ARIZONA AVE	PARKER	AZ

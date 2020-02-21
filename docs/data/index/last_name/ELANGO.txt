@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELANGO	JUDITH	D8047	1982901716D80	1743 W PRINCE RD	TUCSON	AZ

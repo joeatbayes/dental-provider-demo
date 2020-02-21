@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLATANOFF	COLLIN	7725537-9921	1033425863772	5050 N 40TH ST STE 160	PHOENIX	AZ

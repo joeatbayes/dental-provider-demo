@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUGE	CARLA	11051	1275549230110	111 KELLOGG BLVD E	SAINT PAUL	MN

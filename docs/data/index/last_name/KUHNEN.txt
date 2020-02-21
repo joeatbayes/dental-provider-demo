@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUHNEN	MARISSA	DS038361	1760796767DS0	500 INDIANA AVE	WINSLOW	AZ

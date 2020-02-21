@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACCARTHY	GARY	6879	1972984532687	1789 WOODLANE DR	WOODBURY	MN

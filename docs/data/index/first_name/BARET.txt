@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLIAMS-FURFARO	BARET	D12974	1093094039D12	3622 MOBERG DR NW	BEMIDJI	MN

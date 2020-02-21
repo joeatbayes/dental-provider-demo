@@ -1,0 +1,2 @@
+NEWELL	2
+NEWTON	1

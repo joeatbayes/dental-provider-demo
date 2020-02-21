@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIEDERICH	RICHARD	11547	1710995428115	475 COLUMBIA AVE E	BATTLE CREEK	MI

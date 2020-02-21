@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATOCHA	CHRISTOPHER	16009	1912127598160	230 W CENTRAL	MACKINAW CITY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REEH	ERNEST	D10281	1528152550D10	2600 WILD PINES LANE	STILLWATER	MN

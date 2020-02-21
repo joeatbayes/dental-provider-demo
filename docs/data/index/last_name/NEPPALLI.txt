@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEPPALLI	KUMAR	11769	1285695692117	200 1ST ST SW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALLSMITH	DANE	12007395A	1750421137120	3415 S LAFOUNTAIN ST	KOKOMO	IN

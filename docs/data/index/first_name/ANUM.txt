@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALI	ANUM	10803	1164918074108	260 HAMILTON CROSSING DR	ALCOA	TN

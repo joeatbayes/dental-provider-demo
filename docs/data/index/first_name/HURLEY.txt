@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRELL	HURLEY	2460	1952477234246	2710 NORTH CAMPBELL AVE	TUCSON	AZ

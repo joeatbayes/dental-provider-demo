@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COTE	DANIEL	11175	1720174915111	876 E FRONT STREET	TRAVERSE CITY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAUB	BRIAN	DS030474R	1386795458DS0	21321 E OCOTILLO RD STE 106	QUEEN CREEK	AZ

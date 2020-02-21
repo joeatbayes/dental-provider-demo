@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROETTGER	MARK	9426	1356325906942	12425 55TH STREET N	LAKE ELMO	MN

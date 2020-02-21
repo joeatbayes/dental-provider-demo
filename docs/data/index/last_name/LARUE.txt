@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LARUE	DANIELLE	1211	1902007636121	4361 BONIFACE PKWY	ANCHORAGE	AK

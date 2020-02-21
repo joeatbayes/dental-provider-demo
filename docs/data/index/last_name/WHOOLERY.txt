@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHOOLERY	STEPHEN	D9505	1164747812D95	219 E LINCOLN AVE	FERGUS FALLS	MN

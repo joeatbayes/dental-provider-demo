@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHUMAKER	BUFORD	17521	1831283589175	118 W SHIAWASSEE AVE	FENTON	MI

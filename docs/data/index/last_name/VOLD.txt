@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOLD	WILLIAM	D9953	1255490751D99	1600 SAINT JOHNS BLVD	MAPLEWOOD	MN

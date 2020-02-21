@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAKSTANG	JONATHAN	8923	1366772287892	4400 ROGERS AVE	FORT SMITH	AR

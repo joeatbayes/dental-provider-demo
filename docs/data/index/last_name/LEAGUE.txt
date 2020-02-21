@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEAGUE	GARY	D7631	1639282056D76	2112 NW VIKING DRIVE	ROCHESTER	MN

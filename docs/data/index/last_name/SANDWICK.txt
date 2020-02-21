@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANDWICK	TODD	D10792	1184709685D10	418 1ST ST. W.	FOSSTON	MN

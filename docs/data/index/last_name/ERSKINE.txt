@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERSKINE	CHRISTOPHER	5635	1982665097563	4210 N 32ND ST	PHOENIX	AZ

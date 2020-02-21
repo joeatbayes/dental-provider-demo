@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOTT	ELDON	4327	1760545461432	857 E WARNER RD	GILBERT	AZ

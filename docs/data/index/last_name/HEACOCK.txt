@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEACOCK	JODI	D5405	1821051533D54	7006 S CENTRAL AVE	PHOENIX	AZ

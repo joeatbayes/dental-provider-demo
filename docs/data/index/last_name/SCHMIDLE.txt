@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHMIDLE	ROBERT	7490	1881794972749	313A BLUEBIRD DR	GOODLETTSVILLE	TN

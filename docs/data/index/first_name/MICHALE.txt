@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOOTHE	MICHALE	AA0577	1629077441AA0	121 W FIREWEED LN	ANCHORAGE	AK

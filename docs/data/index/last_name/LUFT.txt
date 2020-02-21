@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUFT	JOHN	3235	1033262704323	1601 N TUCSON BLVD STE 19	TUCSON	AZ

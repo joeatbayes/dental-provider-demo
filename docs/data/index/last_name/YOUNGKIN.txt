@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOUNGKIN	HARRY	5458	1417031741545	483 W. SEED FARM RD.	SACATON	AZ

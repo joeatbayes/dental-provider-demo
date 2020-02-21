@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STELZMAN	JAMES	D52780	1972513844D52	1025 W 1ST NORTH ST	MORRISTOWN	TN

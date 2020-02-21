@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDTVEDT	GAYLE	6233	1831124239623	1993 FRONTAGE RD	SIERRA VISTA	AZ

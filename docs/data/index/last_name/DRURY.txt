@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRURY	GARY	12007918A	1760499255120	810 W BRISTOL ST	ELKHART	IN

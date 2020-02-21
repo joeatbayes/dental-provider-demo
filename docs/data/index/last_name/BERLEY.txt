@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERLEY	JAMES	2379	1144337445237	5417 PINNACLE POINT DR STE 200	ROGERS	AR

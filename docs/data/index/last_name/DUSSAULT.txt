@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUSSAULT	KIRSTEN	D12098	1801956248D12	13911 RIDGEDALE DR	MINNETONKA	MN

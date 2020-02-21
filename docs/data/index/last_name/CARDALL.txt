@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARDALL	SCOTT	8546867-9922	1114269289854	7150 N 7TH ST	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCLAURIN	JOSEPH	DS4295	1871605956DS4	360 E EH CRUMP BLVD	MEMPHIS	TN

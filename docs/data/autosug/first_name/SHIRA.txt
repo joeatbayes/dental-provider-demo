@@ -1,0 +1,2 @@
+SHIRA	2
+SHIRAZ	1

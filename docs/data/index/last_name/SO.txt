@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SO	KATHERINE	12011847A	1366707473120	508 INDIANA AVE	INDIANAPOLIS	IN

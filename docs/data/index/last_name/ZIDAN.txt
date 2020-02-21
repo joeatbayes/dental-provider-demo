@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIDAN	OMAR	FF2	1700938057FF2	516 DELAWARE ST SE	MINNEAPOLIS	MN

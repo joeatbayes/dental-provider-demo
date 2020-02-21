@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCKINNEY	TALMADGE	677	1629247473677	18930 GREENFIELD RD	DETROIT	MI

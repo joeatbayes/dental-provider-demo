@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SERR	CLINT	6606	1376603977660	172 E MERRITT ST STE F	PRESCOTT	AZ

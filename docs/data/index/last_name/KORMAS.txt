@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KORMAS	IOANNIS	R707	1982195905R70	515 DELAWARE ST SE	MINNEAPOLIS	MN

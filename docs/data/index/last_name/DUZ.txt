@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUZ	PETER	14238	1023161460142	600 N MAIN ST	ROCHESTER	MI

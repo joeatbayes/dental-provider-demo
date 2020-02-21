@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RINGO	JOHN	12009038A	1407072051120	2001 US HIGHWAY 41	SCHERERVILLE	IN

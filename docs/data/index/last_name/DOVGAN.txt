@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOVGAN	JOHN	D4018	1124011358D40	3841 E THUNDERBIRD RD	PHOENIX	AZ

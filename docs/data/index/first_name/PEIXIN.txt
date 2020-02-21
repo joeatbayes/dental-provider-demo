@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIU	PEIXIN	D11232	1972584068D11	500 OSBORNE RD NE	FRIDLEY	MN

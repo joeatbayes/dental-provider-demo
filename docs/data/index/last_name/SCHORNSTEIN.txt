@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHORNSTEIN	JAMES	MN7246	1336295328MN7	620 RUM RIVER DR	CAMBRIDGE	MN

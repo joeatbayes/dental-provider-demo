@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HODD	LORRIE	D10117	1639395254D10	150 S 5TH ST	MINNEAPOLIS	MN

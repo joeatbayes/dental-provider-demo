@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LYZAK	WILLIAM	12010025A	1972920965120	402 MARQUETTE ST	VALPARAISO	IN

@@ -1,0 +1,2 @@
+EARL	12
+EASTE	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWIDLER	STEVEN	AZ1970	1952869075AZ1	4650 W JOJOBA DR	TUCSON	AZ

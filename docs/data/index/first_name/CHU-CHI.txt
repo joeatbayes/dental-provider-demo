@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WANG	CHU-CHI	5783	1578598496578	6677 W THUNDERBIRD RD STE A126	GLENDALE	AZ

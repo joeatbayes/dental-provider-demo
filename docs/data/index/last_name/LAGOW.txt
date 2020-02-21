@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAGOW	NICHOLAS	19822	1770743478198	2424 SPRING ARBOR RD	JACKSON	MI

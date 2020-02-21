@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRITSCH	BARRY	12007468	1417090515120	4371 E 82ND ST	INDIANAPOLIS	IN

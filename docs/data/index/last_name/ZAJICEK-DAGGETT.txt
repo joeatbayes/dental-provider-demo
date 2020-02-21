@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAJICEK-DAGGETT	BARBARA	D9295	1316099872D92	301 BECKER AVE SW	WILMAR	MN

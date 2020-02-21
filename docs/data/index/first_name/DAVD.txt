@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLTMANS	DAVD	7751	1942353511775	825 NICOLLET MALL	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARRY	GREG	12006372A	1578792941120	295 E STATE ROAD 120	FREMONT	IN

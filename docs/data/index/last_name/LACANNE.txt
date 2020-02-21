@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACANNE	TRACY	6910-15	1457611246691	N111 THOUNE ST	STEPHENSON	MI

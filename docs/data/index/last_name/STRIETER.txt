@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRIETER	LISA	12899414	1689693806128	1005 E LASALLE AVE	SOUTH BEND	IN

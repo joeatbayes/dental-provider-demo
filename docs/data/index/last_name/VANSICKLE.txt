@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANSICKLE	RICHARD	DS3846	1447381926DS3	2835 SUMMER OAKS DR	BARTLETT	TN

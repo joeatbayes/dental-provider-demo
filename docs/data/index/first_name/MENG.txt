@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANG	MENG	DT13	1700135845DT1	4325 GRAND AVE	DULUTH	MN

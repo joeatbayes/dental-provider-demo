@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NASH	WILLILAM	TN2169	1790995348TN2	1450 SAM DAVIS RD	SMYRNA	TN

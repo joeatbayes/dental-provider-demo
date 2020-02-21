@@ -1,0 +1,2 @@
+WYMAN	3
+WYMORE	1

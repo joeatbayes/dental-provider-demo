@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLASMEIER	MIKE	8419	1700867264841	5357 MOUNT VIEW RD	ANTIOCH	TN

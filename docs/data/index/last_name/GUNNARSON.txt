@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUNNARSON	MICHAEL	9979	1225137615997	75 ARROWHEAD LN	MOOSE LAKE	MN

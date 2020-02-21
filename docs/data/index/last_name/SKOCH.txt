@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKOCH	STEVEN	2826	1699823948282	1708 E JOYCE BLVD	FAYETTEVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCALPINE	ROBERT	1210	1548371958121	130 EAST CORRAL AVENUE	SOLDOTNA	AK

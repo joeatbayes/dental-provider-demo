@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REZNICH	JAMES	2901014458	1568441657290	5011 SKYVIEW CT	TRAVERSE CITY	MI

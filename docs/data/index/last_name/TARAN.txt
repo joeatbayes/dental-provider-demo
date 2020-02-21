@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARAN	KRISTY	9512	1437342821951	132 PIONEER TRL	CHASKA	MN

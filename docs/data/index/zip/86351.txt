@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAGE	DONALD	5596	1336100098559	6050 HIGHWAY 179	SEDONA	AZ

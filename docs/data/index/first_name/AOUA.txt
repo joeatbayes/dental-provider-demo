@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COULIBALY	AOUA	10184	1700042165101	5200 S WESTNEDGE AVE	PORTAGE	MI

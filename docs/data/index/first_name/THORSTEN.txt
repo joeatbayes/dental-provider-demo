@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRUENHEID	THORSTEN	FF45	1609187640FF4	515 DELAWARE ST SE	MINNEAPOLIS	MN

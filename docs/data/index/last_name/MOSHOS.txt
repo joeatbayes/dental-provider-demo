@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOSHOS	DEE	3216	1669559357321	34 LAKE HAVASU AVE N STE 5	LAKE HAVASU CITY	AZ

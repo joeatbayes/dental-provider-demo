@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUHST WYLIE	PATRICIA	15032	1639371289150	416 E GRAND RIVER AVE	HOWELL	MI

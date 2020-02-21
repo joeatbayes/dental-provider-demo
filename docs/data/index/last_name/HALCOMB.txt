@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALCOMB	MICHAEL	2901023180	1174180574290	1615 MICHIGAN AVE	BALDWIN	MI

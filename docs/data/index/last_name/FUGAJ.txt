@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUGAJ	STEPHEN	12011816A	1366705956120	9207 WICKER AVE	SAINT JOHN	IN

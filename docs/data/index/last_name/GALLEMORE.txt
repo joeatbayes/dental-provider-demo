@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALLEMORE	JOSEPH	4390	1902961279439	2179 W 24TH ST	YUMA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSENDALL	ALAN	14130	1235189325141	4829 E BELTLINE AVE NE	GRAND RAPIDS	MI

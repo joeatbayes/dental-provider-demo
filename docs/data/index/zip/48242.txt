@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	KENDALL	2901016082	1720194913290	111 SOUTH HOWELL ST	HILLSDALE	MI

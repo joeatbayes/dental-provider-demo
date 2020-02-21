@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIQUETTE	CHRISTOPHER	14452	1588741300144	327 APACHE DR	FREMONT	MI

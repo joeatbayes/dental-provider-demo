@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HYYTINEN	JEFFREY	D9464	1801971320D94	20 16TH AVE. SW	RICE	MN

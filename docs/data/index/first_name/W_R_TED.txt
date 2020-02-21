@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUBALL	W R TED	9997	1669597043999	3012 NILES RD	SAINT JOSEPH	MI

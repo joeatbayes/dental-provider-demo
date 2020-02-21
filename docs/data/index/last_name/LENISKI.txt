@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENISKI	LISA	12010935A	1093849424120	211 E 4TH ST	MICHIGAN CITY	IN

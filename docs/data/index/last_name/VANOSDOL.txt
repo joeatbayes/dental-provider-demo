@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANOSDOL	THOMAS	12006144A	1992873111120	2283 PROVIDENT CT	WARSAW	IN

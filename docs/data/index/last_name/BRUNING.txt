@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUNING	SHARI	D10704	1023000890D10	5851 DULUTH ST	GOLDEN VALLEY	MN

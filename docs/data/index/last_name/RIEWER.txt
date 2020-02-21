@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIEWER	KRISTINE	D11425	1316009335D11	701 HIGHWAY 10 E	DETROIT LAKES	MN

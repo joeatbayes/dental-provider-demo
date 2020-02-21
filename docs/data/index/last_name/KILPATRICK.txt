@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KILPATRICK	STEVEN	2162	1528026754216	2909 S 74TH ST	FORT SMITH	AR

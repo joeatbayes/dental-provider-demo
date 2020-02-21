@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENBROCK	STEPHEN	4612	1114979523461	6700 N ORACLE RD	TUCSON	AZ

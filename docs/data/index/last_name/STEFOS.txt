@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEFOS	MIMIKA	2901021651	1013379890290	3100 E EISENHOWER PKWY	ANN ARBOR	MI

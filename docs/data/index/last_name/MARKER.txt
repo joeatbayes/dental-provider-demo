@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARKER	JOHN	D8388	1326188665D83	6545 FRANCE AVE S	EDINA	MN

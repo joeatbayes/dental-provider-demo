@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VASIREDDY	GOPI	7293	1962693861729	910 W IRVINGTON RD STE 180	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROWN	ALESIA	12010219A	1073794640120	16 N CALE ST	POSEYVILLE	IN

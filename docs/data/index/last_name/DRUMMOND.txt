@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRUMMOND	DAVID	2151	1417203282215	210 NW A ST	BENTONVILLE	AR

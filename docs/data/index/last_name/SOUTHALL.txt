@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOUTHALL	TODD	D7787	1952523193D77	11381 N SCIOTO AVE	ORO VALLEY	AZ

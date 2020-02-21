@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOSARI	ROBERT	1789	1386758027178	26 GREEN VALLEY DRIVE	MOUNTAIN HOME	AR

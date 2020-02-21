@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLEZAK	DAVID	15359	1952372781153	110 E 3RD ST	DAVISON	MI

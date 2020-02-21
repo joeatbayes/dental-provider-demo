@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALB	RICHARD	D07194	1134132715D07	1526 W GLENDALE AVE STE 101	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRETCHMER	ROBERT	8886	1134132954888	7430 80TH ST SO	COTTAGE GROVE	MN

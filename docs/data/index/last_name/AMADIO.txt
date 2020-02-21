@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AMADIO	SETH	12809	1427369677128	1225 E 1ST ST	DULUTH	MN

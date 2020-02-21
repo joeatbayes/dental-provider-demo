@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROUTT	ANDREW	DS8246	1972592764DS8	405 TYSON AVE	PARIS	TN

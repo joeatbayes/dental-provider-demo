@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUPPLE	DENNIS	2901009786	1942232020290	800 M-139	BENTON HARBOR	MI

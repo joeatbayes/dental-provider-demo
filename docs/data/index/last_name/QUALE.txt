@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUALE	DEAN	6153	1518985688615	408 TROTT AVE SW	WILLMAR	MN

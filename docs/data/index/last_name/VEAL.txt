@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VEAL	WAYNE	14633	1659535722146	12645 GRATIOT AVE	DETROIT	MI

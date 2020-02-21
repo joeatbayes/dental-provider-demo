@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOURAVLEV	ANNA	12012348A	1033591516120	2017 S WESTERN AVE	MARION	IN

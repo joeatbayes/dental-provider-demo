@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUSTAD	ROBERT	D8803	1942238621D88	605 HILLCREST AVE	OWATONNA	MN

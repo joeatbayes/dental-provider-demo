@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POLASEK	STEVEN	2901021505	1548640857290	917 W LAWRENCE AVE	CHARLOTTE	MI

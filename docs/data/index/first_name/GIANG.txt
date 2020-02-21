@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DANG	GIANG	D6494	1437296845D64	6921 E THOMAS RD	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDELSTEIN	ANDREA	4827	1245742931482	1818 MEMORIAL DR.	CLARKSVILLE	TN

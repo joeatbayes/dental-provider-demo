@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AHLMAN	KAI	1245793678	1245793678651	12745 N 1ST AVE	LINDSTROM	MN

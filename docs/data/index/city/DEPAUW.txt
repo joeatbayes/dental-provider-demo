@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOST	JOSEPH	12008764A	1902076391120	13665 BLUE RIVER DR NW	DEPAUW	IN

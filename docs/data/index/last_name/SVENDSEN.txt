@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SVENDSEN	JOHN	2883	1568442788288	16101 LAGRANDE DR	LITTLE ROCK	AR

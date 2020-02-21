@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TINGEY	BRENT	D4018	1497810204D40	3245 HOSPITAL DR	JUNEAU	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRANCIK	LAUREN	2901021756	1770955114290	1030 LAURENCE AVE	JACKSON	MI

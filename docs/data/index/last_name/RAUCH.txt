@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAUCH	CORY	7322	1174714885732	2820 E UNIVERSITY DR	MESA	AZ

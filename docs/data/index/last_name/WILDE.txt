@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILDE	SPENCER	D5497	1295893196D54	625 W SOUTHERN AVE STE E-145	MESA	AZ

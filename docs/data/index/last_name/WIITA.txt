@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIITA	VERLE	9808	1336292978980	1850 WHITES RD	KALAMAZOO	MI

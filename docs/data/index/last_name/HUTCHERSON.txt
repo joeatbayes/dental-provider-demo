@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUTCHERSON	RICHARD	DS001835	1225237928DS0	106 W MAPLE ST	DRESDEN	TN

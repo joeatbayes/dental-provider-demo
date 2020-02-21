@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATH	MICHAEL	7640	1588775340764	205 WABASHA ST S	ST PAUL	MN

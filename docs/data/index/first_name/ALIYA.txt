@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SULLIVAN	ALIYA	D12234	1114031754D12	7600 SUNWOOD DR NW	RAMSEY	MN

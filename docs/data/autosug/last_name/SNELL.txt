@@ -1,0 +1,2 @@
+SNELL	3
+SNELLER	1

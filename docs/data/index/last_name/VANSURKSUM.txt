@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANSURKSUM	RODERICK	D11417	1699964320D11	2380 TROOP DR	SARTELL	MN

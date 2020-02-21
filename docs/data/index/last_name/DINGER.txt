@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DINGER	JAMES	2901020292	1831404078290	1140 N STATE ST	SAINT IGNACE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEPAN	PEGGY	D14195	1962069914D14	40 N 1ST AVE E STE 5	ELY	MN

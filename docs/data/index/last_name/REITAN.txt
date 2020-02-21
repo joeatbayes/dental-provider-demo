@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REITAN	STEVEN	2104	1518034057210	10555 N TATUM BLVD	PARADISE VALLEY	AZ

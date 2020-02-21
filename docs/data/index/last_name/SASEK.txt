@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SASEK	JAMIE	6897	1144367392689	3922 N ORACLE RD	TUCSON	AZ

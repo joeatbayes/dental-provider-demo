@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNGEY	DAVID	D7916	1679641880D79	133 W 1ST ST	WACONIA	MN

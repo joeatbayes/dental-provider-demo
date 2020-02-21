@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"SCHOENROCK, DDS"	GARY	D4995	1770644403D49	9449 N 90TH ST	SCOTTSDALE	AZ

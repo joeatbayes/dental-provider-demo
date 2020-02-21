@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINKEL	KATHRYN	2901020990	1851739288290	1504 HARCREST DR	MIDLAND	MI

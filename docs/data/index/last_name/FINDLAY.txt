@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINDLAY	DONALD	12005763A	1720168461120	236 SIMPSON AVE	ELKHART	IN

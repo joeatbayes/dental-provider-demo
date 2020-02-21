@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARGUELLO	CAMILO	2901021979	1023460847290	5050 SCHAEFER RD	DEARBORN	MI

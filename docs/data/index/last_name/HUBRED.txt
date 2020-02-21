@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUBRED	JAMES	D8463	1124055330D84	304 ELM AVE.	MOOSE LAKE	MN

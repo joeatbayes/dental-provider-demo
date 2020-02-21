@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THORSEN	ANDREW	1093005647	1093005647907	5955 ZEAMER AVE	JBER	AK

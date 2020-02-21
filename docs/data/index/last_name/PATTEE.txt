@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATTEE	PHILIP	D12993	1528355096D12	2210 N BROADWAY	ROCHESTER	MN

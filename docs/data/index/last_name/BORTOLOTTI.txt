@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORTOLOTTI	DANIEL	15401	1013123488154	51863 SCHOENHERR RD.	SHELBY TWP	MI

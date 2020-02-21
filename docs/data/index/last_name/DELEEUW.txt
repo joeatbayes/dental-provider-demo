@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELEEUW	MICHAEL	16774	1497829022167	39400 GARFIELD	CLINTON TWP	MI

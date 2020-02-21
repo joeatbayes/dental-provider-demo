@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JETER	DENNIS	DS2592	1871610691DS2	100 MORRISON ST	MC MINNVILLE	TN

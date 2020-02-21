@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANDA	RANDY	11837	1639240161118	12805 HIGHWAY 55	PLYMOUTH	MN

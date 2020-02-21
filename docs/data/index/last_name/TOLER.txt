@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOLER	SARAH	12012021A	1639510407120	306 S BALDWIN AVE	MARION	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALE	FORREST	3799	1376635375379	319 S GLENWOOD AVE	RUSSELLVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDIKIAN	SHANT	2901019942	1437390556290	25225 W 7 MILE RD STE 100	REDFORD	MI

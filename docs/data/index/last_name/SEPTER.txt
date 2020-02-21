@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEPTER	JOHN	D4904	1174587414D49	2816 S 4TH AVE	YUMA	AZ

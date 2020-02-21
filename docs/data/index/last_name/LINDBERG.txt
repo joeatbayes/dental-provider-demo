@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDBERG	BRUCE	9425	1790896348942	1399 GENEVA AVE N	OAKDALE	MN

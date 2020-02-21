@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAIS	THOMAS	AZ3599	1275560989AZ3	9188 E SAN SALVADOR DR	SCOTTSDALE	AZ

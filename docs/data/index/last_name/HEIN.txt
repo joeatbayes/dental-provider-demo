@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEIN	ERIC	12009868A	1962593434120	2005 ROOSEVELT RD	VALPARAISO	IN

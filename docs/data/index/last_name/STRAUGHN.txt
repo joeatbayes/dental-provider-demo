@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAUGHN	PAUL	DS4163	1740511534DS4	3326 ASPEN GROVE DR	FRANKLIN	TN

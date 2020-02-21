@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITHEROW	DONALD	7540	1093769168754	1323 CLEARVIEW DR	MOUNT JULIET	TN

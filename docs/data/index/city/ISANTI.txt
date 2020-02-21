@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREDEEN	GORDON	8649	1790858967864	401 EAST DUAL BLVD	ISANTI	MN

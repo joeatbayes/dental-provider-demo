@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STALEY	LUKE	12009784	1609062504120	3528 WABASH AVE	TERRE HAUTE	IN

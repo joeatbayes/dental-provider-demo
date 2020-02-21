@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICKMAN	SAMUEL	DS6829	1053300111DS6	11 MEDICAL PARK CT	JACKSON	TN

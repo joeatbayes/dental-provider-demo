@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRITTINEN	JAMES	D9186	1861556862D91	216 N 5TH AVE	VIRGINIA	MN

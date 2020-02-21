@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JULIANI	DAVID	16453	1679604110164	441 S LIVERNOIS RD	ROCHESTER HILLS	MI

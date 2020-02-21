@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAAB	FRANK	10651	1487720983106	2500 COMO AVE	SAINT PAUL	MN

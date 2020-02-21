@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STORMS	DARRIN	"3447 DENT,107ORTHO"	1033226485"34	4102 N MALL AVE	FAYETTEVILLE	AR

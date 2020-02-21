@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAELY	RUAA	2901022748	1215423637290	5237 OAKMAN BLVD	DEARBORN	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORTHEY	SCOTT	D8470	1881650372D84	8414 FILLMORE ST NE	SPRING LAKE PARK	MN

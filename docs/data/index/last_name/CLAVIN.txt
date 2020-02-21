@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAVIN	TIMOTHY	10647	1194897413106	825 NICOLLET MALL	MINNEAPOLIS	MN

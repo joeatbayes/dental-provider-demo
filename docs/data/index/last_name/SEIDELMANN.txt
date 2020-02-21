@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEIDELMANN	THOMAS	D8444	1922193770D84	1000 E 1ST ST STE 302	DULUTH	MN

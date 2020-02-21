@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KWOK	YING	60677153	1043763824606	2960 TONGASS AVE	KETCHIKAN	AK

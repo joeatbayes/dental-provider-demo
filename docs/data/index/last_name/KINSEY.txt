@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINSEY	LEVI	D11811	1700975950D11	6545 FRANCE AVE S	EDINA	MN

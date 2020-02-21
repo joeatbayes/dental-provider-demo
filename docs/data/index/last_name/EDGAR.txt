@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDGAR	GARY	AZ2261	1720141070AZ2	1989 FRONTAGE RD	SIERRA VISTA	AZ

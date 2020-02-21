@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHEURER	ADAM	2901021381	1336555770290	3864 GRATIOT AVE	PORT HURON	MI

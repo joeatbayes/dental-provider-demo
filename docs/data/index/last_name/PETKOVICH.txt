@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PETKOVICH	BERNARD	2371	1336253582237	500 HOSPITAL DR	MOUNTAIN HOME	AR

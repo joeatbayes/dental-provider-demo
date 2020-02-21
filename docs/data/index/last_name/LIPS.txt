@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIPS	JAMES	2496	1972603223249	590 N ALMA SCHOOL ROAD	CHANDLER	AZ

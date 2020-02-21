@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	JOHNNY	DS0000004890	1831153451DS0	7066 HIGHWAY 64	OAKLAND	TN

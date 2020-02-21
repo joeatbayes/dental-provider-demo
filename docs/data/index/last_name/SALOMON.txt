@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALOMON	ALAN	DS2418	1619970605DS2	5575 POPLAR AVE	MEMPHIS	TN

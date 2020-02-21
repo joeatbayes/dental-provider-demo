@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STORIE	DAVID	6930	1447360003693	801 SUNSET DR BLDG E # 5	JOHNSON CITY	TN

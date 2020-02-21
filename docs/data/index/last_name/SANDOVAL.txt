@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANDOVAL	TORI	D7009	1275753626D70	2535 HUALAPAI MOUNTAIN RD STE E	KINGMAN	AZ

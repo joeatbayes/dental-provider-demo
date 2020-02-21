@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANTA	HIEP	AZ2434	1477595957AZ2	2101 W BETHANY HM RD	PHOENIX	AZ

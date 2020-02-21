@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROTHIS	EMANUEL	2901007533	1720179823290	22770 KELLY RD	EASTPOINTE	MI

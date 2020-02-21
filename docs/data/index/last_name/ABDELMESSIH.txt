@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDELMESSIH	JOHN	1265455422	1265455422248	6887 DIXIE HWY	CLARKSTON	MI

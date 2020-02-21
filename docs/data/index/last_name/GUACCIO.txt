@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUACCIO	RICHARD	12006450	1396865960120	124 E US HIGHWAY 30	SCHERERVILLE	IN

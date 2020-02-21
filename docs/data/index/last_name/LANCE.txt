@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANCE	V	2850	1740331917285	700 N MAIN ST STE 1	NASHVILLE	AR

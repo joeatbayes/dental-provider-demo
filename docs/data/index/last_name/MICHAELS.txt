@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MICHAELS	ROBERT	6623	1912010042662	2907 POPLAR	TERRE HAUTE	IN

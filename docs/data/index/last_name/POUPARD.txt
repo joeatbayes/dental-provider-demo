@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POUPARD	RICHARD	2901009193	1134333578290	17933 HALL ROAD	MACOMB	MI

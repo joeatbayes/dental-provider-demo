@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDER BROEK	ROBERT	D13563	1134532906D13	1615 14TH ST NW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCALEXANDER	THOMAS	DS0000003552	1225152051DS0	468 N PARKWAY	JACKSON	TN

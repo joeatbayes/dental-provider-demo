@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PALER	RONALD	2901008378	1497026967290	5771 LAKE RIDGE DR	BRIGHTON	MI

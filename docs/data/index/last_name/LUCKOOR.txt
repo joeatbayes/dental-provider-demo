@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCKOOR	SALONI	D010420	1891282091D01	1061 S STATE ROUTE 260	COTTONWOOD	AZ

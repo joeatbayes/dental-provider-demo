@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOUR	ROBERT	12008677	1962619890120	3423 S LAFOUNTAIN ST	KOKOMO	IN

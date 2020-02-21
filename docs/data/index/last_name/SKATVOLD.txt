@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKATVOLD	ERIK	D11422	1154429272D11	1401 8TH ST S	MOORHEAD	MN

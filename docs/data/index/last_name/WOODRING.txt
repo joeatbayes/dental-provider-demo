@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOODRING	BRAD	917	1790002335917	10928 EAGLE RIVER RD STE 105	EAGLE RIVER	AK

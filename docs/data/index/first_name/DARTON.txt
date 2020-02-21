@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAYLOR	DARTON	8040	1861761108804	795 RIDGE LAKE BLVD	MEMPHIS	TN

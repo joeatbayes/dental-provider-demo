@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALL'ARANCIO	DELIA	10890	1174686737108	3100 WOODBURY DR	WOODBURY	MN

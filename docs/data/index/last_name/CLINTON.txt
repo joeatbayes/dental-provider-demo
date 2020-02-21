@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLINTON	KENAN	8189	1952306425818	6401 POPLAR AVE	MEMPHIS	TN

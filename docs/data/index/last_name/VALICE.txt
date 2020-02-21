@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALICE	ROBERT	8442	1013131226844	21811 KELLY RD	EASTPOINTE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEDERMAN	ARI	D13987	1154828283D13	825 NICOLLET MALL STE 425	MINNEAPOLIS	MN

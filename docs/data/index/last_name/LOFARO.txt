@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOFARO	ROBERT	4636	1356443295463	4701 W INDIAN SCHOOL RD	PHOENIX	AZ

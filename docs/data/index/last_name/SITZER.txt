@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SITZER	THOMAS	7249	1407844780724	2112 VIKING DR NW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROETKER	ROBERT	12005334B	1871704411120	2433 S 9TH ST	LAFAYETTE	IN

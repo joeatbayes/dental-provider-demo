@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AYDT	PATRICK	D10574	1265651038D10	13551 BALSAM L	DAYTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PESTLE	LYNN	12007506A	1255428801120	2550 ELMWOOD AVENUE	LAFAYETTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERMEER	TODD	147540	1427291343147	1869 PORTER ST SW	WYOMING	MI

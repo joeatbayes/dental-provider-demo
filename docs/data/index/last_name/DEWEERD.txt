@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEWEERD	MICHAEL	2901011285	1700991940290	879 E SUPERIOR ST	WAYLAND	MI

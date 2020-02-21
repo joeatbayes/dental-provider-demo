@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IMLACH	WILLIAM	AA362	1205044807AA3	1551 W PARKS HWY	WASILLA	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOLANKI	SAMEERA	57706	1992886576577	6605 N 19TH AVE	PHOENIX	AZ

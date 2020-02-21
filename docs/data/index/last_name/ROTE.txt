@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROTE	LOUIS	15106	1326198474151	1035 S MERRIMAN RD	WESTLAND	MI

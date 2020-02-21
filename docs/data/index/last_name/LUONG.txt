@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUONG	TUNG	D14226	1346807500D14	1790 7TH ST E	SAINT PAUL	MN

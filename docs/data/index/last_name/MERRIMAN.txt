@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERRIMAN	JACQUELYN	2901014442	1568676401290	25 W CHICAGO ST	COLDWATER	MI

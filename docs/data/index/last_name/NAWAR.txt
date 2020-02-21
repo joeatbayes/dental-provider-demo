@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAWAR	CLAIRE	D12806	1700183126D12	8001 HIGHWAY 7	ST LOUIS PARK	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MYINT	TETLU	12012933A	1861984833120	3401 E RAYMOND ST	INDIANAPOLIS	IN

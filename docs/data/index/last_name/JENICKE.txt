@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JENICKE	SHERYL	2901019518	1497956114290	126 MAPLE ST	BIG RAPIDS	MI

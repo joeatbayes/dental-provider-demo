@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BADEA	IULIA	10098	1811476757100	839 W CONGRESS ST	TUCSON	AZ

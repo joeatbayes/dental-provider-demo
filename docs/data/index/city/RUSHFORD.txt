@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARCOUX	GARY	D10714	1689722183D10	208 S ELM ST	RUSHFORD	MN

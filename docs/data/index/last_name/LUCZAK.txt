@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCZAK	JOHN	12012535A	1518319011120	605 W DOUGLAS RD	MISHAWAKA	IN

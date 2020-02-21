@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STANFIELD	STEPHEN	D009010	1669756342D00	21001 N TATUM BLVD	PHOENIX	AZ

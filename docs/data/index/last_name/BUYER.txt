@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUYER	DIANE	8374	1053403303837	1060 EAST 86TH ST	INDIANAPOLIS	IN

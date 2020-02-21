@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PETERKA	RUTH	D12830	1619281177D12	412 LAKE AVENUE NORTH	BATTLE LAKE	MN

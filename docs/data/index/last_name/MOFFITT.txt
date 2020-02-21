@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOFFITT	ANDREW	12062	1851477020120	502 JEFFERSON HWY	CHAMPLIN	MN

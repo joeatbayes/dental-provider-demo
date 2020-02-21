@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKONSENG	GARRETT	D14005	1053802785D14	520 MAIN ST.	HAWLEY	MN

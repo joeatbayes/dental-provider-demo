@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOLCIS	ANNE	D4921	1972577179D49	1640 N COUNTRY CLUB RD	TUCSON	AZ

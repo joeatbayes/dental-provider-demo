@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STROMSTA	SCOT	12397	1700996550123	712 WEST CENTRE AVE	PORTAGE	MI

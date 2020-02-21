@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROWELL	BYRON	8282	1366507642828	510 NW 2ND AVE	GRAND RAPIDS	MN

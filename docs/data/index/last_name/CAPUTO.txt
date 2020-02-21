@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAPUTO	ANTHONY	D4770	1770739781D47	4723 E CAMP LOWELL DR	TUCSON	AZ

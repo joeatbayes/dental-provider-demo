@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANZONE	LAUREN	8978	1346552569897	3245 HOSPITAL DR	JUNEAU	AK

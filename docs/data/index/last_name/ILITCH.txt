@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ILITCH	JOHN	14256	1720127384142	15311 W MCNICHOLS RD	DETROIT	MI

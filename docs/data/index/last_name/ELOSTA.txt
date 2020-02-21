@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELOSTA	WAEL	D11884	1285729228D11	399 CENTRAL AVE. EAST	ST. MICHAEL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WARPEHA	WALTER	D7716	1992714232D77	3201 JOHNSON STREET NE	MINNEAPOLIS	MN

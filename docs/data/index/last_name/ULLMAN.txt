@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ULLMAN	PETER	D11491	1720140361D11	917 GRAND AVE	SAINT PAUL	MN

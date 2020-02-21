@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIETTUNEN	JOHN	8967	1083703995896	704 E HOWARD ST	HIBBING	MN

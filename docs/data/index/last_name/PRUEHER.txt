@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRUEHER	MICHAEL	9619	1528272887961	800 MARIE AVE	SOUTH ST PAUL	MN

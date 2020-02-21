@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOSIO	GARY	2901012203	1306048921290	17220 MACK AVENUE	GROSSE POINTE	MI

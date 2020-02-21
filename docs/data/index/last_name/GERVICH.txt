@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERVICH	MOLLY	6637-15	1861796013663	21343 ARCHIBALD ROAD	DEERWOOD	MN

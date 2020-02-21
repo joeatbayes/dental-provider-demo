@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEASE	JESSE	D13263	1407282700D13	2001 W LINCOLN AVE	FERGUS FALLS	MN

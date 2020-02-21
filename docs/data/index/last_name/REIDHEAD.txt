@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REIDHEAD	JOSEPH	3344	1245252279334	2076 E SOUTHERN AVE	TEMPE	AZ

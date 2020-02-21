@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIRSCHER	HELEN	12009026	1326150103120	177 WEST US HIGHWAY 30	VALPARAISO	IN

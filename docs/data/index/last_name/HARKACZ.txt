@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARKACZ	OREST	1149	1699764670114	4001 LAKE OTIS PKWY	ANCHORAGE	AK

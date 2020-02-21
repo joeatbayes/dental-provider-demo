@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COCKRELL	TODD	7270	1588861801727	1619 N DYSART RD	AVONDALE	AZ

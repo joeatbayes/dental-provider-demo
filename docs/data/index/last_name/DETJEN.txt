@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DETJEN	CHARLES	2901015545	1962567776290	3245 HOSPITAL DR	JUNEAU	AK

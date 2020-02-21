@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOUFFER	ELIZABETH	17631	1497843395176	404 W SUPERIOR ST	WAYLAND	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINKLE	SCOTT	D10603	1356429641D10	305 W MAIN ST	KASSON	MN

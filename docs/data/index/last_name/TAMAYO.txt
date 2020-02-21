@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAMAYO	OLIVA RIA	D5502	1013096221D55	725 N CENTRAL AVE	AVONDALE	AZ

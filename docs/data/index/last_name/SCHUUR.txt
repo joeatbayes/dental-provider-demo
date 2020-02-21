@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUUR	DALE	12554	1568685279125	3250 CENTRAL BLVD	HUDSONVILLE	MI

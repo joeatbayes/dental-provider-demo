@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIEMIEC	DAVID	12009622	1437200508120	230 W 19TH ST	CONNERSVILLE	IN

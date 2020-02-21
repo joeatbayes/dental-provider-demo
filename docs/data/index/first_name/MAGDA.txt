@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LITYNSKI	MAGDA	16457	1598881427164	3535 PARK ST	MUSKEGON	MI

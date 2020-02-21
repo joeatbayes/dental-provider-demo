@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEITNER	JUDSON	9685	1598844276968	6608 FLYING CLOUD DR	EDEN PRAIRIE	MN

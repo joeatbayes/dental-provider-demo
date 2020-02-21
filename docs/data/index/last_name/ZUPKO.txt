@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUPKO	CARI	15847	1326154543158	2355 COOLIDGE	BERKLEY	MI

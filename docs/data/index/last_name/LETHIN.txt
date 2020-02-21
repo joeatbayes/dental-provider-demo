@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LETHIN	TIMOTHY	1133	1104838077113	2601 BONIFACE PKWY	ANCHORAGE	AK

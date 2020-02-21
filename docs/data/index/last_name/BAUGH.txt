@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUGH	THOMAS	8207	1336281880820	1800 GRINDLEY PARK	DEARBORN	MI

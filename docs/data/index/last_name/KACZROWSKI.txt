@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KACZROWSKI	ROBERT	D8777	1225143449D87	115 E MAIN ST	LUVERNE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINNARD	MARK	D4155	1831311729D41	3212 N WINDSONG DR STE 200	PRESCOTT VALLEY	AZ

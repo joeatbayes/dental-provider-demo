@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QURAISHI	SYRAH	7111-15	1669805057711	13797 OLIVER LN	CARMEL	IN

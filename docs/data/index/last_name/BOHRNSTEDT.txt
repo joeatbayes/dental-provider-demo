@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOHRNSTEDT	ERIK	D 8826	1306963244D88	723 MARSHALL ST	ALBERT LEA	MN

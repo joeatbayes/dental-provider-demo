@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUKKARI	GARY	2901013540	1548357411290	2267 E APPLE AVE	MUSKEGON	MI

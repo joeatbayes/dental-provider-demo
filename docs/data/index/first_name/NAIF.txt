@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINADA	NAIF	4333	1427476191433	3394 N FUTRALL DR	FAYETTEVILLE	AR

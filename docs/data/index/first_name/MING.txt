@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHENG	MING	12010733A	1477626562120	6703 INDIANAPOLIS BLVD	HAMMOND	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOELCH	ANDREW	18575	1932236668185	29201 TELEGRAPH RD	SOUTHFIELD	MI

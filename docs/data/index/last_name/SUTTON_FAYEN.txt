@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUTTON FAYEN	BARBARA	4828	1639207525482	8300 E DIXILETA DR	SCOTTSDALE	AZ

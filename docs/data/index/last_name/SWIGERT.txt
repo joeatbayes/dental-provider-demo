@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWIGERT	RYAN	D008956	1487974408D00	1467 PALMA RD STE 1	BULLHEAD CITY	AZ

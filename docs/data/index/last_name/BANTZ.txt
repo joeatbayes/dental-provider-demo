@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANTZ	MARK	7086	1699919183708	820 E COLFAX AVE	SOUTH BEND	IN

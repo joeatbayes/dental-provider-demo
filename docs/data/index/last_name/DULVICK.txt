@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DULVICK	ROGER	AZ4225	1689713869AZ4	4125 W CHANDLER BLVD	CHANDLER	AZ

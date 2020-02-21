@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGILL	WILLIAM	3774	1225251721377	2710 NORTH CAMPBELL AVENUE	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZYVOLOSKI	THOMAS	10880	1649382771108	11475 ROBINSON DR NW	COON RAPIDS	MN

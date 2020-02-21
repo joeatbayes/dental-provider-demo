@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUER-MONDRAGON	TAMARA	2901015785	1013119890290	782 E COLUMBIA ST	MASON	MI

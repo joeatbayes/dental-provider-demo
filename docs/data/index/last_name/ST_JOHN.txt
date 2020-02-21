@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ST JOHN	WILLIAM	S2360	1992763189S23	925 N WASHINGTON ST	FORREST CITY	AR

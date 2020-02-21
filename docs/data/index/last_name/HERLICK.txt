@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERLICK	HENRY	2901009842	1063598241290	12551 JEROME ST	ATLANTA	MI

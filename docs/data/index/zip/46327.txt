@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERCIK	WILLIAM	12005759	1952445330120	3810 S HOHMAN AVE	HAMMOND	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANTHEI	BERNARD	7439	1508933813743	1814 NO ST PAUL ROAD	MAPLEWOOD	MN

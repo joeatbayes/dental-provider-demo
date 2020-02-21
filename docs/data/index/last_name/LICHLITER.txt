@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LICHLITER	WAYNE	3597	1598821258359	2176 WEST ST	GERMANTOWN	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAPANTA	PAMELA	3603	1710108394360	1150 E. GLENDALE AVE.	PHOENIX	AZ

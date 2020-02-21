@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEMIRE	KIM	61461	1083978241614	19389 N 59TH AVE	GLENDALE	AZ

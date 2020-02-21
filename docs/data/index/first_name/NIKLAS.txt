@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEINE	NIKLAS	D13781	1235587023D13	1384 109TH AVE NE	BLAINE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEUSCHLE	JOHN	12006263A	1619073665120	1908 W CLINTON ST	GOSHEN	IN

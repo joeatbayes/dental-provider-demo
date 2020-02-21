@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ENGLANDER	MANUEL	10496	1629041033104	3801 W 50TH ST	MINNEAPOLIS	MN

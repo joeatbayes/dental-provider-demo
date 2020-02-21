@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWETT TAPIA	JORGE	1891228342	1891228342269	321 W DELAWARE ST	DECATUR	MI

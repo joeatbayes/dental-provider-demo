@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAMDAR	PRIYA	R497	1598050627R49	606 24TH AVE S	MINNEAPOLIS	MN

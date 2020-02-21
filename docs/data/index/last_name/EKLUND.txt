@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EKLUND	KRISTEN	D11184	1346418571D11	5677 147TH ST N	HUGO	MN

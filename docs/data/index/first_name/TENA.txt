@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANDREWS-PHILLIPS	TENA	DS 4637	1740362110DS4	5008 AUSTIN RD	HIXSON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAFT	RICHARD	4378	1881758373437	16215 N ORACLE RD	TUCSON	AZ

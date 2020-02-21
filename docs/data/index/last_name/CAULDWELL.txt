@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAULDWELL	JOHN	3984	1093120727398	3533 N SHILOH DR STE 3	FAYETTEVILLE	AR

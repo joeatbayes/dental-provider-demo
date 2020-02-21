@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PENNISTON	SUSAN	10752	1447323498107	3401 HIGHWAY 169 N	PLYMOUTH	MN

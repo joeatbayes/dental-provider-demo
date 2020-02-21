@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AUKEE	ROBERT	10307	1790906675103	411 BROTHERTON ST	WAKEFIELD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOLERA	KURT	3135	1184789398313	600 WEST LANCASHIRE BLVD	BELLA VISTA	AR

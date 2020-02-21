@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+O'HALLORAN	LAWRENCE	D7585	1992730006D75	3645 RHODE ISLAND AVE S	ST LOUIS PARK	MN

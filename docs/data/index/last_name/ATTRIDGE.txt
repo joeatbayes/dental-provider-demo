@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ATTRIDGE	JOAN	2901020044	1902034382290	425 7TH ST NW	CASS LAKE	MN

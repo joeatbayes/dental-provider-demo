@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAGG	LLYNDALL	12007148A	1093715963120	211 MEDICAL PLZ	MICHIGAN CITY	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EVENSEN	BRIAN	D10238	1982658746D10	7501 GOLDEN VALLEY RD	GOLDEN VALLEY	MN

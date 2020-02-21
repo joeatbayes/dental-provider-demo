@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIUS	LOUIS	D9113	1427279934D91	20 5TH ST SE	COOK	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINTON	JESSICA	9022	1629207428902	210 CEDAR FORK RD	TAZEWELL	TN

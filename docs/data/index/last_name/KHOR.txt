@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KHOR	SHUN YI	D14176	1467018499D14	901 MARQUETTE AVE STE 230	MINNEAPOLIS	MN

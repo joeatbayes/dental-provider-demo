@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALLING	GREG	7369	1245241512736	5001 AMERICAN BLVD W	BLOOMINGTON	MN

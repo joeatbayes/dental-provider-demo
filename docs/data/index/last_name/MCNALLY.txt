@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNALLY	MICHAEL	12009648A	1811012156120	308 E COMMERCIAL AVE	LOWELL	IN

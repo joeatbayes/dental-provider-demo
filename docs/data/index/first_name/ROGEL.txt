@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARLOS	ROGEL	5141	1477663482514	3014 N HAYDEN RD STE 104	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+RAMIN	3
+RAMINTA	1

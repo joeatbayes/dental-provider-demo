@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DICKMAN	MICHAEL	D12425	1063616993D12	1414 S OAK AVE SUITE FIVE	OWATONNA	MN

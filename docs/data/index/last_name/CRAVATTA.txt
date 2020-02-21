@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRAVATTA	CHAD	D7052	1457579302D70	2220 W SOUTHERN AVE	MESA	AZ

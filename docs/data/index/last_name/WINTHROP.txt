@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINTHROP	CHAD	5453	1649236548545	4517 N 32ND ST	PHOENIX	AZ

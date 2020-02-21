@@ -1,0 +1,3 @@
+BANT	2
+BANTA	1
+BANTZ	1

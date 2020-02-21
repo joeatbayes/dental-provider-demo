@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ETTEL	ROGER	8998	1942251574899	701 PARK AVE	MINNEAPOLIS	MN

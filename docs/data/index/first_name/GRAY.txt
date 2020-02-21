@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HODGE	GRAY	4184	1255851846418	501 N 6TH ST	BLYTHEVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYU	JEHYUN	5588	1215086400558	10750 W MCDOWELL RD	AVONDALE	AZ

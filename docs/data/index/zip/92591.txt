@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DU	KATELYN	55428	1275781650554	27487 YNEZ ROAD	TEMECULA	AZ

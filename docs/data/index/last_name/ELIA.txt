@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELIA	KRISTI	AR3351	1457360257AR3	225 N NEWTON	EL DORADO	AR

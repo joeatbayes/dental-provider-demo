@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANTA	THOMAS	8772	1407835382877	1413 W VOTAW ST	PORTLAND	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANGACHHE	ELENA	D12199	1386684710D12	14929 FLORENCE TRL	APPLE VALLEY	MN

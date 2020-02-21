@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAIRHAN	EMILY	3709	1841428117370	3113 ANNADALE CV.	JONESBORO	AR

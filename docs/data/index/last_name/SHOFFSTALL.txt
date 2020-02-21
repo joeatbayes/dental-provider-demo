@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHOFFSTALL	SARAH	1182	1750400099118	4200 LAKE OTIS PKWY STE 204	ANCHORAGE	AK

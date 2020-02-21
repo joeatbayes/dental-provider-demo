@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNIECE	EDWARD	8114	1306984539811	1027 SECOND AVE	WORTHINGTON	MN

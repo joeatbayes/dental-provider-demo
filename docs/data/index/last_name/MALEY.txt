@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALEY	ROBERT	D10229	1336296409D10	1150 MONTREAL AVE	ST. PAUL	MN

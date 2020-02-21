@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNAUGHT	DOUGLAS	9985	1679678973998	1870 W. WAYZATA BLVD.	LONG LAKE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARKSBERRY	ERIK	D11789	1124017603D11	10756 BUTTERNUT ST NW	COON RAPIDS	MN

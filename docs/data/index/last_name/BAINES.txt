@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAINES	COLLEEN	12010256A	1609093988120	103 FARABEE DR N	LAFAYETTE	IN

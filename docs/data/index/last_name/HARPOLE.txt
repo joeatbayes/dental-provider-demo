@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARPOLE	STEVEN	DSTN005012	1700956133DST	1200 BISHOP ST	UNION CITY	TN

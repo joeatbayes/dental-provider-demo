@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIANG	CHANLINDA	D13009	1962781989D13	127 N BROADWAY ST	NEW ULM	MN

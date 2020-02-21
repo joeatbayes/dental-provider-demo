@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIANOPOULOS	STEVEN	AA702	1821137779AA7	500 N. MAIN ST	WASILLA	AK

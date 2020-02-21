@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TELLMAN	WILLIAM	12008735	1932126877120	5750 E 91ST ST	INDIANAPOLIS	IN

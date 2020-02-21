@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALFOUR	ANNE	D12073	1376602326D12	13911 RIDGEDALE DR STE 395	MINNETONKA	MN

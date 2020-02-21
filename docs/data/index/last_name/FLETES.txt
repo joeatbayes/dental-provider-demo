@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLETES	LAURA	12009619	1205844099120	2838 45TH ST	HIGHLAND	IN

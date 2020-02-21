@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPSKY	CHRISTINE	4171	1649396912417	25609 N DANNY LN	RIO VERDE	AZ

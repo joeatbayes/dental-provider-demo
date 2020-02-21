@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERICSON	TARA	57389	1598921827573	1212 NORTH KENTUCKY ST	KINGSTON	TN

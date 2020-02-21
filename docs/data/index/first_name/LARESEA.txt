@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOODS	LARESEA	3787	1568777654378	110 W DEQUEEN AVE	DE QUEEN	AR

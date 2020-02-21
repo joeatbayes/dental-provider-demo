@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPANDAU	CAROLYNN	8267	1255427118826	1030 COUNTRY CLUB RD	INDIANAPOLIS	IN

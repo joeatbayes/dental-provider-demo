@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOKODYNSKI	GEORGE	4579	1588715403457	6520 N 7TH AVE STE 2	PHOENIX	AZ

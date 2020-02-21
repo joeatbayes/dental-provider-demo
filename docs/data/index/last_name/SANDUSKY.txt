@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANDUSKY	WALTER	3809	1780722959380	6262 POPLAR AVE	MEMPHIS	TN

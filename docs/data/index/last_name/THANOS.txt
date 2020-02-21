@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THANOS	ANDREW	2901010281	1295043651290	1201 10TH STREET	MENOMINEE	MI

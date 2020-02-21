@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHENK	KAREN	12012540A	1033560982120	1481 W 10TH ST	INDIANAPOLIS	IN

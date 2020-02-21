@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOVACIK	DANIEL	D008345	1033488093D00	11641 N 23RD ST	PHOENIX	AZ

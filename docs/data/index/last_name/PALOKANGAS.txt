@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PALOKANGAS	SARA	D12261	1952412124D12	6601 LYNDALE AVE S STE 230	RICHFIELD	MN

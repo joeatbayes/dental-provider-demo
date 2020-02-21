@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAPA	CLAIRISSA	D009496	1508216987D00	18550 E RITTENHOUSE RD	QUEEN CREEK	AZ

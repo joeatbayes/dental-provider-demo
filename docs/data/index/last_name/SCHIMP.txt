@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIMP	JEFFREY	13375	1255429114133	1141 S ROSE	KALAMAZOO	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAN	CHUN PIU	1587	1740685478158	1136 N MULDOON RD STE 110	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIN	HSIN	7923	1134351364792	1320 N MCQUEEN RD APT 2031	CHANDLER	AZ

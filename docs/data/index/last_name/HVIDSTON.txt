@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HVIDSTON	LUKE	D13569	1285017962D13	500 6TH ST	HAWLEY	MN

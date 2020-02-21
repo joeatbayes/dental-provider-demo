@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PERKINS	JARON	D009112	1023452679D00	1306 W GURLEY ST	PRESCOTT	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPIER	LISA	D10723	1629089479D10	20 1ST AVE S	BUFFALO	MN

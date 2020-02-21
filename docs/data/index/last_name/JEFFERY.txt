@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEFFERY	DAVID	2881	1316046089288	214 SOUTH THIRD STREET	ROGERS	AR

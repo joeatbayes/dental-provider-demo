@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOO	NAM EOK	2901021599	1699157347290	5601 S CEDAR ST	LANSING	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARK	TAE-HOON	56079	1720271752560	726 E 9TH AVE	ANCHORAGE	AK

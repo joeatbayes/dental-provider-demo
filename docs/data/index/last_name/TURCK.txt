@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TURCK	ROBERT	2901008441	1104041649290	3060 BAKER RD	DEXTER	MI

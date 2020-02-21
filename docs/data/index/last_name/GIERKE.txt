@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIERKE	TAMARA	12011121A	1447450879120	477 S LANDMARK AVE	BLOOMINGTON	IN

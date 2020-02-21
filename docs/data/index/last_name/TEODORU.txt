@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEODORU	MALINA	D12674	1750519930D12	13550 26TH AVE N	PLYMOUTH	MN

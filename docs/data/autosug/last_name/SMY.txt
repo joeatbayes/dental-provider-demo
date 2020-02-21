@@ -1,0 +1,2 @@
+SMYTH	2
+SMYKA	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIDAT	KENNETH	12008781	1427160175120	3007 CHARLESTOWN XING	NEW ALBANY	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COURTNEY	RICK	7055	1376769059705	111 1ST AVE SW	WINCHESTER	TN

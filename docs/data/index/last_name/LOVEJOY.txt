@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOVEJOY	ELLE KIMBERLY	1247	1982675609124	607 OLD STEESE HWY STE C	FAIRBANKS	AK

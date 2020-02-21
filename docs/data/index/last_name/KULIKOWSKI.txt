@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KULIKOWSKI	BOGDAN	D6136	1003038571D61	15215 S 48TH STREET	PHOENIX	AZ

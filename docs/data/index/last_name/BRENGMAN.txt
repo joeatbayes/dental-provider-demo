@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRENGMAN	DANIEL	9954	1760433890995	3825 CEDAR GROVE PKWY	EAGAN	MN

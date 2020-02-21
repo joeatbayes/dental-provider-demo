@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANKOVIAK	DANIEL	2901015582	1437262805290	207 S WILLIAMS ST	BAY CITY	MI

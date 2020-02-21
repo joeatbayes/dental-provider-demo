@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESTER	TODD	2901016928	1265659866290	23077 GREENFIELD	SOUTHFIELD	MI

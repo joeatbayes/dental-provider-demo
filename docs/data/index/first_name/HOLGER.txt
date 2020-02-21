@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEISER	HOLGER	D12130	1013036995D12	5207 UNIVERSITY AVE NE	MINNEAPOLIS	MN

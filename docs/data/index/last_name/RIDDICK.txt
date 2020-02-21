@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIDDICK	DAVID	3264	1851304133326	801 W TRIMBLE AVE	BERRYVILLE	AR

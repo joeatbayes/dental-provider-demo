@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACKIE	RAFFIC	11656	1265644009116	9925 DIX	DEARBORN	MI

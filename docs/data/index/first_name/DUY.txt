@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VU	DUY	D12683	1326273160D12	50 COUNTY ROAD B E	SAINT PAUL	MN

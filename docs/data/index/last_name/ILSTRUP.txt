@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ILSTRUP	ALLISON	D11109	1831272277D11	303 MAIN STREET	ELK RIVER	MN

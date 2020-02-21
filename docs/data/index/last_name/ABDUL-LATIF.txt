@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDUL-LATIF	AISHA	2901019291	1932256716290	15510 LIVERNOIS	DETROIT	MI

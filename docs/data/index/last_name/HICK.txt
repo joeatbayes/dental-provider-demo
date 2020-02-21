@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HICK	ALAN	13235	1487829545132	422 WEST CHESTNUT STREET	BRECKENRIDGE	MI

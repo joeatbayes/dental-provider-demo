@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AL-HASHIMI	MIRIAM	DN014357	1295963197DN0	5601 S CEDAR ST	LANSING	MI

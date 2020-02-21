@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GREGORICH	JOSEPH	D12516	1710145222D12	601 HIGHWAY 73	FLOODWOOD	MN

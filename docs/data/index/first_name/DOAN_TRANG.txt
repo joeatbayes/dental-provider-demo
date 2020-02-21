@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	DOAN TRANG	D11611	1720059710D11	3030 CENTRE POINTE DR	ROSEVILLE	MN

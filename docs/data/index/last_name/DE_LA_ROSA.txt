@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DE LA ROSA	REBECCA	1200-9226	1669537213120	7318 E. U.S. 36	AVON	IN

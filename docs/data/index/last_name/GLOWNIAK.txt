@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLOWNIAK	TIMOTHY	2901016042	1073629820290	1083 E M 21	OWOSSO	MI

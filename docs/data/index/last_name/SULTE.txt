@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SULTE	HEATHER	1141	1780805838114	2000 ABBOTT ROAD	ANCHORAGE	AK

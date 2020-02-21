@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARTINSEN	SCOTT	7494	1396785572749	1011 MICHIGAN AVE	LAPORTE	IN

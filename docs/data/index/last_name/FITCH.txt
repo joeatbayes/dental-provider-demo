@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FITCH	PHILLIP	D7542	1669453718D75	224 E WASHINGTON ST	MANKATO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLEMING	CLARANELL	5395	1952382657539	312 HOSPITAL DR	MADISON	TN

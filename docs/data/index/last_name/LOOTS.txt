@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOOTS	JAMES	D10409	1194888305D10	535 40TH AVE NE	COLUMBIA HEIGHTS	MN

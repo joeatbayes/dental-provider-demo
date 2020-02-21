@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAPERS	SCOTT	12009570	1740357037120	6625 W US HWY 30	CROWN POINT	IN

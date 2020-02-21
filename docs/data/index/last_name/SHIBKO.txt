@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHIBKO	ALEKSANDR	D12180	1518906445D12	1790 E 7TH ST	ST PAUL	MN

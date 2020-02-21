@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAIONI	NICHOLAS	4358	1376108571435	1306 MAIN ST	VAN BUREN	AR

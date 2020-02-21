@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARK	HYUNKYU	D13889	1851943674D13	1060 HIGHWAY 15 S	HUTCHINSON	MN

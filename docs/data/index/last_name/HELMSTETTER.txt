@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HELMSTETTER	RICHARD	D8821	1972525160D88	20 S MINNESOTA ST	NEW ULM	MN

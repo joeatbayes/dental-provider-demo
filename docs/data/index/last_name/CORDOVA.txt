@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORDOVA	CHARLES	AA691	1891864591AA6	3714 GREAT LAND ST	HOMER	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEFFELFINGER	NATHANIEL	12010739A	1841407038120	1210 E 7TH ST	AUBURN	IN

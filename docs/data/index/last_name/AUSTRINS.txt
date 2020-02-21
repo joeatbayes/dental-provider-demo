@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AUSTRINS	MIKELIS	2901009721	1457339814290	437 STONE ST	KALAMAZOO	MI

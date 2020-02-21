@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAREK	ELYSE	D009238	1407239288D00	1901 S SIGNAL BUTTE RD	MESA	AZ

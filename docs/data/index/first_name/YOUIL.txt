@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAMOOK	YOUIL	6072	1215926613607	2001 W BETHANY HOME RD	PHOENIX	AZ

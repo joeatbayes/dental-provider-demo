@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKER	DORSEY	AZ3760	1376657619AZ3	18275 N. 59 AVE	GLENDALE	AZ

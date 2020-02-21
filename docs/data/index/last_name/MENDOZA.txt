@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MENDOZA	JACQUELINE	29010213602	1598171506290	11 N MAPLE ST	GRANT	MI

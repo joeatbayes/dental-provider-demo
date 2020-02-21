@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOLDING	TARUNA	3062	1144348582306	640 N GARLAND AVE	FAYETTEVILLE	AR

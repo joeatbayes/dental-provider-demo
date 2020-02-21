@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LECOUNT	KRISTINA	2901021833	1831546704290	106 6TH ST W	HASTINGS	MN

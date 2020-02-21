@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SETSER	DONNIE	2901011633	1083650154290	1610 S EUCLID AVE	BAY CITY	MI

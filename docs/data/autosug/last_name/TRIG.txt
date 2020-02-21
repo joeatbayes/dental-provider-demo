@@ -1,0 +1,2 @@
+TRIGG	1
+TRIGGS	1

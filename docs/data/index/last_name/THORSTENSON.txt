@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THORSTENSON	SHEILA	D11751	1366496200D11	1315 E 24TH ST	MINNEAPOLIS	MN

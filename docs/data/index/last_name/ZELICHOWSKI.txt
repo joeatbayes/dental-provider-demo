@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZELICHOWSKI	KATARZYNA	D13837	1477081032D13	1790 7TH ST. E	ST.PAUL	MN

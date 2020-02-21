@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OPHAUG	BRYAN	D11890	1558401240D11	7123 BASS LAKE RD	NEW HOPE	MN

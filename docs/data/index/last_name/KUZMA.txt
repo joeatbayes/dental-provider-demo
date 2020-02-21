@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUZMA	THOMAS	8445	1285784090844	1000 HIGHWAY 25 SOUTH	BUFFALO	MN

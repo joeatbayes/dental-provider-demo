@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSETEK	JAMES	JO013255	1003892944JO0	322 BAY ST	PETOSKEY	MI

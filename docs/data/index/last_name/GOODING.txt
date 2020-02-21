@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOODING	BRITTANY	12011674A	1023392347120	1792 E STATE ROAD 163	CLINTON	IN

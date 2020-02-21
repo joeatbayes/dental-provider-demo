@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRUNTY	TRAVIS	12552	1275685190125	730 MADISON AVE	MANKATO	MN

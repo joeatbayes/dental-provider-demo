@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIFER	WADE	3468	1447309364346	1845 N GREEN ACRES RD	FAYETTEVILLE	AR

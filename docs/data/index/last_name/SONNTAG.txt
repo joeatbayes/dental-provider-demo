@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SONNTAG	ROBERT	12157	1144295098121	4400 FASHION SQUARE BLVD	SAGINAW	MI

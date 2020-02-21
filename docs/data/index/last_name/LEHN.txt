@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEHN	RENEE	D11368	1093837676D11	10700 NORMANDALE BLVD	BLOOMINGTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDDLEMON	VERNON	AZ 783	1104989904AZ7	2076 E SOUTHERN AVE STE C102	TEMPE	AZ

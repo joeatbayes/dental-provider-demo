@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROYLES	RICHARD	1759	1861568198175	1845 GREEN ACRES ROAD	FAYETTEVILLE	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAGELTHORN	BRUCE	13301	1447301775133	31700 TELEGRAPH RD	BINGHAM FARMS	MI

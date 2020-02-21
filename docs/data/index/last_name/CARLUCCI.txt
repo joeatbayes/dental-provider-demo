@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARLUCCI	ERICK	D009348	1467822072D00	675 S WATSON RD STE 106	BUCKEYE	AZ

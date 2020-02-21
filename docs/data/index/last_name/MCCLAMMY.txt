@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLAMMY	THOMAS	6383	1184769663638	8765 E BELL RD STE 213	SCOTTSDALE	AZ

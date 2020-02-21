@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOWRIE	CRAIG	1570	1336555440157	1401 S SEWARD MERIDIAN PKWY	WASILLA	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUNDERSON	DANA	D14274	1548822661D14	925 HIGHWAY 55 STE 102	HASTINGS	MN

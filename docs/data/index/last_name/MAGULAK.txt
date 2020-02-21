@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAGULAK	GEORGE	2901013004	1346330768290	7811 SUMMERS ST	UTICA	MI

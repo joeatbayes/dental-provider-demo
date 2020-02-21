@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INGLIS	THOMAS	D8591	1104945815D85	45 WASHINGTON AVE E	HUTCHINSON	MN

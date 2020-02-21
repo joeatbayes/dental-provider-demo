@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUINSTRA	HILARY	8307	1750660718830	10210 W MCDOWELL RD	AVONDALE	AZ

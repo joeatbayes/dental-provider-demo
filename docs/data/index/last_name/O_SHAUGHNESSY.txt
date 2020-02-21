@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+O'SHAUGHNESSY	KELLY	2015027487	1760840110201	3245 HOSPITAL DR	JUNEAU	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IVAN	OANA	11854	1245323633118	515 DELAWARE ST SE	MINNEAPOLIS	MN

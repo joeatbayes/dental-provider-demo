@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROSSETT	CLAY	AK1074	1417981366AK1	4201 TUDOR CENTRE DR	ANCHORAGE	AK

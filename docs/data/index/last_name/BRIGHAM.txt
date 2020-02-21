@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRIGHAM	GARY	D2511	1447477682D25	9301 E SHEA BLVD STE 111	SCOTTSDALE	AZ

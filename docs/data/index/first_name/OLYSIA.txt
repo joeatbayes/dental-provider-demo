@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAKLA	OLYSIA	D009180	1124437553D00	15182 N 75TH AVE STE 120	PEORIA	AZ

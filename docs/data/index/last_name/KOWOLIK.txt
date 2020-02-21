@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOWOLIK	JOAN	98000343A	1396879110980	1121 W MICHIGAN ST	INDIANAPOLIS	IN

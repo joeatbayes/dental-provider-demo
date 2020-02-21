@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COSBY	SHERRYE	7781	1962520924778	4205 HACKS CROSS RD	MEMPHIS	TN

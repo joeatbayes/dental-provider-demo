@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPURR	JOHN	2901016057	1770701245290	1624 S DRAKE RD	KALAMAZOO	MI

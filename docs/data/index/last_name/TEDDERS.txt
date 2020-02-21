@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEDDERS	PIERRE	2901017644	1790950152290	113 W FRONT ST	ADRIAN	MI

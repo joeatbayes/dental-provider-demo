@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STENZEL	CHRISTOPHER	11517	1134192719115	3142 WELLNER DR NE	ROCHESTER	MN

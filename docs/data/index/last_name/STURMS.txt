@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STURMS	ROBIN	2953	1780753087295	1271 BASELINE RD	BULLHEAD CITY	AZ

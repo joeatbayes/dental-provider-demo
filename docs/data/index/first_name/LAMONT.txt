@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARSONS	LAMONT	2799	1164732830279	2500 EAST 6TH STREET	LITTLE ROCK	AR

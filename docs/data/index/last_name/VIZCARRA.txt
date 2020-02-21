@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIZCARRA	SARA	D6556	1922047331D65	10465 E PINNACLE PEAK PKWY	SCOTTSDALE	AZ

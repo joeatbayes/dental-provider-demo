@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONTARDO	M ICHAEL	8765	1558586248876	26 2ND AVE NW	SAINT JOSEPH	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BITZER	MORRIS	9108	1619925864910	301 E PLUM ST	HAUBSTADT	IN

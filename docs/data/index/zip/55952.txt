@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLYNN	MICHAEL	8759	1629169909875	560 DEBRA DR	LEWISTON	MN

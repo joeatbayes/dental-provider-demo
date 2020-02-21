@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HESTIR	JOHN	3948	1205276391394	1703 S WHITEHEAD DR	DE WITT	AR

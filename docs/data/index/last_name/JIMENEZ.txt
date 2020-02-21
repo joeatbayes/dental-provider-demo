@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JIMENEZ	ESTHER	2901016615	1669585303290	2755 FULLER AVE NE	GRAND RAPIDS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAVOY	J.	D2451	1982706099D24	5620 W THUNDERBIRD RD STE G1	GLENDALE	AZ

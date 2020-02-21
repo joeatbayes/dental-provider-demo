@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLMAN	SUZANN	2901017493	1881729523290	5271 S OLD US HIGHWAY 23	BRIGHTON	MI

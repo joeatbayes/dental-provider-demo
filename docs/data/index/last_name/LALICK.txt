@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LALICK	AMY	2901018065	1497798292290	285 JAMES ST	HOLLAND	MI

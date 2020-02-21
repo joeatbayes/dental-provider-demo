@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OFFORD	ANGELA	D12710	1023245586D12	1901 1ST AVE NE	STEWARTVILLE	MN

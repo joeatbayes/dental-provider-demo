@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOW	RANDY	4156	1043388010415	15215 S 48TH ST	PHOENIX	AZ

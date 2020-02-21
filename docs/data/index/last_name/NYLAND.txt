@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NYLAND	JULIE	D11153	1003934324D11	165 19TH ST S	SARTELL	MN

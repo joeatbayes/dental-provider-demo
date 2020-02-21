@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REXING	RONALD	8134	1528141082813	123 N MCCREARY ST	FORT BRANCH	IN

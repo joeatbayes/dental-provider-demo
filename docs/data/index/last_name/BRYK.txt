@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYK	DAVID	12649	1851371363126	25810 KELLY RD	ROSEVILLE	MI

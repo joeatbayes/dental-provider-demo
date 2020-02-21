@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PURTELL	STEVE	AZ2878	1265568752AZ2	6945 E SAHUARO DR	SCOTTSDALE	AZ

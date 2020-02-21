@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BETTMAN	ROBERT	13418	1023171956134	2909 E GRAND RIVER AVE	LANSING	MI

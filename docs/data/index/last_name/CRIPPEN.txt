@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRIPPEN	STEVEN	DS-2935	1508945395DS-	808 NEW HIGHWAY 68	SWEETWATER	TN

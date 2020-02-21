@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERNEY	WARREN	3366	1215043328336	2906 BROWNS LANE	JONESBORO	AR

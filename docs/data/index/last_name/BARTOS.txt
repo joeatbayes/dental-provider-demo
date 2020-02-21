@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTOS	KAREN	13415	1215002456134	16160 MIDDLEBELT RD	LIVONIA	MI

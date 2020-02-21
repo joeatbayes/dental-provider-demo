@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RASCHE	MATTHEW	12011284A	1619102647120	828 S AUTO MALL RD	BLOOMINGTON	IN

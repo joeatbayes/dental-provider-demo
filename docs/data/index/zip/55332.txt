@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BENGTSON	JOHN	D6844	1427007913D68	300 SOUTH PARK ST.	FAIRFAX	MN

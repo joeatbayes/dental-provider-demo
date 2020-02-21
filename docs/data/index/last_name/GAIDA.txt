@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAIDA	NATALIE	2901019399	1962502237290	606 N MAIN ST	ALMONT	MI

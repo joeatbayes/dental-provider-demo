@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIPSHER	THOMAS	D0624	1548362908D06	2000 ABBOTT RD	ANCHORAGE	AK

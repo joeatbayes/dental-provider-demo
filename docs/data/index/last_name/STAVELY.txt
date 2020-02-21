@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAVELY	TERESA	DS7131	1659418895DS7	1911 COOK ST	DYERSBURG	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUCKER	CHASTITY	9395	1396066882939	1545 CELEBRATION WAY	NASHVILLE	TN

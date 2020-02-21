@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIANCO	RUDY	12010034A	1730268814120	165 W UNIVERSITY DR	MISHAWAKA	IN

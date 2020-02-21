@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WICK	LINDA	12008630B	1023109964120	2134 HOLIDAY LN	FRANKLIN	IN

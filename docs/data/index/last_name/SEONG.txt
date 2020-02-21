@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEONG	WOOK	D11605	1427159763D11	516 DELAWARE ST SE	MINNEAPOLIS	MN

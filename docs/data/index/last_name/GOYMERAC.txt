@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOYMERAC	BRETT	17842	1356304422178	760 W WASHINGTON ST	MARQUETTE	MI

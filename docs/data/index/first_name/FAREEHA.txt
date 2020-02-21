@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALIK	FAREEHA	D008944	1588919948D00	2755 S 99TH AVE	TOLLESON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POPPEL	RACHEL	D12409	1467651497D12	2717 EKKO AVE	ALBERT LEA	MN

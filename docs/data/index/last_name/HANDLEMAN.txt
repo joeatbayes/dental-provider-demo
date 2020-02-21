@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANDLEMAN	RICHARD	9418	1063456606941	2131 E CAMELBACK RD	PHOENIX	AZ

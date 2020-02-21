@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RHOADS	BRIAN	3257	1740385202325	108 DOVER RD	WEST MEMPHIS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENDERMAN	WILLIAM	3563	1376740142356	805 N 20TH PL	ROGERS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VELA	EDWARD	3550	1699707661355	9755 W STATE HWY 22	RATCLIFF	AR

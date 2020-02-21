@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLER	STAYNER	8397	1770750325839	1322 E MICHIGAN AVE	LANSING	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROUTMAN	GERALD	1040 DS TN	1548386899104	109 EAST BEECH STREET	LAFOLLETTE	TN

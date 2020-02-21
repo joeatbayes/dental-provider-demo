@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BATTAGLIA	RICHARD	10661	1922171917106	11237 FOLEY BLVD NW	COON RAPIDS	MN

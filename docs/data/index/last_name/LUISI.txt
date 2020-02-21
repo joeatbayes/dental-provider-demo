@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUISI	DANIEL	D3531	1134193246D35	5310 W THUNDERBIRD	GLENDALE	AZ

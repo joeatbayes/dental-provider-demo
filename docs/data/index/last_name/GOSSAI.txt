@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOSSAI	KRISTA	D12778	1831419209D12	2850 CURVE CREST BLVD W	STILLWATER	MN

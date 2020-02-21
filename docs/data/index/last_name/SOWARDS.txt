@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOWARDS	MARK	1114030053	1114030053928	1030 W 24TH ST STE C-1	YUMA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHOLD	BIRGIT	MN10822	1225140593MN1	600 MARKET ST	CHANHASSEN	MN

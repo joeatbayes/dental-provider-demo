@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	BRACKEN	9058059-9922	1447663083905	4363 W ESCUDA DR	GLENDALE	AZ

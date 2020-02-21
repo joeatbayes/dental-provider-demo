@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAMMEIER	KENDALL	8634	1679700942863	21343 ARCHIBALD ROAD	DEERWOOD	MN

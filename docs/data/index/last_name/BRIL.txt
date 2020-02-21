@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRIL	KEVIN	D12438	1447440847D12	250 FULLER ST S	SHAKOPEE	MN

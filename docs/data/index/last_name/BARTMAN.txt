@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTMAN	JAMIE	12011277A	1245439090120	905 E CHICAGO RD	STURGIS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUYNH	NHI	111039	1154788669111	4315 DIPLOMACY DR	ANCHORAGE	AK

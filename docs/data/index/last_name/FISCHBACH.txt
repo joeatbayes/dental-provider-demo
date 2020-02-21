@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FISCHBACH	REYNOLDS	D5017	1780784330D50	483 BRIMHALL ST	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOON	JOONG-KU	D11723	1841254034D11	1313 PENN AVENUE NORTH	MINNEAPOLIS	MN

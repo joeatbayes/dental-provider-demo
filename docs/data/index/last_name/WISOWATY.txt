@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WISOWATY	BRADLEY	12012301A	1306229562120	809 WALL ST STE A	VALPARAISO	IN

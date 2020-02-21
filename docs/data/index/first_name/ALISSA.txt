@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEDINA	ALISSA	26336	1679711444263	2000 S UNIVERSITY AVE	LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSWALL	WILLIAM	7779	1598709131777	9366 OAK AVENUE	WACONIA	MN

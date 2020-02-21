@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIKADE	BROOKE	1352	1982869665135	2805 DAWSON ST	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERBICK	ASHLEY	D13790	1427416163D13	12180 BUSINESS PARK BLVD N	CHAMPLIN	MN

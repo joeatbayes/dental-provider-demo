@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"CAUDILL, II"	JOHN	401005875	1578575429401	"BLDG N46, CAPE SARICHEF"	KODIAK	AK

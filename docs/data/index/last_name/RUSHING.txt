@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUSHING	KRISTIN	8541	1437266657854	4809 TROUSDALE DR	NASHVILLE	TN

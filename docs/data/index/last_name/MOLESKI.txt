@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOLESKI	CHRISTINE	1048	1316093255104	9191 LEE SMITH DR	JUNEAU	AK

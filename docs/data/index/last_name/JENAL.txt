@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JENAL	THEODORE	42008	1275602732420	517 S MAIN ST	COTTONWOOD	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIPPS	DANIEL	5041	1407817307504	527 ENON SPRINGS RD E	SMYRNA	TN

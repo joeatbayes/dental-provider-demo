@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOLLIS	DAVID	12010354A	1457345688120	1422 LINCOLN WAY E	SOUTH BEND	IN

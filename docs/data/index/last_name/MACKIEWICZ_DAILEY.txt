@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACKIEWICZ DAILEY	REGINA	14495	1467539163144	221 N INGALLS ST	ANN ARBOR	MI

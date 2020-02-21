@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIANGELIS	ANTHONY	O7744	1245281062O77	701 PARK AVE	MINNEAPOLIS	MN

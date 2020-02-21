@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATURNO	SANDRA	11309	1992737514113	31620 SCHOOLCRAFT RD	LIVONIA	MI

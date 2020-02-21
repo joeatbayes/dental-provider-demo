@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARPHAM	SHANE	2901020461	1104177617290	79 W ALEXANDRINE ST	DETROIT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LELICH	ROSEMARY	D13457	1861809055D13	3090 QUINWOOD LN N	PLYMOUTH	MN

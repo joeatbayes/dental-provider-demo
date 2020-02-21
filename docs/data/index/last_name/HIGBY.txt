@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIGBY	RICHARD	332661	1972554871332	40520 CO HWY 34	OGEMA	MN

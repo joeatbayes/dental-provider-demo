@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUTLER	RUTH ANN	12694	1720298805126	1430 N CENTER RD	SAGINAW	MI

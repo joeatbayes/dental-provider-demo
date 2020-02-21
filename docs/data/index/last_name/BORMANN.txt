@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORMANN	THOMAS	12009455	1417987744120	220 COMMERCE SQ	MICHIGAN CITY	IN

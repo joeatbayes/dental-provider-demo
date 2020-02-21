@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOO	KIJIN	12011208A	1396901005120	330 N JACOB DRIVE	BLOOMINGTON	IN

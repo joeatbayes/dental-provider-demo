@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLOSKEY	COLE	2901022679	1629561253290	36600 HERITAGE DR	RICHMOND	MI

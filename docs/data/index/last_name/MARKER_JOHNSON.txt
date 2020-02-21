@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARKER JOHNSON	JENNIFER	D11143	1982673570D11	1346 PAYNE AVE	SAINT PAUL	MN

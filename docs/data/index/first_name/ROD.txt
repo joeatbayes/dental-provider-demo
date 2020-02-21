@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GORE	ROD	D3767	1144357732D37	8535 E HARTFORD DR	SCOTTSDALE	AZ

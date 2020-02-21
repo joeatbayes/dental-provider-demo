@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHUMER	CHARLES	2901011186	1255547576290	3066 DAVENPORT AVE	SAGNIAW	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEIFER	NICOLE	7594	1598921660759	44633 JOY RD	CANTON	MI

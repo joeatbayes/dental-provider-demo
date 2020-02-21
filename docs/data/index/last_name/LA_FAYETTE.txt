@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LA FAYETTE	GREGORY	2901016294	1558410902290	115 N LAKE ST	MANISTIQUE	MI

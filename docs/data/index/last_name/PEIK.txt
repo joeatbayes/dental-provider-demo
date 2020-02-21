@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEIK	FERDINAND	6418	1679786487641	3421 S LAFOUNTAIN ST	KOKOMO	IN

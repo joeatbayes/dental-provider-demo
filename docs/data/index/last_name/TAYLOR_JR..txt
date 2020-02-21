@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAYLOR JR.	ROBERT	11355	1982644530113	279 N THIRD ST	ROGERS CITY	MI

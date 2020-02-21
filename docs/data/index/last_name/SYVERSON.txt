@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SYVERSON	WILLIAM	10932	1942337621109	2000 43RD ST SE	GRAND RAPIDS	MI

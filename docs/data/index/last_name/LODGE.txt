@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LODGE	MARK	2901015757	1609906791290	134 HIGH ST	GRAND BLANC	MI

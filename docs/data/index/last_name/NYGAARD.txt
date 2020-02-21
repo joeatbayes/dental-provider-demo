@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NYGAARD	RHONDA	D13390	1114330057D13	119 1ST ST NE	LITTLE FALLS	MN

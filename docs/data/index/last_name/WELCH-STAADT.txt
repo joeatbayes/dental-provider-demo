@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WELCH-STAADT	MARY	12008740	1518058932120	110 E YORK ST	ROCKVILLE	IN

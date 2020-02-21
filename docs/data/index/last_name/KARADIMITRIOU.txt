@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARADIMITRIOU	SOFIA	R524	1417213695R52	515 DELAWARE ST SE	MINNEAPOLIS	MN

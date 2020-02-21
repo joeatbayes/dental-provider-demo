@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAUS	PAUL	D12283	1538259734D12	3154 VIKING BLVD NW	OAK GROVE	MN

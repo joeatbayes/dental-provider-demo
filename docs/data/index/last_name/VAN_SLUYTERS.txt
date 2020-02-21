@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN SLUYTERS	ERIC	D6114	1578556825D61	6591 W THUNDERBIRD RD	GLENDALE	AZ

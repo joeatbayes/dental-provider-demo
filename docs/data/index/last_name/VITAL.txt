@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VITAL	STEPHEN	3270	1083673362327	3505 E BROWN RD	MESA	AZ

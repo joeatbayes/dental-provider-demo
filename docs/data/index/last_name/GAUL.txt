@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAUL	JESSICA	2901018672	1437371366290	1535 N. LEROY ST	FENTON	MI

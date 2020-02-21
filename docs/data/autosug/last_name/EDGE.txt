@@ -1,0 +1,2 @@
+EDGE	2
+EDGERLE	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMAS	MARRIO	7671	1477569192767	670 COLONIAL	MEMPHIS	TN

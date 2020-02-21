@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDY	GEORGE	D8538	1417027426D85	14475 FOREST BLVD N	HUGO	MN

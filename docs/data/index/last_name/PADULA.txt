@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PADULA	DAVID	10122	1891784260101	7260 UNIVERSITY AVE NE	FRIDLEY	MN

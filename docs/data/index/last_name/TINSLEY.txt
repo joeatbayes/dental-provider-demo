@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TINSLEY	ELISHEVA	12012360A	1982086088120	807 W GARDNER DR	MARION	IN

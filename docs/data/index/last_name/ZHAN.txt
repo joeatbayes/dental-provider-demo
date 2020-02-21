@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZHAN	PHILLIP	12043	1225001829120	4927 34TH AVE S	MINNEAPOLIS	MN

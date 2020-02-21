@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASTIANELLI	DAVID	13547	1023167178135	522 E LINCOLN ST	BIRMINGHAM	MI

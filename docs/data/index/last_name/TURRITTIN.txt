@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TURRITTIN	ASHLEY	D13496	1851685044D13	151 19TH ST S	SARTELL	MN

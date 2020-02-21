@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARIOTOGLOU	RIGAS	17673	1619003985176	3011 S LINDSAY RD STE 118	GILBERT	AZ

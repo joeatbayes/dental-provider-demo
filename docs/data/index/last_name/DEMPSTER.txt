@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEMPSTER	ROBERT	2417	1205806247241	3405 RIDGE RD	NORTH LITTLE ROCK	AR

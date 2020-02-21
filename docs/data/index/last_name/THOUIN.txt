@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOUIN	RICHARD	8501	1740260405850	209 MCLEAN AVE	COLERAINE	MN

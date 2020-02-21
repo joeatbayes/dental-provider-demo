@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WENRICK	CHRISTINE	8496	1457471898849	1745 MEMORIAL DR	CLARKSVILLE	TN

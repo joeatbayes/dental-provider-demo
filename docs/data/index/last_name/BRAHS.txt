@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAHS	MARK	8310	1326110388831	110 1ST ST N	MONTGOMERY	MN

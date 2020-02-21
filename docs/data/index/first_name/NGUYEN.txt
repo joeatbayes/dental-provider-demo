@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LE	NGUYEN	11044	1912550906110	160 MOVIE ROW	SMYRNA	TN

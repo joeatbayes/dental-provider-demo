@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHAMBLOTT	SCOTT	D11162	1144311283D11	33 10TH AVENUE S	HOPKINS	MN

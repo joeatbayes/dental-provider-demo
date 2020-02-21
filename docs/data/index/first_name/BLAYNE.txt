@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TIPTON	BLAYNE	3484	1831301951348	307 G CARPENTER DAM ROAD	HOT SPRINGS	AR

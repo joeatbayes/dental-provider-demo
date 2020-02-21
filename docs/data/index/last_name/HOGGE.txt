@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGGE	RICHARD	D2804	1457308389D28	6831 SO CENTRAL AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SODER	MARCIA	12008734	1679585244120	6002 W 62ND ST	INDIANAPOLIS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GATLIN	WAYNE	10141MN	1700819356101	324 W SUPERIOR ST	DULUTH	MN

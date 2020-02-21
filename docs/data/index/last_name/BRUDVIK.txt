@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUDVIK	GERALD	7177	1699859942717	430 OAK ST.	BRECKENRIDGE	MN

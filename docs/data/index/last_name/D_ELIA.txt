@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+D'ELIA	MINDI	D008783	1689015398D00	1714 W HUNT HWY	QUEEN CREEK	AZ

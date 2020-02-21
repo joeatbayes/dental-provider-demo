@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAIBORNE	LORELEI	2901015933	1083604276290	5635 W FORT ST	DETROIT	MI

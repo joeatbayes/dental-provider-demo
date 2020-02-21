@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARMON	JOSEPH	274	1609973932274	398 ARLBERG AVE	GIRDWOOD	AK

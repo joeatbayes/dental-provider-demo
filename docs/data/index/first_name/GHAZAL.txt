@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RINGLER	GHAZAL	1207	1225157563120	4951 BUSINESS PARK BLVD	ANCHORAGE	AK

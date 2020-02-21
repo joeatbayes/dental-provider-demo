@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIELB	CHRISTINE	7021	1750366142702	7219 N LITCHFIELD RD	GLENDALE	AZ

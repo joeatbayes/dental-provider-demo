@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHIRER	RENEE	12010070B	1285846618120	709 S 18TH ST	LAFAYETTE	IN

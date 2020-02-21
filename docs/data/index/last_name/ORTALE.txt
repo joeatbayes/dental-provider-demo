@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ORTALE	KEVIN	5316	1336240340531	702 E BELL RD	PHOENIX	AZ

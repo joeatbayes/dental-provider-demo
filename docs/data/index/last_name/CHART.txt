@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHART	KIMBERLY	8120	1356425151812	1906 CHINOOK DR	DULUTH	MN

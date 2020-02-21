@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAPIDOW	HOWARD	160000488	1366471468160	3601 S 6TH AVE	TUCSON	AZ

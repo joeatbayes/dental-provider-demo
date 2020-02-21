@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAUB	ROBIN	12007559	1114117405120	19405 LITTLE CHICAGO RD	NOBLESVILLE	IN

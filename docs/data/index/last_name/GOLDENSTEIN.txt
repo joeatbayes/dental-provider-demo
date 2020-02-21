@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLDENSTEIN	MARVIN	AZ3738	1083752687AZ3	16620 N 40TH ST	PHOENIX	AZ

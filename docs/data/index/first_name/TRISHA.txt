@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIECK	TRISHA	D11346	1245378090D11	1651 N DALE STREET	ST PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	JETHROE	12010325A	1811907280120	425 JOLIET ST	DYER	IN

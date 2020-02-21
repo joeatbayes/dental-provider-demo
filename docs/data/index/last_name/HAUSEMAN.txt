@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUSEMAN	DEAN	D3048	1922151539D30	1011 N CRAYCROFT RD	TUCSON	AZ

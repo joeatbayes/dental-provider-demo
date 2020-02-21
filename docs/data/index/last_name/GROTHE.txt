@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GROTHE	RONALD	D9882	1457579344D98	973 SKYLINE DR SW	ROCHESTER	MN

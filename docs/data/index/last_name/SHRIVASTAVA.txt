@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHRIVASTAVA	MAYANK	R701	1871010165R70	515 DELAWARE ST SE # 6-320	MINNEAPOLIS	MN

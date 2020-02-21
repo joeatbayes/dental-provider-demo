@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHARPE	LUKE	D13135	1063775393D13	828 HAWTHORNE AVE E	SAINT PAUL	MN

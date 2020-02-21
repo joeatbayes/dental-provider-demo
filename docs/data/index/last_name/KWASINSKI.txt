@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KWASINSKI	MICHAEL	933	1255362901933	122 1ST AVE	FAIRBANKS	AK

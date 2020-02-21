@@ -1,0 +1,2 @@
+PULLEN	1
+PULLEY	1

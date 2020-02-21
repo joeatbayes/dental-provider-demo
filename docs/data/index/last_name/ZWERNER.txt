@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZWERNER	PAUL	12006546	1942501333120	1190 MAPLE AVE.	TERRE HAUTE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SULKOSKY	DAVID	452	1659563757452	1325 WAKE FOREST WAY	FAIRBANKS	AK

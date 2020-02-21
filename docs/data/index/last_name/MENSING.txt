@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MENSING	CANDACE	8116	1114076692811	2743 SUPERIOR DR NW	ROCHESTER	MN

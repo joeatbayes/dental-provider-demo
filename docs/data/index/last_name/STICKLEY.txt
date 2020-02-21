@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STICKLEY	ALYSSA	12011826A	1609138775120	70 E 91ST ST	INDIANAPOLIS	IN

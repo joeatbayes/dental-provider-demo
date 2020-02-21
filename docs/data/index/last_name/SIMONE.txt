@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMONE	NICK	2901020232	1003105412290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

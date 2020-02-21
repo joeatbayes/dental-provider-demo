@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CINA	FREDERICK	7180	1669532461718	108 N 3RD AVE	VIRGINIA	MN

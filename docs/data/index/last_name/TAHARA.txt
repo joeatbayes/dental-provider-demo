@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAHARA	MARTIN	D11409	1053381061D11	1701 CURVE CREST BLVD W	STILLWATER	MN

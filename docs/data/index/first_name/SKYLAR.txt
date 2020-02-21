@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARNER	SKYLAR	4185	1225568363418	110 N DREW ST	STAR CITY	AR

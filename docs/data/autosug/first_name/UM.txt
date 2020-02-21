@@ -1,0 +1,3 @@
+UMA	2
+UMAIR	1
+UMAR	1

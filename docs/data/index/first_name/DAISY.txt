@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALAZAR	DAISY	2907020575	1720355548290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

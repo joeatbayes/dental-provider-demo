@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHORE-VIGNOLA	SUSAN	2901014317	1952394439290	213 S CANAL ST	LAKE CITY	MI

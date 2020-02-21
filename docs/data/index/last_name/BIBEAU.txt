@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIBEAU	MICHELE	3975	1053517185397	1058 FAIR ST STE A	PRESCOTT	AZ

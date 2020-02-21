@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLEMMONS	WARD	2820	1417052945282	3600 OLD GREENWOOD RD	FORT SMITH	AR

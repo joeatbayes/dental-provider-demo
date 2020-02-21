@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RINALDI	JOSEPH	8290	1477546893829	901 MARQUETTE AVE STE 230	MINNEAPOLIS	MN

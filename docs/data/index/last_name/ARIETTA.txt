@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARIETTA	THOMAS	10083	1194201145100	980 WILLOW CREEK RD STE 103	PRESCOTT	AZ

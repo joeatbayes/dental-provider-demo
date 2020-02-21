@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEY	JOHN	12009134	1245357060120	12110 W COUNTY ROAD 550 S	DALEVILLE	IN

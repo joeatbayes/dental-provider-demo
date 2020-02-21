@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIKULICZ	JOSEPH	4519	1922015221451	312 N ALMA SCHOOL RD	CHANDLER	AZ

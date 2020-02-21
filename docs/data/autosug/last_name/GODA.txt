@@ -1,0 +1,2 @@
+GODAT	2
+GODAWA	1

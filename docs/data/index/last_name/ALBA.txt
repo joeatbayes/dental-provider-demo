@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALBA	ELIZABETH	D12833	1770727778D12	706 RIDGE RD	MUNSTER	IN

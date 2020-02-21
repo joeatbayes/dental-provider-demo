@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAJEK	EDGAR	8037	1962469759803	7493 147TH ST W	APPLE VALLEY	MN

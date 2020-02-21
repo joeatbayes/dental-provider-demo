@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARNISH	DENNIS	7881	1609912286788	111 10TH AVE E	ALEXANDRIA	MN

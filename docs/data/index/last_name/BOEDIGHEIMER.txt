@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOEDIGHEIMER	DANIEL	D7290	1265495899D72	520 MAIN STREET	HAWLEY	MN

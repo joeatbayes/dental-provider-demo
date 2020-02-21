@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ORTMAN	GREG	12008716A	1548394505120	1530 KOSSUTH ST	LAFAYETTE	IN

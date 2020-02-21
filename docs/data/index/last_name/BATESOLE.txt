@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BATESOLE	JEFFREY	12012144A	1306250642120	9121 ILLINOIS RD	FORT WAYNE	IN

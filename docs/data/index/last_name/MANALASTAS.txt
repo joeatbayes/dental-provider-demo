@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANALASTAS	JUSTINE	D008502	1174879449D00	5504 E 22ND ST STE 140	TUCSON	AZ

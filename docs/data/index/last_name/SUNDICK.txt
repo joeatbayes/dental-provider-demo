@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUNDICK	BRADLEY	D13116	1235492059D13	7373 FRANCE AVE S	EDINA	MN

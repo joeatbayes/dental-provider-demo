@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MISKULIN	RYAN	R646	1750743027R64	321 3RD ST	FARMINGTON	MN

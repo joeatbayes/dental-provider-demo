@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOODYARD	CHARLES	1969	1861593410196	407 S GOULD AVE	GOULD	AR

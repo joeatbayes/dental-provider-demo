@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVIS	LARRY	4552	1265840896455	1499 R W MOORE MEMORIAL HWY	ONLY	TN

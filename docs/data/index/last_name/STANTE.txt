@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STANTE	JULIE	12009785A	1639289432120	9840 WESTPOINT DR	INDIANAPOLIS	IN

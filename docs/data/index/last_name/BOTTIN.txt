@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOTTIN	MICHELLE	D11376	1972673911D11	1625 LENA COURT	EAGAN	MN

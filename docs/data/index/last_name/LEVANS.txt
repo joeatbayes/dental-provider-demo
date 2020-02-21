@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEVANS	ALLISON	60590	1649461906605	4801 VETERANS DRIVE	ST. CLOUD	MN

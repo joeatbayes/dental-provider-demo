@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RODRIGUEZ KOVACS	ALEJANDRO	D12641	1962646422D12	5100 EDEN AVE	EDINA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STUSICK	MICHAEL	12853	1497885404128	2525 S CLEVELAND AVE	SAINT JOSEPH	MI

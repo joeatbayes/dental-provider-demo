@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STURGIS	DIERDRE	DS7200	1477621837DS7	5180 PARK AVE	MEMPHIS	TN

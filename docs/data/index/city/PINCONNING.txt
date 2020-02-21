@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+O'LAUGHLIN	RANDY	13187	1194934224131	224 S MANITOU ST	PINCONNING	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUTMAN	ARNOLD	D9080	1699845941D90	7674 DESIGN RD	BAXTER	MN

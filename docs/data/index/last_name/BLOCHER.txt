@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLOCHER	WILLIAM	2452	1255467627245	1455 E GUADALUPE ROAD	TEMPE	AZ

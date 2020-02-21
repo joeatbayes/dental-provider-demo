@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIEMER	CHASE	4001	1710393517400	15208 BAUCH LN	LITTLE ROCK	AR

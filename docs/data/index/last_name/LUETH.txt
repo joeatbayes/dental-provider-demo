@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUETH	JOHN	9539	1922086636953	1311 BEMIDJI AVE N	BEMIDJI	MN

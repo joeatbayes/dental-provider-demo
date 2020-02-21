@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UPADHYAYA	APARNAA	DN 20292	1619313418DN2	1200 DODSON AVE	CHATTANOOGA	TN

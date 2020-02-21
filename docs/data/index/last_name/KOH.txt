@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOH	RACHEL	12012723A	1992225734120	2333 W LINCOLN RD	KOKOMO	IN

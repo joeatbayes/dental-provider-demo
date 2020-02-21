@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAKULA	MICHAEL	8353	1700985710835	510 E HOWARD ST	HIBBING	MN

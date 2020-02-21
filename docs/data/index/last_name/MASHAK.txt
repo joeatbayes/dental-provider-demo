@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASHAK	HILLARY	D14149	1750949012D14	576 CHERRY DR	WACONIA	MN

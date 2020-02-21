@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENNANY	RAYMOND	12008307	1255491130120	21 N WASHINGTON ST	BRAZIL	IN

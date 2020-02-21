@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROCKACY	VALERIE	3584	1740526060358	1607 E RAINFOREST DR	FAYETTEVILLE	AR

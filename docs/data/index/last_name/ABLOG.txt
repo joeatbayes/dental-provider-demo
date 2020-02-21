@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABLOG	JOYCE	12009717	1336276187120	4829 UNIVERSITY DR	EVANSVILLE	IN

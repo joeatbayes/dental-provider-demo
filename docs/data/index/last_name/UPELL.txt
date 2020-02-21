@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UPELL	TRACEY	2901018763	1265587919290	1820 WHITTAKER RD	YPSILANTI	MI

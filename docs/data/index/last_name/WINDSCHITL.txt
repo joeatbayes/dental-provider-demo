@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINDSCHITL	KENNETH	M9190	1740316926M91	2000 S BROADWAY ST	NEW ULM	MN

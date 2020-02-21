@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASHARA	TIMOTHY	D5688	1285753574D56	5656 S. POWER RD.	GILBERT	AZ

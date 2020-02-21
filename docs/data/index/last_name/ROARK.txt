@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROARK	RODNEY	3136	1407905698313	4102 N MALL AVE	FAYETTEVILLE	AR

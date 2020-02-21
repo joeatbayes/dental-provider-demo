@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAROUE	ERIC	2901015700	1528285970290	501 W HARRIE ST	NEWBERRY	MI

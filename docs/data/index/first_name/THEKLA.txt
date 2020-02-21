@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWANSON	THEKLA	11941	1992808588119	7373 FRANCE AVE SO	EDINA	MN

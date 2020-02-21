@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RINDFUSZ	DAVID	17226	1033204276172	10711 N STRAITS HWY	CHEBOYGAN	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAMPBELL	DONALD	8027	1902976251802	131 N LINCOLN ST	LAKE CRYSTAL	MN

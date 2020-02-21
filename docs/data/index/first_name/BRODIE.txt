@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COOK	BRODIE	D009270	1881076370D00	3558 E WINDSOR DR	GILBERT	AZ

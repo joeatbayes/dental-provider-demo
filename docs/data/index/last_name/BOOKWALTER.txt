@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOOKWALTER	ROGER	10976	1760698559109	9416 SOUTH MAIN	PLYMOUTH	MI

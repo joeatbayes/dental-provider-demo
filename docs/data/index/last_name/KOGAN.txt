@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOGAN	PAUL	D6524	1174598916D65	702 E BELL RD	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BICKLER	KATHRYN	D9339	1396078499D93	3606 RHONE CIR	ANCHORAGE	AK

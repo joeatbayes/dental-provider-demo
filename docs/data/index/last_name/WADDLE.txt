@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WADDLE	JOHN	931	1487620308931	839 W CONGRESS ST	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMPACH	PAUL	D11128	1699745323D11	515 DELAWARE STREET SE	MINNEAPOLIS	MN

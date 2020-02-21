@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAIZUTIS	MARIA	2901012244	1710212600290	2400 N SAGINAW ST	FLINT	MI

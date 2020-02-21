@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOTKE	DANIEL	D4718	1942516273D47	3603 W CORTARO FARMS RD STE 113	TUCSON	AZ

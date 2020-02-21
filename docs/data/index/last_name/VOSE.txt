@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOSE	DOUGLAS	10220	1720124407102	220 E MAIN ST	MANKATO	MN

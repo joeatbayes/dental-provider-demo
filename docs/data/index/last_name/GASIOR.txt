@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GASIOR	ANDREW	2901022651	1750874863290	505 E ALCOTT ST	KALAMAZOO	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURCHILL	WELDON	6590	1730366931659	1515 W MOUNT HOPE AVE	LANSING	MI

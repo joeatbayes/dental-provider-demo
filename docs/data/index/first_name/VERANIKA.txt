@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAKHARYEVA	VERANIKA	6514	1750728093651	SECOND STREET BUILDING #634	JBER	AK

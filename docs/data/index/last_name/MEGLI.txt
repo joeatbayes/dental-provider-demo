@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEGLI	ADELE	969	1770541849969	6000 KANAKANAK RD	DILLINGHAM	AK

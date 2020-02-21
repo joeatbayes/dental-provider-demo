@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MADDER	DAVID	5684	1871631580568	1757 E BASELINE RD STE 129	GILBERT	AZ

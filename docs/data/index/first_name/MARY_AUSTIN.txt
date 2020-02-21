@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	MARY AUSTIN	DS0000009904	1497140636DS0	6565 STAGE RD STE 2	BARTLETT	TN

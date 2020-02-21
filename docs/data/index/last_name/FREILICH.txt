@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREILICH	MORGAN	D13851	1952830531D13	115 DREW AVE SE STE 202	MADELIA	MN

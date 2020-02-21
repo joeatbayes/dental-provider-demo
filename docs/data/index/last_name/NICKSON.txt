@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NICKSON	KENDRA	30.023904	120517830830.	1155 S. POWER RD	MESA	AZ

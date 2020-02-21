@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURAIAPPA	VENKATRAMAN	D11917	1174538805D11	2 E 5TH ST	MORRIS	MN

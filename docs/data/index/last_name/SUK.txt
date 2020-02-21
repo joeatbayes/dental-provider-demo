@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUK	HYE JUNG	6687	1558372235668	3901 W MCDOWELL RD	PHOENIX	AZ

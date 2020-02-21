@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOERGE NASCENE	SHANNON	D11560	1497814388D11	6545 FRANCE AVE S	EDINA	MN

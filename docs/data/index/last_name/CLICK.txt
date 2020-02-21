@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLICK	JOHN	12008847	1174622658120	6868 OLD VINCENNES RD	FLOYDS KNOBS	IN

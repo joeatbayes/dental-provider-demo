@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEDDLE	DEAN	1967	1174638498196	106 WEST MAIN	EL DORADO	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPITZLEY	CASSANDRA	D10977	1366455065D10	14213 GOLF COURSE DR	BAXTER	MN

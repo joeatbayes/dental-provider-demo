@@ -1,0 +1,3 @@
+NIDA	1
+NIDAA	1
+NIDAL	1

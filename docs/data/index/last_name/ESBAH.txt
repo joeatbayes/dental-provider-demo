@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESBAH	ROZITA	7482	1982871596748	14201 N HAYDEN RD	SCOTTSDALE	AZ

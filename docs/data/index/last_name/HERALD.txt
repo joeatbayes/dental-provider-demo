@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERALD	DAVID	7010	1093801656701	199 S CANDY LN	COTTONWOOD	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOURNS	MICHAEL	2247	1801800578224	1202 HIGHWAY 35 N	BENTON	AR

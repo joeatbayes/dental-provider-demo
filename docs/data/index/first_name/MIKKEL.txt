@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUGEN	MIKKEL	D13232	1235578519D13	402 SUNRISE DRIVE	ST PETER	MN

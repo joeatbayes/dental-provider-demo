@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELIMELAKH	MARIANNA	D12252	1558470179D12	40 CENTRAL AVE	OSSEO	MN

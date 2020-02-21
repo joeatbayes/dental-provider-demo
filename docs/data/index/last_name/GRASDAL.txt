@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRASDAL	TRACY	D11046	1033238720D11	10450 185TH ST W	LAKEVILLE	MN

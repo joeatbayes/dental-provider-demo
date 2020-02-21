@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HICKS	HEATHER	12009632	1609033018120	4321 COLLEGE ST	WOODBURN	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIEDY	STEPHEN	MI12838	1417121294MI1	31544 SCHOOLCRAFT RD	LIVONIA	MI

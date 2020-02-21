@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARCROFT	BETSY	972	1114145471972	6425 N QUAIL HOLLOW RD # -	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVENPORT	DERON	5426	1437245248542	2300 N CRAYCROFT RD	TUCSON	AZ

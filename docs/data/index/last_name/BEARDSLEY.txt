@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEARDSLEY	JOHN	7657	1538144183765	213 3RD AVE N	LAKEFIELD	MN

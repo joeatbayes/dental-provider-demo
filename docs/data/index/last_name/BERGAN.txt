@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGAN	BRIAN	11205	1528082716112	315 EAST AVE	RED WING	MN

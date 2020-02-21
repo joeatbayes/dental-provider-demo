@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIST	PHILLIP	12007236A	1134138423120	714 WALNUT ST	ANDERSON	IN

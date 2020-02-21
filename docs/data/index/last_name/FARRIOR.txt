@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FARRIOR	ANDREA'	9153	1922233881915	2937 ESSARY RD.	KNOXVILLE	TN

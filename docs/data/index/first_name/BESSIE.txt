@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AFENDOULIS	BESSIE	13942	1457465643139	2249 WEALTHY S.E.	GRAND RAPIDS	MI

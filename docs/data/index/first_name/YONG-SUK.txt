@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHA	YONG-SUK	6581	1538213475658	5930 W GREENWAY RD STE 14A	GLENDALE	AZ

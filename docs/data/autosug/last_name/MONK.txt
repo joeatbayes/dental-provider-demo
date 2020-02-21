@@ -1,0 +1,2 @@
+MONKS	3
+MONKMAN	1

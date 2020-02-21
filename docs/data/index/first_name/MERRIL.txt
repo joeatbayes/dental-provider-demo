@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYAN	MERRIL	D1527	1477661684D15	112 SIXTH AVE	PAGE	AZ

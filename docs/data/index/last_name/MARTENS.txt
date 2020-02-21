@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARTENS	ALENA	D12297	1295908994D12	1650 BEAM AVE STE 103	MAPLEWOOD	MN

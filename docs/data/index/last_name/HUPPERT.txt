@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUPPERT	TED	12007611A	1316016256120	2424 STRINGTOWN RD	EVANSVILLE	IN

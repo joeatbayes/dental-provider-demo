@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAWSON	BRANDON	10000	1194216200100	9455 W GLENDALE AVE	GLENDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACH	DAVID	D12279	1750408027D12	107 1ST AVE SW	HUTCHINSON	MN

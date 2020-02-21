@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRUJILLO	ARIEL	6014	1992913594601	1717 W NORTHERN AVE	PHOENIX	AZ

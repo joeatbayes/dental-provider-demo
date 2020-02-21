@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLENNIE	PETER	1699	1881809754169	2141 N BEVERLY AVE	TUCSON	AZ

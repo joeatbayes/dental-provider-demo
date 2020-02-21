@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIRY	RICHARD	110	1265437321110	2702 DENALI ST	ANCHORAGE	AK

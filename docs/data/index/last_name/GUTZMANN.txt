@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUTZMANN	DAVID	6365	1508847393636	404 N ALVERNON WAY	TUCSON	AZ

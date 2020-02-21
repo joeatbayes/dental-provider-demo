@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JIMERSON	RUTHIE	12011105A	1285791277120	401 SE 6TH ST	EVANSVILLE	IN

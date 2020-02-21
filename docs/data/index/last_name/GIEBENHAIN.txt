@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIEBENHAIN	JOHN	8827	1619142197882	5851 DULUTH ST	GOLDEN VALLEY	MN

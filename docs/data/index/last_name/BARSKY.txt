@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARSKY	MAXIM	G12236	1801979190G12	1222 MAIN STREET	HOPKINS	MN

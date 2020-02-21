@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEGSTAD	ANDREW	D11436	1548317571D11	20 LAKE ST N	FOREST LAKE	MN

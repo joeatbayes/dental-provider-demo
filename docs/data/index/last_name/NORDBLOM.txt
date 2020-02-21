@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORDBLOM	DEBORRAH	D10101	1821155573D10	14990 GLAZIER AVE	APPLE VALLEY	MN

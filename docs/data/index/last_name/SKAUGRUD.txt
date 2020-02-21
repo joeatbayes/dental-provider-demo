@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SKAUGRUD	CAMERON	4875	1013070556487	1728 W GLENDALE AVE STE 305	PHOENIX	AZ

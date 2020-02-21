@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERRITT	KENNEDY	DD1246	1285687947DD1	5855 W UTOPIA RD	GLENDALE	AZ

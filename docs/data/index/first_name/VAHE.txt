@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARSOUMIAN	VAHE	65024	1366819344650	1050 S BILL MARTIN DR	TUCSON	AZ

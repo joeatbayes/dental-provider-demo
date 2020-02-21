@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REINBOLD	FREDERICK	977	1205869245977	2000 ABBOTT RD STE 200	ANCHORAGE	AK

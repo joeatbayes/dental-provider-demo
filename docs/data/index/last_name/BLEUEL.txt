@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLEUEL	JANE	8019	1851331532801	4341 TUDOR CENTRE DR	ANCHORAGE	AK

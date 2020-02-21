@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUCKLO	ROBERT	DS0000001914	1831225242DS0	1711 KIRBY PKWY	MEMPHIS	TN

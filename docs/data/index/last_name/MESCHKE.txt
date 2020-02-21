@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MESCHKE	THOMAS	D10252	1457424962D10	2634 SHADOW LN	CHASKA	MN

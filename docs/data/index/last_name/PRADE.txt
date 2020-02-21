@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRADE	THOMAS	D7027	1598837650D70	3409 N. 56TH STREET	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARIS	JAMES	14183	1376730176141	43200 DEQUINDRE RD	STERLING HEIGHTS	MI

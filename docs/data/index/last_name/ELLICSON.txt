@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLICSON	MARK	4513	1568664365451	33725 N SCOTTSDALE RD	SCOTTSDALE	AZ

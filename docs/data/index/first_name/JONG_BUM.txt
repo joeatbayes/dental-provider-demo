@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEO	JONG BUM	14142	1356599815141	500 INDIANA AVE	WINSLOW	AZ

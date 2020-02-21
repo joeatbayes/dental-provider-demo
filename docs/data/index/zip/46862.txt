@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUINN	PATRICK	12011475A	1417269432120	1717 S. CALHOUN ST.	FORT WAYNE	IN

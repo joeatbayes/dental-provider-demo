@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JELSCH	LAWRENCE	2901016079	1306992599290	152 MAIN ST	BELLEVILLE	MI

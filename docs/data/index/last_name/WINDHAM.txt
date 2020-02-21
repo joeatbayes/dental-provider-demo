@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINDHAM	TRACY	AR 2907	1194834804AR2	5500 WEST MARKHAM ST	LITTLE ROCK	AR

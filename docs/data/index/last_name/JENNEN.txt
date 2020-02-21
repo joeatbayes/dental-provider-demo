@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JENNEN	ANN	D11243	1487765210D11	2390 7TH ST W	SAINT PAUL	MN

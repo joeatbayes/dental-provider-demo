@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOSEA	SHARON	15045	1780897892150	635 WEST 14 MILE ROAD	CLAWSON	MI

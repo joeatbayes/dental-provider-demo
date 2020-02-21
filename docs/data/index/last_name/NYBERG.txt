@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NYBERG	JEROME	7834	1407927353783	303 MAIN ST	ELK RIVER	MN

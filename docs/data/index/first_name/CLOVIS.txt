@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KITCHENS	CLOVIS	2186	1336298066218	14114 TAYLOR LOOP RD	LITTLE ROCK	AR

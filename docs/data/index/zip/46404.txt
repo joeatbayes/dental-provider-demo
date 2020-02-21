@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADCLIFFE	TRINODA	12010399A	1912030826120	1901 GRANT ST	GARY	IN

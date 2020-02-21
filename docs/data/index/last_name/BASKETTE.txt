@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASKETTE	C.	DS0000001906	1912919796DS0	215 W WATAUGA AVE	JOHNSON CITY	TN

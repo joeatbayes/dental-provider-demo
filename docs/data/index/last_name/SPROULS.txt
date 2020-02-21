@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPROULS	TIMOTHY	D10345	1538120712D10	20 5TH ST SE	COOK	MN

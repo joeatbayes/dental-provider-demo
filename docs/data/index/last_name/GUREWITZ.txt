@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUREWITZ	MICHAEL	D10324	1619034378D10	3938 CEDAR GROVE PRKWY	EAGAN	MN

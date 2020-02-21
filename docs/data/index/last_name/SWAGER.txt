@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWAGER	STEVEN	D6122	1205091295D61	1277 E MISSOURI AVE	PHOENIX	AZ

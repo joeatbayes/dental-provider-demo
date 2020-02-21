@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTOE	RANDALL	2901016173	1235225830290	2451 MONROE ST	DEARBORN	MI

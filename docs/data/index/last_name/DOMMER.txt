@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOMMER	ELISABETH	6683-15	1407134927668	2701 NICOLLET AVE	MINNEAPOLIS	MN

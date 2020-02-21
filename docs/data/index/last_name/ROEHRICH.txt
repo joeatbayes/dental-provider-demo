@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROEHRICH	MARC	11762	1134196462117	14727 60TH ST N	STILLWATER	MN

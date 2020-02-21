@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALESANDRO	ADAM	D008448	1770847493D00	762 N COUNTRY CLUB RD	TUCSON	AZ

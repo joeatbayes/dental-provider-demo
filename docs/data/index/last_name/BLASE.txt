@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLASE	THOMAS	3781	1023112539378	6373 E TANQUE VERDE RD STE 110	TUCSON	AZ

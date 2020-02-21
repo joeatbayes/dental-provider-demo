@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOUTLAS	IOANNIS	D11102	1447361332D11	515 DELAWARE ST SE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALISKY	LONNI	D2499	1447346085D24	4212 N 16TH ST	PHOENIX	AZ

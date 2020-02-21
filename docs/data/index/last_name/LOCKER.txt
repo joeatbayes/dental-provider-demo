@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOCKER	PHILLIP	376	1518988559376	3401 DENALI ST	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCARGAR	JASON	5977	1346222072597	9751 N 90TH PL	SCOTTSDALE	AZ

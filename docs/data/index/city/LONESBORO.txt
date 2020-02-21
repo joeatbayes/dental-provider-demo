@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALDOW	MYRON	D8717	1518017730D87	109 COFFEE ST	LONESBORO	MN

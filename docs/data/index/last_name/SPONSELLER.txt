@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPONSELLER	HARRY	5839	1528287737583	1067 LINCOLN WAY EAST	PLYMOUTH	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FELL	WILLIAM	321	1649374927321	549 WEST FIREWEED LANE	ANCHORAGE	AK

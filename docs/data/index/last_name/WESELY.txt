@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WESELY	DANIEL	3019	1134162159301	2711 S ALMA SCHOOL RD	MESA	AZ

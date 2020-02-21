@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAJARDO	CLARA	4669	1386858702466	18818 N 99TH AVE	SUN CITY	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MENEFEE	LISA	12010591	1689749434120	420 N WEST ST	ODON	IN

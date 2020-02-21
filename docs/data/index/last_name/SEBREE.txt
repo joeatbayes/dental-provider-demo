@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEBREE	WHITNEY	D009522	1093168148D00	6520 N 7TH AVE STE 5	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANFINSON	JULIE	3700	1619027687370	6868 E BECKER LN	SCOTTSDALE	AZ

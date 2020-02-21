@@ -1,0 +1,2 @@
+SPELL	1
+SPELLER	1

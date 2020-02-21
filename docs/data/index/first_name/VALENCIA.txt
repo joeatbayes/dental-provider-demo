@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAY	VALENCIA	DS5158	1932372356DS5	3468 PLAZA AVE	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LACKIE	RICHARD	7427	1871823922742	5587 MURRAY RD	MEMPHIS	TN

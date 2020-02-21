@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FARSHT	EDWARD	7415	1518040658741	4204 CEDAR AVE S	MINNEAPOLIS	MN

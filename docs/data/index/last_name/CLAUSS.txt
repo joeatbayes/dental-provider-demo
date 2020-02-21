@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAUSS	JOHN	12009552A	1114033859120	17419 CAREY RD STE B	WESTFIELD	IN

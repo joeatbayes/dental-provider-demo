@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIERSACK	GINA	2901019378	1609085158290	4525 N M-37 HIGHWAY	MIDDLEVILLE	MI

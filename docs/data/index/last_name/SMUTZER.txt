@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMUTZER	WILLIAM	12006808	1053416719120	1644 45TH AVE	MUNSTER	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+L'ABBE	STEPHEN	D9608	1154588366D96	1432 LONDON RD	DULUTH	MN

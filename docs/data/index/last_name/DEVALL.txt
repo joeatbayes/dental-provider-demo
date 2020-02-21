@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEVALL	TERRY	7852	1720276009785	118 JACKSON WALK PLZ	JACKSON	TN

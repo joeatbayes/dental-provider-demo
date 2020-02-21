@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACY	JOSEPH	785	1205972668785	4201 TUDOR CENTRE DR	ANCHORAGE	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDELL	ROBERT	1749	1770543001174	810 W 8TH ST	SAFFORD	AZ

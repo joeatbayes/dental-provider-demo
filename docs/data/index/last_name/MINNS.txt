@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINNS	STEPHEN	MI011179	1952483703MI0	24520 MEADOWBROOK RD	NOVI	MI

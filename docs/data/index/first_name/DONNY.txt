@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUICK	DONNY	3342	1346203395334	2425 PRINCE ST	CONWAY	AR

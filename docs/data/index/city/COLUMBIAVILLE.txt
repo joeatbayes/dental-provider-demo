@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LORANG	STANLEY	13923	1548459415139	4469 5TH ST	COLUMBIAVILLE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLLICK	BRIDGETT	D009062	1144517582D00	1670 W RUTHRAUFF RD	TUCSON	AZ

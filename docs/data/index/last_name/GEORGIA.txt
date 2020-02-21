@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEORGIA	TIFFANY	H5483	1407981483H54	2934 W INA RD	TUCSON	AZ

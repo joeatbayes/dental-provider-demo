@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERARDOT	AMY	12010345A	1609998962120	3909 N WHEELING AVE	MUNCIE	IN

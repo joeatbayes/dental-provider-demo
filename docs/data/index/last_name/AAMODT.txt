@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AAMODT	JOHN	D11334	1790723302D11	2130 CLIFF RD	EAGAN	MN

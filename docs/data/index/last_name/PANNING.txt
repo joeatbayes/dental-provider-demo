@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PANNING	BARRY	D11435	1194844571D11	3001 HARBOR LN N	PLYMOUTH	MN

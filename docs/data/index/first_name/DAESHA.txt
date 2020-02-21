@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERICKSON	DAESHA	60652740	1740633171606	503 14TH AVE	FAIRBANKS	AK

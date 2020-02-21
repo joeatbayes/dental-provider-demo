@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAPALA	DAVID	10857	1003395906108	4611 HIXSON PIKE	HIXSON	TN

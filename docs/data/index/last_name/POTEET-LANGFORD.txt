@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POTEET-LANGFORD	MARILYN	3431	1417163577343	122 S MAIN ST	SPARTA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAYES	ASHLEY	3012	1447422134301	100 PERRY STREET	LINDEN	TN

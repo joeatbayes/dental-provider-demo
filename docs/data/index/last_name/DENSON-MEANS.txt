@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENSON-MEANS	ANDREA	12050	1598801268120	831 N. WASHINGTON ST.	FORREST CITY	AR

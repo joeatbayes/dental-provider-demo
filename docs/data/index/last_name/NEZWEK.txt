@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEZWEK	RICHARD	9777	1083704035977	4450 CASCADE RD SE	GRAND RAPIDS	MI

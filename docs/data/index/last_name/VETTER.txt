@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VETTER	MICHAEL	7941	1053392076794	332 6TH ST	BRISTOL	TN

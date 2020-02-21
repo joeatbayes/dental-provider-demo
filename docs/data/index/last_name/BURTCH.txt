@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURTCH	MONTE	825	1265658769825	557 S ALASKA ST	PALMER	AK

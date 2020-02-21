@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLIVAREZ	MIGUEL	5796	1568528347579	2179 W 24TH ST	YUMA	AZ

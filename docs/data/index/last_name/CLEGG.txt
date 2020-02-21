@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLEGG	TIMOTHY	12043	1104819515120	36975 UTICA RD	CLINTON TWP	MI

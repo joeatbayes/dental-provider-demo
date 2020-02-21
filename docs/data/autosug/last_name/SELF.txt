@@ -1,0 +1,2 @@
+SELF	4
+SELF-PIKE	1

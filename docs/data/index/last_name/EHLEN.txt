@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EHLEN	CYNTHIA	D10775	1891740304D10	250 CENTRAL AVE N	WAYZATA	MN

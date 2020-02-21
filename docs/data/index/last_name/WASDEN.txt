@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASDEN	MITZI	6449	1184622565644	10 N ALAMOS DR	COTTONWOOD	AZ

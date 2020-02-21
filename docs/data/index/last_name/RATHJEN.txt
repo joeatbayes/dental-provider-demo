@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RATHJEN	CRAIG	8636	1578570115863	607 COUNTY ROAD 10 NE	BLAINE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCNEES	SHAUN	147364	1992358261147	2805 DAWSON ST STE 101	ANCHORAGE	AK

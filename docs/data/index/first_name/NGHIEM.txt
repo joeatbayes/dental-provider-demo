@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LE	NGHIEM	52417	1215016019524	CORNER OF ROUTE N21 AND N7	FORT DEFIANCE	AZ

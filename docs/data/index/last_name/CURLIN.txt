@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CURLIN	JIM	2629	1144312950262	314 N 18TH ST	OZARK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EBERLING	SUZANNE	1102	1235422015110	610 AKIACHAK DRIVE	BETHEL	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHARP	JERRA	12011476A	1770895914120	3118 S LAFOUNTAIN ST	KOKOMO	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RANLY	ADRIENNE	12011318A	1144457821120	4041 PARNELL AVE	FORT WAYNE	IN

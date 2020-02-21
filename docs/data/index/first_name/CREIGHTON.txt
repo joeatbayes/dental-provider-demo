@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POWELL	CREIGHTON	4169	1689103038416	1699 STADIUM BLVD SUITE I	JONESBORO	AR

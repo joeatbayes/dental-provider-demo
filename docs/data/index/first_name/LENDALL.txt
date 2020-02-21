@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHELL	LENDALL	2853	1306951397285	2101 C CONGO RD	BENTON	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAIDIG	SEAN	D12381	1811197882D12	855 EAGLE RIDGE LN	STILLWATER	MN

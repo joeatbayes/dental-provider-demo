@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BODEKER	JUSTIN	4054	1386026417405	1200 MCLAIN ST	NEWPORT	AR

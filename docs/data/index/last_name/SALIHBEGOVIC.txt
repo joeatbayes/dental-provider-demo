@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SALIHBEGOVIC	BENIJALA	D11719	1992761480D11	718 W 66TH ST	RICHFIELD	MN

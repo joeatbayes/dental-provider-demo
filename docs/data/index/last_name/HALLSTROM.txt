@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALLSTROM	KEVIN	9069	1174676217906	512 BECKER AVE SW	WILLMAR	MN

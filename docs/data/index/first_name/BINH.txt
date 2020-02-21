@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRAN	BINH	D5506	1447310586D55	5170 E GLENN ST	TUCSON	AZ

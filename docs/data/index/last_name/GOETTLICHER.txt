@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOETTLICHER	CASEY	2901021989	1962854745290	37595 7 MILE RD	LIVONIA	MI

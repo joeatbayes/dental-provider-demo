@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WENDT	JEFFREY	D9466	1548310709D94	17565 CENTRAL AVE NE	HAM LAKE	MN

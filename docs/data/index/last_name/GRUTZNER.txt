@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRUTZNER	ERIC	10359	1518076496103	625 E NICOLLET BLVD	BURNSVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUGARD	DOUGLAS	2889	1134298680288	7612 POPLAR PIKE	GERMANTOWN	TN

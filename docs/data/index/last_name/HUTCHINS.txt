@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUTCHINS	ZACHARY	D14284	1912569799D14	1596 2ND AVE NE STE A	CAMBRIDGE	MN

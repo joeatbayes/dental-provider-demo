@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOATRIGHT	STEPHEN	2911	1275582801291	11700 CANTRELL RD	LITTLE ROCK	AR

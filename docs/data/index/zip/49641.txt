@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CONKLIN	JOHN	9219	1811022031921	112 NORTH MONROE STREET	ROCKFORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NASCIMENTO	LUCIA	5995-015	1437233277599	3245 HOSPITAL DR	JUNEAU	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TESFAHUN	ASMERET	D13108	1144587080D13	450 SYNDICATE ST N SUITE 300	ST. PAUL	MN

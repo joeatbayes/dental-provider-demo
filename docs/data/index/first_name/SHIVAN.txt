@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NELSON	SHIVAN	D12967	1881988723D12	1670 BEAM AVE	MAPLEWOOD	MN

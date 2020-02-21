@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASKU	ELONIA	5681	1861510737568	6605 N 19TH AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WESTERGARD	RICHARD	AZ2958	1053375881AZ2	2038 N RECKER RD	MESA	AZ

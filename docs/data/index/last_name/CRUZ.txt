@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRUZ	JON	11488	1720063589114	505 JOHNSON AVE SE	PINE CITY	MN

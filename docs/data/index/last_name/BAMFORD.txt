@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAMFORD	WENDY	DN015425	1255852950DN0	7000 UULA ST	BARROW	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOWERY	SARAH	12011191A	1568627578120	1717 S CALHOUN ST	FORT WAYNE	IN

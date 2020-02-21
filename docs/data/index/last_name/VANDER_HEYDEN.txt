@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDER HEYDEN	ELLEN	D14025	1215428487D14	327 13TH ST S STE 100	DELANO	MN

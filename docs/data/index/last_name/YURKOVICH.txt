@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YURKOVICH	JOHN	2901021276	1912313651290	600 N MAIN ST	ROCHESTER	MI

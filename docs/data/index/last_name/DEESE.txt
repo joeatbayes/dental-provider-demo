@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEESE	LISA	D009122	1639498595D00	1100 F AVE	DOUGLAS	AZ

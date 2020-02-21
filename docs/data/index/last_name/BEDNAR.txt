@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDNAR	JAMES	146750	1154431906146	5754 RED ARROW HIGHWAY	STEVENSVILLE	MI

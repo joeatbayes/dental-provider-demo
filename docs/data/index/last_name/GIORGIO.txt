@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIORGIO	JUDITH	12007606A	1487866760120	4952 LINCOLN AVE	EVANSVILLE	IN

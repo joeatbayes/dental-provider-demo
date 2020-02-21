@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRIEDEMANN	MATHEW	10423	1457564957104	114 W STATE ST	EAST TAWAS	MI

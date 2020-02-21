@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+APPUGOUNDER	SUGANYA	S77	1689801771S77	6411 RICHFIELD PKWY	RICHFIELD	MN

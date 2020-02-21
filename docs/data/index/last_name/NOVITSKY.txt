@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOVITSKY	NICHOLAS	2901009370	1760438923290	2201 S GETTY ST	MUSKEGON	MI

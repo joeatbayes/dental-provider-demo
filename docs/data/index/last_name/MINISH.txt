@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MINISH	JAMES	3455	1598092892345	2411 FAYETTEVILLE RD	VAN BUREN	AR

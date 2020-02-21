@@ -1,0 +1,2 @@
+LAMPI	2
+LAMP	1

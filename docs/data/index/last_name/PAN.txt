@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAN	YU	D12800	1821345968D12	5101 VERNON AVE S	EDINA	MN

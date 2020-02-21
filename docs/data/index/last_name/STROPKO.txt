@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STROPKO	JOHN	AZ 1668	1073733481AZ1	14770 N BRENDA RD	PRESCOTT	AZ

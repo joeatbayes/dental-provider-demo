@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHARI	SATHISH	4534	1558578203453	9188 E SAN SALVADOR DR	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROMAGHIM	ROGER	D9355	1902937782D93	16991 198TH AVENUE NW	BIG LAKE	MN

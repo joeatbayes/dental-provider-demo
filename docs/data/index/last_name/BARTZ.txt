@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARTZ	LANCE	2901011007	1306826276290	622 W MAIN ST	STANTON	MI

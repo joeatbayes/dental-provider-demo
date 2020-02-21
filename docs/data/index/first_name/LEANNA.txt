@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCBRIDE	LEANNA	D13244	1396184172D13	1604 GOLF COURSE RD	GRAND RAPIDS	MN

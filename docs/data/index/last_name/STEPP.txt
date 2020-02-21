@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEPP	JOHN	D9995	1710478128D99	1220 W ARIZONA AVE	PARKER	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEARE	TAYLOR	D7989	1497993521D79	3592 S ATHERTON BLVD	GILBERT	AZ

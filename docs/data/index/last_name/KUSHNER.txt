@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUSHNER	DAVID	2901017225	1265535280290	2934 W INA RD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRANK BULLARD	ALICIA	10288	1356409890102	120 WALNUT STREET	WINONA	MN

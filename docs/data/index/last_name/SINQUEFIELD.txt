@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINQUEFIELD	JESS	8231	1649340621823	570 BRANDIES CIR	MURFREESBORO	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LENTS	WILLIAM	D.S.4382	1477542355D.S	619 W MAIN ST	NEWBERN	TN

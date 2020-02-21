@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUMM	BRADLEY	4405	1356506638440	7575 N. ORACLE ROAD	TUCSON	AZ

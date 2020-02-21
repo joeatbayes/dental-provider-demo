@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAN	MIN SUK	2901021598	1386026094290	1124 28TH ST SW	WYOMING	MI

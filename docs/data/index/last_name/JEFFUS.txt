@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JEFFUS	BROOKE	3631	1225221567363	407 HWY 5 N	BENTON	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRITTNER	JADILYN	D12798	1124332440D12	425 7TH ST NW	CASS LAKE	MN

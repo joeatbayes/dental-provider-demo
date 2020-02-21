@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARBASI	SELAY	D010052	1487140406D01	2680 S VAL VISTA DR STE 161	GILBERT	AZ

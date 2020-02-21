@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERN-ANDERSON	JULIE	12012237A	1053623587120	113 N CHESTNUT ST	SEYMOUR	IN

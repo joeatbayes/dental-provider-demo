@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOOLDRIDGE	JEDEDIAH	54043	1336305697540	3923 E CAMELBACK RD	PHOENIX	AZ

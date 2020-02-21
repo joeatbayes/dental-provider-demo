@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALDRON	THOMAS	D10981	1184681462D10	8811 92ND ST S	COTTAGE GROVE	MN

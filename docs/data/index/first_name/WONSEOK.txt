@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	WONSEOK	4338	1841323672433	4444 W NORTHERN AVE	GLENDALE	AZ

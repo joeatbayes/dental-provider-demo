@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUPINI	JOHN	15904	1114149176159	1605 FORT ST	WYANDOTTE	MI

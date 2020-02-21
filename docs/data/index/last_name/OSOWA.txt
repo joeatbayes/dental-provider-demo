@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSOWA	BERNADETTE	2901017947	1942379631290	21811 KELLY RD	EASTPOINTE	MI

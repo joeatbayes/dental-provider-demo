@@ -1,0 +1,2 @@
+SOSA	1
+SOSTECKE	1

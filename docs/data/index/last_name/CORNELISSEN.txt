@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORNELISSEN	THOMAS	9908	1053364513990	3262 W LAKE ST	MINNEAPOLIS	MN

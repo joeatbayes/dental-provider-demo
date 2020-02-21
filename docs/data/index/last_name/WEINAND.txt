@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINAND	NICHOLAS	D12695	1588894067D12	1670 BEAM AVE STE 204	MAPLEWOOD	MN

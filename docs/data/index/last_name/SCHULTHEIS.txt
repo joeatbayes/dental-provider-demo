@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULTHEIS	OTIS	9338	1982784377933	14061 SAINT FRANCIS BLVD	RAMSEY	MN

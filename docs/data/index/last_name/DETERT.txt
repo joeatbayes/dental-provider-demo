@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DETERT	MARK	7849	1912021585784	919 SOUTH STATE ROAD 2	HEBRON	IN

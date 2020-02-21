@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SULLIVANT	JOHN	AR2788	1255342028AR2	727 N CARDINAL DR	MOUNTAIN HOME	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCE	SARAH	15014	1831454412150	1000 GREG KRUSCHEK AVENUE	NOME	AK

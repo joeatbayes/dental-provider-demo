@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RABOT	PATRICIO	4373	1396745428437	6945 E SAHUARO DR	SCOTTSDALE	AZ

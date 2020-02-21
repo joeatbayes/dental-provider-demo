@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUIDO	VINCENT	12008212	1225047103120	150 PROFESSIONAL CT.	LAFAYETTE	IN

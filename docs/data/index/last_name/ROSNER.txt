@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSNER	FRANK	11929	1316902646119	36150 DEQUINDRE RD	STERLING HEIGHTS	MI

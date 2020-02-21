@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GALAPEAUX	EDWARD	AZ.2080	1588708788AZ.	2402 S HARRISON RD	TUCSON	AZ

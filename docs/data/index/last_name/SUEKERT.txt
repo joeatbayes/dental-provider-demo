@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUEKERT	HARRY	2901015953	1750390241290	3500 RINGGOLD RD	CHATTANOOGA	TN

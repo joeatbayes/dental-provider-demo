@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROMMEL	JOHN	AR2136	1679680300AR2	1204 S ROGERS ST	CLARKSVILLE	AR

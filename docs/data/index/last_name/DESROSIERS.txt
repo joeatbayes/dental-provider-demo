@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DESROSIERS	DEBORAH	2901015595	1649296989290	2215 FULLER RD	ANN ARBOR	MI

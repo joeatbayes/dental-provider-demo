@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWARVAR	DANIEL	14592	1245446830145	2187 LAKESHORE DR	MUSKEGON	MI

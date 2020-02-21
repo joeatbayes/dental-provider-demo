@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARP	JEFFREY	51767	1750499117517	701 25TH AVE S	MINNEAPOLIS	MN

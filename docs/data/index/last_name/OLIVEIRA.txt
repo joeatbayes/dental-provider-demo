@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OLIVEIRA	CLARISA	12012492A	1508219874120	5111 CLINTON DR	KOKOMO	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KWON	MIN CHUL	12011206	1437112380120	6910 N MAIN ST	GRANGER	IN

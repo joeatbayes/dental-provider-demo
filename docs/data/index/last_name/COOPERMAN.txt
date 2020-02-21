@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COOPERMAN	BENJAMIN	6732	1225412950673	7422 E SAN JACINTO DR.	SCOTTSDALE	AZ

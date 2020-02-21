@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUSTUS	MARK	3595	1679676001359	1646 NTH LITCHFIELD RD	GOODYEAR	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MICK	MADISON	2901600158	1043871254290	24 N SAINT JOSEPH AVE STE G	NILES	MI

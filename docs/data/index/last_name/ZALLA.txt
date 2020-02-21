@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZALLA	HARVEY	7920	1821212853792	20343 FARMINGTON RD	LIVONIA	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHANTZ	LEVI	2901019837	1972762466290	550 CHERRY ST SE	GRAND RAPIDS	MI

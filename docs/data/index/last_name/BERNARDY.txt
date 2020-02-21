@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERNARDY	JEFFREY	D008299	1316081714D00	1130 S COUNTRY CLUB DR UNIT 101	MESA	AZ

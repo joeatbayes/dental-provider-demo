@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AYIYI	RICHARD	D6399	1508911710D63	5270 N 59TH AVE	GLENDALE	AZ

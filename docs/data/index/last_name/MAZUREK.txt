@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAZUREK	JOSEPH	2701	1730283334270	6500 BASELINE ROAD	LITTLE ROCK	AR

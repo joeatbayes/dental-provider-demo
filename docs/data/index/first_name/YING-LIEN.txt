@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WU	YING-LIEN	D12285	1972770006D12	150 S 5TH ST STE 1475	MINNEAPOLIS	MN

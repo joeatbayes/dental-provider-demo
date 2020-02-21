@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADECKI	CASS	2901014771	1962405845290	203 W MICHIGAN AVE	SALINE	MI

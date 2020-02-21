@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STENSRUD	RODNEY	8907	1508925637890	956 WEST BROADWAY	FOREST LAKE	MN

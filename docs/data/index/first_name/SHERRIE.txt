@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLDER	SHERRIE	1092	1225144223109	3401 DENALI ST	ANCHORAGE	AK

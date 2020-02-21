@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELIMON	RICHARD	2606	1003903287260	2504MECAIN	NORTH LITTLE ROCK	AR

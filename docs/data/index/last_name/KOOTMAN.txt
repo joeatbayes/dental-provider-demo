@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOOTMAN	JEFFREY	3369	1205991858336	702 E BELL RD	PHOENIX	AZ

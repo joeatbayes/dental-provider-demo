@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALASZ	JAY	2901014379	1063521045290	707 BRIDGE ST	CHARLEVOIX	MI

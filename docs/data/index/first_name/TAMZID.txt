@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAFIZ	TAMZID	D14251	1063071595D14	828 HAWTHORNE AVE E	SAINT PAUL	MN

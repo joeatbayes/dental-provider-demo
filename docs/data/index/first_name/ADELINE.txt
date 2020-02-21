@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PROPHETE	ADELINE	6897	1699850735689	780 RIDGE LAKE BLVD STE 201	MEMPHIS	TN

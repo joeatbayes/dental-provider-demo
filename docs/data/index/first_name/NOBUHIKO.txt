@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AKIMOTO	NOBUHIKO	7165	1720016025716	1305 E 66TH ST	RICHFIELD	MN

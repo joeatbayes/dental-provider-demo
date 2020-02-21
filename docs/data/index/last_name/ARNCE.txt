@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARNCE	HARVEY	3329	1235337379332	15425 S 40TH PL	PHOENIX	AZ

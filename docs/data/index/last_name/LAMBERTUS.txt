@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMBERTUS	JANE	5672	1780643106567	1781 E HIGHWAY 69	PRESCOTT	AZ

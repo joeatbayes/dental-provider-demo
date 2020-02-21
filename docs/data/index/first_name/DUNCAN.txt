@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PUFFER	DUNCAN	D10480	1073663449D10	3617 W ARROWHEAD RD	DULUTH	MN

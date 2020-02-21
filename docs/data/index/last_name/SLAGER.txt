@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLAGER	JUSTIN	10034	1962777995100	220 N WASHINGTON AVE	COOKEVILLE	TN

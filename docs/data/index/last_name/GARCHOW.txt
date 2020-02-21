@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARCHOW	PETER	2901014080	1659331452290	630 36TH ST SW	GRAND RAPIDS	MI

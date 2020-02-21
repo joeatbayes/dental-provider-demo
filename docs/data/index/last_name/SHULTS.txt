@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHULTS	LAWRENCE	D6953	1467570606D69	3549 E BROWN RD STE 102	MESA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FITZSIMMONS	CARL	D11044	1396846010D11	16795 COUNTY ROAD 24 STE 6	PLYMOUTH	MN

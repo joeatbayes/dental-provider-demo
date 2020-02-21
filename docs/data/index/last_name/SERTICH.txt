@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SERTICH	LOUIS	12008142	1578560058120	303 W 89TH AVE	MERRILLVILLE	IN

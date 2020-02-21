@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUMREICH	THOMAS	D7950	1780956052D79	23225 SAINT CROIX TRL N	SCANDIA	MN

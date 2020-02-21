@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULTZ	BARTHOLEMEW	D11256	1831367838D11	4300 EGAN DR	SAVAGE	MN

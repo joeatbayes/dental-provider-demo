@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZIMAN	PAUL	9120	1710041801912	1964 RAHNCLIFF CT	EAGAN	MN

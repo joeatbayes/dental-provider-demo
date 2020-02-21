@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZABLOCKI	JOHN	2901013384	1619042348290	JOHN P ZABLOCKI DDS	WHITE LAKE	MI

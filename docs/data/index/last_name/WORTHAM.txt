@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WORTHAM	FRANKLIN	1024	1942374228102	4001 LAKE OTIS PKWY	ANCHORAGE	AK

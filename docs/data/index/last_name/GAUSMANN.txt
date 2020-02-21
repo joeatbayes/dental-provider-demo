@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAUSMANN	ROBERT	12010985A	1447532346120	2225 CENTRAL AVE	COLUMBUS	IN

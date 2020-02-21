@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHARDSON	MARTINA	2901019795	1356598882290	330 E 14 MILE RD	CLAWSON	MI

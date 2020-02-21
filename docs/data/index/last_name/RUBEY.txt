@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUBEY	ROBERT	7840	1407860596784	217 MAIN ST W	SLEEPY EYE	MN

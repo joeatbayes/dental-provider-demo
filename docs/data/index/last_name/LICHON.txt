@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LICHON	WILLIAM	2901009181	1205977709290	4028A STATE ST	SAGINAW	MI

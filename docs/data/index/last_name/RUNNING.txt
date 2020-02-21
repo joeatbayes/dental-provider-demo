@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUNNING	CLIFFORD	AZ1186	1356533277AZ1	3326 N 3RD AVE	PHOENIX	AZ

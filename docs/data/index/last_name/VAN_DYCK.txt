@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN DYCK	LARRY	3939	1932291382393	460 S HOLLY ST	SILOAM SPRINGS	AR

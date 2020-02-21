@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STONEBURNER	JEANELLE	19.030388	116489906819.	2005 8TH AVE E	HIBBING	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEYER	W. SCOTT	16735	1851448609167	4044 24TH AVE	FORT GRATIOT	MI

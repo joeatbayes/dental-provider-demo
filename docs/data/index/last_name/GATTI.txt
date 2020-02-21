@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GATTI	CHARLES	D-4197	1629097605D-4	7505 W. DEER VALLEY RD.	PEORIA	AZ

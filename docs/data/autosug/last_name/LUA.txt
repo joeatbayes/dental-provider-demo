@@ -1,0 +1,3 @@
+LUA	1
+LUAN	1
+LUARDE	1

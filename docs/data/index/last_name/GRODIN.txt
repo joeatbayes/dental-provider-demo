@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRODIN	ALAN	13300	1932267630133	430 S MAIN ST	CLAWSON	MI

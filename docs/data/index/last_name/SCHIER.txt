@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIER	JOHN	12013035A	1932440054120	3021 E 98TH ST STE 250	INDIANAPOLIS	IN

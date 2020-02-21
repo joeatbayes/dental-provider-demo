@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIEGEL	ALAN	3816	1124024179381	11111 N SCOTTSDALE RD STE 120	SCOTTSDALE	AZ

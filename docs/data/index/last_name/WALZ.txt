@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALZ	JAMES	7943	1184648610794	338 W BROADWAY	PLAINVIEW	MN

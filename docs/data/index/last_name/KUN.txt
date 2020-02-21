@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUN	RICHARD	9451	1346691268945	5545 E BROADWAY BLVD STE 107	TUCSON	AZ

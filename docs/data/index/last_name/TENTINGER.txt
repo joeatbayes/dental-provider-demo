@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TENTINGER	CHARLES	11574	1528151354115	710 19TH AVE N	SOUTH ST PAUL	MN

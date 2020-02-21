@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLINSTRUB	JONATHAN	63612	1134538010636	2240 E. WINROW AVE	FORT HUACHUCA	AZ

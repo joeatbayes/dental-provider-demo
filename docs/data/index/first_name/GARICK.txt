@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HO	GARICK	D6397	1497857387D63	4055 S ARIZONA AVE	CHANDLER	AZ

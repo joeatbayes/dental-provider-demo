@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEO	HAN NA	9956	1801270269995	6849 N ORACLE RD STE 115	TUCSON	AZ

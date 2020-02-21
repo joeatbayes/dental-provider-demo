@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKKEN	MICHAEL	10867	1902813280108	14635 PENNOCK AVE	APPLE VALLEY	MN

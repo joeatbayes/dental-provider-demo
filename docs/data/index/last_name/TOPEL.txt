@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOPEL	RICHARD	D8756	1003874462D87	12736 BASS LAKE RD	MAPLE GROVE	MN

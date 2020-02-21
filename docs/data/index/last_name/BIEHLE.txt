@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIEHLE	ALLISON	12012387A	1780069419120	1811 DOGWOOD DR	KOKOMO	IN

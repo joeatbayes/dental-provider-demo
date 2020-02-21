@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLIS	FREDRICK	10258	1023113156102	5346 PENN AVE S	MINNEAPOLIS	MN

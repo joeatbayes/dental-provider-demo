@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUSKA	TIMOTHY	D13531	1013398908D13	13961 60TH ST N	STILLWATER	MN

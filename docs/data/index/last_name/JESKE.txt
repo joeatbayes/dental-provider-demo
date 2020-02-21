@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JESKE	DUANE	9134	1730179003913	555 WABASHA ST N	SAINT PAUL	MN

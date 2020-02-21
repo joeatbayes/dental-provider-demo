@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYDER	DANIEL	2220	1780709725222	2112 W MAIN ST	RUSSELLVILLE	AR

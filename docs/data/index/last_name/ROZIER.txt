@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROZIER	GREGORY	DN013981	1568670628DN0	1100 N COLLEGE AVE	FAYETTEVILLE	AR

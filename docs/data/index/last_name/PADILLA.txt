@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PADILLA	MERCEDES	4867	1912073149486	7360 S MCCLINTOCK DR	TEMPE	AZ

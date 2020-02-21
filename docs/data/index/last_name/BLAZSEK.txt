@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLAZSEK	LINDSAY	D009267	1982087672D00	2060 W 24TH ST	YUMA	AZ

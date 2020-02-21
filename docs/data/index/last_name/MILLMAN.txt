@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLMAN	ARTHUR	8734	1043430556873	3079 MOON LAKE DR	W BLOOMFIELD	MI

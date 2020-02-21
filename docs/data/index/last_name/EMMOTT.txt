@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EMMOTT	LAWRENCE	2275	1366622987227	727 E BETHANY HOME RD	PHOENIX	AZ

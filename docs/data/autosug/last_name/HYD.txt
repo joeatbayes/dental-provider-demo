@@ -1,0 +1,3 @@
+HYDE	4
+HYDEN	1
+HYDUK	1

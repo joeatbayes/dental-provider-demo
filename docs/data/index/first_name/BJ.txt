@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIM	BJ	DE 60511889	1972992709DE6	20000 N 59TH AVE	GLENDALE	AZ

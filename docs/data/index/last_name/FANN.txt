@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FANN	BRIAN	7881	1255414140788	1605 NASHVILLE HWY	COLUMBIA	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITTMAN	JESSICA	12010597	1194776583120	1 N KRINGLE PLACE BLVD	SANTA CLAUS	IN

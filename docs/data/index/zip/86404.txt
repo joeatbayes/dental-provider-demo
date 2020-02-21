@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHRISTIE	DON	53442	1508983867534	1068 VISTA DR	LAKE HAVASU CITY	AZ

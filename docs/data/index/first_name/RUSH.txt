@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAVIDSON	RUSH	19.02782	151819834019.	7219 N LITCHFIELD RD	LUKE AFB	AZ

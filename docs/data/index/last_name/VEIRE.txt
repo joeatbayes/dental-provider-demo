@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VEIRE	ANGELA	D12166	1225195837D12	5901 JOHN MARTIN DR	BROOKLYN CENTER	MN

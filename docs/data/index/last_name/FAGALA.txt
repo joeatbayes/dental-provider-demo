@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FAGALA	KYLE	9553	1942541412955	2176 WEST ST	GERMANTOWN	TN

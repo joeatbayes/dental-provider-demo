@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PETRIE	SAMUEL	D10734	1912044868D10	4058 5TH ST NW	ROCHESTER	MN

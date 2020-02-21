@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEHRING	TIM	9872	1841323797987	107 14TH AVE E	ALEXANDRIA	MN

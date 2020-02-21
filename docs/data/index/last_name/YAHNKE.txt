@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YAHNKE	STACEY	D11264	1124111513D11	120 W MAIN ST	CALEDONIA	MN

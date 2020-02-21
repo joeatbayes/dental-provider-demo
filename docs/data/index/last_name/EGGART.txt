@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EGGART	WILLIAM	3394	1760563787339	9 MEDICAL SERVICES DR	MORRILTON	AR

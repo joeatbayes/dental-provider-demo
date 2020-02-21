@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZOLINSKI	JOSEPH	16965	1144279852169	3456 SHATTUCK RD	SAGINAW	MI

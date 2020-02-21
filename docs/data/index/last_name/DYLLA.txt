@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DYLLA	RUSSELL	D12016	1710180294D12	6545 FRANCE AVE S	EDINA	MN

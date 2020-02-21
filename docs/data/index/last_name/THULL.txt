@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THULL	TED	D10476	1487755039D10	2112 VIKING DRIVE NW	ROCHESTER	MN

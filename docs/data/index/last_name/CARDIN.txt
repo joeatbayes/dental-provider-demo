@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CARDIN	ERIC	3365	1639237357336	1742 W BETHANY HOME RD	PHOENIX	AZ

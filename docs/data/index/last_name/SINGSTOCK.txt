@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINGSTOCK	SCOTT	17291	1013061324172	2450 44TH ST SE STE 203	KENTWOOD	MI

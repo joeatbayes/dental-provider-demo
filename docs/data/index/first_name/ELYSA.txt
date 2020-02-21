@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DANIELS	ELYSA	3466	1396737060346	7518 ELBOW BEND RD	CAREFREE	AZ

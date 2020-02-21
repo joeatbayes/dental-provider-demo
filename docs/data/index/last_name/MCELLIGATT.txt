@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCELLIGATT	MICHAEL	8695	1518044643869	37040 GARFIELD	CLINTON TWP	MI

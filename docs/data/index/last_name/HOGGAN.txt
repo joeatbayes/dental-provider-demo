@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGGAN	TODD	52185329921	1225119712521	513 JEWETT ST	MARSHALL	MN

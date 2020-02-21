@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEGLAND	LINDSAY	D12970	1598059933D12	401 JEWETT ST	MARSHALL	MN

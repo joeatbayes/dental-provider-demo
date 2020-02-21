@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUDNYK	TERRY	2718	1831172394271	9751 N 90TH PL	SCOTTSDALE	AZ

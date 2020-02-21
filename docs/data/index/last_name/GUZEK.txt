@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUZEK	DAVID	12009122	1457457368120	3465 AIRPORT ROAD	PORTAGE	IN

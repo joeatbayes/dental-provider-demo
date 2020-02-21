@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALINDA	SARAH	2901018151	1932165677290	817 W HIGH ST	JACKSON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BACH	WENDY	MN8817	1912979469MN8	825 NICOLLET MALL	MINNEAPOLIS	MN

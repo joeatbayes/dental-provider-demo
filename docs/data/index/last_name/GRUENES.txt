@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRUENES	STEPHANIE	D11331	1174737084D11	13734 FIRST STREET	BECKER	MN

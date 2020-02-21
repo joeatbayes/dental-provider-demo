@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GESSELL	LYLE	8820	1770551152882	119 NE FIRST ST	LITTLE FALLS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PHILP	MARY	R514	1538447644R51	5205 SHORELINE DRIVE	MOUND	MN

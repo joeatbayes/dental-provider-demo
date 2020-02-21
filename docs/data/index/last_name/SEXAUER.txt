@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEXAUER	JOHN	12008328A	1447330352120	6450 W 10TH ST	INDIANAPOLIS	IN

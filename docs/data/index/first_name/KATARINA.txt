@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOSTER	KATARINA	1001616	1518487263100	16138 PILOT KNOB RD	LAKEVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SITJAR	JENNIFER	12011808A	1588926125120	4170 GRAPE ROAD	MISHAWAKA	IN

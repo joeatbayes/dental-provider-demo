@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUTTER	SCOTT	R512	1205114311R51	606 24TH AVE S STE 200	MINNEAPOLIS	MN

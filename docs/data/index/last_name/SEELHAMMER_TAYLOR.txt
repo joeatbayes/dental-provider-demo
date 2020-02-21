@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEELHAMMER TAYLOR	RENEE	10635	1275607483106	7674 DESIGN RD	BAXTER	MN

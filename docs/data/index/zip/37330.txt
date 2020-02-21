@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ETTER	TERRY	DS0000007451	1154324119DS0	802 N MAIN ST	ESTILL SPRINGS	TN

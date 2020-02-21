@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREISCHEL	MICHAEL	9097	1144218173909	350 SAINT PETER ST	SAINT PAUL	MN

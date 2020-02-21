@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAULISIN	DAVID	2901012143	1316059959290	24350 JOY RD	REDFORD	MI

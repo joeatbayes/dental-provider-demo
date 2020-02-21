@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOREN	DAVID	D8943	1700972023D89	4552 BRYANT AVE S	MINNEAPOLIS	MN

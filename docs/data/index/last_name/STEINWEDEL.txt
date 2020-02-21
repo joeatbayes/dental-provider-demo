@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEINWEDEL	WILLIAM	12007067	1285706580120	7614 SR 64	GEORGETOWN	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEPANOVICH	JOHN	7553	1235188665755	260 JEFFERSON AVE SE	GRAND RAPIDS	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATEL	ONIKA	9154	1619354313915	11981 E BECKER LN	SCOTTSDALE	AZ

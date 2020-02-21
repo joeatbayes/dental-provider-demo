@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN GUNDY	ERIN	1340	1942514971134	1606 23RD AVE	FAIRBANKS	AK

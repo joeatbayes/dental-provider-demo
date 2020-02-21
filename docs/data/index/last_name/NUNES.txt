@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUNES	ALICE	1534	1629483557153	222 TONGASS DR	SITKA	AK

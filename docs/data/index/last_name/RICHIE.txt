@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHIE	BARBARA	D9950	1467554709D99	17705 HUTCHINS DRIVE	MINNETONKA	MN

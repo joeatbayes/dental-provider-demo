@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HYATT	JOSHUA	8135	1093062861813	4076 NEELY RD	FORT WAINWRIGHT	AK

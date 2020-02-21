@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TREPTOW	KRISTIE	D12420	1285837443D12	109 E MAPLE ST	HOUSTON	MN

@@ -1,0 +1,2 @@
+STOREN	1
+STOREY	1

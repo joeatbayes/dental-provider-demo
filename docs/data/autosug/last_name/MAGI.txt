@@ -1,0 +1,2 @@
+MAGID	1
+MAGILL	1

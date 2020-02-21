@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STERNHAGEN	PAUL	14217	1114906328142	932 E EIGHTH ST	TRAVERSE CITY	MI

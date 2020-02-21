@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NASBY	JAMES	7449	1023063708744	14344 BURNHAVEN DR	BURNSVILLE	MN

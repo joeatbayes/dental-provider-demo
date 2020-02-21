@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALTER	DENISE	53375	1336268606533	2931 ESSARY DR	KNOXVILLE	TN

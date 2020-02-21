@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAUGH	CRAIG	D12995	1851314181D12	109 N MAIN ST	BLUE EARTH	MN

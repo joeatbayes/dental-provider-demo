@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEMINGS	ELAINE	DS4929	1053386235DS4	111 N MEADOWS DR	ATHENS	TN

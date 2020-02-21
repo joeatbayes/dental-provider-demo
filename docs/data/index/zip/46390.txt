@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEWART	JOSEPH	12008658	1578681474120	108 S. ILLINOIS ST.	WANATAH	IN

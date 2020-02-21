@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRANTZALI	VASILIKI	R369	1700047941R36	515 DELAWARE ST SE	MINNEAPOLIS	MN

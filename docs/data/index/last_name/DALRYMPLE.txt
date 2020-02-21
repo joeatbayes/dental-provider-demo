@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALRYMPLE	DAVID	L736410	1427002377L73	550 3 MILE RD NW	GRAND RAPIDS	MI

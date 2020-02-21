@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KANYUSIK	JOHN	7561	1871669150756	120 E MAIN ST	MANKATO	MN

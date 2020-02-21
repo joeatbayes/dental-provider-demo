@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUTALE	CLARA	13405	1255354213134	2175 N ALMA SCHOOL RD	CHANDLER	AZ

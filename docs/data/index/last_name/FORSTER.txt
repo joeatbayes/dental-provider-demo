@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FORSTER	TERI	DS7281	1144214347DS7	1915 CHURCH ST	NASHVILLE	TN

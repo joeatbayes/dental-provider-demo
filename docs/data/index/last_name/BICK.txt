@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BICK	EDWARD	8326	1770802100832	5806A W 36TH ST	ST LOUIS PARK	MN

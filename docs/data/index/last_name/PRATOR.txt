@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRATOR	DAVID	464	1205010246464	4501 E SNIDER DRIVE	WASILLA	AK

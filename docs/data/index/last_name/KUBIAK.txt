@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUBIAK	WILLIAM	7432	1740385970743	324 W SUPERIOR ST	DULUTH	MN

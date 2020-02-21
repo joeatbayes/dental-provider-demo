@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEAVERS	DANIEL	2378	1326106428237	105 WEST PARK AVE	LINCOLN	AR

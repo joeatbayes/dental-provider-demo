@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MASSIE	JESSICA	19.028593	153845451719.	2000 43RD ST SE	GRAND RAPIDS	MI

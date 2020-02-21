@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABBATE	JOSEPH	12676	1043433105126	500 RENAISSANCE CTR STE 501	DETROIT	MI

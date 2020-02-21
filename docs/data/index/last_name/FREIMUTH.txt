@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREIMUTH	RICHARD	4009	1043435043400	120 W 24TH ST	YUMA	AZ

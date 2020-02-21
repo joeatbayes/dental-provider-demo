@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRZYGOCKI	DANIEL	D6932	1427262187D69	20950 N TATUM BLVD	PHOENIX	AZ

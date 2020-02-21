@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUINLAN	DENNIS	D7698	1932285764D76	57 BIRCH AVE S	MAPLE LAKE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAPPINGA	KRISTY	D12422	1104029966D12	338 W BROADWAY	PLAINVIEW	MN

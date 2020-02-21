@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIMEBAUGH	LARRY	2901008994	1548489826290	591 W CHICAGO ST	COLDWATER	MI

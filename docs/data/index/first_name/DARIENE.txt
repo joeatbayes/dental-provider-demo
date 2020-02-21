@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAZORE	DARIENE	8523	1497002075852	9304 E. RAINTREE DR	SCOTTSDALE	AZ

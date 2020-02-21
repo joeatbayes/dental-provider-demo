@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLIKAN	DANIEL	12010633A	1528136207120	1121 W 2ND ST	BLOOMINGTON	IN

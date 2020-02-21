@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IZSAK	BRITTANIE	12012718A	1164950101120	1001 STURDY RD	VALPARAISO	IN

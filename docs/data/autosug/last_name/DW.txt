@@ -1,0 +1,2 @@
+DWAN	2
+DWIGHT	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNFORD	ANNETTE	D11772	1437211901D11	6545 FRANCE AVE S STE 390	EDINA	MN

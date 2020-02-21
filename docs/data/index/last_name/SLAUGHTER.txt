@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLAUGHTER	BRADLEY	2940	1114035706294	3401 HARRISON ST	BATESVILLE	AR

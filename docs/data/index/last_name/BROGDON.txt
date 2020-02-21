@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROGDON	JOSEPH	DS4202	1083735286DS4	3920 DAYTON BLVD	CHATTANOOGA	TN

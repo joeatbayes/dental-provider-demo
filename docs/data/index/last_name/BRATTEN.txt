@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRATTEN	JAMES	DS4319	1396769444DS4	697 PRESIDENT PL	SMYRNA	TN

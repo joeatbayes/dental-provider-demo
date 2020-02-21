@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROSIECKI	RICHARD	12008933	1689707796120	3101 CENTRAL AVE	LAKE STATION	IN

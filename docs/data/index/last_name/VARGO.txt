@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VARGO	LARRY	2901010748	1558452193290	G5406 CLIO RD	FLINT	MI

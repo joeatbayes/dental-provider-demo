@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HENK	EDWARD	D7197	1164433934D71	20 1ST AVE S	BUFFALO	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANT	ANKITA	10160	1952771206101	10 S KYRENE RD	CHANDLER	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARKHURST	STEVEN	8176	1245309467817	722 CROSSOVER LN	MEMPHIS	TN

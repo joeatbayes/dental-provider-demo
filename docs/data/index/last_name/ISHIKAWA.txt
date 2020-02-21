@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISHIKAWA	KENTARO	D13971	1194078584D13	190 LAKE DR E	CHANHASSEN	MN

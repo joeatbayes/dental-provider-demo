@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JACKSON	LATRESA	9957	1720485121995	1909 HAMPSHIRE PIKE	COLUMBIA	TN

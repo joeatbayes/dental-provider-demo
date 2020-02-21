@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLARKE	RICHARD	13596	1235260076135	4604 N SAGINAW RD	MIDLAND	MI

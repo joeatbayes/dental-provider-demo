@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGLIN	GARY	12099	1538299490120	4131 26TH ST NW	ROCHESTER	MN

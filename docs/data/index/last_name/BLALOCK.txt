@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLALOCK	JOSEPH	10492	1114457215104	220 N WASHINGTON AVE	COOKEVILLE	TN

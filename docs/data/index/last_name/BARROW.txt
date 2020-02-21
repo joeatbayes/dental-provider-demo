@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARROW	KATHRYN	4209	1679644215420	6727 CLINTON HWY	KNOXVILLE	TN

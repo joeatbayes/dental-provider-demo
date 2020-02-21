@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCLEAN	JILL	DD5790	1144341660DD5	829 CHIEF EDDIE HOFFMAN HWY	BETHEL	AK

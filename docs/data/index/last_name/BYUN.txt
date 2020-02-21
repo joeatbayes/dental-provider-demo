@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BYUN	YOUNGHYUP	D13955	1225533037D13	1900 KRUCHTEN CT S STE 100	SARTELL	MN

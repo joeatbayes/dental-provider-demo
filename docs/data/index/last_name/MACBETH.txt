@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACBETH	RONALD	D13420	1255746608D13	1615 14TH ST NW	ROCHESTER	MN

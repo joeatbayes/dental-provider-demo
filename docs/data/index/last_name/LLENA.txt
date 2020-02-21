@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LLENA	KRISTINE	12370	1275748105123	1790 SEVENTH ST EAST	ST PAUL	MN

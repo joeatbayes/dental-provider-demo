@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHUFFIELD	JOHN	3137	1891716031313	1512 MACON DR	LITTLE ROCK	AR

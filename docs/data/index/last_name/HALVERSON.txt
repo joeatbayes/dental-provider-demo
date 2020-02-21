@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALVERSON	BRYAN	17671	1306055397176	353 NAOMI ST	PLAINWELL	MI

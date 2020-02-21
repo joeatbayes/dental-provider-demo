@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GERMAN	TINA	12010830A	1427272301120	1603 N DETROIT ST	WARSAW	IN

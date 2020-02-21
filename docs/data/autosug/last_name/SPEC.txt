@@ -1,0 +1,2 @@
+SPECHT	1
+SPECK	1

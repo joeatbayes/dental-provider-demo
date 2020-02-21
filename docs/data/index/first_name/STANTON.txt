@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUNN	STANTON	12007336A	1033126370120	30 W MCCLAIN AVE	SCOTTSBURG	IN

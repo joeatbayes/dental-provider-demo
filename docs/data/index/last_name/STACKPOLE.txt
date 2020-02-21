@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STACKPOLE	WILLIAM	10014	1770588188100	1068 LAKE ST S	FOREST LAKE	MN

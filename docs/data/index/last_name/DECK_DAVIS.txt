@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DECK DAVIS	SARAH	15594	1689768764155	2277 SCIENCE PKWY	OKEMOS	MI

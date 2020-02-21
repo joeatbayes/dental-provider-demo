@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GABRIELSEN	STEPHEN	D2437	1346357407D24	8160 E BUTHERUS DR	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPAGNUOLO	ANTHONY	14587	1316156821145	407 W IONIA ST	LANSING	MI

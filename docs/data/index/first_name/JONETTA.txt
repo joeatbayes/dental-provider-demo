@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCOTLAND	JONETTA	D12524	1184885386D12	430 25TH ST NW	BEMIDJI	MN

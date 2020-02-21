@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRINSON	LORIE	12010346A	1972633352120	3934 W 96TH ST	INDIANAPOLIS	IN

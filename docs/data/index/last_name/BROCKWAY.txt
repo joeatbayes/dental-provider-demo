@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROCKWAY	ROBERT	D8209	1629187364D82	106 NW 2ND ST.	FULDA	MN

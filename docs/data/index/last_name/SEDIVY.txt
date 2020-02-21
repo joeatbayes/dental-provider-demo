@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEDIVY	MARY	11180	1972722908111	1480 YANKEE DOODLE RD	EAGAN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STEGER	KURT	D10726	1134397490D10	307 NORTH 2ND ST.	GOODHUE	MN

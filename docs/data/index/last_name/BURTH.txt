@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURTH	JODI	D112384	1699977058D11	11256 86TH AVE N	MAPLE GROVE	MN

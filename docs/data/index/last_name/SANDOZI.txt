@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SANDOZI	NADIA	55289	1467892141552	8017 TELEGRAPH RD	BLOOMINGTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STANDRING	WILLIAM	12007521A	1962556324120	119 SE 2ND ST	EVANSVILLE	IN

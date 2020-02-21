@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VINIKOOR	CONNER	D009379	1417376328D00	295 W VALENCIA RD	TUCSON	AZ

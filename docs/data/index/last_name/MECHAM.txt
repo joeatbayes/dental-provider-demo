@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MECHAM	SPENCER	10228	1386100105102	10750 W MCDOWELL RD STE F610	AVONDALE	AZ

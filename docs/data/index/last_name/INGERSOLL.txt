@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INGERSOLL	STEVEN	D2811	1679613913D28	10211 N 32ND ST	PHOENIX	AZ

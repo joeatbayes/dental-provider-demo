@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEMME	LUCAS	D12658	1386873842D12	414 RAILWAY ST NW	LONSDALE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLGAIR	EDWIN	D997	1104948884D99	660 THIRD AVE STE C	BETHEL	AK

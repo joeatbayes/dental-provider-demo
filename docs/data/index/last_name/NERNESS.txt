@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NERNESS	ANDREW	D13349	1437443876D13	2945 HAZELWOOD ST STE 330	MAPLEWOOD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOPLEY	ERIN	D12724	1598093726D12	1670 BEAM AVE	MAPLEWOOD	MN

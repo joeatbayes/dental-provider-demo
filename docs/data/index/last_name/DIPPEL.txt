@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIPPEL	JAMES	7983	1992729131798	7139 UPPER MOUNT VERNON RD	EVANSVILLE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZETTLER	MELISSA	10954	1114299138109	14127 VERNON AVE S	SAVAGE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RACICH	DOUGLAS	2901017290	1619244035290	6411 N OVERLOOK RD	NORTHPORT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAZARSKI	MICHAEL	5186	1346298650518	1200 W WARNER RD	CHANDLER	AZ

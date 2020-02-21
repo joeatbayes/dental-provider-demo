@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOBOIA	LUCIAN	D7431	1215004783D74	6750 N 19TH AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZARRUK	PATRICIA	3555	1598863789355	300 S RODNEY PARHAM RD	LITTLE ROCK	AR

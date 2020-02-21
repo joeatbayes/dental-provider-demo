@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KEPPLER	STEPHANIE	D13701	1992153928D13	510 NW 2ND AVE	GRAND RAPIDS	MN

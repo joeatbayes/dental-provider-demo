@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPEAR	JOSEPH	7168	1417154881716	3367 BUCKSKIN RD.	OVERGAARD	AZ

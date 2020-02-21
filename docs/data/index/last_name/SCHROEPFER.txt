@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHROEPFER	TRACY	4375	1154973303437	136 HEALTH PARK DR	MENA	AR

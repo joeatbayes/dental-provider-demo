@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FLIGGE	DAVID	D11313	1184777658D11	101 LAKE STREET	WAYZATA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANDANAS	ROWENA	1201	1548342074120	121 W FIREWEED LN	ANCHORAGE	AK

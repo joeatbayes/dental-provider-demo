@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRANOSKI	BRITTANY	R744	1992358337R74	701 25TH AVE S	MINNEAPOLIS	MN

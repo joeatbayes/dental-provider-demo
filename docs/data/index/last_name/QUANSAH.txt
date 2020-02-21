@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUANSAH	JULIANA	D125490	1750568614D12	1928 E GENESEE	SAGINAW	MI

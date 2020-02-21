@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLMBERG	BRADLEY	9088	1770653446908	104 PLAINVIEW STREET	EAGLE LAKE	MN

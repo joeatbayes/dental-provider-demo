@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEMAIN-OLES	SUSAN	D32823	1760524169D32	4350 E CAMELBACK RD	PHOENIX	AZ

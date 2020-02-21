@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POULSON	JUSTIN	1572	1639587348157	47707 JUDY LYNN LANE	SOLDOTNA	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DICKEY	DAVID	10654	1649215633106	120 1/2 MAIN ST	CAMDEN	MI

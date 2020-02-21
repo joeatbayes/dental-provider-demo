@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINLEY	JAMES	1635	1588997100163	1716 FRED PATTERSON DR	CENTRAL CITY	AR

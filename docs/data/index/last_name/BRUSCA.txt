@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUSCA	ANTHONY	2901016363	1326166604290	1403 BIRCH ST	GLOBE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAGUE	GARY	10527	1225107618105	5127 ROCHESTER RD	TROY	MI

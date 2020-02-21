@@ -1,0 +1,2 @@
+PINT	1
+PINTER	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LILAC	PATRICIA	14105	1821206822141	133 E MAPLE AVE	ADRIAN	MI

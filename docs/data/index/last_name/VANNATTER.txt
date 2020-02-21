@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANNATTER	DORIS	12009821	1750414777120	712 W MAIN ST	PLAINFIELD	IN

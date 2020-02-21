@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCDONALD	JASMA	10872	1598212516108	6350 W ANDREW JOHNSON HWY	TALBOTT	TN

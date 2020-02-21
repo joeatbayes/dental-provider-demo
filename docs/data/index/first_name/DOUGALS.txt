@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARTY	DOUGALS	12008501B	1578676029120	2801 FAIRVIEW PL	GREENWOOD	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEMLOCK	SIDNEY	5006	1568542496500	7900 S J STOCK RD	TUCSON	AZ

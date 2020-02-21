@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BETCHER	DAVID	J 14524 0	1275607517J14	1101 BYRON RD	HOWELL	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGH	GARY	7659	1477566263765	7555 COLMAN WAY E.	INVER GROVE HTS.	MN

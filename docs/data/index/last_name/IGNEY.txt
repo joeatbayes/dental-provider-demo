@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IGNEY	BRADLEY	12008910	1508924804120	224 N WAYNE ST	ANGOLA	IN

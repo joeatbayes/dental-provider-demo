@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROZINKA	JEFFREY	D10694	1942299896D10	375 JACKSON ST	SAINT PAUL	MN

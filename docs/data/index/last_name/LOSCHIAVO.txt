@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOSCHIAVO	CHARLES	D3641	1376590133D36	2370 N WYATT DR	TUCSON	AZ

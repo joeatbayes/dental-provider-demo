@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLATCHEY	LAURIE	2901018437	1750505715290	321 N INGALLS ST	ANN ARBOR	MI

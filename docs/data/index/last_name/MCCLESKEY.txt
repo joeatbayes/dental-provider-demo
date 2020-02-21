@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCLESKEY	SHIRLEY	2785	1578500773278	2239 S CARAWAY RD	JONESBORO	AR

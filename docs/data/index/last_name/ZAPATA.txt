@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZAPATA	RICARDO	5586	1821203092558	2915 N 59TH AVE	PHOENIX	AZ

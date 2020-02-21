@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	HAE YOUNG	19029251	1770835316190	2058 MAYA DR.	KINGMAN	AZ

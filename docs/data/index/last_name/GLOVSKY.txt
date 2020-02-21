@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLOVSKY	GEOF	4625	1225250533462	754 S VAL VISTA DR STE 107	GILBERT	AZ

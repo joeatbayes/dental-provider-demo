@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLETZACKER	RICHARD	10070	1033592043100	2531 PARK DR	NASHVILLE	TN

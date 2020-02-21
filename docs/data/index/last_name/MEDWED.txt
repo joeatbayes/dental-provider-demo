@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEDWED	LAUREN	10326	1871046573103	110 31ST AVE N APT 505	NASHVILLE	TN

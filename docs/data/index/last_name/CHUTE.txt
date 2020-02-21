@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHUTE	ETHAN	D11439	1023181112D11	3480 BUNKER LAKE BLVD NW	ANDOVER	MN

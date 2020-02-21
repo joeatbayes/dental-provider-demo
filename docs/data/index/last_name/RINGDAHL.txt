@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RINGDAHL	SCOTT	D9801	1144380627D98	1616 N FRANKLIN STR	GLENWOOD	MN

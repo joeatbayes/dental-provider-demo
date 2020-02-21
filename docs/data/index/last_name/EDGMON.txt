@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDGMON	GARY	9156	1548332166915	7003 SHALLOWFORD RD STE 201	CHATTANOOGA	TN

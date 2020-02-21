@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAGHIZADEH	SEPI	D10995	1669547477D10	2534 HENNEPIN AVE	MINNEAPOLIS	MN

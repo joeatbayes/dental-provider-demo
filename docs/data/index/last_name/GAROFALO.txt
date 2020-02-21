@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAROFALO	JULIA	10893	1881642478108	2101 WOODWINDS DR	WOODBURY	MN

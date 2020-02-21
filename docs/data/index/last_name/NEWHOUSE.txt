@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEWHOUSE	ERIC	D11279	1518078112D11	348 2ND ST	EXCELSIOR	MN

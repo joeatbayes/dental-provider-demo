@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEROUTKA	CARRIE	11421	1891777454114	6105 CAHILL AVE E	INVER GROVE HEIGHTS	MN

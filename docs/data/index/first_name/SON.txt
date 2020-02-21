@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	SON	D6343	1447380282D63	1473 N DYSART RD	AVONDALE	AZ

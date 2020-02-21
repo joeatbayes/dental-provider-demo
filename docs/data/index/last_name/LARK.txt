@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LARK	JOHN	2901015006	1487729471290	1136 COUNTRY CLUB RD	ADRIAN	MI

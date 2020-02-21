@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BICE	ROBERT	14921	1831161041149	55 SOUTH MAIN	CLARKSTON	MI

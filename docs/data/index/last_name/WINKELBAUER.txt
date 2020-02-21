@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINKELBAUER	HUBERT	9718	1841397379971	567 N HEWITT RD	YPSILANTI	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARVIN	DANIEL	D9473	1831258706D94	4000 CENTRAL AVE NE	COLUMBIA HEIGHTS	MN

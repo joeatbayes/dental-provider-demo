@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDE	DAVID	7945	1356426332794	14464 SHADY BEACH TRL NE	PRIOR LAKE	MN

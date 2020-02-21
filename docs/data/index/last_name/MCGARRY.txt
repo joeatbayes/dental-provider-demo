@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGARRY	PATRICIA	14114	1720078207141	200 LINDENWOOD DR	LINDEN	MI

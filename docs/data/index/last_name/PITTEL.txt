@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PITTEL	STEPHEN	13328	1326016411133	5303 S CEDAR ST	LANSING	MI

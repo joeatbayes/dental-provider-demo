@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELIMA	LUIS	S46	1598997967S46	2233 HAMLINE AVE N	ROSEVILLE	MN

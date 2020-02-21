@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARKERSON	JANCY	DN014584	1972946424DN0	4141 RINGGOLD RD	EAST RIDGE	TN

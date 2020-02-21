@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PUCEL-KOOPMAN	JILL	D11666	1093704520D11	14115 JAMES RD	ROGERS	MN

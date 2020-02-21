@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYDELL	ELIZABETH	D10626	1942266432D10	1121 TOWN CENTRE DR	EAGAN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAUGHT	DANIEL	D7993	1801117932D79	1070 E RAY RD STE 7	CHANDLER	AZ

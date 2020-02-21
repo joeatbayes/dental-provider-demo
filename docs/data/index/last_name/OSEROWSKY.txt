@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSEROWSKY	GRANT	4298	1003392218429	614 E EMMA AVE STE 300	SPRINGDALE	AR

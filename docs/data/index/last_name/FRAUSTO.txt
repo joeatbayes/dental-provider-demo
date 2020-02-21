@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRAUSTO	DAVID	D5639	1619021425D56	7136 PAV WAY	PRESCOTT VALLEY	AZ

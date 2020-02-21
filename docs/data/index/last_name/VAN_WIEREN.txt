@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAN WIEREN	CLARE	2901009802	1649254707290	601 MICHIGAN AVE	HOLLAND	MI

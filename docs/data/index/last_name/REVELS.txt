@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REVELS	EDWARD	AR1679	1871673632AR1	1316 W COLLIN RAYE DR	DE QUEEN	AR

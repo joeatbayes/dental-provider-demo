@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COUSINEAU	DANIEL	11021	1881861466110	314 N MONROE ST	MONROE	MI

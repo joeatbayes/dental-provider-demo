@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMPSON	NELL	12010199	1104037175120	1035 W JEFFERSON ST	FRANKLIN	IN

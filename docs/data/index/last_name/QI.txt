@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QI	KE	9696	1518309657969	116 JACK WHITE DR	KINGSPORT	TN

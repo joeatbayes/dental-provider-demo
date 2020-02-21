@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROUT	SCOTT	12008524A	1184790578120	4017 W JACKSON ST	MUNCIE	IN

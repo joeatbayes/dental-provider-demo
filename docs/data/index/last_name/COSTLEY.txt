@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COSTLEY	KEVIN	9122	1649346297912	101 7TH STREET NORTH	SARTELL	MN

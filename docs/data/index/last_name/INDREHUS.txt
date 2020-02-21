@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INDREHUS	JAMES	6868	1487719019686	6425 NICOLLET AVE SO	RICHFIELD	MN

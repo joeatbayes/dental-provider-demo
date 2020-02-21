@@ -1,0 +1,3 @@
+TIA	1
+TIAN	1
+TIARA	1

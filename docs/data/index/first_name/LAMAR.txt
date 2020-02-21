@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANE	LAMAR	3379	1447318464337	3801 WOODLAND HEIGHTS	LITTLE ROCK	AR

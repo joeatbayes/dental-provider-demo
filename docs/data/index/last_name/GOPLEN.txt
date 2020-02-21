@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOPLEN	MARISSA	D13548	1629459102D13	1317 GROVE AVE	MONTEVIDEO	MN

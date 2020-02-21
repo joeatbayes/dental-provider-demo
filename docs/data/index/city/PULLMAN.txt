@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARKS	WILLIAM	2901016262	1831316306290	5498 109TH AVENUE	PULLMAN	MI

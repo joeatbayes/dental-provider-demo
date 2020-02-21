@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEZERRA	FRANCISCO	7145	1659580595714	6750 N 19TH AVE	PHOENIX	AZ

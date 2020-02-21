@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NORLING	NANCY	10395	1699865113103	1660 HIGHWAY 100 S STE 122	MINNEAPOLIS	MN

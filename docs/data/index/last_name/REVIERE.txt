@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REVIERE	ADRIENNE	6569	1740663715656	1121 W MICHIGAN ST	INDIANAPOLIS	IN

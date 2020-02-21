@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGONIGLE	CAROL	2570	1245447143257	1802 E PRINCE RD	TUCSON	AZ

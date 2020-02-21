@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARDEA	BENJAMIN	D008065	1417262247D00	2016 W 16TH ST	SAFFORD	AZ

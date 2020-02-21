@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TANGALOS	JAMES	2951000774	1174184055295	44405 WOODWARD AVE # H-23	PONTIAC	MI

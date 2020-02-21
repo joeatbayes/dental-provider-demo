@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANEL	TRAVIS	D12024	1942380563D12	205 W JOHNSON AVE	WARREN	MN

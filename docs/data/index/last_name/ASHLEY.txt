@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASHLEY	CHAD	12009744	1235285941120	2300 W FRANKLIN ST	EVANSVILLE	IN

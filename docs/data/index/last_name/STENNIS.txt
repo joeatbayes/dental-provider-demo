@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STENNIS	SARAH	12010763A	1407057961120	1515 W GLEN PARK AVE	GRIFFITH	IN

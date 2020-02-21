@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUGGIRELLO	JOSEPH	17005	1639394190170	51218 ROMEO PLANK RD	MACOMB	MI

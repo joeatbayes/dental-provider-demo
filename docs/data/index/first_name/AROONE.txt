@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANG	AROONE	D13059	1194082040D13	828 HAWTHORNE AVE E	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELIASEN	JAMES	D7942	1215271051D79	1205 20TH ST S	VIRGINIA	MN

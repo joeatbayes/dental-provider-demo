@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLYKHOUS	RENE	D010337	1043878994D01	10260 N 90TH ST	SCOTTSDALE	AZ

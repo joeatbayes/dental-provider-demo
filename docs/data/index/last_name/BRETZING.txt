@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRETZING	RANDALL	D2490	1548474893D24	2820 E UNIVERSITY DR	MESA	AZ

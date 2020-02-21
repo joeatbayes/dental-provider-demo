@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANRIDGE	JONATHAN	4879	1750427951487	1450 E WHITE MOUNTAIN BLVD	PINETOP	AZ

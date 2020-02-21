@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIACHERIO	JOSEPH	9896	1285612176989	53620 VAN DYKE AVE	SHELBY TOWNSHIP	MI

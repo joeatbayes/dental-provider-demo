@@ -1,0 +1,2 @@
+GLAZE	1
+GLAZER	1

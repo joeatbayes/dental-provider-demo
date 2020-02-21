@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	MONT	DS2719	1770691248DS2	1159 HILLVIEW LN	FRANKLIN	TN

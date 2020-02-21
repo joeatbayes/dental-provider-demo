@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOLSON	STEPHEN	2728	1720282338272	13260 N 94TH DR	PEORIA	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEMMATY	AZAR	D12175	1225193741D12	636 BROADWAY ST NE	MINNEAPOLIS	MN

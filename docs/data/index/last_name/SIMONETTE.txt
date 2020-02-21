@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMONETTE	CHRISTINA	11478	1538274790114	402 SUNRISE DR	SAINT PETER	MN

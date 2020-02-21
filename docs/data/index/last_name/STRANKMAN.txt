@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRANKMAN	STANLEY	2900	1982741757290	3000 N LITCHFIELD RD	GOODYEAR	AZ

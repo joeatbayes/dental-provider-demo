@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KORT	MICHAEL	D5432	1669431482D54	1751 N STOCKTON HILL RD	KINGMAN	AZ

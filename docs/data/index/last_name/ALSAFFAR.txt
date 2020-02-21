@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALSAFFAR	ALI	R378	1306013529R37	515 DELAWARE ST SE	MINNEAPOLIS	MN

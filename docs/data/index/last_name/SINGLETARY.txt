@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINGLETARY	BRIAN	FF42	1770505257FF4	606 24TH AVE S FL 2	MINNEAPOLIS	MN

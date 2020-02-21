@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOSTAGER	MICHAEL	AK 609	1114140548AK6	2136 AIRPORT WAY STE 1	FAIRBANKS	AK

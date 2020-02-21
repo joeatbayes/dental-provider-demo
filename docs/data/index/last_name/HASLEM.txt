@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HASLEM	JACOB	7797	1922237379779	167 N MAIN STREET	TUBA CITY	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHIN	YOUNSOOK	D11446	1902972755D11	2014 S 6TH ST	BRAINERD	MN

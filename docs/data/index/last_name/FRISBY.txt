@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRISBY	WILLIAM	2079	1679600035207	303 W HOLLY ST	SHERIDAN	AR

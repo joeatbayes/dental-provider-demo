@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEISEN	TRENT	10295	1689171282102	211 SWANSON AVE	LAKE HAVASU CITY	AZ

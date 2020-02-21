@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUETZEL	FREDERICK	8601	1184719890860	825 W OHIO ST	ROCKVILLE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATZ	DAVID	11083	1679596472110	2633 SHIRLEY DR	JACKSON	MI

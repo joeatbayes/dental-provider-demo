@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANGGUTH	TIMOTHY	8076	1609801752807	324 W SUPERIOR ST	DULUTH	MN

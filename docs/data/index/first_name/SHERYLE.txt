@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMLETT	SHERYLE	913	1639200116913	951 E BOGARD RD	WASILLA	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRIEHS	TRESSA	2901018850	1710039904290	1640 FORT ST	TRENTON	MI

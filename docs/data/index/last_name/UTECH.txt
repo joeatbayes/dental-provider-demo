@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UTECH	KELSEY	D13675	1114375722D13	4552 BRYANT AVE S	MINNEAPOLIS	MN

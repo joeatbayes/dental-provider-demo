@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERIAU	BERNARD	56405	1578610887564	12033 AGENCY RD	PARKER	AZ

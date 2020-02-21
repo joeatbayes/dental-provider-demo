@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	HYUNJI	12013262A	1588212310120	330 N JACOB DR	BLOOMINGTON	IN

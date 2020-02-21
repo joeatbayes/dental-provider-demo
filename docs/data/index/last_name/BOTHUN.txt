@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOTHUN	KRISTIN	D12443	1689842726D12	828 HAWTHORNE ST E	SAINT PAUL	MN

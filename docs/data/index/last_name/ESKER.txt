@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESKER	VALERIE	9902	1467513911990	1516 COLEMAN RD STE 201	KNOXVILLE	TN

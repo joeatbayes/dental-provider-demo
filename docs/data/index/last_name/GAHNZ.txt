@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAHNZ	ROBERT	7077	1124057369707	314 2ND ST E # 23	HASTINGS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEIEROE	MARY	10187	1598711921101	701 PARK AVE	MINNEAPOLIS	MN

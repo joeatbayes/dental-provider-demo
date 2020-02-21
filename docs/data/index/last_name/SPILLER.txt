@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPILLER	ROBERT	9429	1114935376942	82 N MAIN ST	SCOTTSBURG	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIDDLE	JEROME	4217	1992880546421	6345 E BELL RD	SCOTTSDALE	AZ

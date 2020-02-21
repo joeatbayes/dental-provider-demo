@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOPPER	KEVIN	D11829	1891877718D11	200 WESTERN AVE NW	FARIBAULT	MN

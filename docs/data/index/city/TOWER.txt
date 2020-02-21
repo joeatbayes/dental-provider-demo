@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKER	BRUCE	9735	1699832410973	415 N 2ND ST	TOWER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHETTER	MINDY	MS19101	1255546891MS1	708 CHIPPEWA SQ	MARQUETTE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TONER	DENISE	16506	1649320805165	205 EAST MAIN ST.	PICKFORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KEHR	ROLAND	D7626	1396965216D76	524 KINGWOOD ST	BRAINERD	MN

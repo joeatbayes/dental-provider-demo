@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEISLER	KRISTA	D11765	1528109303D11	7950 MAINSTREET	MAPLE GROVE	MN

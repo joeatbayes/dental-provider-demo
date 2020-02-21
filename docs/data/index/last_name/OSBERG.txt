@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSBERG	JAMES	D7638	1831106442D76	16518 WEST 78TH STREET	EDEN PRAIRIE	MN

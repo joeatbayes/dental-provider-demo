@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILLMUTH	HAROLD	1755	1871529875175	413 SW THIRD ST	WALNUT RIDGE	AR

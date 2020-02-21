@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JAROSZ	JAMES	8762	1881733061876	925 E SUPERIOR ST	DULUTH	MN

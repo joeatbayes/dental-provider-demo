@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINNA	LEO	7708	1285732511770	1068 SOUTH LAKE STREET	FOREST LAKE	MN

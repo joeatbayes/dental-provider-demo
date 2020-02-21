@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARAN	DOLORES	15013	1023196003150	1103 N MAIN ST	ROYAL OAK	MI

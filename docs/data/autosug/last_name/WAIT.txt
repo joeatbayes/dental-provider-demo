@@ -1,0 +1,3 @@
+WAITE	4
+WAIT	2
+WAITS	2

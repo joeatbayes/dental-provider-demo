@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KINZLER	ANDREW	4265	1326517376426	301 N SHACKLEFORD RD STE B1	LITTLE ROCK	AR

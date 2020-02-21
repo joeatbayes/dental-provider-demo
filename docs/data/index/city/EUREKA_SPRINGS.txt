@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COVINGTON	KENNETH	2502	1992811673250	4052 E VAN BUREN	EUREKA SPRINGS	AR

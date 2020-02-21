@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAEMIG	KARL	D12124	1548264898D12	2330 SIOUX TRL NW	PRIOR LAKE	MN

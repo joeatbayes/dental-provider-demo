@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARPANTY	RONALD	8895	1417049305889	292 W SAINT JOSEPH ST	COLOMA	MI

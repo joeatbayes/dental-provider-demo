@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUDGE	JENNIFER	D7826	1417281494D78	475 E BELL RD	PHOENIX	AZ

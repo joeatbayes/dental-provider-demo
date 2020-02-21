@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUFTMAN	JACK	AZ2341	1710912019AZ2	1820 W THUNDERBIRD RD	PHOENIX	AZ

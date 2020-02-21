@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUCH	EDWARD	7501	1235119785750	3028 E JUANITA CT	GILBERT	AZ

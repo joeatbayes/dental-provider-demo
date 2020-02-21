@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOSIOR	ALBERT	12005701	1881741882120	155 W 86TH AVE	MERRILLVILLE	IN

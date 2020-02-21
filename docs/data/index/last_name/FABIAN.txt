@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FABIAN	JONATHAN	D12523	1336307636D12	405 E MAIN ST	BLOOMING PRAIRIE	MN

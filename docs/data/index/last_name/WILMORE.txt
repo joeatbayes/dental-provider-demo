@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILMORE	ANNE	12010689A	1851423503120	114 4TH ST	TIPTON	IN

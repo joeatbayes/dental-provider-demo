@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANGUTZ	JAMES	2901015639	1982735999290	107 E. EIGHTH ST.	MIO	MI

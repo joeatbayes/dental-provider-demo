@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUBBERTS	NICHOLE	DN19882	1336409358DN1	2700 5 MILE RD NE	GRAND RAPIDS	MI

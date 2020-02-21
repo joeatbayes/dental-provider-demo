@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YOLE	JASON	8052	1174839328805	2178 MCCULLOCH BLVD N	LAKE HAVASU CITY	AZ

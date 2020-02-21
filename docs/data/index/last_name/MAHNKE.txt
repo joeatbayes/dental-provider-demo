@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAHNKE	DARYLE	2901019315	1275654022290	203 E MIDLAND ST	BAY CITY	MI

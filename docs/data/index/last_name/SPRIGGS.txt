@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPRIGGS	CHARLES	8004	1346209103800	4715 N 32ND ST	PHOENIX	AZ

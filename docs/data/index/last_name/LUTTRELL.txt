@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUTTRELL	AARON	12009874	1144375239120	1649 S 6TH ST	TERRE HAUTE	IN

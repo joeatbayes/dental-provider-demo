@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	JUNGWOO	12010693	1710923537120	7545 W BELL RD STE 105	PEORIA	AZ

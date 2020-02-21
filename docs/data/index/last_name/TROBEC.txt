@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TROBEC	PAUL	D12544	1790948883D12	20 16TH AVE. SW	RICE	MN

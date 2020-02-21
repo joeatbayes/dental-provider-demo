@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERICKSON	LARRY	8758	1083683437875	4001 STINSON BLVD NE	ST. ANTHONY	MN

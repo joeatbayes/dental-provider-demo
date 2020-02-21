@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINLEY	TESS	2901600167	1023678562290	67640 S MAIN ST	RICHMOND	MI

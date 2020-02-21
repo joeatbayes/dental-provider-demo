@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLAGETER	KAILEY	D009786	1467982769D00	15182 N 75TH AVE STE 120	PEORIA	AZ

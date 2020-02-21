@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DRINKWATER	CONRAD	101533	1902252752101	9000 N ORACLE RD STE B	ORO VALLEY	AZ

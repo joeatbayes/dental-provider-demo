@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERTANI	JEFFREY	11906	1427123751119	1415 SUNDBY ROAD	DULUTH	MN

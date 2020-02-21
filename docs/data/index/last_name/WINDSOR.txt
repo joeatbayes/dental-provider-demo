@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINDSOR	JACK	12012529A	1760935001120	3430 S 4TH ST	TERRE HAUTE	IN

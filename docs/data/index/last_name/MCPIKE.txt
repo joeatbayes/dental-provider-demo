@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCPIKE	NORMAN	2390	1043391519239	2500 BROWNS LN	JONESBORO	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PROVINCE	DANA	3312	1144359829331	403 E LINCOLN AVE	SEARCY	AR

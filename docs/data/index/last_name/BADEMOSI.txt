@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BADEMOSI	DEBBIE	10041	1801321302100	450 W PASEO REDONDO	TUCSON	AZ

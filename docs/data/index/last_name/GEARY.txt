@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GEARY	SEAN	DN1857141	1730560483DN1	2036 ROBERT ST S	WEST ST PAUL	MN

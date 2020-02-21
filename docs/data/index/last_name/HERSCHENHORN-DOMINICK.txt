@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERSCHENHORN-DOMINICK	JODY	5247	1770669939524	483 W. SEED FARM RD.	SACATON	AZ

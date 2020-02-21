@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADAMS	LALE	8690	1073718706869	670 COLONIAL RD	MEMPHIS	TN

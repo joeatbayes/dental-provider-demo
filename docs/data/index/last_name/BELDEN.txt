@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BELDEN	TERRY	5055	1023187549505	4901 NORTH 44TH STREET	PHOENIX	AZ

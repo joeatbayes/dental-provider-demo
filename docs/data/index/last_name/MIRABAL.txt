@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIRABAL	ROXANA	DNO13951	1528299948DNO	1717 WEST COWLES ST.	FAIRBANKS	AK

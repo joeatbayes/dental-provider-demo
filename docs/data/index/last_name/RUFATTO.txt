@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUFATTO	JOHN	12007204A	1760588784120	1020 W OAK ST	ZIONSVILLE	IN

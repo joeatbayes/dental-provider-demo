@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GAWLIK	JOHN	8175	1740314939817	8100 PENN AVE SOUTH	BLOOMINGTON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SESSOMS	WILLIAM	2445	1932264876244	2702 S MAIN ST	STUTTGART	AR

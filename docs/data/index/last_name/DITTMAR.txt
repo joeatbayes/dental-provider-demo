@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DITTMAR	ERICH	2901016477	1265619514290	10415 GRAND RIVER RD	BRIGHTON	MI

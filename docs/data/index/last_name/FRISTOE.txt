@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRISTOE	DANIEL	9385	1679692065938	3001 HARBOR LN N	PLYMOUTH	MN

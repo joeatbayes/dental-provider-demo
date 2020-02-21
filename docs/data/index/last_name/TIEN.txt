@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TIEN	SARAH	319019500	1639547946319	3099 CENTRAL AVE	LAKE STATION	IN

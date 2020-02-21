@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POTTS	ELIHUE	2901013256	1093852709290	117 W PATERSON ST	KALAMAZOO	MI

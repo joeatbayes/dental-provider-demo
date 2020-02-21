@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUESKE	DEWANE	D009138	1467848242D00	4824 E BASELINE RD	MESA	AZ

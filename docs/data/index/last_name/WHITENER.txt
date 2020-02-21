@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WHITENER	SCOTT	D5908	1124083936D59	829 E UNIVERSITY DR	MESA	AZ

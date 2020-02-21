@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RAFI	AMANDA	D009533	1003269671D00	267 E BELL RD STE 3	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURMEISTER	BRIAN	11659	1477527836116	159 18TH ST SW	OWATONNA	MN

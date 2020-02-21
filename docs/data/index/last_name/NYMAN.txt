@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NYMAN	RICHARD	7335	1730178542733	6460 MAIN ST	NORTH BRANCH	MN

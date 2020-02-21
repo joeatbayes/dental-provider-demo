@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JESTER	MICHAEL	12008644A	1114166535120	16 PUBLIC SQ	SHELBYVILLE	IN

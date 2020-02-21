@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANAUTOU	MARIA	2901017368	1699885319290	20901 MOROSS RD	DETROIT	MI

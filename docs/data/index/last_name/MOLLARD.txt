@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOLLARD	DENNIS	10458	1902958275104	508 W LAKE ST	TAWAS CITY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REAVIS	CHRISTOPHER	5097	1629140314509	1526 W GLENDALE AVE	PHOENIX	AZ

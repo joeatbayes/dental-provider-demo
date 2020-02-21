@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULHOF	KEITH	19027932	1285869081190	1845 GRAND AVE	SAINT PAUL	MN

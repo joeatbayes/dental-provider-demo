@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VESTER	STEPHEN	2526	1073601969252	250 BUCHER DRIVE	MOUNTAIN HOME	AR

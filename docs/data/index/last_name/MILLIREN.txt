@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLIREN	MICHAEL	9846	1245300920984	925 HIGHWAY 55	HASTINGS	MN

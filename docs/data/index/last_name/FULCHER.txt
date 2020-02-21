@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FULCHER	WILLIAM	D7800	1912230715D78	1959 S VAL VISTA DR STE 118	MESA	AZ

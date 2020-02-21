@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURSCH	LEVI	D14219	1932767688D14	3570 RIVER RAPIDS DR NW # 110	COON RAPIDS	MN

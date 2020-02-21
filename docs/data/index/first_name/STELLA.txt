@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KITZENBERG	STELLA	9694	1679775449969	3939 W 50TH ST STE 201	EDINA	MN

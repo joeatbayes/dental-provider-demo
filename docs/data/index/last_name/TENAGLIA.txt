@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TENAGLIA	CHRISTINE	16093	1205918687160	3985 OKEMOS RD	OKEMOS	MI

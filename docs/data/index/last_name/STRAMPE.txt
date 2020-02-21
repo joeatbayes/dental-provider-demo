@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STRAMPE	JAMES	7971	1578667937797	21343 ARCHIBALD ROAD	DEERWOOD	MN

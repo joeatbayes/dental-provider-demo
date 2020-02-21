@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PADEN	ANTHONY	568	1396878062568	223 S ALASKA ST	PALMER	AK

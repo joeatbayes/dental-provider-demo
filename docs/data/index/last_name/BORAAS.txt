@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORAAS	JOANN	9654	1659585891965	6945 PENN AVE S	RICHFIELD	MN

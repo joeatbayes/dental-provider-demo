@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOUQUET	BERNARD	D9524	1437219797D95	1008 12TH ST SE	ROCHESTER	MN

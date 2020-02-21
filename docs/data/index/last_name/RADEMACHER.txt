@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RADEMACHER	ANTHONY	1609254069	1609254069616	1459 POST AVE	HOLLAND	MI

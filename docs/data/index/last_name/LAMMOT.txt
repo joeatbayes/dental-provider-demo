@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMMOT	THOMAS	D6278	1568683647D62	20950 N TATUM BLVD	PHOENIX	AZ

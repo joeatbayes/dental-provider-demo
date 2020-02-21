@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHAKESPEAR	SCOTT	D008463	1992052401D00	34764 N LAREDO CT	QUEEN CREEK	AZ

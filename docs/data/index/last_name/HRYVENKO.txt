@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HRYVENKO	IRYNA	R665	1679026595R66	515 DELAWARE ST SE	MINNEAPOLIS	MN

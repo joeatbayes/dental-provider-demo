@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GODINA	SHELLIE	12011803A	1154661247120	422 N BENTON ST	MILLERSBURG	IN

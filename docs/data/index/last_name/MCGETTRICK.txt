@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGETTRICK	SHANNA	2901020026	1922234988290	6804 MEADOW CT	TROY	MI

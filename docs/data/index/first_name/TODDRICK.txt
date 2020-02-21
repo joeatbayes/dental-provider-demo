@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	TODDRICK	8676	1497928485867	6611 KIRBY CENTER CV	MEMPHIS	TN

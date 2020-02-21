@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NICKMAN	JAMES	D1163	1184691529D11	411 MAIN ST	SAINT PAUL	MN

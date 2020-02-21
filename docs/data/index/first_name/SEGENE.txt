@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAHN	SEGENE	2901017554	1861526287290	6735 CASCADE RD SE	GRAND RAPIDS	MI

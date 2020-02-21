@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENC	HEATHER	D008983	1699157057D00	105 N LITCHFIELD RD	GOODYEAR	AZ

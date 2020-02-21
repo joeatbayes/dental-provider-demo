@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALENZUELA	ANTHONY	3330AZ	1396818332333	17606 N 59TH AVE	GLENDALE	AZ

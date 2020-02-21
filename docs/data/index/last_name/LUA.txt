@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUA	MARIE	D10927	1932320223D10	6545 FRANCE AVE S	EDINA	MN

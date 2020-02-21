@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BICKFORD	HEATHER	D13048	1396055976D13	107 DUPONT AVE NW	RENVILLE	MN

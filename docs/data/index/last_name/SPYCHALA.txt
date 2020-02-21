@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPYCHALA	JASON	D12394	1720286719D12	311 1ST ST N	COLD SPRING	MN

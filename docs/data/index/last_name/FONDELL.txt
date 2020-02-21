@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FONDELL	CHRIS	8991	1669438156899	10554 FRANCE AV S	BLOOMINGTON	MN

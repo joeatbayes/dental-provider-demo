@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIGLER	MOLLY	12010400	1780714436120	234 N FIRST ST	DECATUR	IN

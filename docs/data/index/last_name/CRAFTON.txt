@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRAFTON	LEO	2503	1902931082250	550 CHESTNUT ST	CONWAY	AR

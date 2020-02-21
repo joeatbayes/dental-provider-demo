@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLOEGER	AMY	12009979	1578637872120	8788 S STATE ROAD 109	KNIGHTSTOWN	IN

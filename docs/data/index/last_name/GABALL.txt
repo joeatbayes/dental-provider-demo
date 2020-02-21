@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GABALL	EARL	9608	1093919193960	250 NORTH AVE	BATTLE CREEK	MI

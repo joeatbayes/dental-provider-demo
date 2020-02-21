@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FENSHOLT	BRIDGET	9240	1922170828924	107 7TH AVE SOUTH	SOUTH ST PAUL	MN

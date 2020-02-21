@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAUGHTERY	MAEGAN	2901021773	1942628250290	16800 W 12 MILE RD	SOUTHFIELD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOMERLOTT	RICHARD	9863	1265472294986	15870 19 MILE RD	CLINTON TWP	MI

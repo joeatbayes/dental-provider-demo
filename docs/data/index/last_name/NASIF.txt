@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NASIF	MICHEL	10165	1174572036101	5123 W SAINT JOSEPH HWY	LANSING	MI

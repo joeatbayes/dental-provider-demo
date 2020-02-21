@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIKOLAUS	CRAIG	D0009395	1831557230D00	1583 PRESCOTT VIEW CIR	PRESCOTT	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BROTHERTON	LEN	2945	1750403648294	419 THOMPSON AVE	EL DORADO	AR

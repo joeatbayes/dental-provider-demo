@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EDWARDS	CHARLY	10762	1356833602107	1007 E REELFOOT AVE	UNION CITY	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAINIO	JOHN	D7366	1295846996D73	2730 PIEDMONT AVE	DULUTH	MN

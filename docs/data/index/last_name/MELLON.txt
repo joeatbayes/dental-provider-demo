@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MELLON	MEREDITH	7864	1225102882786	2001 W LINCOLN AVE	FERGUS FALLS	MN

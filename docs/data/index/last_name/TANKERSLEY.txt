@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TANKERSLEY	STEPHEN	11354	1477629087113	226 S LINCOLN AVE	NILES	MI

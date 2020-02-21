@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARIBEAU	JOHN	7794	1821268673779	4914 MAIN ST	ONEKAMA	MI

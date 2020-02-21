@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOLLER	JAMES	10366	1902895642103	2534 7TH AVE E	NORTH SAINT PAUL	MN

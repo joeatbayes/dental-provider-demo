@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CERGNUL	ANGELA	2901020279	1326352345290	6213 CHICAGO RD	WARREN	MI

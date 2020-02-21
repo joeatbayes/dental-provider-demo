@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PFEIFFER BEDARD	ANGELA	D12916	1336441807D12	165 19TH ST S	SARTELL	MN

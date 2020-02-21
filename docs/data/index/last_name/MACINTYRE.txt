@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACINTYRE	CLAIRE	12011659A	1245500156120	901 3RD ST	COLUMBUS	IN

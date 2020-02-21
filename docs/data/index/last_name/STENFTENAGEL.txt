@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STENFTENAGEL	BRENDA	12009150	1780778597120	3204 LANCER ST	PORTAGE	IN

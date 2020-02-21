@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEOPLES	SPENCER	8190	1114236973819	1277 E MISSOURI AVE	PHOENIX	AZ

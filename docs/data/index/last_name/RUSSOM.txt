@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUSSOM	BILLY	AR2169	1114013067AR2	211 HOSPITAL DR	CORNING	AR

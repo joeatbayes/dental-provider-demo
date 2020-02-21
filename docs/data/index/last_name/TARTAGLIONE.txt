@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARTAGLIONE	LISA	15362	1821146903153	2251 E PARIS AVE SE	GRAND RAPIDS	MI

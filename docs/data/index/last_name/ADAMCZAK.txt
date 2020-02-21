@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADAMCZAK	JAMES	D9664	1023190642D96	200 WESTERN AVENUE NW	FARIBAULT	MN

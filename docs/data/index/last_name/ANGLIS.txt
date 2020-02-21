@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANGLIS	LEONARD	7805	1447390885780	1549 S COURT ST STE C	CROWN POINT	IN

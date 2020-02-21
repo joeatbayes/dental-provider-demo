@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRANSETH	GARY	8669	1467534271866	1201 GILMORE AVE	WINONA	MN

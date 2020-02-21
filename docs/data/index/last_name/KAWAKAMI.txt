@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAWAKAMI	ALAN	2044	1821172131204	2700 E FRY BLVD	SIERRA VISTA	AZ

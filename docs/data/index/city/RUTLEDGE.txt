@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FOUTCH	WOODARD	DS2631	1831286640DS2	7786 RUTLEDGE PIKE	RUTLEDGE	TN

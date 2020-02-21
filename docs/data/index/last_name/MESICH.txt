@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MESICH	LAWRENCE	3963	1265577704396	730 E 11TH ST	CHATTANOOGA	TN

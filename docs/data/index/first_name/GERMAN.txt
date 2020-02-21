@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIERRA	GERMAN	4607	1255396313460	155 W CENTER ST	SNOWFLAKE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VARLEY	LAWRENCE	D14755	1174732671D14	32910 W 13 MILE RD	FARMINGTON HILLS	MI

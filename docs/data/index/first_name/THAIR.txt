@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STIPHO	THAIR	17478	1174552921174	3120 CARPENTER ST	HAMTRAMCK	MI

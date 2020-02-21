@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YANG	PA	D13663	1336596527D13	1670 BEAM AVE STE 204	MAPLEWOOD	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TILLMAN	JOHN	DS 3236	1558493080DS3	400 E WATAUGA AVE	JOHNSON CITY	TN

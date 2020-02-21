@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUSSMAUL	JOHN	12007811A	1811011158120	934 RICHARD RD	DYER	IN

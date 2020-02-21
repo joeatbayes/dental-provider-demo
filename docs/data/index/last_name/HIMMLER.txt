@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIMMLER	PAUL	10182	1962476226101	50 W 2ND ST	WINONA	MN

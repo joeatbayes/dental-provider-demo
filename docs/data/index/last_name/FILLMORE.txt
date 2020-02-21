@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FILLMORE	PAUL	1885	1669527529188	107 N GREENFIELD RD	MESA	AZ

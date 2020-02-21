@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIDTLING	JAMES	10555	1194702647105	155 WABASHA ST S	SAINT PAUL	MN

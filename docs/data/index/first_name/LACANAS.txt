@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACK	LACANAS	7919	1891830063791	183 TILLMAN ST	MEMPHIS	TN

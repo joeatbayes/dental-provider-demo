@@ -1,0 +1,2 @@
+MAI_CHI	1
+MAI_LY	1

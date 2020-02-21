@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUILLER	MARGARET	105293	1528069028105	"HIGHWAY 264, MP 388"	POLACCA	AZ

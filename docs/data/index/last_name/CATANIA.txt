@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CATANIA	ANTHONY	11277	1821170226112	1000 W UNIVERSITY DR	ROCHESTER	MI

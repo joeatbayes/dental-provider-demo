@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAPP	COLE	100368	1801277033100	880 E END RD	HOMER	AK

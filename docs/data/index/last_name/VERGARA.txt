@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VERGARA	STEVEN	4299	1548418007429	350 S WILLARD ST	COTTONWOOD	AZ

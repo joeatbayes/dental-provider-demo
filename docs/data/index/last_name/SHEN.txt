@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHEN	YENSHUO	DS039043	1558621086DS0	116 ELTON HILLS LN NW	ROCHESTER	MN

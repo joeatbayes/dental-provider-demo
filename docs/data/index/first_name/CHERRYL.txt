@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLISON	CHERRYL	12013148A	1407414956120	105 COMMUNITY DR STE A	SEYMOUR	IN

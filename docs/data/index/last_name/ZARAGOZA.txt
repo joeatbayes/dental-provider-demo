@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZARAGOZA	ANDREW	D14238	1558929901D14	5107 GUS YOUNG LN	EDINA	MN

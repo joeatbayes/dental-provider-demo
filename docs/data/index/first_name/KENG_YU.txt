@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHEN	KENG YU	29507	1841617586295	1060 GAFFNEY RD	FORT WAINWRIGHT	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAMERLOH	KERRY	12007679	1730138280120	1133 N MAIN ST	BLUFFTON	IN

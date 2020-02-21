@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KUNZ	FREDERICK	4083	1023102076408	8940 GREENBELT DR	ANCHORAGE	AK

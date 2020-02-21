@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOURY	WENDY	D10401	1578551503D10	2418 ENTERPRISE DR	MENDOTA HEIGHTS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PATET	G	9975	1801905161997	1068 S LAKE STREET	FOREST LAKE	MN

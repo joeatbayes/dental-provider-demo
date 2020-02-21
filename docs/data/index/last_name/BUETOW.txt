@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUETOW	ERIC	523	1174695803523	2933 HORSESHOE WAY	NORTH POLE	AK

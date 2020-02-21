@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LORENTZEN	STEVEN	D9101	1073735627D91	5500 WAYZATA BLVD	GOLDEN VALLEY	MN

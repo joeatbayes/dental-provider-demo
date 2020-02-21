@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUNEZ	11HECTOR	4347	1699824540434	4501 W INDIAN SCHOOL RD	PHOENIX	AZ

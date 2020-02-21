@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EUDALY	ERIN	9652	1215376652965	8020 US HIGHWAY 51 N	MILLINGTON	TN

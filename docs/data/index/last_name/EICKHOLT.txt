@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EICKHOLT	LYNN	2901019857	1669636072290	5716 MICHIGAN AVE	DETROIT	MI

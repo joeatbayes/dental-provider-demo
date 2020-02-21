@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POOLEY	TOM	D12049	1588939607D12	124 E WALNUT ST	MANKATO	MN

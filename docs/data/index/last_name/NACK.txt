@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NACK	THOMAS	8039	1538472600803	4996 S POWER RD	MESA	AZ

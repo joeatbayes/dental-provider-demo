@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYANT	LANORA	DS3606	1902972706DS3	804 N PARKWAY	JACKSON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MACARAEG	TERESA	5415	1639207293541	8295 CORDOVA ROAD	CORDOVA	TN

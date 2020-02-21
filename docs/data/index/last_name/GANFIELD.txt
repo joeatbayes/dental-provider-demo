@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GANFIELD	CHRISTINA	12194	1396818654121	21 NE FRONTAGE RD	BYRON	MN

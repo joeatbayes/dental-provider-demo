@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MUNZ	STEPHANIE	2901020386	1104119114290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

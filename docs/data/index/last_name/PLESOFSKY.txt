@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PLESOFSKY	CHARLES	DS1069	1528133352DS1	4515 POPLAR AVE	MEMPHIS	TN

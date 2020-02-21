@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOY	ANGELA	D12081	1497713440D12	1435 WHITE OAK DRIVE	CHASKA	MN

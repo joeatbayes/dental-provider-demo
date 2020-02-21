@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DONNAY	PAUL	9529	1619040557952	406 W HIGHWAY ST	DODGE CENTER	MN

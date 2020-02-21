@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERHOEK	HAROLD	1582	1942318365158	1729 PASCO SAN LUIS	SIERRA VISTA	AZ

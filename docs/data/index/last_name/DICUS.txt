@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DICUS	ROBERT	1613	1033121934161	7500 E MCDONALD DR	SCOTTSDALE	AZ

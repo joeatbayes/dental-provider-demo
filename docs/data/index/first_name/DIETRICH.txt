@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAWRENZ	DIETRICH	11096DDS	1215964481110	3905 SILVER LAKE RD	ST ANTHONY	MN

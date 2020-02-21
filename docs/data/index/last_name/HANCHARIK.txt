@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANCHARIK	THOMAS	DS-16710-L	1679683478DS-	5500 ARMSTRONG RD	BATTLE CREEK	MI

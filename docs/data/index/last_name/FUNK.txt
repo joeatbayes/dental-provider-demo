@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUNK	TODD	9937	1013928894993	80 W 3RD ST	WINONA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOGARD	LOUIS	DS0000006956	1225174287DS0	10825 OLD HWY 64	BOLIVAR	TN

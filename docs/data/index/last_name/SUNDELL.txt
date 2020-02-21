@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUNDELL	TACY	3352	1689687584335	11300 CANTRELL RD STE 303	LITTLE ROCK	AR

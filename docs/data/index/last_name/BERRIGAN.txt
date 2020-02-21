@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERRIGAN	KAREN	3549	1285799809354	20100 NORTH 51ST AVE #B-230	GLENDALE	AZ

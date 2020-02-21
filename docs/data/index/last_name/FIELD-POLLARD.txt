@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FIELD-POLLARD	SCHENNEL	10068	1114365772100	4149 TIMOTHY DR	NASHVILLE	TN

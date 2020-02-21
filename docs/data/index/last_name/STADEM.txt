@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STADEM	PAUL	8968	1336247980896	706 DEMERS AVE	EAST GRAND FORKS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUSSIER	CRAIG	5992	1770507865599	500 N. HWY 89	PRESCOTT	AZ

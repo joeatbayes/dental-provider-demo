@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BENTLEY	SONJA	DS0000004594	1851428346DS0	205 5TH AVE W	SPRINGFIELD	TN

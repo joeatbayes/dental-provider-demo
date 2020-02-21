@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOZAK	STEPHEN	2901007089	1508891813290	1615 MICHIGAN AVE	BALDWIN	MI

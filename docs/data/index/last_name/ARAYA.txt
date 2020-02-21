@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARAYA	NEETA	5573	1235190083557	2051 W WARNER RD	CHANDLER	AZ

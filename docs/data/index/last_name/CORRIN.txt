@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORRIN	LUCY	D13985	1770073322D13	303 MAIN AVE	BIGFORK	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIMELWRIGHT	BRIAN	DS6932	1548332679DS6	8 SHERIDAN SQ STE 100	KINGSPORT	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUFFIELD	LAWRENCE	13218	1326038266132	2009 CROOKS RD	ROYAL OAK	MI

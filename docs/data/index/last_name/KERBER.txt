@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KERBER	TROY	7476	1528273190747	433 E PARKVIEW ST	DYERSBURG	TN

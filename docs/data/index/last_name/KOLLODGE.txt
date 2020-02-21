@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOLLODGE	THOMAS	9549	1710098819954	5100 GAMBLE DR	ST LOUIS PARK	MN

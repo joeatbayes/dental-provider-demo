@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOBACK	MARK	7982	1700997327798	22 W 3RD AVE N	AURORA	MN

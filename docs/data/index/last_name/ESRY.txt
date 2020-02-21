@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESRY	SHELBY	3990	1346658242399	3200 ROGERS AVE. SUITE 111	FORT SMITH	AR

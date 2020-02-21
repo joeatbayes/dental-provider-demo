@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOPEZ	JAMES	4357	1174184923435	5901 RILEY PARK DRIVE	FORT SMTIH	AR

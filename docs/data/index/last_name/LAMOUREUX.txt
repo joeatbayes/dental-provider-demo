@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAMOUREUX	JODI	D1211	1437121944D12	7766 HIGHWAY 65 NE	SPRING LAKE PARK	MN

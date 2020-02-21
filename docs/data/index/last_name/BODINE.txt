@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BODINE	MELINDA	12012129A	1639581507120	310 E LINCOLN ST	KENTLAND	IN

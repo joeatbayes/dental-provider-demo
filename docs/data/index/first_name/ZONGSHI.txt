@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JI	ZONGSHI	D11729	1073558060D11	9202 202ND ST W	LAKEVILLE	MN

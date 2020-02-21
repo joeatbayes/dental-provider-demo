@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LATIF	NASIR	D12215	1306998265D12	12936 63RD AVE N	MAPLE GROVE	MN

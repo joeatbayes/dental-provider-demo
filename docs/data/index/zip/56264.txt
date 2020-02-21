@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHULTE	ROBERT	7706	1528149986770	102 E 1ST ST.	MINNEOTA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOLLERMAN	DAVIDA	7837	1487826806783	525 N MAIN ST	MEMPHIS	TN

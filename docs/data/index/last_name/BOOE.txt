@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOOE	MEGAN	12012174A	1336553908120	1206 N 1000 W	LINTON	IN

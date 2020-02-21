@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THUESON	KENNETH	2395	1427259928239	899 N WILMOT RD	TUCSON	AZ

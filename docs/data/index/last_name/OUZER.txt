@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OUZER	AMANDA	57462	1760801971574	435 W COLISEUM BLVD	FORT WAYNE	IN

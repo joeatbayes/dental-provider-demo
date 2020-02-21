@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DERSE	JENNIFER	6701	1063470268670	10630 N SCOTTSDALE RD	SCOTTSDALE	AZ

@@ -1,0 +1,3 @@
+HALE	7
+HALEY	6
+HALES	2

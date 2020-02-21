@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUMANN	ALAN	D7656	1730335464D76	828 HAWTHORNE ST E	SAINT PAUL	MN

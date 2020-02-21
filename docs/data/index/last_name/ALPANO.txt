@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALPANO	ELLEN FAYE	13745	1912036013137	HIGHWAY 264 MILEPOST 388	POLACCA	AZ

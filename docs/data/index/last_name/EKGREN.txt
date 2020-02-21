@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EKGREN	NANCY	D12053	1851456917D12	1766 DUPONT AVE S	MINNEAPOLIS	MN

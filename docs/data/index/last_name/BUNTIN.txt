@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BUNTIN	JOHN	2346	1750433686234	312 MISSOURI ST	WEST MEMPHIS	AR

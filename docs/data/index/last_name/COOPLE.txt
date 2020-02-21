@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COOPLE	TALMAGE	D7991	1659691079D79	2217 W HAPPY VALLEY RD	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RODRIGUEZ	JORAN	2695	1104839315269	815 MARSHALL RD	JACKSONVILLE	AR

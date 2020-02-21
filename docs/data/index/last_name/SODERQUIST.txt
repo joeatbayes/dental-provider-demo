@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SODERQUIST	KAREN	18115	1417070111181	3085 W RUSSELL RD	TECUMSEH	MI

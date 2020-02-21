@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAATZ	JENNIFER	D11140	1063571057D11	1835 COUNTY ROAD C W	ROSEVILLE	MN

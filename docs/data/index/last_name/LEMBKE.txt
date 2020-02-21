@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEMBKE	BRADLEY	10519	1871545970105	480 W 78TH ST	CHANHASSEN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TEIMAN	JESSICA	D010008	1770068355D01	15425 S 40TH PL	PHOENIX	AZ

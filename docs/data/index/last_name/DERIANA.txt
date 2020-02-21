@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DERIANA	RONALD	D3161	1811902471D31	1607 W INA RD	TUCSON	AZ

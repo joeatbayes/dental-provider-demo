@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FUSCO	ADAM	DS8177	1063434934DS8	60 CROSSVILLE MEDICAL DR	CROSSVILLE	TN

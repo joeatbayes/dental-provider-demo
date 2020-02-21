@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FIELD	TAYLOR	6799	1174976096679	4388 N CIVIC CENTER PLZ STE 100	SCOTTSDALE	AZ

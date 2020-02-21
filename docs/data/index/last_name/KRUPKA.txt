@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRUPKA	MICHAEL	3202	1053533968320	3207 ARAPAHO DR	ROGERS	AR

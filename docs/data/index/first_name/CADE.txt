@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMITH	CADE	6182	1285759597618	4726 E THOMAS RD	PHOENIX	AZ

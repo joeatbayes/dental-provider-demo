@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREMSTAD	JAMES	7745	1669422531774	102 FRONT ST S	BARNESVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BECHT	ANDREW	12012726A	1518488105120	1570 W HOSPITAL RD	PAOLI	IN

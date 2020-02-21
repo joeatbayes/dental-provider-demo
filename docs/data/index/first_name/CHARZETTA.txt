@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORE	CHARZETTA	2901014832	1417182197290	14411 W 8 MILE	DETROIT	MI

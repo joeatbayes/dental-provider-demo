@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOPEZ FRANCO	GLORIA	D12522	1346400025D12	120 SNELLING AVE N	SAINT PAUL	MN

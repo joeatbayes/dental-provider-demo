@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEDERMANN	KIM	D11715	1205991726D11	2550 UNIVERSITY AVE W	SAINT PAUL	MN

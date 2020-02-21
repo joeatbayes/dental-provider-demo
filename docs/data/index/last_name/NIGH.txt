@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NIGH	CHRISTOPHER	12007421A	1124268040120	206 N 1ST AVE	EVANSVILLE	IN

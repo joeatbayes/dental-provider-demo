@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIGRE	ROLLAND	8432	1548352552843	115 NORTH MAIN ST	HENDRICKS	MN

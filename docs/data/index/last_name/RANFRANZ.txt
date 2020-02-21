@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RANFRANZ	JAY	D13385	1982018008D13	217 W NASSAU ST	SAINT PETER	MN

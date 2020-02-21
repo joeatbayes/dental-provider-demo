@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STULEANU	RALUCA	18061	1003826223180	1100 1ST AVE N	ESCANABA	MI

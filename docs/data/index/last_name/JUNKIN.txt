@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUNKIN	JONATHAN	2987	1144297821298	95 US HIGHWAY 51 BYP W	DYERSBURG	TN

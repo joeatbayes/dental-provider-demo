@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AZIZI	LAWLAY	D07896	1669668307D07	10452 E QUARTZ ROCK RD	SCOTTSDALE	AZ

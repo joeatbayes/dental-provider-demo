@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SILKER	EDWARD	7915	1558470153791	21343 ARCHIBALD RD	DEERWOOD	MN

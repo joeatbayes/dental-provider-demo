@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALEGAONKAR	ARCHANA	D12362	1013161298D12	200 WESTERN AVE NW	FARIBAULT	MN

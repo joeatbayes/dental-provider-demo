@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TODD	EDWARD	398	1104972744398	3732 BEN WALTERS LN	HOMER	AK

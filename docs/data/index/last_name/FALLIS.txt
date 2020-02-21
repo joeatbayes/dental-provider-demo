@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FALLIS	DALE	2550	1497765903255	10500 W MARKHAM ST	LITTLE ROCK	AR

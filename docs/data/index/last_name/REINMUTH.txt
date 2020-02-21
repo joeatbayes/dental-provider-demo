@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REINMUTH	RONALD	9273	1346389111927	112 3RD ST	GAYLORD	MN

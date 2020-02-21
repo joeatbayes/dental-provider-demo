@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEEDMAN	SAVANNAH	54225	1770802613542	1441 N 12TH ST FL 3	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLER	RICHARD	8513	1154480119851	760 ASH AVE	BIRD ISLAND	MN

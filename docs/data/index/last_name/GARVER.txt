@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARVER	JOSHUA	12010444	1417022286120	230 N MORTON ST	BLOOMINGTON	IN

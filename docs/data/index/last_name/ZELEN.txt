@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZELEN	CAMILLE	6796	1104078716679	230 E CENTRAL ENTRANCE	DULUTH	MN

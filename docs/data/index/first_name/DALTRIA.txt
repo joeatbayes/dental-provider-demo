@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LI	DALTRIA	10517	1447780531105	5110 MARYLAND WAY STE 190	BRENTWOOD	TN

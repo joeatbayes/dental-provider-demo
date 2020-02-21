@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOPER	THOMAS	D12832	1437452844D12	2022 WEST 53RD STREET	MINNEAPOLIS	MN

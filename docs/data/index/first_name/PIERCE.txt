@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOODMAN	PIERCE	2539	1073702056253	521 W WETMORE RD	TUCSON	AZ

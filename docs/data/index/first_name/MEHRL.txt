@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLSWORTH	MEHRL	D2187	1659458651D21	111 W WIGWAM BLVD	LITCHFIELD PARK	AZ

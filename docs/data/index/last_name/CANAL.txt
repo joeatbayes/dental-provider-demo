@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CANAL	CHAD	12012477A	1497105316120	2241 STATE ST STE C	NEW ALBANY	IN

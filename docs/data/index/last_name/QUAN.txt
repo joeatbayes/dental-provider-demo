@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUAN	TOAN	D10242	1770660573D10	5909 PORTLAND AVE S	MINNEAPOLIS	MN

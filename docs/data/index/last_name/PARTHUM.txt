@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARTHUM	MICHAEL	2901012913	1942410857290	502 N CROOKS RD	CLAWSON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDUL-HAQQ	JEREMY	D009751	1952760241D00	3101 W INDIAN SCHOOL RD	PHOENIX	AZ

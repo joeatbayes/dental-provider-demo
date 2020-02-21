@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALERIANO	VIVECA	AZ4720	1366655805AZ4	4411 E. 5TH STREET	TUCSON	AZ

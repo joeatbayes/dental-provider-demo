@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCARR	ROBERT	D6734	1851398762D67	899 N WILMOT RD	TUCSON	AZ

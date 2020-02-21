@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDEN	EDWARD	D4782	1740391945D47	1604 1ST ST S	WILLMAR	MN

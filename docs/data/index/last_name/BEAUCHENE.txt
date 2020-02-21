@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEAUCHENE	BRADLEY	D14189	1679139737D14	190 LAKE DR E STE 130	CHANHASSEN	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TALIAFERRO	MADISON	2594	1902077050259	372 CORAL RD	MALVERN	AR

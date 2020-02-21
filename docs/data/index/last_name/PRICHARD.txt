@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRICHARD	RICHARD	DS4212	1578554085DS4	10480 WALDEN ST	SODDY DAISY	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OHLAND	MAUREEN	D10264	1619994480D10	1790 LEXINGTON AVE N	ROSEVILLE	MN

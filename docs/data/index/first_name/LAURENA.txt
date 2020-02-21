@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORE POWELL	LAURENA	18029	1790901643180	14356 E JEFFERSON AVE	DETROIT	MI

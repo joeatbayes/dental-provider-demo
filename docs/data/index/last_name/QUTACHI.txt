@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUTACHI	LEEN	401416150	1083100564401	1703 W BETHANY HOME RD STE C1	PHOENIX	AZ

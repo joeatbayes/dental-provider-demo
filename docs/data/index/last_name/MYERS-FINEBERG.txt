@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MYERS-FINEBERG	JENNIFER	4492	1760597835449	6750 W DEER VALLEY RD	GLENDALE	AZ

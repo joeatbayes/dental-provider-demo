@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHOI	YUBIN	D14285	1790347037D14	6411 RICHFIELD PKWY	RICHFIELD	MN

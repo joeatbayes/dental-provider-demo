@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHIN	JAE MIN	2901022228	1700384963290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

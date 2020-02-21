@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAWTHORNE	GARY	2783	1952412850278	1803 S GREENWOOD AVE	FORT SMITH	AR

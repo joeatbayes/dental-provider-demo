@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SONNEBORN-TURNOCK	AMY	12009267A	1841400264120	1902 N MAIN ST	MISHAWAKA	IN

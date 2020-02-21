@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OHLSEN	MARK	10296	1962700245102	505 4TH ST NW	FARIBAULT	MN

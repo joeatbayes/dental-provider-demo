@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINTON	JASINA	8266	1245308337826	1000 HAYNES ST	MEMPHIS	TN

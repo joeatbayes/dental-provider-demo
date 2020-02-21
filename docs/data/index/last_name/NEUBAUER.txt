@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEUBAUER	BRUCE	8521	1770692386852	1430 HIGHWAY 96	WHITE BEAR LAKE	MN

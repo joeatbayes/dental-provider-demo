@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRUSS	THOMAS	8665	1689741951866	4201 MINNEHAHA AVE SO	MINNEAPOLIS	MN

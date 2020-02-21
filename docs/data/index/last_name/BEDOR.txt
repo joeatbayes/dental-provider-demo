@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEDOR	JAMES	13124	1134158595131	95 N WILLIAMS LAKE RD	WHITE LAKE	MI

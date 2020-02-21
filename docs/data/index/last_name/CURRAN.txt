@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CURRAN	RONALD	D11003	1790870392D11	701 25TH AVE S STE 400	MINNEAPOLIS	MN

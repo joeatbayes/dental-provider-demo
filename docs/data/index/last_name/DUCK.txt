@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUCK	ANDREW	3850	1851661003385	2111 S OLD MISSOURI RD	SPRINGDALE	AR

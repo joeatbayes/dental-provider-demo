@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCOTT-HETCHLER	HOLLY	2901018509	1902930985290	1801 E SAGINAW ST	LANSING	MI

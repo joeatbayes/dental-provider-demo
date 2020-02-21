@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+IDZIOREK	ROBERT	8670	1730283342867	4891 MILLER TRUNK HWY	DULUTH	MN

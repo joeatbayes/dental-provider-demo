@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AGRIESTI	CHARLES	3979	1881848984397	2838 HICKORY HILL RD	MEMPHIS	TN

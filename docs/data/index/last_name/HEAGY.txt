@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEAGY	WILLIAM	AA615	1376615369AA6	1200 AIRPORT HEIGHTS DR	ANCHORAGE	AK

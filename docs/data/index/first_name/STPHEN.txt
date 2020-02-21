@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MANCUSO	STPHEN	13779	1225096589137	7350 W MICHIGAN AVE	PIGEON	MI

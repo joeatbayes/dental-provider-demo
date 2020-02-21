@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WRUBLE	AMANDA	6518	1528117975651	4080 W RAY RD	CHANDLER	AZ

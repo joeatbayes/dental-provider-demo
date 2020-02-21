@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUCIW	DAVID	11466	1336359579114	4914 HIGHLAND RD	WATERFORD	MI

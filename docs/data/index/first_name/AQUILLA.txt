@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPREWELL	AQUILLA	1457888174	1457888174615	445 HIGHWAY 46 S	DICKSON	TN

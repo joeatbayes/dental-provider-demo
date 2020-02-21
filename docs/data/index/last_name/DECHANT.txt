@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DECHANT	JENNIFER	D11366	1396817227D11	109 S 7TH ST	MINNEAPOLIS	MN

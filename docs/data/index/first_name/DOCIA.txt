@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGAN	DOCIA	D11899	1144306101D11	12233 CHAMPLIN DR	CHAMPLIN	MN

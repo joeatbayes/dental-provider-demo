@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAWSON	MALLORIE	12012482A	1154778298120	3711 W 86TH ST	INDIANAPOLIS	IN

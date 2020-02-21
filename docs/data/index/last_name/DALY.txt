@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DALY	MAEVE	2901022662	1306331202290	2215 FULLER RD	ANN ARBOR	MI

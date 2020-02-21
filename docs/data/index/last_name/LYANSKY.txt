@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LYANSKY	RITA	11287	1770657611112	5020 MINNETONKA BLVD	ST LOUIS PARK	MN

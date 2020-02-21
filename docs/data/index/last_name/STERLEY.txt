@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STERLEY	DIRK	7385	1275562530738	6545 CARROLLTON AVE	INDIANAPOLIS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLEMAN	RICHARD	2901010101	1194877712290	408 SOUTH SOPHIA ST	HOMER	MI

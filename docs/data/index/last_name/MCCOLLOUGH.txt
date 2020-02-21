@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCCOLLOUGH	TREVOR	DEN4572	1598285454DEN	4325 GRAND AVE	DULUTH	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOKAR	ALAN	2901010925	1003894049290	224 NEWBERRY AVE	NEWBERRY	MI

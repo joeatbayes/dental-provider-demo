@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ANOSKEY	JOHN	12007968A	1861412124120	950 S KENMORE DR	EVANSVILLE	IN

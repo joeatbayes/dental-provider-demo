@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLTZ	LINDA	13282	1336273846132	800 S EUCLID AVE	BAY CITY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PEEK	PAUL	2786	1538221965278	1421 CENTRAL AVE	HOT SPRINGS	AR

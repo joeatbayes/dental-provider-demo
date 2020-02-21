@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MATHIASON	BRUCE	D8569	1366405722D85	400 7TH ST	WALNUT GROVE	MN

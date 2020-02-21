@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUMBERT	STEPHEN	8822	1396969234882	106 W 6TH ST	HASTINGS	MN

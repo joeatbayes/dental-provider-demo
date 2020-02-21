@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WACHLAROWICZ	JAMES	8937	1457572844893	526 MAIN ST S	SAUK CENTRE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FULLHART	TED	12006009A	1992783740120	3715 S MADISON ST	MUNCIE	IN

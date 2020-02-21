@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARMATIS	JOHN	2901011885	1871671321290	1495 FORT ST	WYANDOTTE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIEDERER	MARK	AA651	1366465882AA6	9309 GLACIER HWY	JUNEAU	AK

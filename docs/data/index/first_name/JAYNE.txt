@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CERNOHOUS	JAYNE	D10614	1902884760D10	8960 SPRINGBROOK DR NW	COON RAPIDS	MN

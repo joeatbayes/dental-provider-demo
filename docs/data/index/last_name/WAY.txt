@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAY	CAROLYN	13531	1932384708135	751 CHESTNUT STREET	BIRMINGHAM	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILLNER	DONALD	8673	1336225838867	204 WEST JAMES STREET	PAYNESVILLE	MN

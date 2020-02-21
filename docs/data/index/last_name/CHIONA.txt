@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHIONA	DAFNI	R545	1780938670R54	229 RIDGEWOOD AVE	MINNEAPOLIS	MN

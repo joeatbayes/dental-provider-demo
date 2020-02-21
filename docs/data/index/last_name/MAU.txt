@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAU	KRISTIN	2901018615	1164631131290	400 S NELSON ST	POTTERVILLE	MI

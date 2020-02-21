@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THUMM	JOHN	9569	1194877050956	204 W. STATE ST	MANCELONA	MI

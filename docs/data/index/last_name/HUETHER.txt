@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUETHER	KURTIS	D11497	1255499547D11	3715 BRIDGE ST NW	ST FRANCIS	MN

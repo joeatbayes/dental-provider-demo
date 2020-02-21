@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRYGSTAD	PAUL	9087	1265582472908	123 WATERFRONT DRIVE	TWO HARBORS	MN

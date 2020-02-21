@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRIFTAKIS	STEPHEN	5811	1780688176581	1625 W INA RD STE 109	TUCSON	AZ

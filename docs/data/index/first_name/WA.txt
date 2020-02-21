@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAO	WA	D5986	1356394910D59	1055 N LA CANADA DR	GREEN VALLEY	AZ

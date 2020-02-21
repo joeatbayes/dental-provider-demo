@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KREAGER	NATHANAEL	D13221	1689012320D13	1963 ROBERT ST S # 100	WEST SAINT PAUL	MN

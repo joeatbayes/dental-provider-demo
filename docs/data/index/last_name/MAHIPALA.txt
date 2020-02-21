@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MAHIPALA	KEITH	32928	1972027811329	1717 W COWLES ST	FAIRBANKS	AK

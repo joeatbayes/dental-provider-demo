@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MISCO	STEPHANIE	2901021311	1952715906290	1515 E. HOSPITAL DRIVE	ANN ARBOR	MI

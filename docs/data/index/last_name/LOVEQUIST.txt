@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOVEQUIST	JOANN	14670	1891774907146	5970 N LILLEY RD	CANTON	MI

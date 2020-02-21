@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAPEL	TIMOTHY	14060	1326139650140	300 W WASHINGTON AVE	JACKSON	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIEDOWER	RICHARD	AR2704	1427060979AR2	810 SALEM RD	CONWAY	AR

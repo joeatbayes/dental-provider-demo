@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ACLERNO	DENISE	1367894	1952443152136	424 W 5TH STREET	ROYAL OAK	MI

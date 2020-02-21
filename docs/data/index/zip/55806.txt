@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERO	STEPHEN	D8259	1902998875D82	2016 W SUPERIOR STREET	DULUTH	MN

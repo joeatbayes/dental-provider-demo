@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUTTERMAN	LEE	D10606	1548321359D10	1835 COUNTY ROAD C W STE 220	ROSEVILLE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOWIE	JERALYN	D12701	1316170301D12	214 MAIN ST W	CLARISSA	MN

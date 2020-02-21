@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEWINGHAM	JUSTIN	2901019096	1447346358290	2425 E. LINCOLN ST. #110	BIRMINGHAM	MI

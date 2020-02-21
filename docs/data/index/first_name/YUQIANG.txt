@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEI	YUQIANG	D12484	1649469339D12	1790 7TH ST E	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELNAGDY	SHOROUK	R730	1316400591R73	515 DELAWARE ST SE # 7-368	MINNEAPOLIS	MN

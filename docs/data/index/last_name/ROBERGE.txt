@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROBERGE	RUSSELL	2939	1609088186293	3646 E RAY ROAD	PHOENIX	AZ

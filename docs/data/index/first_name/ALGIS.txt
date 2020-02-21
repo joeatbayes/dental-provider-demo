@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARAUSKAS	ALGIS	11005	1982877700110	3011 W GRAND BLVD	DETROIT	MI

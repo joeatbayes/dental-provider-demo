@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAGELS	STEPHANIE	8653	1326484510865	2525 E ROOSEVELT ST	PHOENIX	AZ

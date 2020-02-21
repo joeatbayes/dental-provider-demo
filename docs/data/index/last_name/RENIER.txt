@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RENIER	ERIN	D13064	1922343268D13	1225 E 1ST ST	DULUTH	MN

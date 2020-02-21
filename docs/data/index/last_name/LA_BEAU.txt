@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LA BEAU	MICHELLE	D10233	1346207859D10	7550 FRANCE AVE S	EDINA	MN

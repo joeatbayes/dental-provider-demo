@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOSTAD	SEAN	D11770	1649340050D11	506 2ND AVE S	SAINT JAMES	MN

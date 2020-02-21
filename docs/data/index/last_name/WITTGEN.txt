@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WITTGEN	JOHN	12006664A	1740201375120	701 N WEINBACH	EVANSVILLE	IN

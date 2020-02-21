@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEIFERT	VALERIE	12010973A	1003017005120	1011 MICHIGAN AVE	LA PORTE	IN

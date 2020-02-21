@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CROOK	SPENCER	D5915	1437124278D59	7972 W THUNDERBIRD RD	PEORIA	AZ

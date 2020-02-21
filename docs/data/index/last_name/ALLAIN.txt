@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALLAIN	RANDY	2901014545	1467510404290	1733 S MILFORD RD	HIGHLAND	MI

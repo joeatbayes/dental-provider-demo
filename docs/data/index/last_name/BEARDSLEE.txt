@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEARDSLEE	PHILIP	346	1326260621346	608 S NORDIC	PETERSBURG	AK

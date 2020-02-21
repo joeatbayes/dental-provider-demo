@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DENNING	JERRY	872	1821061318872	1530 W VISTA AVE	PHOENIX	AZ

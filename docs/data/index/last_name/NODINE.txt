@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NODINE	DUANE	7048	1629036611704	706 N MAIN ST	BLUFFTON	IN

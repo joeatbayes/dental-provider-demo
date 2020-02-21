@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAKER	JONATHAN	4659	1760573315465	2550 E GUADALUPE RD	GILBERT	AZ

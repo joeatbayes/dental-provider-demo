@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOTAHARI	MINDY	7592	1043457427759	1185 N ARIZONA BLVD	COOLIDGE	AZ

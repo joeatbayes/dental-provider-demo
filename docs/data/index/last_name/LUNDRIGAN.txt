@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDRIGAN	DONALD	D7572	1326128190D75	10 1ST ST SE	PELICAN RAPIDS	MN

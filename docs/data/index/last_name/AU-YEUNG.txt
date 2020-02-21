@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AU-YEUNG	JASON	12011521A	1699065417120	2333 W LINCOLN RD	KOKOMO	IN

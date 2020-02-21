@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAUPPI	MARK	11466	1811041429114	6437 BROOKLYN BLVD	BROOKLYN CENTER	MN

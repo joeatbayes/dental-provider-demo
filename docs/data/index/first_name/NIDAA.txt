@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDAL	NIDAA	2901017620	1164515128290	30890 W 10 MILE RD	FARMINGTON HILLS	MI

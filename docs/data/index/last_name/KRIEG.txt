@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRIEG	WILLIAM	12879	1003894577128	22006 GREATER MACK AVE	ST CLAIR SHORES	MI

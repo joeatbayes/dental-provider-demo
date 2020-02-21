@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOZELUH	CRAIG	2901022735	1194210641290	989 W WASHINGTON ST	MARQUETTE	MI

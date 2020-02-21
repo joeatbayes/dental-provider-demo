@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PENNINGTON	VERNON	219585	1255401030219	1571 STATELINE	SOUTHAVEN	MI

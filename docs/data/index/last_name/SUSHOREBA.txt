@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUSHOREBA	DUANE	D8861	1689649386D88	20 5TH ST SE	COOK	MN

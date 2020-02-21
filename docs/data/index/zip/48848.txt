@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHAUER	JOHN	2901012841	1720296312290	231 E GRAND RIVER RD	LAINGSBURG	MI

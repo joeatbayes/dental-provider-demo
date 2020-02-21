@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOWLBY	SCOTT	11240	1477658359112	3939 W 50TH ST STE 207	EDINA	MN

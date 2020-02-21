@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAPP	RICHARD	D9073	1871577320D90	320 E MAIN ST	ANOKA	MN

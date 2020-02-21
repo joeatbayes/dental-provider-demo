@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CURRIVAN	ROBERT	4106	1679625404410	1079 HANCOCK RD	BULLHEAD CITY	AZ

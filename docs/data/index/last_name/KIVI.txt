@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIVI	HEATHER	D12380	1548461841D12	8960 SPRINGBROOK DR NW	COON RAPIDS	MN

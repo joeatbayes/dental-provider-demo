@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HIRT	CHARLES	D7424	1306948740D74	17705 HUTCHINS DRIVE	MINNETONKA	MN

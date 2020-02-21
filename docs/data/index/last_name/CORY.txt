@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORY	RANDALL	12007293A	1447412705120	801 N HUNTINGTON ST	SYRACUSE	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLASA	GARY	12490	1548444920124	3058 METRO PKWY STE 109	STERLING HEIGHTS	MI

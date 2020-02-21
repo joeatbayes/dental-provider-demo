@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALDMAN	OWEN	6328	1952324519632	6945 E SAHUARO DR STE A2	SCOTTSDALE	AZ

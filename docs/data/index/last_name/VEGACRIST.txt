@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VEGACRIST	MARTHA	2901016889	1861613127290	9 N WASHINGTON ST	OXFORD	MI

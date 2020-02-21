@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LERNOR	ERIC	3302	1487645602330	4910 E GREENWAY RD STE 6	SCOTTSDALE	AZ

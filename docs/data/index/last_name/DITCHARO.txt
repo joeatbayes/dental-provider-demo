@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DITCHARO	ANTHONY	9105	1750506085910	1272 DOW ST	MURFREESBORO	TN

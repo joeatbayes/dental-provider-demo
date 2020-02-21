@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERGSMA	SARA	L549951	1699875054L54	545 S GARFIELD AVE	TRAVERSE CITY	MI

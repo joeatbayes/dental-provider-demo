@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TA	LAUREN	D10304	1154645117D10	120 BROADWAY AVE N	ROCHESTER	MN

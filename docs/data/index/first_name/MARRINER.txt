@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORRELL	MARRINER	1058	1861490526105	625 E 34TH AVE STE 200	ANCHORAGE	AK

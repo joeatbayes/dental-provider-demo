@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEDWICK	CHERIE	12010647A	1558433839120	1033 N LUTHER RD	GEORGETOWN	IN

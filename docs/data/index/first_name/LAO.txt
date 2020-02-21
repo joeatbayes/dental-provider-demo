@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANG	LAO	D13678	1194173971D13	3359 W BROADWAY AVE	ROBBINSDALE	MN

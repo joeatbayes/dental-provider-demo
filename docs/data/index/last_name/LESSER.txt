@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LESSER	LANNY	12060	1396896411120	26831 WOODWARD AVE	HUNTINGTON WOODS	MI

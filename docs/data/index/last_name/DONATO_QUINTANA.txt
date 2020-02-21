@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DONATO QUINTANA	BRENDA	3758	1467531731375	6323 ROGERS AVE	FORT SMITH	AR

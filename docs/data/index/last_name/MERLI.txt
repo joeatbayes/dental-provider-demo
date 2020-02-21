@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERLI	ADAM	AA714	1174634588AA7	6917 OLD SEWARD HWY	ANCHORAGE	AK

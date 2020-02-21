@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEMEC	ASHLEY	2901020491	1023304565290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

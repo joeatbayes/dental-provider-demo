@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCGILLICUDDY	MASON	UNKNOWN	1124557699UNK	100 CHERRY ST SE	GRAND RAPIDS	MI

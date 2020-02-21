@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ESPINOZA	MARK	4615	1578778155461	9315 N CENTRAL AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHMIEL	MELANEE	D11866	1780021279D11	301 EL DORADO DR	JORDAN	MN

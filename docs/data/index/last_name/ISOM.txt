@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISOM	BRAD	D008951	1356757462D00	1835 E GUADALUPE RD	TEMPE	AZ

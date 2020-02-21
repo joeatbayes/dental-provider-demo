@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TARMAN	TYLER	1477093664	1477093664651	8980 HUDSON BLVD N	LAKE ELMO	MN

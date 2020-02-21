@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CANADAY	PATRICK	2327	1437201373232	3201 W PEORIA AVE	PHOENIX	AZ

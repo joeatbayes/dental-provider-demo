@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPIRES	JOSEPH	12010193B	1427271410120	641 S WALKER ST	BLOOMINGTON	IN

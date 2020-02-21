@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LIENAU	CHRIUSTOPHER	2436	1568497063243	4131 NORTH 32ND STREET	PHOENIX	AR

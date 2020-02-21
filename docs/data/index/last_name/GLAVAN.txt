@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLAVAN	GREGORY	D10572	1255369195D10	612 8TH AVE	HOWARD LAKE	MN

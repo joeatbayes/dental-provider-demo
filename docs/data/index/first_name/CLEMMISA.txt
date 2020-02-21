@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARRIS	CLEMMISA	9201	1801181672920	809 WINDOVER RD	JONESBORO	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAKKER	JOHNNY	AR2398	1366484511AR2	418 W MAPLE AVE	SPRINGDALE	AR

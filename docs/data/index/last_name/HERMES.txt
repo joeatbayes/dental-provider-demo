@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERMES	ART	9061	1619000585906	107 14TH AVE E	ALEXANDRIA	MN

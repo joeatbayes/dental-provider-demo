@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KESS	ROBERT	11647	1437122017116	159 18TH ST SW	OWATONNA	MN

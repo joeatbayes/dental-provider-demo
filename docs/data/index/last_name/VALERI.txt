@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALERI	JOHN	9385	1952401325938	2391 KINGSCROSS DR	SHELBY TOWNSHIP	MI

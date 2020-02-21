@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUBISCH	STEVEN	D3139	1225178288D31	1460 S AVENUE B	YUMA	AZ

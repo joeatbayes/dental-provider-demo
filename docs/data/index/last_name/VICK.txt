@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VICK	RYAN	10076	1295116655100	7938 WOLF RIVER BLVD	GERMANTOWN	TN

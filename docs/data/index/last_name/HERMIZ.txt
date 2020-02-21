@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HERMIZ	ALAA	2901018305	1013060375290	10460 W 9 MILE RD	OAK PARK	MI

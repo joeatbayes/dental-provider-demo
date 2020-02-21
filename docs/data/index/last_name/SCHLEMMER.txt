@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHLEMMER	WILLIAM	7733	1346454717773	125 S RANDOLPH ST	GARRETT	IN

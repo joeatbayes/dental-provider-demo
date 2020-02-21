@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHAMOS	ILAN	D008769	1851731046D00	155 W RIVERSIDE DR STE 153	PARKER	AZ

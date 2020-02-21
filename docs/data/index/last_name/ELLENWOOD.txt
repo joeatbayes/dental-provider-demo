@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELLENWOOD	DREW	2781	1407878697278	520 S 14TH ST	FORT SMITH	AR

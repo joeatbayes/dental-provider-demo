@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHWINE	STEVEN	12007056A	1548395759120	2340 E 10TH ST	INDIANAPOLIS	IN

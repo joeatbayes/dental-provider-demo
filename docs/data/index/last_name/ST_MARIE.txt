@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ST. MARIE	JAMIE	D14171	1437715182D14	1464 WHITE OAK DR	CHASKA	MN

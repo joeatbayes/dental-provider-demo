@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DIN	JAY	D4510	1376686477D45	3202 E GREENWAY RD	PHOENIX	AZ

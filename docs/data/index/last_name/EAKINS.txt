@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EAKINS	MEGAN	D9167	1831251784D91	6437 BROOKLYN BLVD	BROOKLYN CENTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRATUS	KAREN	13916	1326167255139	27731 JEFFERSON AVE	SAINT CLAIR SHORES	MI

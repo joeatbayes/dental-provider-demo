@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAGLUND	BRUCE	8533	1740398288853	1270 COPE AVE E	MAPLEWOOD	MN

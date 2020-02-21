@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MIGDAL	MARK	2901012827	1619940004290	37040 GARFIELD RD	CLINTON TWSP	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRYS	RUSSELL	D8040	1356328694D80	7550 FRANCE AVE S	EDINA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHORTER	FRED	2901010185	1669477154290	20100 W MCNICHOLS RD	DETROIT	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WOJTOWICK	CHAD	D11671	1982709754D11	261 NE COUNTY ROAD 10	BLAINE	MN

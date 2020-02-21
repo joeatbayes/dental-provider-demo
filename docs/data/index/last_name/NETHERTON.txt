@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NETHERTON	DAVID	DS7980	1841327624DS7	304 N CHANCERY ST	MC MINNVILLE	TN

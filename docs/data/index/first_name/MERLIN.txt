@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLEINHUIZEN	MERLIN	6982	1952463325698	525 3RD ST SW	WILLMAR	MN

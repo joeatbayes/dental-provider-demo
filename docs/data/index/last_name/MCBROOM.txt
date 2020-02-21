@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCBROOM	DEDRIC	11233	1871663914112	1201 MAINE PRAIRIE RD	SAINT CLOUD	MN

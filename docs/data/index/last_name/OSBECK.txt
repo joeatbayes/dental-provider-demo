@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSBECK	CONNIE	D11489	1295887917D11	1230 COUNTY ROAD E E	SAINT PAUL	MN

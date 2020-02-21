@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUDDING	JOSEPH	D8883	1235151010D88	7760 EXCELSIOR RD N	BAXTER	MN

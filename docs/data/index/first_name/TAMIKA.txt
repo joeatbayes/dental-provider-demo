@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMPSON	TAMIKA	2901018530	1598720161290	2671 W GRAND BLVD	DETROIT	MI

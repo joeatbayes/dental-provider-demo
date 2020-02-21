@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NEARING	MARK	2901017079	1235178443290	400 W MAIN ST	GAYLORD	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZUCUSKIE	TERRY	4449	1750373734444	13000 N 103RD AVE	SUN CITY	AZ

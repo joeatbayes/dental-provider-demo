@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLOOMFIELD	GARY	2901012007	1528185477290	2301 S HURON PKWY	ANN ARBOR	MI

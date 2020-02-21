@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HULME	FRANKLIN	D3056	1285709535D30	6804 S KINGS RANCH RD	GOLD CANYON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOSMITIS	KIM	2555	1770565921255	1406 W 42ND AVE	PINE BLUFF	AR

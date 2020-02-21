@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCMALL	STEPHANIE	2901022256	1932637600290	2109 AUGSBURG DR	SAGINAW	MI

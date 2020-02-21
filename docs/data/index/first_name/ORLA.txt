@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KARN	ORLA	810	1811098353810	20905 EASTSIDE DR. D-1	CHUGIAK	AK

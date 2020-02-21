@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DASTRUP	DANIEL	D008985	1700292570D00	8422 E SHEA BLVD	SCOTTSDALE	AZ

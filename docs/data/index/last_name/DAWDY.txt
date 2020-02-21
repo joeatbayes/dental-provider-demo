@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAWDY	RICHARD	11487	1962570135114	1100 E MILLER	LANSING	MI

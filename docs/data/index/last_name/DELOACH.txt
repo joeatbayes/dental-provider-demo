@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELOACH	STEPHEN	7501	1811033350750	212 E COLLEGE ST	DICKSON	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWINTECK	DENNIS	10192	1477652063101	23451 FORD RD	DEARBORN	MI

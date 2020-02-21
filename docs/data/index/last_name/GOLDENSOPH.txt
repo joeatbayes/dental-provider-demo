@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOLDENSOPH	TODD	2901017700	1235275736290	1700 MIDLAND RD	SAGINAW	MI

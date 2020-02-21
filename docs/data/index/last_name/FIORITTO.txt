@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FIORITTO	JOSEPH	10549	1013137579105	43421 GARFIELD RD	CLINTON TWP	MI

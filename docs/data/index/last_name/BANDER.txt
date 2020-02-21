@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANDER	SAMUEL	12766	1336272749127	1151 EAST PARIS AVE SE	GRAND RAPIDS	MI

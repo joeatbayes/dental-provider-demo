@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RANDALL	LETITIA	2901020148	1760476444290	401 S DRAKE RD	KALAMAZOO	MI

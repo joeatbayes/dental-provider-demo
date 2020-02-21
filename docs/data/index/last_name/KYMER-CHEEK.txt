@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KYMER-CHEEK	EMILY	442000268	1922451822442	401 S BOWMAN RD	LITTLE ROCK	AR

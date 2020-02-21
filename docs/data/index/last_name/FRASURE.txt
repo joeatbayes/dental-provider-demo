@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRASURE	RABION	12013165A	1629635438120	1800 S US HIGHWAY 35	KNOX	IN

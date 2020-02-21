@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+METTLACH	SARAH	D13145	1568790293D13	1550 W QUINCY ST	HANCOCK	MI

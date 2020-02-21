@@ -1,0 +1,3 @@
+JAE_HA	1
+JAE_MIN	1
+JAE_WON	1

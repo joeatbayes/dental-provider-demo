@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VOIGHT	MARK	5732	1659434587573	2024 S DON CARLOS	MESA	AZ

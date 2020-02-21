@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ASCHEMAN	DYLAN	D11935	1376618405D11	705 4TH AVE SW	PINE CITY	MN

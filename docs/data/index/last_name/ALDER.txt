@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALDER	ROBERT	5835	1508915711583	107 N CORTEZ ST STE 202	PRESCOTT	AZ

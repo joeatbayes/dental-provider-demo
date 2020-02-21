@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSTON	HUDSON	D6659	1730274598D66	712 N BEELINE HWY	PAYSON	AZ

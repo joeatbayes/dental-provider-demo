@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GILPIN	JERRY	DS0000005054	1194708453DS0	776 S MAIN ST	ASHLAND CITY	TN

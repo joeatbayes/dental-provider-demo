@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DECHAINE	JENNIFER	D12395	1306041413D12	165 19TH ST S STE 101	SARTELL	MN

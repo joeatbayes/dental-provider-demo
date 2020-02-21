@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BALDREE	GEORGE	DS005096	1548343189DS0	200 W MAIN ST	CHATTANOOGA	TN

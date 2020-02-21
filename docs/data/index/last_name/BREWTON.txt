@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BREWTON	DAVID	AZ3030	1336267665AZ3	1515 E CEDAR AVE	FLAGSTAFF	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LINDGREN	CHERYL	10787	1174515092107	6936 PINE ARBOR DR S	COTTAGE GROVE	MN

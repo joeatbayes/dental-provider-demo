@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIELAWSKI	MICHAEL	10106	1518099258101	11885 E 12 MILE RD	WARREN	MI

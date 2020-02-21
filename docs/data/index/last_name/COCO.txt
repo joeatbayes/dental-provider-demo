@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COCO	SUZANNE	3533	1093980740353	2300 ANDOVER CT	LITTLE ROCK	AR

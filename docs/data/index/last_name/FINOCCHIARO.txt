@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FINOCCHIARO	PETER	3038	1316028954303	34597 N 60TH ST	SCOTTSDALE	AZ

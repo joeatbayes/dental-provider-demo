@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+QUALLS	ADAM	10631	1285144543106	715 W MAIN ST	MOUNTAIN CITY	TN

@@ -1,0 +1,2 @@
+CRAFT	1
+CRAFTON	1

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FIGENSHAU	JAMES	11482	1053421529114	1500 WEST SAGINAW	LANSING	MI

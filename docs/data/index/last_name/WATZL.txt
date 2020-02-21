@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WATZL	HENRY	D11074	1053538579D11	9202 202ND ST W STE 201	LAKEVILLE	MN

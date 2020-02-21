@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOOLSBY	SEAN	D13152	1558654012D13	29663 GATEWAY AVE	CHISAGO CITY	MN

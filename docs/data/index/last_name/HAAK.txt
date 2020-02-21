@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAAK	CHAD	6823	1649353301682	3011 S LINDSAY RD	GILBERT	AZ

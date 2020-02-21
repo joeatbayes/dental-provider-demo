@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARNARD	GARY	11483	1902026404114	639 W NEPESSING ST	LAPEER	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAGERMEIER	GREGORY	2428	1851454342242	1728 W GLENDALE AVE STE 305	PHOENIX	AZ

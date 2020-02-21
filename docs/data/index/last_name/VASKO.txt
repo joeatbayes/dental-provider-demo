@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VASKO	MEGAN	D13676	1477901098D13	552 E MAIN ST	ANOKA	MN

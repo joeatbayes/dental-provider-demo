@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DURAY	JOEL	10604	1447310669106	325 33RD AVENUE NORTH	ST CLOUD	MN

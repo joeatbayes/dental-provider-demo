@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WALTER	JOHN	12008280A	1669526794120	1131 MEDICAL PL	SEYMOUR	IN

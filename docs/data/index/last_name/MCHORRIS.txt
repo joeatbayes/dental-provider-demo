@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCHORRIS	WILLIAM	1693	1811996119169	UT COLLEGE OF DENTISTRY	MEMPHIS	TN

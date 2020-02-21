@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SEABOLD	RICHARD	10028	1578613162100	1850 WHITES RD	KALAMAZOO	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WADKINS	PHILIP	D11428	1891812871D11	723 SECOND STREET SW	ROCHESTER	MN

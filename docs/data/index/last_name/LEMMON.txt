@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEMMON	JASON	AZ7490	1871752352AZ7	3325 S. AVE 8E	YUMA	AZ

@@ -1,0 +1,2 @@
+SPEARS	2
+SPEAR	1

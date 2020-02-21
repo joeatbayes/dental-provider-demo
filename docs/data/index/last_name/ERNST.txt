@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERNST	RICHARD	12187	1548231475121	1200 S MAIN ST	CHELSEA	MI

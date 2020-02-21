@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOESCH	JOHN	5154	1366652240515	2700 S WOODLANDS VILLAGE BLVD	FLAGSTAFF	AZ

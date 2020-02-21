@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHIPLEY	WILLIAM	2758	1902820863275	605 MARKET ST	HORSESHOE BEND	AR

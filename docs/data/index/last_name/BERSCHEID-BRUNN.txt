@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERSCHEID-BRUNN	LOIS	D10563	1710958095D10	3000 43RD ST NW	ROCHESTER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+YAEGER	JOHN	8926	1659305639892	7490 E FISH LAKE RD	MAPLE GROVE	MN

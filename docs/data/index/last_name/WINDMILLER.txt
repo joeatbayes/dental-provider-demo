@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINDMILLER	NED	8249	1114065588824	1701 CURVE CREST BLVD W	STILLWATER	MN

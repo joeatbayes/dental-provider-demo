@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MENEES	BRUCE	2260	1942368220226	1808 N TAYLOR ST	LITTLE ROCK	AR

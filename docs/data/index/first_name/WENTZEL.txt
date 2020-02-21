@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OWENS	WENTZEL	12007642A	1093867632120	349 EAST MAIN STREET	WHITELAND	IN

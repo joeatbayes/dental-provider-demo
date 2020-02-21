@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CENTER	THOMAS	2072	1275621260207	920 W EMMA AVE	SPRINGDALE	AR

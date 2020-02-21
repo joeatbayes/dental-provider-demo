@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOETTL	MADELINE	1144664244	1144664244612	701 25TH AVE S	MINNEAPOLIS	MN

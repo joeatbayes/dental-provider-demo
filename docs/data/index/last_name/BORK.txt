@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BORK	NATHANIEL	D008311	1972885200D00	2423 W DUNLAP AVE STE 140	PHOENIX	AZ

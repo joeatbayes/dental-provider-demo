@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BETTS	NORMAN	2901014383	1831295369290	9416 S MAIN ST	PLYMOUTH	MI

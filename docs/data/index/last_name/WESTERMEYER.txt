@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WESTERMEYER	KYNAN	D11514	1275604597D11	404 1ST ST	PRINCETON	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARMENTER	THOMAS	11107	1184833014111	3075 W CLARK RD	YPSILANTI	MI

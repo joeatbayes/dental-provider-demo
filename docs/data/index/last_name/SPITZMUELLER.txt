@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPITZMUELLER	JAMES	7357	1841243656735	701 PARK AVE	MINNEAPOLIS	MN

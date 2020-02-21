@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIBBS	THOMAS	12006707A	1497798136120	857 AUTO MALL RD	BLOOMINGTON	IN

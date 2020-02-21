@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KREPS	VALARIE	10178	1275605602101	1206 RANDOLPH AVE	SAINT PAUL	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TAPIA	GUSTAVO	6311	1528146917631	650 E INDIAN SCHOOL RD	PHOENIX	AZ

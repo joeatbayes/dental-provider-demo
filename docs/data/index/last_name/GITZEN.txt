@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GITZEN	MICHAEL	D10002	1770534547D10	5101 VERNON AVENUE	EDINA	MN

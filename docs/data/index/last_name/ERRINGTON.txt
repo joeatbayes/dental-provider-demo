@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ERRINGTON	EDWIN	12006821	1568424513120	7908 CARNEGIE BLVD	FORT WAYNE	IN

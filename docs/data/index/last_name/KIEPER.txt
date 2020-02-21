@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIEPER	WILLIAM	7652MN	1609959675765	780 WEST 4TH STREET	RUSH CITY	MN

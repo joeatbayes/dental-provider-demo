@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUSU	COREY	9463	1134250202946	640 CIVIC HEIGHTS DR	CIRCLE PINES	MN

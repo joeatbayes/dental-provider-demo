@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WASHINGTON	ARLISHEA	2901018095	1104903087290	24230 KARIM BLVD	NOVI	MI

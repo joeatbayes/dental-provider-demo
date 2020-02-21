@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ONGARO	ANTHONY	8745	1871583914874	2708 JOHNSON ST NE	MINNEAPOLIS	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FEINMAN	DARA	D009019	1144637331D00	1820 W THUNDERBIRD RD STE 1	PHOENIX	AZ

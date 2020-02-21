@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOTTAS	KATHERINE	D11602	1932269388D11	1905 PLAZA DR	EAGAN	MN

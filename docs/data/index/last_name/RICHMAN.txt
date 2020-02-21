@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICHMAN	JAY	2901008876	1760521637290	2677 ELIZABETH LAKE RD	WATERFORD	MI

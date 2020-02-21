@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARETAKIS	ANDREW	2901016137	1619078318290	1386 N MAIN ST	LAPEER	MI

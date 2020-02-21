@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STULIC	DOSITEJ	D7132	1851512123D71	5750 W THUNDERBIRD RD	GLENDALE	AZ

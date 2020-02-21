@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PRINE	SEAN	6813	1477619914681	4177 MACON RD.	MEMPHIS	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAILEY	DALTON	AR3224	1790848497AR3	17200 CHENAL PKWY	LITTLE ROCK	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARNESS	LAURA	2901021757	1013382514290	44405 WOODWARD AVE	PONTIAC	MI

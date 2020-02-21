@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WELTER	JOLENE	D11921	1669439154D11	825 NICOLLET AVE	MINNEAPOLIS	MN

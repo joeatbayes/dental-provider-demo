@@ -1,0 +1,2 @@
+LIBBY	6
+LIBERKO	1

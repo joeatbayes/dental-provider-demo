@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VADNAIS	VALERIE	D11733	1588786164D11	1316 MCMILLAN ST	WORTHINGTON	MN

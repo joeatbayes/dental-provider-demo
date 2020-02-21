@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHUMAN	STEPHEN	D10081	1376548313D10	793 MILLWOOD AVE	ROSEVILLE	MN

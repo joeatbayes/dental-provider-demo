@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRAUNREITER	ANTHONY	57150869922	1285640508571	400 S 2ND ST	PRINCETON	MN

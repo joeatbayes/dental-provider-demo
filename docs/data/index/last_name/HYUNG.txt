@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HYUNG	SEONG GUY	124933	1649797796124	726 E 9TH AVENUE	ANCHORAGE	AK

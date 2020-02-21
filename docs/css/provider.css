@@ -1,0 +1,250 @@
+/*https://www.w3schools.com/cssref/css_websafe_fonts.asp*/
+
+body {
+    font-family: "Gotham Medium", "Lucida Sans Unicode",
+        "Lucida Grande", Geneva, "Calibri", "Arial Narrow",
+        Tahoma,
+        "Trebuchet MS", Veranda, Geneva,
+        sans-serif;
+
+}
+
+.input_fieldCont {
+    margin-left: 0.2em;
+}
+
+/*
+.xinput_fieldLabel,
+.xinput_fieldvLabel,
+.xvert_radioLabel,
+.xhor_radioLabel {
+    font-family: Charcoal,
+        Helvetica,
+        "Trebuchet MS",
+        sans-serif;
+
+    font-weight: 600;
+    font-size: 0.8em;
+    color: dimgrey;
+}
+
+
+xinput.input_field,
+.xinput_fieldv,
+xselect.input_field,
+xfieldset.hor_radio,
+xfieldset.vert_radio,
+xfieldset.radio {
+    background-color: #F7F8FA;
+    border: 1px solid #7D8083;
+    border-radius: 3px;
+    padding: 0.3em;
+    height: 2.4em;
+}
+*/
+
+#page {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
+#provSearchAdvancedGroupCont {
+    min-width: 70%;
+    max-width: 100%;
+    align-items: center;
+    justify-items: center;
+}
+
+
+button.addRow {
+    background-color: #124981;
+    color: rgb(220, 220, 200);
+}
+
+.greenBoxed {
+    background-color: green;
+    border: solid 2px darkgreen;
+}
+
+#provSearchAdvancedGroupContent {
+    display: flex;
+    xalign-items: stretch;
+    justify-content: space-between;
+}
+
+div#provSearchAdvancedGroupContent .input_fieldCont {
+    flex: 1 1 16em;
+}
+
+#provSearchAdvancedGroupFS {
+    min-width: 85%;
+    width: 100%;
+}
+
+#provDetailRightFieldsGroupCont {
+    vertical-align: top;
+    justify-content: start;
+    align-items: flex-start;
+    height: fit-content;
+    flex-direction: column;
+
+}
+
+
+@media only screen and (min-width : 800px) {
+    div.simpleSearchCont {
+        display: flex;
+        overflow-y: auto;
+        max-height: 30em;
+        width: fit-content;
+        max-width: 100%;
+        overflow-x: wrap;
+    }
+}
+
+@media only screen and (min-width : 1024px) {
+    div.simpleSearchCont {
+        display: flex;
+        overflow-y: auto;
+        max-height: 30em;
+        width: fit-content;
+        max-width: 100%;
+        overflow-x: wrap;
+    }
+
+    div.input_fieldCont {
+        margin-left: 1.22em;
+    }
+
+    #provLicRowGroupCont {
+        flex-wrap: nowrap;
+    }
+
+    #provDetailFormCont {
+        flex-wrap: nowrap;
+    }
+
+    #provDetailRightFieldsGroupCont {
+        margin-left: 0.5em;
+    }
+
+}
+
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (max-width : 800px) {
+    body {
+        font-size: 12pt;
+    }
+
+    #page-vmid {
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+
+    #mbody {
+        max-width: 100%;
+    }
+
+    .inputFrm {
+        max-width: 100%;
+    }
+
+    table.simpleSearchtbl {
+        min-width: 800px;
+    }
+
+    div.simpleSearchCont {
+        max-width: 100%;
+        overflow-x: auto;
+        max-height: none;
+    }
+
+    #provDetailRightFieldsGroupCont {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #provDetailFormCont {
+        flex-wrap: wrap;
+    }
+
+    #dataObjDivBottom {
+        max-width: 98%;
+        overflow-x: hidden;
+    }
+
+    #xprovSearchAdvancedGroupCont {
+        display: flex;
+        min-width: 100%;
+    }
+
+    #provSearchAdvancedGroupContent {
+        display: flex;
+        xalign-items: stretch;
+        justify-content: space-between;
+    }
+
+
+
+
+    Xinput.input_field,
+    .Xinput_fieldv,
+    Xselect.input_field,
+    Xfieldset.hor_radio,
+    Xfieldset.vert_radio,
+    Xfieldset.radio {
+        background-color: #F7F8FA;
+        border: 1px solid #7D8083;
+        border-radius: 2px;
+        padding: 0px;
+        height: auto;
+        font-size: 1.1em;
+        width: auto;
+    }
+
+    Xdiv.input_fieldCont {
+        margin-left: 0px;
+    }
+
+    .input_fieldCont,
+    .input_fieldvCont,
+    .input_fieldContainer,
+    .input_fieldvContainer,
+    .vert_radioCont {
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+    }
+
+    div.auto_sug_items {
+        padding-bottom: 0.7em;
+    }
+
+    div.tabbarCont {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+    }
+
+    ul.tabbar {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+    }
+}
+
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (max-width : 400px) {
+    body {
+        font-size: 13pt;
+    }
+
+    #provLicRowGroupCont {
+        flex-wrap: wrap;
+    }
+}

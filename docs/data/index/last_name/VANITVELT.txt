@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANITVELT	TIMOTHY	17209	1669509766172	4500 TOWN CENTER PKWY	FLINT	MI

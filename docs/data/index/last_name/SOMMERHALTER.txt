@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SOMMERHALTER	LOUIS	1817	1215267356181	19555 N 59TH AVE	GLENDALE	AZ

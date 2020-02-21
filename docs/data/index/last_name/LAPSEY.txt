@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LAPSEY	DAVID	12009301	1356379887120	1801 STATE ST	NEW ALBANY	IN

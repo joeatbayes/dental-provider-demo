@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEISKOPF	SCOTT	9560	1144456427956	1661 AARON BRENNER DR STE 105	MEMPHIS	TN

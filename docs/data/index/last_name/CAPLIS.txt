@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAPLIS	ELIZABETH	20735	1871882118207	2700 BAKER ST	MUSKEGON HEIGHTS	MI

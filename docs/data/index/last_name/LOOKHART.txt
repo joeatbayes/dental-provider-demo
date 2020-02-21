@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOOKHART	SETH	1564	1154734341156	322 MULDOON RD	ANCHORAGE	AK

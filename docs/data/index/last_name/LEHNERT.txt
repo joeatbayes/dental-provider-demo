@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEHNERT	MICHAEL	D8469	1003848086D84	515 DELAWARE ST SE	MINNEAPOLIS	MN

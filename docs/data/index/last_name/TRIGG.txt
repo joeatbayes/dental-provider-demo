@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRIGG	DAVID	12009270	1144373895120	385 MERIDIAN PARKE LN	GREENWOOD	IN

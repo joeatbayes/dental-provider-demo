@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARGER	BRET	6635	1891134342663	8555 RIVER RD	INDIANAPOLIS	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAENZ	MARLO	1195	1255476917119	122 1ST AVE	FAIRBANKS	AK

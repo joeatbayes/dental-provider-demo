@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAGGS	RUSSELL	12010197	1578642104120	347 W MAIN ST	MORRISTOWN	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WILL	JOHN	57656	1407001811576	234 E GAINES ST	LAWRENCEBURG	TN

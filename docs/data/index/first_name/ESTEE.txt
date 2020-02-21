@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WANG	ESTEE	D13144	1417202417D13	14605 GLAZIER AVE	APPLE VALLEY	MN

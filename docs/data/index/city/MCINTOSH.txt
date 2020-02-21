@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LESMEISTER	STEVEN	6426	1093944456642	105 2ND STREET SW	MCINTOSH	MN

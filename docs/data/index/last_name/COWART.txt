@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COWART	MARK	4766	1588785109476	4355 HWY 58	CHATTANOOGA	TN

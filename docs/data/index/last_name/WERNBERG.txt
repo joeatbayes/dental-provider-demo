@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WERNBERG	EMILY	D13756	1558817239D13	3060 WOODBURY DR	WOODBURY	MN

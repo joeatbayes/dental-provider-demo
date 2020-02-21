@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIEFFER	RAYMOND	D7760	1659329407D77	2014 S 6TH ST	BRAINERD	MN

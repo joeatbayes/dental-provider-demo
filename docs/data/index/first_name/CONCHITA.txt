@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERCADO	CONCHITA	D5913	1013118306D59	1101 RIATA VALLEY RD	KINGMAN	AZ

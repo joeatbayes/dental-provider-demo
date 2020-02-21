@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NASH	L.	3448	1013079805344	464 N MORLEY AVE	NOGALES	AZ

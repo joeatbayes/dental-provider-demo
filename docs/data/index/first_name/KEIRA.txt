@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NICHOLSON	KEIRA	D13450	1881002434D13	1425 E RUM RIVER DR S	CAMBRIDGE	MN

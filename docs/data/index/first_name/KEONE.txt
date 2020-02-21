@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TYAU	KEONE	50058186	1790154151500	500 N INDIANA AVE	WINSLOW	AZ

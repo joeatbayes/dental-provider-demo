@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PICCOLO	THOMAS	3211	1912112202321	8591 E BELL RD	SCOTTSDALE	AZ

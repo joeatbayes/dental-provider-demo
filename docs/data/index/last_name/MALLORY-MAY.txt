@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALLORY-MAY	HEATHER	15089	1215959564150	2351 COUNTRYWOOD DR SE	KENTWOOD	MI

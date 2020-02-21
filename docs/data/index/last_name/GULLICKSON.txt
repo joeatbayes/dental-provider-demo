@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GULLICKSON	ALYSSA	D13077	1013277094D13	308 BLATTNER DR	AVON	MN

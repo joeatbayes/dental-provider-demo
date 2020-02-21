@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHAMBERLAIN	GLENN	2804	1134205016280	808 MAIN ST.	FLIPPIN	AR

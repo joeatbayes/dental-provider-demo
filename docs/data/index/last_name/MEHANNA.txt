@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEHANNA	SALLY	22DI02611100	177096844822D	2329 W SKINNER DR	PHOENIX	AZ

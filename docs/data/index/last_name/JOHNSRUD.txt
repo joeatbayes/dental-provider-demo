@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JOHNSRUD	DARREL	D9764	1639244650D97	13998 MAPLE KNOLL WAY	MAPLE GROVE	MN

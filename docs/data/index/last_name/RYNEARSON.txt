@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RYNEARSON	JOHN	2901012660	1366547184290	G3340 BEECHER RD	FLINT	MI

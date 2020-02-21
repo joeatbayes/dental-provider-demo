@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STOWITTS	JAMES	4497	1356451256449	7500 E MCDONALD DR STE 101B	SCOTTSDALE	AZ

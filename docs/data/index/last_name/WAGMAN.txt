@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAGMAN	DALE	11938	1093044125119	2972 WEATHERLY RD	HOWELL	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWARTEN	STEVE	MN8328	1588716773MN8	134 ADAMS ST S	CAMBRIDGE	MN

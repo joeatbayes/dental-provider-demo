@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FURYAN-BANACH	LIAT	6471	1508085473647	2950 N DOBSON RD	CHANDLER	AZ

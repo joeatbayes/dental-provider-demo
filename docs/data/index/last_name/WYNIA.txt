@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WYNIA	DEBRA	D11691	1588773840D11	1068 S LAKE STREET	FOREST LAKE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIMMONS	CELITA	2973	1306857644297	325 SHORT ST	BENTON	AR

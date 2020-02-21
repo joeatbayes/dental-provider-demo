@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HANCOCK	BRENNON	D010331	1215594098D01	301 N CENTRAL AVE	SHOW LOW	AZ

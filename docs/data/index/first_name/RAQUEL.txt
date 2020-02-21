@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARANOV	RAQUEL	D5762	1649231077D57	2060 W 24TH ST	YUMA	AZ

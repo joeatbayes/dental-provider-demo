@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DELACY	COLLEEN	2901018603	1427074152290	30 DAWSON ST	SANDUSKY	MI

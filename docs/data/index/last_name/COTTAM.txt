@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COTTAM	WAYNE	D7446	1003988064D74	4212 N 16TH ST	PHOENIX	AZ

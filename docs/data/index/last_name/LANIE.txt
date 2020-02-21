@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LANIE	JOEL	12011349A	1013148600120	50 S STATE ROAD 135	BARGERSVILLE	IN

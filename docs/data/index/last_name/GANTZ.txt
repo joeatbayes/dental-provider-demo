@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GANTZ	ELAINE	13299	1013996537132	4005 HIGHLAND RD	WATERFORD	MI

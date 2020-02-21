@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GARTMAN	LARRY	3001	1437225232300	203 NORTH 24TH STREET	ROGERS	AR

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EBERHARDT	HAROLD	7298	1245341098729	5625 CENEX DR	INVER GROVE	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BATTIKHI	MUNIR	D11975	1891792404D11	1315 E 24TH ST	MINNEAPOLIS	MN

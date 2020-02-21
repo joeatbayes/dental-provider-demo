@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASTIAN	JOHN	DS3874	1073679742DS3	734 E MAIN ST	HENDERSONVILLE	TN

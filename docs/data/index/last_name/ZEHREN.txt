@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ZEHREN	PETER	D10527	1548419229D10	702 MANKATO AVE	WINONA	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHROUST	KURT	9728	1912088113972	15180 CHIPPENDALE AVE W	ROSEMOUNT	MN

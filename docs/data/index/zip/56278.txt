@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WINTHER	STEVEN	9118	1275600561911	17 2ND ST SE	ORTONVILLE	MN

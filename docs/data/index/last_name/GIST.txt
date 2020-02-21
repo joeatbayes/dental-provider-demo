@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIST	RAYMOND	2901009054	1982607859290	4170 LENNON RD	FLINT	MI

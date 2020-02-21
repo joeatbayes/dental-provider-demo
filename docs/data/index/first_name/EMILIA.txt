@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BLASER	EMILIA	12012270A	1477930022120	6091 BROADWAY	MERRILLVILLE	IN

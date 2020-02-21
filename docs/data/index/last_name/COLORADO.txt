@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLORADO	CLAUDIA	7171	1649313313717	6452 E CARONDELET DR STE 150	TUCSON	AZ

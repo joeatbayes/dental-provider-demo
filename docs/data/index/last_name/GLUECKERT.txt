@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLUECKERT	JOHN	18390	1417082280183	3121 MISHAWAKA AVE	SOUTH BEND	IN

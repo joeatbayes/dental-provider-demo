@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAREID	KATIE	D7598	1972751923D75	3130 N TOLTEC RD	ELOY	AZ

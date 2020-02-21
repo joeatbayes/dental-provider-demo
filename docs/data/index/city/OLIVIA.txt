@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOORSE	MARK	D11030	1043548340D11	907 W LINCOLN AVE	OLIVIA	MN

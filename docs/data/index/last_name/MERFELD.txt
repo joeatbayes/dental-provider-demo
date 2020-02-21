@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERFELD	MATTHEW	D13688	1558718585D13	5039 HIGHWAY 52 N	ROCHESTER	MN

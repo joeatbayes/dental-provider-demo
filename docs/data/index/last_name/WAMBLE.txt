@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAMBLE	SUSAN	2996	1376550038299	1301 RIDGWAY RD	PINE BLUFF	AR

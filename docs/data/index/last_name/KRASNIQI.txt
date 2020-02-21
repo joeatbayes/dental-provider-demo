@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRASNIQI	BARDHA	2205	1053696096220	2700 84TH ST SW	BYRON CENTER	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PUCEL	WILLIAM	7592D	1710074984759	4930 42ND AVE N	ROBBINSDALE	MN

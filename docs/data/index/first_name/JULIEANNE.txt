@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHANDLER	JULIEANNE	4319	1205897527431	7473 E OSBORN RD	SCOTTSDALE	AZ

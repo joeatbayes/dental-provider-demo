@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAY	SOPHAN	D5254	1417976473D52	9180 N COACHLINE BLVD	TUCSON	AZ

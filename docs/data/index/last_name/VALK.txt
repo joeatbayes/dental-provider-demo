@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VALK	JAMES	12310	1932117538123	511 SEMINOLE RD	MUSKEGON	MI

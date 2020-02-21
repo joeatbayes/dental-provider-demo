@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HELLGE CARROLL	ALEXANDER	D007999	1669781803D00	19369 N. 59TH AVE	GLENDALE	AZ

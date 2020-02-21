@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIDONI-HARTUNG	STEPHANIE	4977	1508832585497	1840 N CRAYCROFT RD	TUCSON	AZ

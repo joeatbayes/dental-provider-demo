@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRISWELL	BYRL	2861	1316992688286	1607 EAST MAIN ST	VAN BUREN	AR

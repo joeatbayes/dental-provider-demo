@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHIPPERS	DOULGAS	13507	1114076106135	577 MICHIGAN AVE	HOLLAND	MI

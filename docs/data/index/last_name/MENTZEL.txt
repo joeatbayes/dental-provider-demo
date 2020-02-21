@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MENTZEL	BARRY	100005	1659319218100	19925 E 10 MILE RD	ST CLAIR SHORES	MI

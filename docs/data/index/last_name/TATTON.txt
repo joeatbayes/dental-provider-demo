@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TATTON	TYLER	64684	1700253911646	988 SYCAMORE AVE	KINGMAN	AZ

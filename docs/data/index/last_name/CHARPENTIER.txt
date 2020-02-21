@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHARPENTIER	AARON	D010458	1598311565D01	3382 E SPEEDWAY BLVD	TUCSON	AZ

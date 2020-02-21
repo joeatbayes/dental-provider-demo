@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASKU	ERIS	32314	1255886081323	3716 E MAFFEO RD	PHOENIX	AZ

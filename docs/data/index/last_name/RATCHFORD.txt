@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RATCHFORD	RICKY	DS3029	1750444543DS3	1473 N MACK SMITH RD	CHATTANOOGA	TN

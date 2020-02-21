@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRANETO	JOHN	3883	1013084425388	5945 W BETHANY HOME RD	GLENDALE	AZ

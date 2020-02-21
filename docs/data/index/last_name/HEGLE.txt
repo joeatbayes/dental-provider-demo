@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEGLE	TROND	7585	1235395435758	7521 N TATUM BLVD	PARADISE VALLEY	AZ

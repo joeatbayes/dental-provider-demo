@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+INBODEN	WILLIAM	4117	1326499369411	620 N 13TH ST	ROGERS	AR

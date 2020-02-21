@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+"VANCE,JR."	GLENN	DS2622	1528181351DS2	400 6TH ST	BRISTOL	TN

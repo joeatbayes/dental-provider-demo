@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWENNES	HAROLD	D8659	1528049624D86	217 N W 1 ST	CHISOLM	MN

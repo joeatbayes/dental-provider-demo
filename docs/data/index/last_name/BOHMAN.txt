@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOHMAN	KARL	3221	1093763328322	5505 W CHANDLER BLVD	CHANDLER	AZ

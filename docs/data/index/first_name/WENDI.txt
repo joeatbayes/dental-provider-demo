@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NICHOLS GREGORY	WENDI	4779	1710042270477	1810 E HIGHLAND	JONESBORO	AR

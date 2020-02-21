@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KAYAT	ASHWAQ	8548	1447500103854	5929 W PEORIA AVE	GLENDALE	AZ

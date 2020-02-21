@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOUET	ERIC	15153	1396821385151	FORT DEFIANCE PHS HOSPITAL	FORT DEFIACE	AZ

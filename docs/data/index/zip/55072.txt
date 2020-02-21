@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BENNETT	MICHAEL	8046	1942364245804	501 N COMMERCIAL AVE	SANDSTONE	MN

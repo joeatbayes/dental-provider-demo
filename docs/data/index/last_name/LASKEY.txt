@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LASKEY	JOHN	AA0491	1184630139AA0	641 W WILLOUGHBY AVE	JUNEAU	AK

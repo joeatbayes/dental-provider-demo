@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOWNE	DAVID	2901011141	1245355122290	40520 COUNTY HIGHWAY 34	OGEMA	MN

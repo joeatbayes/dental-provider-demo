@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GLOVIS	MARK	2901014201	1114072253290	1580 OAK ST	WYANDOTTE	MI

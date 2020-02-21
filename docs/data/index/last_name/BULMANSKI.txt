@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BULMANSKI	THOMAS	2942	1013015338294	201 VIRGINIA DRIVE	BATESVILLE	AR

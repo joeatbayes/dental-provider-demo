@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+THOMPSON	CANDYCE	9574	1508117466957	1890 N GERMANTOWN PKWY	CORDOVA	TN

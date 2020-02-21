@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OBERG	CYNTHIA	D24420	1255379756D24	1904 W PARKSIDE LN	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KLAASSEN	JAMES	7216	1073588687721	1450 HIGHWAY 60 71 N	WINDOM	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POIDMORE	KHRISTI	6627	1326282617662	3085 W INA RD STE 101	TUCSON	AZ

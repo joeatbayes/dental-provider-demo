@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COLLINS HALE	EDWINA	8142	1891806253814	1195 OLD HICKORY BLVD	BRENTWOOD	TN

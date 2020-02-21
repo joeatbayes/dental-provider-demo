@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RICE	KELLYE	DS 4713	1235253865DS4	1800 MALLORY LN	BRENTWOOD	TN

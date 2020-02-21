@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RIAD	YOUSSEF	D13714	1043660525D13	7806 MARKET BLVD	CHANHASSEN	MN

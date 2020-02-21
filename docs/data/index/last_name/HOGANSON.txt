@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HOGANSON	RACHEL	D13649	1568910834D13	515 DELAWARE ST SE	MINNEAPOLIS	MN

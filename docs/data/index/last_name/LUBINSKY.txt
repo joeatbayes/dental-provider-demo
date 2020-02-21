@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUBINSKY	RYAN	D14058	1972097467D14	3100 WOODBURY DR	WOODBURY	MN

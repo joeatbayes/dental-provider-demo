@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GIDEON	JULIE	12010152A	1992955454120	10316 SAINT JAMES PLACE	MUNSTER	IN

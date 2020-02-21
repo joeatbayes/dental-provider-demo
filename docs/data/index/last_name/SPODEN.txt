@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SPODEN	SHAWN	D12591	1023271236D12	3015 HIGHWAY 29 S	ALEXANDRIA	MN

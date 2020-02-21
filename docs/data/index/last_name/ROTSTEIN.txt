@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ROTSTEIN	FRED	AZ2442	1174749030AZ2	1519 E APACHE	TEMPE	AZ

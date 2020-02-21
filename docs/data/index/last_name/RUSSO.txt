@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+RUSSO	RONALD	2348	1497834469234	7500 E MCDONALD DR	SCOTTSDALE	AZ

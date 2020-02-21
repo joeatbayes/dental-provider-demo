@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SIEGRIST	ALYSON	D13440	1215345624D13	1670 BEAM AVE	SAINT PAUL	MN

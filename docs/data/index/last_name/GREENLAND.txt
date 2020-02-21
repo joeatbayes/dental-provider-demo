@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GREENLAND	ROBERT	D13571	1003296781D13	200 1ST ST SW	ROCHESTER	MN

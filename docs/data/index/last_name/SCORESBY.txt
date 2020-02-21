@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCORESBY	ROBERT	1487826533	1487826533480	2095 W FRYE RD	CHANDLER	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NASR	RANDA	D12147	1679512453D12	1340 DUCKWOOD DR	EAGAN	MN

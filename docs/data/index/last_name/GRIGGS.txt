@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GRIGGS	MARSHALL	D7539	1497919278D75	1998 ELECTRIC DRIVE	GLOBE	AZ

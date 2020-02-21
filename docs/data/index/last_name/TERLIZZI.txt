@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TERLIZZI	DAVID	D5491	1194771691D54	20470 N LAKE PLEASANT RD	PEORIA	AZ

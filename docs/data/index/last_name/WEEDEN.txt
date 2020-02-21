@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEEDEN	JOSEPHINE	16959	1861617672169	615 BENT OAK AVENUE	ADRIAN	MI

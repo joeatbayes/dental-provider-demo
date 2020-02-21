@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CORRAL	DENIS	AA552	1518004498AA5	11901 BUSINESS BLVD	EAGLE RIVER	AK

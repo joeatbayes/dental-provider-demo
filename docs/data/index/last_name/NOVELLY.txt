@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NOVELLY	ARTHUR	3342	1174713242334	1520 W WARNER RD	GILBERT	AZ

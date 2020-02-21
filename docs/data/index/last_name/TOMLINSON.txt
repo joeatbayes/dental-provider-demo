@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOMLINSON	SCOTT	BT 7551648	1528223328BT7	150 CLINIC DR STE F	KINGSPORT	TN

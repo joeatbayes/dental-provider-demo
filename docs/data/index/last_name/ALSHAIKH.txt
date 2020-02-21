@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ALSHAIKH	NIDA	2901018547	1144407552290	714 PATRICIA PLACE DR	WESTLAND	MI

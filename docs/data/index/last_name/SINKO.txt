@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SINKO	ROBERT	D7473	1811978745D74	16795 COUNTY ROAD 24	PLYMOUTH	MN

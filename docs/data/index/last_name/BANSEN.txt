@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BANSEN	ARNOLD	10311	1144404005103	4515 METRO PARKWAY	STERLING HEIGHTS	MI

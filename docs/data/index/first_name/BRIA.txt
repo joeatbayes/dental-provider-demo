@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCOTT	BRIA	12012733A	1104355981120	2320 NORTHPARK DR STE B	COLUMBUS	IN

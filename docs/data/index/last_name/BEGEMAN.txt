@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEGEMAN	WILLIAM	6472	1780704858647	118 S GREEN ST	GREENTOWN	IN

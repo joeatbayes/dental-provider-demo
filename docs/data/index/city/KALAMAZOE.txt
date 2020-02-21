@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIKE	CATHERINE	D16843	1972676336D16	5102 LOVERS LANE	KALAMAZOE	MI

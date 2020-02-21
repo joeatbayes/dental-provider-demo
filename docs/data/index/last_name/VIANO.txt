@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VIANO	AMY	12009375	1285836494120	1015 S A STREET	RICHMOND	IN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LOMBARDO	FRANK	9148	1194791053914	14929 FLORENCE TRL	APPLE VALLEY	MN

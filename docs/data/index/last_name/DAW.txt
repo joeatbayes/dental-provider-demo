@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DAW	DENNIS	DS 4833	1659450583DS4	2120 NORTHPOINT BLVD	HIXSON	TN

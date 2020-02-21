@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SHASTEEN	ALIVIA	11016	1225696115110	7418 NORRIS FWY	KNOXVILLE	TN

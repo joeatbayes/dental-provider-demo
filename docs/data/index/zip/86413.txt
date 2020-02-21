@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCOTT	JOHN	6536	1689716987653	4626 W. ENGLISH DR.	GOLDEN VALLEY	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOWEY	MALLORY	715815	1942634597715	1670 BEAM AVE	MAPLEWOOD	MN

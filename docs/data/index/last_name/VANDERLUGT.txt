@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDERLUGT	DAVID	12565	1760421952125	2008 EASTCASTLE DR SE	GRAND RAPIDS	MI

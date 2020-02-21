@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARYAAN	AMIR	D009774	1326568411D00	2025 N POWER RD STE 101	MESA	AZ

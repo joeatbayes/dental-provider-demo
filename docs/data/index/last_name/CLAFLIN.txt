@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLAFLIN	THOMAS	11973	1164540050119	10407 GRAND RIVER	BRIGHTON	MI

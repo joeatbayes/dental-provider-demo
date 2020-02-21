@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BAUKYS	VYTAUTAS	2901010208	1053320937290	4646 JOHN R ST	DETROIT	MI

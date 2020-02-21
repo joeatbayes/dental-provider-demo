@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NUNN	JANELL	DS6942	1548475577DS6	315 GILL AVE	KNOXVILLE	TN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARLING	KEL-LEE	D008157	1104089549D00	4374 E BUTTE AVE	FLORENCE	AZ

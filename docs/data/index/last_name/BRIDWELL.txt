@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRIDWELL	MATTHEW	3727	1407086366372	1310 S ROCK ST STE 1	SHERIDAN	AR

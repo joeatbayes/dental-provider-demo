@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KRENGEL	ROY	D12703	1609006824D12	2105 W 80 1/2 ST	BLOOMINGTON	MN

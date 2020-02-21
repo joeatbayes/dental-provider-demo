@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EUTENEUER	JEROME	8767	1164594115876	6545 FRANCE AVE S	EDINA	MN

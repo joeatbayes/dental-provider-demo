@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BIBIK	ANNE	2901015511	1538293113290	406 N ASHLEY ST	ANN ARBOR	MI

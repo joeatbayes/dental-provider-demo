@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+EHRICK	TYLER	D009500	1972953511D00	8253 W THUNDERBIRD RD	PEORIA	AZ

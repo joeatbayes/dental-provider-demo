@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KIM	HYE SUNG	12012878B	1669901690120	1320 BROADWAY	GARY	IN

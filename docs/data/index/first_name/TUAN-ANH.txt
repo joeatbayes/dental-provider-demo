@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	TUAN-ANH	5614	1508961764561	1530 W COMMERCE CT	TUCSON	AZ

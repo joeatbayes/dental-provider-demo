@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SLEPICOFF	BRIELLE	D009815	1861915480D00	1501 E CAMP MOHAVE RD # 1	BULLHEAD CITY	AZ

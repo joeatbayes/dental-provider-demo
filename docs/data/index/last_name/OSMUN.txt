@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+OSMUN	JAMES	D6698	1831219641D66	5311 E BROADWAY BLVD	TUCSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KOSTIAL	ROBERT	3222	1568552354322	20950 N TATUM BLVD	PHOENIX	AZ

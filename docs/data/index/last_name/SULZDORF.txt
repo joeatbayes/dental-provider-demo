@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SULZDORF	CRAIG	9187	1083787121918	1912 LEXINGTON AVE N STE 200	ROSEVILLE	MN

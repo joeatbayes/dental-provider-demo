@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TOPCIK	HOWARD	9798	1588738959979	30100 TELEGRAPH	BINGHAM FARMS	MI

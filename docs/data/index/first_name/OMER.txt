@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REED	OMER	728	1023452091728	2999 N. 44TH STREET	PHOENIX	AZ

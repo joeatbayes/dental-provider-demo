@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWAUGER	KURT	7899	1518928910789	500 LENTZ DR	MADISON	TN

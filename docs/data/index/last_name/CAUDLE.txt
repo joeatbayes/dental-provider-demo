@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CAUDLE	MARVIN	2315	1467559971231	1310 SOUTH LINDEN ST	PINE BLUFF	AR

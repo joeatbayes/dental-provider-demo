@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HILLIGAN	BARRY	10137	1720191257101	119 E BRIDGE ST	PORTLAND	MI

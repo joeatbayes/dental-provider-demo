@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MILEY	JOHN	1020	1225193949102	44539 STERLING HWY	SOLDOTNA	AK

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LITT	RICHARD	8778	1790874287877	28411 NORTHWESTERN HWY	SOUTHFIELD	MI

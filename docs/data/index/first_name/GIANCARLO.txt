@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TASSARA	GIANCARLO	D12319	1760540942D12	500 OSBORNE RD	FRIDLEY	MN

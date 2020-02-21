@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRAMPTON	SARAH	DN21318	1871950386DN2	3245 HOSPITAL DR	JUNEAU	AK

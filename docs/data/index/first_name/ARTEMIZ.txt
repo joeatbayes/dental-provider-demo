@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ADKINS	ARTEMIZ	D6286	1821272873D62	7231 E PRINCESS BLVD	SCOTTSDALE	AZ

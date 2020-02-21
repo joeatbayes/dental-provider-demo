@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ISFELD	DARREN	R477	1831492511R47	515 DELAWARE ST SE	MINNEAPOLIS	MN

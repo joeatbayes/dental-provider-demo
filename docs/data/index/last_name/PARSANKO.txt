@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PARSANKO	RICHARD	AZ 7632	1922004670AZ7	9220 E RAINTREE DR	SCOTTSDALE	AZ

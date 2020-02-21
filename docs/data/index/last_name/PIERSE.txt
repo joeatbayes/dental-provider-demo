@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PIERSE	JOSEPH	D009562	1730486630D00	2680 S VAL VISTA DR STE 164	GILBERT	AZ

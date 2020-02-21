@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BARCZAK	MICHAEL	R409	1356664668R40	515 DELAWARE ST. SE	MINNEAPOLIS	MN

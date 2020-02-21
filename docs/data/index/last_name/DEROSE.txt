@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DEROSE	JOSEPH	18301	1356607279183	131 NORTH AVENUE	BATTLE CREEK	MI

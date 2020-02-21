@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ELGETHUN	DAVID	8180	1275541443818	7373 FRANCE AVE SO	EDINA	MN

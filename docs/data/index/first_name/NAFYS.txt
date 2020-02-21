@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAMANDARI	NAFYS	D4575	1740240761D45	6945 E SAHUARO DR.	SCOTTSDALE	AZ

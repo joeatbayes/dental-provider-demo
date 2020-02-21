@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANDEMARK	SARA	D13564	1477936292D13	1926 COLLEGE VIEW RD E	ROCHESTER	MN

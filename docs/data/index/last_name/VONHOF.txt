@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VONHOF	MARY	D9973	1861511453D99	1575 20TH STREET NORTHWEST	FARIBAULT	MN

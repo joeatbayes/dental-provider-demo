@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+POLITE	NICOLETTE	8929	1629164694892	9337 CALUMET AVENUE	MUNSTER	IN

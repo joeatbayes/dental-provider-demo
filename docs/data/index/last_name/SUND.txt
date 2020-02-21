@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SUND	JOHN	6906	1639248685690	123 6TH AVE SW	ROCHESTER	MN

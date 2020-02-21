@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COGGAN	LAWRENCE	2903008389	1053371732290	27101 PLYMOUTH RD	REDFORD	MI

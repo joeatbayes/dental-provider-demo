@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LITZ	STEPHANIE	12009130	1902025968120	124 N INDIANA ST	MOORESVILLE	IN

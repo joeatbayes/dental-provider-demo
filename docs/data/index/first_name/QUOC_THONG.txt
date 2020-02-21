@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NGUYEN	QUOC THONG	R724	1700372448R72	515 DELAWARE ST SE	MINNEAPOLIS	MN

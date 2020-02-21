@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DADUL	TENZIN	FL47	1922403021FL4	5921 BENJAMIN ST NE	FRIDLEY	MN

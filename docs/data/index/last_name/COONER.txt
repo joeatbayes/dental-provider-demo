@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+COONER	LESLIE	AR2805	1851334023AR2	10220 W MARKHAM ST	LITTLE ROCK	AR

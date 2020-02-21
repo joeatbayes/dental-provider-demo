@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIGHTMAN	ROBERT	D13787	1952769697D13	20 5TH ST SE	COOK	MN

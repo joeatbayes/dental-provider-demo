@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+REIFMAN	EDWARD	9139	1396850772913	8330 E HARTFORD DR STE 100	SCOTTSDALE	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYA	GREGORY	2901016587	1821059882290	4780 OKEMOS ROAD	OKEMOS	MI

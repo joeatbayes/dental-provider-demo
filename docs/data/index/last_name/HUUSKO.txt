@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HUUSKO	TERRANCE	MN8014	1003953993MN8	3901 1ST AVE	HIBBING	MN

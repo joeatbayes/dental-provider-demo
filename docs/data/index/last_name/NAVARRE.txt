@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAVARRE	STEPHEN	17003	1376583625170	15870 19 MILE RD	CLINTON TWP	MI

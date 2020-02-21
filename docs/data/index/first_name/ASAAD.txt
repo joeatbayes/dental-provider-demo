@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KHAN	ASAAD	3701	1578655916370	6600 N ORACLE RD	TUCSON	AZ

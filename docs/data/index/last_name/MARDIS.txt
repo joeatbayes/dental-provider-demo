@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARDIS	SCOT	12008116A	1548236250120	1616 N 9TH ST	TERRE HAUTE	IN

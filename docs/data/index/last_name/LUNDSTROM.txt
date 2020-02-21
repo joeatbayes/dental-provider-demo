@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LUNDSTROM	GEORGE	8265	1134345408826	209 NORTH 9TH AVE.	ALBERT LEA	MN

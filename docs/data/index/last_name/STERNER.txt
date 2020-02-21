@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STERNER	TRAVIS	19294	1821283995192	156 BARKER RD	WHITMORE LAKE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERCADEL-WILLIAMS	CECILY	7602	1275878803760	197 THOMPSON LN	NASHVILLE	TN

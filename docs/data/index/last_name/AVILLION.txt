@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AVILLION	GERALD	AR2712	1265454243AR2	2403 S WALDRON RD	FORT SMITH	AR

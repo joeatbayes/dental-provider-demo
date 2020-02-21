@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CRAFT	DEAN	7225	1063527620722	900 E WALNUT ST	FRANKFORT	IN

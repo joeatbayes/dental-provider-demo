@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FRICTON	JAMES	D9054	1639103682D90	2550 UNIVERSITY AVE W	SAINT PAUL	MN

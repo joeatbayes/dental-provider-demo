@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SCHWAGLE	THOMAS	2901010027	1790004711290	16232 FAIRLANE DR	LIVONIA	MI

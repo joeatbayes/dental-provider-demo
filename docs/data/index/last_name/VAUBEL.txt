@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VAUBEL	CHRISTOPHER	D12692	1164719647D12	120 E MAIN ST	MANKATO	MN

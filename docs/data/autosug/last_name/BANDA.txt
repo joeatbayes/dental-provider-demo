@@ -1,0 +1,2 @@
+BANDA	1
+BANDAR	1

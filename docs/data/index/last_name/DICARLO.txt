@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DICARLO	RONALD	6061	1942264445606	1111 RIATA VALLEY RD	KINGMAN	AZ

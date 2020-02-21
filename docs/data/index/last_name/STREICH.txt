@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STREICH	DENNIS	3036	1477766343303	4350 E RAY ROAD	PHOENIX	AZ

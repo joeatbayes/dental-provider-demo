@@ -1,0 +1,3 @@
+W_ARTHUR	1
+W_R_TED	1
+W_SCOTT	1

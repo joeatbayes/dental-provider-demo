@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SWENBY	BONNIE	10540	1437240736105	525 W 98TH ST	BLOOMINGTON	MN

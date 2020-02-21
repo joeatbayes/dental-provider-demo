@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CHIVARI	KATHLEEN	2819	1184815235281	6963 E MAIN ST	MESA	AZ

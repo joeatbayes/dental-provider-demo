@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TERVEER	TAYLOR	12012505A	1093163891120	6496 N PIQUA RD	DECATUR	IN

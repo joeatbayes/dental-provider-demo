@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MOUNCE	STACEY	MN10524	1427186618MN1	71 E 2ND ST	WINONA	MN

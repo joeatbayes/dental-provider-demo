@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+STAHLY	JEFFERY	12009496A	1902958713120	106 N RIDGE RD	MUNCIE	IN

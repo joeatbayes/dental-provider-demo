@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYSTOWSKI	DANIEL	2901600190	1801449079290	650 E BIG BEAVER RD STE D	TROY	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEAKLEY	EDWARD	2569	1689697047256	120 MEDICAL CT	CLARKSVILLE	TN

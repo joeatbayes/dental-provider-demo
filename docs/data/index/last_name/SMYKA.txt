@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMYKA	STANLEY	11401	1801925854114	1208 E 8TH ST	TRAVERSE CITY	MI

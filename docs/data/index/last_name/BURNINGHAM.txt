@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BURNINGHAM	CLARK	D010358	1932767563D01	6849 N ORACLE RD STE 115	TUCSON	AZ

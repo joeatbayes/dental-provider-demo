@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ARNOW	BRANDON	D 7767	1841427267D77	5940 W UNION HILLS DR STE F110	GLENDALE	AZ

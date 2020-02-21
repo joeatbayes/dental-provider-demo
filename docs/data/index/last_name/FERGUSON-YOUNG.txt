@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FERGUSON-YOUNG	DAPHNE	DS3779	1619188372DS3	1005 DR. D.B. TODD	NASHVILLE	TN

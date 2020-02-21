@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MARCHANT	KENT	1499	1922430040149	1400 WEST BENSON BLVD.	ANCHORAGE	AK

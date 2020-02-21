@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HAMAN	JULIE	8785	1013909381878	1514 WHITE BEAR AVE N	SAINT PAUL	MN

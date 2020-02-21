@@ -1,0 +1,2 @@
+FAITH	4
+FAITHE	1

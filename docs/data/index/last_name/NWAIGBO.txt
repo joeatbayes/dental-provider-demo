@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NWAIGBO	CHUKWUJINDU	D13741	1205289428D13	476 HERSCHEL ST	SAINT PAUL	MN

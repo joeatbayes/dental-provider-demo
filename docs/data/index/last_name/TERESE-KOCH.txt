@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TERESE-KOCH	DENISE	10060	1629172671100	616 MARRIOTT DR	NASHVILLE	TN

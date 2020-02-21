@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FEWELL	RICHARD	261	1538158548261	205 S JACKSON ST	TULLAHOMA	TN

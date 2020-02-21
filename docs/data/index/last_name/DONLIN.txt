@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DONLIN	ROBERT	D9123	1649325366D91	1829 5TH AVENUE	ANOKA	MN

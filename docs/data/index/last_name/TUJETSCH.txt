@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TUJETSCH	MARY	19021789	1306011622190	2023 45TH ST	HIGHLAND	IN

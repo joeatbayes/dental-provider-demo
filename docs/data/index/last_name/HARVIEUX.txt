@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HARVIEUX	DAVID	D11057	1487643706D11	425 2ND ST	EXCELSIOR	MN

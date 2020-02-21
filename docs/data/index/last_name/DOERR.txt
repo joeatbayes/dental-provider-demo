@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DOERR	JOHN	2073	1487664462207	5255 E KNIGHT DR	TUCSON	AZ

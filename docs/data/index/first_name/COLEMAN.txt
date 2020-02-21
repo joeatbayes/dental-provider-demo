@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRYANT	COLEMAN	D009203	1477827293D00	14425 W MCDOWELL RD	GOODYEAR	AZ

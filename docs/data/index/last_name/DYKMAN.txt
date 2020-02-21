@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DYKMAN	DICK	4136	1457307902413	2480 W RAY RD	CHANDLER	AZ

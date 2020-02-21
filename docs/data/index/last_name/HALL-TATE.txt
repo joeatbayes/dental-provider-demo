@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALL-TATE	LAUREN	2901013605	1497746119290	200 N HOMER ST	LANSING	MI

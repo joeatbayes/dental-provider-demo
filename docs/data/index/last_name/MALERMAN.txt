@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MALERMAN	KEVIN	2901600132	1174182356290	1850 WHITES RD	KALAMAZOO	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DANIELSON	STEPHEN	D7532	1811907405D75	209 S MAIN ST	LAMBERTON	MN

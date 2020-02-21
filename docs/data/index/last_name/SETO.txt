@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SETO	TIMOTHY	2901019313	1942403001290	1011 N UNIVERSITY AVE	ANN ARBOR	MI

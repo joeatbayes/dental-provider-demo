@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MORRELL-HUOT	MEAGHAN	R474	1356661516R47	4163 HAINES RD	HERMANTOWN	MN

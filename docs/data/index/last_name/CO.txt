@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CO	WINSTON	15670	1174645303156	1308 MONROE ST	DEARBORN	MI

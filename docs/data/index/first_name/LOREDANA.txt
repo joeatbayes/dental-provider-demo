@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WYCLIFFE	LOREDANA	4206	1700309127420	216 E CARPENTER ST	BENTON	AR

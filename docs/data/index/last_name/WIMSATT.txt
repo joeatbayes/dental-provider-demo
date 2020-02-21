@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WIMSATT	JAMES	4900	1083601686490	5955 ZEAMER AVE	ELMENDORF AFB	AK

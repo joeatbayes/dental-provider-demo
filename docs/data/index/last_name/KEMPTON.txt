@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+KEMPTON	JOHN	23655	1235395880236	538 E 16TH ST	YUMA	AZ

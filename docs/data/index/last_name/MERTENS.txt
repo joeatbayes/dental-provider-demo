@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MERTENS	ROGER	D6039	1679693196D60	5860 W ARIZONA PAVILIONS DR	TUCSON	AZ

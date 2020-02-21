@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SMELTZER	MARSHA	12484	1528255809124	1101 WATER ST	PORT HURON	MI

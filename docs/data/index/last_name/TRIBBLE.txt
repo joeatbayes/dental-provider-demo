@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+TRIBBLE	CHAD	11045	1700445939110	1423 MCARTHUR ST	MANCHESTER	TN

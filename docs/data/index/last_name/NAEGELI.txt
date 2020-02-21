@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+NAEGELI	DAVID	D8422	1083773568D84	8980 HUDSON BLVD N	LAKE ELMO	MN

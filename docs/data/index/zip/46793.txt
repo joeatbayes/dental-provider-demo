@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+PAYNE	LARRY	12008602B	1487703286120	605 S WAYNE ST	WATERLOO	IN

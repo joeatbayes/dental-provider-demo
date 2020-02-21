@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BASHA	JOSHUA	9565	1346794336956	5133 N CENTRAL AVE STE 102	PHOENIX	AZ

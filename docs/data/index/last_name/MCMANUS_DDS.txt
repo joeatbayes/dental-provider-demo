@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MCMANUS DDS	JOHN	AZ2206	1902974793AZ2	6744 E BROADWAY	TUCSON	AZ

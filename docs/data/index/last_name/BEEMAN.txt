@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BEEMAN	TED	7788	1144322272778	2306 W 50TH ST	MINNEAPOLIS	MN

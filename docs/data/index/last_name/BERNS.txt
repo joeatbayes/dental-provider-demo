@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BERNS	JONATHAN	17087	1295829018170	278 N BURGESS ST	WEST BRANCH	MI

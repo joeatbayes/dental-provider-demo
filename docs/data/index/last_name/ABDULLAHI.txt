@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDULLAHI	SAFIYA	D14087	1346729308D14	1313 PENN AVE N	MINNEAPOLIS	MN

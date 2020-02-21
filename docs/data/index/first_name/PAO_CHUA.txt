@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+VANG	PAO CHUA	D14098	1770061145D14	1670 BEAM AVE STE 204	MAPLEWOOD	MN

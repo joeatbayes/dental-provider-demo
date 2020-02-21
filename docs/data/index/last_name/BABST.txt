@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BABST	CHARLES	8277	1679623029827	3617 W ARROWHEAD RD	DULUTH	MN

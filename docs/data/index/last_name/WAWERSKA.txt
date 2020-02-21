@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WAWERSKA	AGNIESZKA	D6249	1801935754D62	7102 N 35TH AVE	PHOENIX	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AL-ALFE	DALIA	2901021854	1922458793290	22541 GRATIOT AVE	EASTPOINTE	MI

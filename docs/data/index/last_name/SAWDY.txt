@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAWDY	GARY	AKD458	1124120258AKD	102 TENTH AVENUE	FAIRBANKS	AK

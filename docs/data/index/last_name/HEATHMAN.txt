@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HEATHMAN	MONTGOMERY	3333	1821182577333	12501 CANTRELL RD	LITTLE ROCK	AR

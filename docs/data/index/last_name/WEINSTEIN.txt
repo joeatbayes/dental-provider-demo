@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+WEINSTEIN	LEE	6067	1437209301606	12020 E SHEA BLVD	SCOTTSDALE	AZ

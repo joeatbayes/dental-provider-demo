@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GOSAR	PAUL	3450	1376789446345	2222 E CEDAR AVE	FLAGSTAFF	AZ

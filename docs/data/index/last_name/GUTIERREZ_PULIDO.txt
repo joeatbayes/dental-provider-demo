@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+GUTIERREZ PULIDO	LUIS	DEN.00202164	1194143222DEN	2990 S 6TH AVE	TUCSON	AZ

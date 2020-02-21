@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+MEESE	BRUCE	FL31	1134661093FL3	515 DELAWARE ST SE	MINNEAPOLIS	MN

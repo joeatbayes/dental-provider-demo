@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LABOE	ANTHONY	2901017645	1548363120290	876 STEWART RD	MONROE	MI

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+SAKHI	ELHAM	D12002	1851455836D12	4330 HIGHWAY 7	ST LOUIS PARK	MN

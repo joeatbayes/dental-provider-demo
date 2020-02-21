@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JUETTEN	MARK	MN 7819	1184637753MN7	31378 CO 24 BLVD	CANNON FALLS	MN

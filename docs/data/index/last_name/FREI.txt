@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FREI	BURKE	7028	1760567358702	8438 E SHEA BLVD STE 100	SCOTTSDALE	AZ

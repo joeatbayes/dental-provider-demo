@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOSSCHER	GERARD	2901011010	1932365020290	"4353 SAWKAW, N.E."	GRAND RAPIDS	MI

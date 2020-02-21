@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+ABDEL-MALEK	SHAHIR	S84	1356684419S84	3555 LOUISIANA AVE S	SAINT LOUIS PARK	MN

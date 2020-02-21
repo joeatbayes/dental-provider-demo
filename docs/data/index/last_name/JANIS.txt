@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+JANIS	JORDAN	9501	1740630136950	2611 N 48TH ST	PHOENIX	AZ

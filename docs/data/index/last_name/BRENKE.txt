@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BRENKE	RICHARD	4802	1447243621480	2511 E LAMAR RD	PHOENIX	AZ

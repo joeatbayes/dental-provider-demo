@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+UPRIGHT	SCOTT	15843	1568595403158	2621 MAIN ST	MARLETTE	MI

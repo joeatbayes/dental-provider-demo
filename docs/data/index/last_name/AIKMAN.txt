@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+AIKMAN	DENISE	4168	1689190647416	1210 HOGAN LANE	CONWAY	AR

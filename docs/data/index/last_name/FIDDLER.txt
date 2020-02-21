@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+FIDDLER	TERRY	2115	1871717728211	562 LOCUST ST	CONWAY	AR

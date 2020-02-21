@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+DUERST	LOIS	D10039	1063510188D10	1395 CURVE CREST BLVD W	STILLWATER	MN

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+HALUM	KURT	12009620	1144364167120	2303 45TH ST	HIGHLAND	IN

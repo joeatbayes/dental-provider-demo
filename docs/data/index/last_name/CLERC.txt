@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+CLERC	BRETT	4014	1710944772401	475 S OCOTILLO	BENSON	AZ

@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+LEE	YOOMI	2901022290	1851811194290	1124 28TH ST SW	WYOMING	MI

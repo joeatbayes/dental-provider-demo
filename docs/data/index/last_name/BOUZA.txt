@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BOUZA	ANTHONY	2901021914	1578913299290	456 S MAIN ST	LAPEER	MI

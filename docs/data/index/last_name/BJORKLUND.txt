@@ -1,0 +1,2 @@
+lastName	firstName	licNum	tin	address	city	state
+BJORKLUND	STEPHEN	8251	1093743312825	250 CENTRAL AVE N	WAYZATA	MN
