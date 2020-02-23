@@ -93,7 +93,7 @@
    show_data_obj_div: dataObjDivBottom
    autocomplete: false
    fetch:
-      uri: /data/recs/{dataObjId}.json
+      uri: /data/dental/provider/recs/{dataObjId}.json
       method: GET
       parse: JSON
 

@@ -8,7 +8,7 @@
     data_context: name.last
     class: input_field
     suggest:
-      uri: /data/autosug/last_name/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/last_name/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -23,7 +23,7 @@
     data_context: name.first
     class: input_field
     suggest:
-      uri: /data/autosug/first_name/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/first_name/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -38,7 +38,7 @@
     data_context: npi
     class: input_field
     suggest:
-      uri: /data/autosug/npi/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/npi/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -62,7 +62,7 @@
     data_context: specialization
     class: input_field
     suggest:
-      uri: /data/autosug/specialty/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/specialty/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -76,7 +76,7 @@
     data_context: credential
     class: input_field
     suggest:
-      uri: /data/autosug/npi/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/npi/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -113,7 +113,7 @@
     data_context: addr.mail.city
     class: input_field
     suggest:
-      uri: /data/autosug/city/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/city/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -143,7 +143,7 @@
        pattern: ^[0-9]{5}(?:-[0-9]{4})?$
        message : Invalid zipcode try 5 digits or zip plus 4. eg: 84401 or 84401-8178
     suggest:
-      uri: /data/autosug/zip/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/zip/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -193,7 +193,7 @@
     data_context: addr.bus.city
     class: input_field
     suggest:
-      uri: /data/autosug/city/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/city/{auto_sug_value}.txt
       parse: TSV
       class: auto_sug_items
 
@@ -223,7 +223,7 @@
        pattern: ^[0-9]{5}(?:-[0-9]{4})?$
        message : Invalid zipcode try 5 digits or zip plus 4. eg: 84401 or 84401-8178
     suggest:
-      uri: /data/autosug/zip/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/zip/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -253,7 +253,7 @@
     class: input_field
     ignore-case-match: true
     suggest:
-      uri: /data/autosug/lic_num/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/lic_num/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -499,7 +499,7 @@
    show_data_obj_div: dataObjDivBottom
    autocomplete: false
    fetch:
-      uri: /data/recs/{dataObjId}.json
+      uri: /data/dental/provider/recs/{dataObjId}.json
       method: GET
       parse: JSON
 

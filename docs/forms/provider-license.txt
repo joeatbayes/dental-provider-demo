@@ -9,7 +9,7 @@
     class: input_field
     ignore-case-match: true
     suggest:
-      uri: /data/autosug/lic_num/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/lic_num/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 

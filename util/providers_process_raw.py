@@ -39,7 +39,9 @@ def parseBool(avar):
 
 def makeFiNameSafe(astr):
       # TODO: Modify to use RegEx instead of
-      # duplicate replaces.
+      # duplicate replaces.  NOTE:
+      # This method must be synchronized to
+      # produce same output as mforms.js->makeSafeFiName()
       tout = astr.strip().upper()
       tout = tout.replace("/","_").replace("\\","_")
       tout = tout.replace(" ","_").replace("? ","_")

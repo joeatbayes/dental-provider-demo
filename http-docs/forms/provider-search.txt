@@ -8,7 +8,7 @@
     data_context: prov.search.last_name
     class: input_field
     suggest:
-      uri: /data/autosug/last_name/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/last_name/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -23,7 +23,7 @@
     data_context: prov.search.first_name
     class: input_field
     suggest:
-      uri: /data/autosug/first_name/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/first_name/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -68,7 +68,7 @@
     data_context: prov.search.NPI
     class: input_field
     suggest:
-      uri: /data/autosug/npi/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/npi/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -93,7 +93,7 @@
     ignore-case-match: true
     data_source=/data/lookup/specialty-codes.tsv
     suggest:
-      uri: /data/autosug/specialty/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/specialty/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -188,7 +188,7 @@
     class: input_field
     size: 18
     suggest:
-      uri: /data/autosug/city/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/city/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -203,7 +203,7 @@
     size: 2
     data_source=data/dental/lookup/states.tsv
     suggest:
-      uri: /data/autosug/state/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/state/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -217,7 +217,7 @@
     data_context: prov.search.office_county
     class: input_field
     size: 18
-    data_source=data/dental/lookup/counties/{prov_search.office.state}.tsv
+    data_source=data/dental/lookup/counties/{prov_search.office.county}.tsv
 
 - widget:
     id: provSearchCountry
@@ -241,7 +241,7 @@
     class: input_field
     size: 18
     suggest:
-      uri: /data/autosug/zip/{auto_sug_value}.txt
+      uri: /data/dental/provider/autosug/zip/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
 
@@ -386,19 +386,19 @@
       indexes:
         - field:
              data_context: prov.search.last_name
-             uri: /data/index/last_name/{safe_value}.txt
+             uri: /data/dental/provider/index/last_name/{safe_value}.txt
         - field:
             data_context: prov.search.first_name
-            uri: /data/index/first_name/{safe_value}.txt
+            uri: /data/dental/provider/index/first_name/{safe_value}.txt
         - field:
             data_context: prov.search.first_name
-            uri: /data/index/first_name/{safe_value}.txt
+            uri: /data/dental/provider/index/first_name/{safe_value}.txt
         - field:
             data_context: prov.search.office_city
-            uri: /data/index/city/{safe_value}.txt
+            uri: /data/dental/provider/index/city/{safe_value}.txt
         - field:
             data_context: prov.search.office_zip
-            uri: /data/index/zip/{safe_value}.txt
+            uri: /data/dental/provider/index/zip/{safe_value}.txt
       renderFields: lastName,firstName,licNum,tin,address,city,state
       renderLabels: Last Name, First Name, License Number, TIN, Address, city, State
 
