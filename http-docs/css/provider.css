@@ -208,11 +208,11 @@ div#provSearchAdvancedGroupContent .input_fieldCont {
         margin-left: 0px;
     }
 
-    .input_fieldCont,
-    .input_fieldvCont,
-    .input_fieldContainer,
-    .input_fieldvContainer,
-    .vert_radioCont {
+    .xinput_fieldCont,
+    .xinput_fieldvCont,
+    .xinput_fieldContainer,
+    .xinput_fieldvContainer,
+    .xvert_radioCont {
         margin: 0px;
         padding: 0px;
         display: flex;

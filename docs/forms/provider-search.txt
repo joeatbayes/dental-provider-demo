@@ -407,6 +407,7 @@
            - provSearchLastName
            - provSearchFirstName
            - provSearchCity
+           - provSearchState
            #- provSearchLicenseStateNumber
            #- provSearchLicenseState
            - provSearchAdvancedGroup
