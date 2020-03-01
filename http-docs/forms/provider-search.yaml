@@ -282,7 +282,7 @@
   # attempt to find a widget with an id that matches and will execute it's named
   # function. This was done because some things like search need considerable
   # additional context which can be collected in the widget.
-  action:
+  onclick:
       - reset_form;
       - doProviderSearchAction
 
@@ -291,9 +291,10 @@
   type: button
   label: Search
   class: hbutton
-  action:
+  onclick:
       - doProviderSearchAction
 
+      
 - widget:
       # Container widget to have a div to render search results into.
       # the list of providers.
