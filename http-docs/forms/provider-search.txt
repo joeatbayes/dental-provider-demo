@@ -287,14 +287,11 @@
   type: button
   label: RESET
   class: hbutton
-  # Actions are processed in the order listed.
-  # as a shorthand if a function exists that matches the
-  # name specified it will be called.  Otherwise the 
-  # system will attempt to find a widget with an id
-  # that matches and will execute it's named fuction. 
-  # this was done because some things like search need 
-  # considerable additional context which can be collected
-  # in the widget. 
+  # Actions are processed in the order listed. as a shorthand if a function exists
+  # that matches the name specified it will be called.  Otherwise the system will 
+  # attempt to find a widget with an id that matches and will execute it's named
+  # function. This was done because some things like search need considerable 
+  # additional context which can be collected in the widget. 
   action: 
     - reset_form;
     - doProviderSearchAction
@@ -320,21 +317,17 @@
 - widget:  
    id: doProviderSearchAction:
    type: action
-   # doProviderSearch is not rendered directly onto
-   # the form.   Instead it is triggered based on a 
-   # user action such as onChange.  It performs an action such 
-   # as runing a search on the server and then renders
-   # results that are injected into target_div which is 
-   # a div already present on the form or the page.  
-   # results from an action are injected into target_div
+   # doProviderSearch is not rendered directly onto  the form.   Instead it
+   # is triggered based on a user action such as onChange.  It performs an
+   # action such as runing a search on the server and then renders  results
+   # that are injected into target_div which is a div already present on the
+   # form or the page.  Results from an action are injected into target_div
    # after rendering by rendering_agent. 
    
-   # Function to call which to initiate
-   # the search.  This is the function 
-   # that knows how to apply initial settings
-   # like  indexes, call the service. Etc. 
-   # Advanced users can supply their own function to
-   # provide customized functionality.  
+   # Function to call which to initiate the search.  This is the function 
+   # that knows how to apply initial settings like  indexes, call the service.
+   # Etc. Advanced users can supply their own function to provide customized 
+   # functionality.  
    function: client_side_search
 
    # Div the search results will be rendered into once
@@ -342,52 +335,42 @@
    # is complete.
    target_div: provSearchResultsCont
 
-   # The Widget used to render
-   # search results once they return from the 
-   # server before they are placed into target div.
-   # This allows customized search results to be 
-   # rendered.  This assumes the function: specified
-   # follows the same semantics as client_side_search
-   rendering_widget: provSearchResultsTbl
+   # The Widget used to render search results once they return from the 
+   # server before they are placed into target div. This allows
+   # customized search results to be rendered.  This assumes the function:
+   # specified follows the same semantics as client_side_search
+   # rendering_widget: provSearchResultsTbl
 
-   # RowClick tells the system what to do 
-   # when the user clicks on one of the rows
-   # from simple Search Results.  This assumes
-   # that you used provSearchResultsTbl as the 
-   # rendering_widget or that the widget you used
-   # supplies similar semantics with similar onclick,
-   # etc. Not all action type widgets will need or
-   # support rowcick. 
+   # RowClick tells the system what to do when the user clicks on one
+   # of the rows from simple Search Results.  This assumes that you used
+   # provSearchResultsTbl as the rendering_widget or that the widget 
+   # you used supplies similar semantics with similar onclick, etc. 
+   # Not all action type widgets will need or support rowcick. 
    rowclick:
-         uri: /data/recs/{licNum}.json
-         action: display_form
-         target_div: mbody
-         form_id: forms/provider-main
-         # Context is used to build a custom context object
-         # built from the current resident data objects 
-         # to the target_form when it is rendered. This allows
-         # us to control the data scope for the new form which makes
-         # it easier to have many forms workign of different portions
-         # of the data object active concurrently.
-         context: 
-            # TODO: What if I wanted to just pass through the entire search object or a branch of
-            #  the current data object.
-            dataObjId: {licNum}
-            tin: {tin}
-            city: {city}
-            state: {state}
+     uri: /data/recs/{licNum}.json
+     action: display_form
+     target_div: mbody
+     form_id: forms/provider-main
+     # Context is used to build a custom context object built from the current
+     # resident data objects to the target_form when it is rendered. This allows
+     # us to control the data scope for the new form which makes it easier to
+     # have many forms workign of different portionsof the data object active
+     # concurrently.
+     context: 
+        # TODO: What if I wanted to just pass through the entire search object or a branch of
+        #  the current data object.
+        dataObjId: {licNum}
+        tin: {tin}
+        city: {city}
+        state: {state}
 
-   # Indexes allow the system a quick search
-   # on the server to retrieve a candidate set.  On a static
-   # server we can retrive from one index at a time.
-   # Indexs are listed in order of descending priority.
-   # A lower priority index will be selected 
-   # when the data value for higher level index
-   # is not filled in on form will we use lower priority
-   # index.   When using a intelligent web service for search
-   # you will oly have one index specified at index: instead
-   # of indexes.  Indexes are used by client_side_search
-   # not all user actions will use or need them. 
+   # Indexes allow the system a quick search on the server to retrieve a candidate
+   # set.  On a static server we can retrive from one index at a time.  Indexs are
+   # listed in order of descending priority.  A lower priority index will be
+   # selected when the data value for higher level index is not filled in on form
+   # will we use lower priority index.   When using a intelligent web service for
+   # search  you will oly have one index specified at index: instead of indexes.
+   # Indexes are used by client_side_search not all user actions will use or need them. 
    indexes:
         - field:
              data_context: prov.search.last_name
@@ -405,19 +388,16 @@
             data_context: prov.search.office_zip
             uri: /data/dental/provider/index/zip/{safe_value}.txt
 
-   # Which parser to use when parsing data 
-   # from the server.  values are tsv or json
+   # Parser to use when parsing data from the server.  values are tsv or json
    parser:tsv
 
 
-   # Optional Filters filters out records retrived 
-   # from server using client side prefix matching. 
-   # This is to allow static server to server
-   # up records based on an index and then locally remove
-   # records prior to display   When the filtering functionality
-   # is supplied by server then this section should be 
-   # omitted.   Filters are applied by provSearchResultsTbl
-   # Not all rendering widgets will need or use them. 
+   # Optional Filters filters out records retreived  from server using client side
+   # prefix matching. This is to allow static server to server up records based on
+   # an index and then locally remove records prior to display   When the filtering
+   # functionality is supplied by server then this section should be omitted.
+   # Filters are applied by provSearchResultsTbl Not all rendering widgets will need
+   # or use filters. 
    filters:
         - field:
              form_context: prov.search.last_name
