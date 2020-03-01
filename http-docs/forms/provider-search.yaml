@@ -91,7 +91,7 @@
     data_context: prov.search.specialty
     class: input_field
     ignore-case-match: true
-    data_source=/data/lookup/specialty-codes.tsv
+    data_source: /data/lookup/specialty-codes.tsv
     suggest:
       uri: /data/dental/provider/autosug/specialty/{auto_sug_value}.txt
       parse: tsv
@@ -201,7 +201,7 @@
     data_context: prov.search.office_state
     class: input_field
     size: 2
-    data_source=data/dental/lookup/states.tsv
+    data_source: data/dental/lookup/states.tsv
     suggest:
       uri: /data/dental/provider/autosug/state/{auto_sug_value}.txt
       parse: tsv
@@ -330,9 +330,8 @@
    # functionality.  
    function: client_side_search
 
-   # Div the search results will be rendered into once
-   # they reurned from the server or the user action
-   # is complete.
+   # Div the search results will be rendered into once they reurned from the
+   # server or the user action is complete.
    target_div: provSearchResultsCont
 
    # The Widget used to render search results once they return from the 
@@ -391,7 +390,6 @@
    # Parser to use when parsing data from the server.  values are tsv or json
    parser:tsv
 
-
    # Optional Filters filters out records retreived  from server using client side
    # prefix matching. This is to allow static server to server up records based on
    # an index and then locally remove records prior to display   When the filtering
@@ -415,13 +413,11 @@
              form_context: prov.search.office_state
              res_context: state
       
-   # List the set of fields from search results that will be used
-   # to render search results when rendered using rendering agent
-   # provSearchResultsTbl.  Not all actions will need or use
-   # the renderFields section.  This section was added so more data
-   # that is needed for rendering can be returned in the search results
-   # set to support filtering but it can also also be used to support
-   # hidden fields like GUID. 
+   # List the set of fields from search results that will be used to render search
+   # results when rendered using rendering agent provSearchResultsTbl.  Not all
+   # actions will need or use the renderFields section.  This section was added
+   # so more data that is needed for rendering can be returned in the search results
+   # set to support filtering. It can also be used to support hidden fields like GUID. 
    renderFields: 
      - field: 
         - context: lastName
