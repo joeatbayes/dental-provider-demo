@@ -307,23 +307,6 @@
   action: 
    - doProviderSearchAction
 
-
--widget:
-  id: provSearchDoSearch
-  type: action
-  label: SEARCH
-  class: hbutton
-  action_uri: 
-    uri: provider/search(this);
-    verb: POST
-    where: body
-    serialize: uri
-    next: display_form("prov_search_res")
-
-    # serialize  uri - encode object by walking top level fields as  uri encoded string, json - encode data object as json, 
-    # where - body - send data object in post body,  uri - encode it on the url.
-    # verb - passed straight through as a the HTTP verb.
-
 - widget:
     # Container widget to have a div to render search results into.
     # the list of providers.
@@ -333,11 +316,6 @@
     class: simpleSearch
     layout: horizontal
     renderFieldset: false
-
-- widget:
-  id: provSearchResultsTbl
-  class: simpleSearch
-  type: simple_search_res
 
 - widget:  
    id: doProviderSearchAction:
