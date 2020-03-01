@@ -2,7 +2,7 @@
     id: provSearchLastName
     data_type: text
     type: text
-    label : Last Name
+    label: Last Name
     label_class: wrap
     size: 25
     data_context: prov.search.last_name
@@ -12,12 +12,11 @@
       parse: tsv
       class: auto_sug_items
 
-
 - widget:
     id: provSearchFirstName
     data_type: text
     type: text
-    label : First Name
+    label: First Name
     label_class: wrap
     size: 25
     data_context: prov.search.first_name
@@ -31,7 +30,7 @@
     id: provSearchLicenseStateNumber
     data_type: text
     type: text
-    label : License State Number
+    label: License State Number
     label_class: wrap
     size: 25
     data_context: prov.search.license_number
@@ -46,14 +45,14 @@
     id: provSearchLicenseState
     data_type: text
     type: dropdown
-    label : License State 
+    label: License State
     label_class: wrap
     data_context: prov.search.license_state
     class: input_field
     option:
-       - {"label" : "Michigan", "value" : "MI"}
-       - {"label" : "Indiana", "value": "IN"}
-       - {"label" : "Arkansas", "value" : "AK"}
+      - { "label": "Michigan", "value": "MI" }
+      - { "label": "Indiana", "value": "IN" }
+      - { "label": "Arkansas", "value": "AK" }
 
 #-------------------
 #--- ADVANCED SEARCH
@@ -62,7 +61,7 @@
     id: provSearchNPI
     data_type: text
     type: text
-    label : NPI
+    label: NPI
     label_class: wrap
     size: 18
     data_context: prov.search.NPI
@@ -76,7 +75,7 @@
     id: provSearchTIN
     data_type: text
     type: text
-    label : TIN or SSN
+    label: TIN or SSN
     label_class: wrap
     size: 15
     data_context: prov.search.TIN
@@ -86,7 +85,7 @@
     id: provSearchSpecialty
     data_type: text
     type: text
-    label : Specialty
+    label: Specialty
     label_class: wrap
     data_context: prov.search.specialty
     class: input_field
@@ -104,66 +103,60 @@
 #       - {"label" : "Endodontics", "value" : "1223E0200X"}
 #    #TODO: Fill this in from https://www.ada.org/~/media/ADA/Member%20Center/FIles/topics_npi_taxonomy.pdf?la=en
 
-
 - widget:
     id: provSearchSSN
     data_type: text
     type: text
-    label : SSN
+    label: SSN
     label_class: wrap
     data_context: prov.search.SSN
     size: 18
     class: input_field
 
-
 - widget:
     id: provSearchNetwork
     data_type: dropdown
     type: text
-    label : Network
+    label: Network
     label_class: wrap
     data_context: prov.search.network
     class: input_field
-
 
 - widget:
     id: provSearchBusinessName
     data_type: text
     type: text
-    label : Business Name
+    label: Business Name
     label_class: wrap
     size: 18
     data_context: prov.search.business_name
     class: input_field
 
-
 - widget:
     id: provSearchOfficePhoneNum
     data_type: text
     type: text
-    label : Phone Number
+    label: Phone Number
     label_class: wrap
     data_context: prov.search.phone
     size: 18
     class: input_field
 
-
 - widget:
     id: provSearchOfficeEmail
     data_type: text
     type: text
-    label : Office Email
+    label: Office Email
     label_class: wrap
     size: 18
     data_context: prov.search.office_email
     class: input_field
 
-
 - widget:
     id: provSearchOfficeAddr
     data_type: text
     type: text
-    label : Office Addresss
+    label: Office Addresss
     label_class: wrap
     data_context: prov.search.office_address
     class: input_field
@@ -182,7 +175,7 @@
     id: provSearchCity
     data_type: text
     type: text
-    label : City
+    label: City
     label_class: wrap
     data_context: prov.search.office_city
     class: input_field
@@ -196,7 +189,7 @@
     id: provSearchState
     data_type: text
     type: text
-    label : State
+    label: State
     label_class: wrap
     data_context: prov.search.office_state
     class: input_field
@@ -207,35 +200,33 @@
       parse: tsv
       class: auto_sug_items
 
-
 - widget:
-    id: provSearchCounty 
+    id: provSearchCounty
     data_type: dropdown
     type: text
-    label : County
+    label: County
     label_class: wrap
     data_context: prov.search.office_county
     class: input_field
     size: 18
-    data_source=data/dental/lookup/counties/{prov_search.office.county}.tsv
+    data_source: data/dental/lookup/counties/{prov_search.office.county}.tsv
 
 - widget:
     id: provSearchCountry
     data_type: text
     type: dropdown
-    label : Country
+    label: Country
     label_class: wrap
     data_context: prov.search.office_country
     class: input_field
     size: 18
-    data_source=data/dental/lookup/countries.tsv
-
+    data_source: data/dental/lookup/countries.tsv
 
 - widget:
     id: provSearchZip
     data_type: text
     type: text
-    label : Zip
+    label: Zip
     label_class: wrap
     data_context: prov.search.office.zip
     class: input_field
@@ -244,8 +235,6 @@
       uri: /data/dental/provider/autosug/zip/{auto_sug_value}.txt
       parse: tsv
       class: auto_sug_items
-
-
 
 - widget:
     id: provSearchAdvancedGroup
@@ -256,53 +245,53 @@
     collapsed: true
     # Support Automatic Search Rendering
 
-    widgets: 
-         - provSearchZip
-         - provSearchState
-         - provSearchNPI
-         #- provSearchSSN
-         - provSearchSpecialty
-         - provSearchNetwork
-         - provSearchTIN
-         - provSearchBusinessName
-         - provSearchOfficePhoneNum  
-         - provSearchOfficeEmail
-         - provSearchOfficeAddr 
-         - provSearchState
-         #- provSearchCounty
-         #- provSearchCountry
-          - searchButtons
-         
+    widgets:
+      - provSearchZip
+      - provSearchState
+      - provSearchNPI
+      #- provSearchSSN
+      - provSearchSpecialty
+      - provSearchNetwork
+      - provSearchTIN
+      - provSearchBusinessName
+      - provSearchOfficePhoneNum
+      - provSearchOfficeEmail
+      - provSearchOfficeAddr
+      - provSearchState
+      #- provSearchCounty
+      #- provSearchCountry
+      - searchButtons
+
 - widget:
     id: searchButtons
     type: widgetGroup
     class: searchButtons
-    renderFieldset: false 
-    widgets: 
-         - provSearchResetBut
-         - provSearchDoSearchBut
- 
--widget:
+    renderFieldset: false
+    widgets:
+      - provSearchResetBut
+      - provSearchDoSearchBut
+
+- widget:
   id: provSearchResetBut
   type: button
   label: RESET
   class: hbutton
   # Actions are processed in the order listed. as a shorthand if a function exists
-  # that matches the name specified it will be called.  Otherwise the system will 
+  # that matches the name specified it will be called.  Otherwise the system will
   # attempt to find a widget with an id that matches and will execute it's named
-  # function. This was done because some things like search need considerable 
-  # additional context which can be collected in the widget. 
-  action: 
+  # function. This was done because some things like search need considerable
+  # additional context which can be collected in the widget.
+  action:
     - reset_form;
     - doProviderSearchAction
 
--widget:
+- widget:
   id: provSearchDoSearchBut
   type: button
   label: Search
   class: hbutton
-  action: 
-   - doProviderSearchAction
+  action:
+    - doProviderSearchAction
 
 - widget:
     # Container widget to have a div to render search results into.
@@ -314,153 +303,151 @@
     layout: horizontal
     renderFieldset: false
 
-- widget:  
-   id: doProviderSearchAction:
-   type: action
-   # doProviderSearch is not rendered directly onto  the form.   Instead it
-   # is triggered based on a user action such as onChange.  It performs an
-   # action such as runing a search on the server and then renders  results
-   # that are injected into target_div which is a div already present on the
-   # form or the page.  Results from an action are injected into target_div
-   # after rendering by rendering_agent. 
-   
-   # Function to call which to initiate the search.  This is the function 
-   # that knows how to apply initial settings like  indexes, call the service.
-   # Etc. Advanced users can supply their own function to provide customized 
-   # functionality.  
-   function: client_side_search
+- widget:
+    id: doProviderSearchAction
+    type: action
+    # doProviderSearch is not rendered directly onto  the form.   Instead it
+    # is triggered based on a user action such as onChange.  It performs an
+    # action such as runing a search on the server and then renders  results
+    # that are injected into target_div which is a div already present on the
+    # form or the page.  Results from an action are injected into target_div
+    # after rendering by rendering_agent.
 
-   # Div the search results will be rendered into once they reurned from the
-   # server or the user action is complete.
-   target_div: provSearchResultsCont
+    # Function to call which to initiate the search.  This is the function
+    # that knows how to apply initial settings like  indexes, call the service.
+    # Etc. Advanced users can supply their own function to provide customized
+    # functionality.
+    function: client_side_search
 
-   # The Widget used to render search results once they return from the 
-   # server before they are placed into target div. This allows
-   # customized search results to be rendered.  This assumes the function:
-   # specified follows the same semantics as client_side_search
-   # rendering_widget: provSearchResultsTbl
+    # Div the search results will be rendered into once they reurned from the
+    # server or the user action is complete.
+    target_div: provSearchResultsCont
 
-   # RowClick tells the system what to do when the user clicks on one
-   # of the rows from simple Search Results.  This assumes that you used
-   # provSearchResultsTbl as the rendering_widget or that the widget 
-   # you used supplies similar semantics with similar onclick, etc. 
-   # Not all action type widgets will need or support rowcick. 
-   rowclick:
-     uri: /data/recs/{licNum}.json
-     action: display_form
-     target_div: mbody
-     form_id: forms/provider-main
-     # Context is used to build a custom context object built from the current
-     # resident data objects to the target_form when it is rendered. This allows
-     # us to control the data scope for the new form which makes it easier to
-     # have many forms workign of different portionsof the data object active
-     # concurrently.
-     context: 
+    # The Widget used to render search results once they return from the
+    # server before they are placed into target div. This allows
+    # customized search results to be rendered.  This assumes the function:
+    # specified follows the same semantics as client_side_search
+    # rendering_widget: provSearchResultsTbl
+
+    # RowClick tells the system what to do when the user clicks on one
+    # of the rows from simple Search Results.  This assumes that you used
+    # provSearchResultsTbl as the rendering_widget or that the widget
+    # you used supplies similar semantics with similar onclick, etc.
+    # Not all action type widgets will need or support rowcick.
+    rowclick:
+      uri: /data/recs/{licNum}.json
+      action: display_form
+      target_div: mbody
+      form_id: forms/provider-main
+      # Context is used to build a custom context object built from the current
+      # resident data objects to the target_form when it is rendered. This allows
+      # us to control the data scope for the new form which makes it easier to
+      # have many forms workign of different portionsof the data object active
+      # concurrently.
+      context:
         # TODO: What if I wanted to just pass through the entire search object or a branch of
         #  the current data object.
-        dataObjId: {licNum}
-        tin: {tin}
-        city: {city}
-        state: {state}
+        dataObjId: { licNum }
+        tin: { tin }
+        city: { city }
+        state: { state }
 
-   # Indexes allow the system a quick search on the server to retrieve a candidate
-   # set.  On a static server we can retrive from one index at a time.  Indexs are
-   # listed in order of descending priority.  A lower priority index will be
-   # selected when the data value for higher level index is not filled in on form
-   # will we use lower priority index.   When using a intelligent web service for
-   # search  you will oly have one index specified at index: instead of indexes.
-   # Indexes are used by client_side_search not all user actions will use or need them. 
-   indexes:
-        - field:
-             data_context: prov.search.last_name
-             uri: /data/dental/provider/index/last_name/{safe_value}.txt
-        - field:
-            data_context: prov.search.first_name
-            uri: /data/dental/provider/index/first_name/{safe_value}.txt
-        - field:
-            data_context: prov.search.first_name
-            uri: /data/dental/provider/index/first_name/{safe_value}.txt
-        - field:
-            data_context: prov.search.office_city
-            uri: /data/dental/provider/index/city/{safe_value}.txt
-        - field:
-            data_context: prov.search.office_zip
-            uri: /data/dental/provider/index/zip/{safe_value}.txt
+    # Indexes allow the system a quick search on the server to retrieve a candidate
+    # set.  On a static server we can retrive from one index at a time.  Indexs are
+    # listed in order of descending priority.  A lower priority index will be
+    # selected when the data value for higher level index is not filled in on form
+    # will we use lower priority index.   When using a intelligent web service for
+    # search  you will oly have one index specified at index: instead of indexes.
+    # Indexes are used by client_side_search not all user actions will use or need them.
+    indexes:
+      - field:
+          data_context: prov.search.last_name
+          uri: /data/dental/provider/index/last_name/{safe_value}.txt
+      - field:
+          data_context: prov.search.first_name
+          uri: /data/dental/provider/index/first_name/{safe_value}.txt
+      - field:
+          data_context: prov.search.first_name
+          uri: /data/dental/provider/index/first_name/{safe_value}.txt
+      - field:
+          data_context: prov.search.office_city
+          uri: /data/dental/provider/index/city/{safe_value}.txt
+      - field:
+          data_context: prov.search.office_zip
+          uri: /data/dental/provider/index/zip/{safe_value}.txt
 
-   # Parser to use when parsing data from the server.  values are tsv or json
-   parser:tsv
+    # Parser to use when parsing data from the server.  values are tsv or json
+    parser: tsv
 
-   # Optional Filters filters out records retreived  from server using client side
-   # prefix matching. This is to allow static server to server up records based on
-   # an index and then locally remove records prior to display   When the filtering
-   # functionality is supplied by server then this section should be omitted.
-   # Filters are applied by provSearchResultsTbl Not all rendering widgets will need
-   # or use filters. 
-   filters:
-        - field:
-             form_context: prov.search.last_name
-             res_context: lastName
-        - field:
-             form_context: prov.search.first_name
-             res_context: firstName
-        - field:
-             form_context: prov.search.license_number
-             res_context:  licNum
-        - field:
-             form_context: prov.search.office_city
-             res_context: city
-        - field:
-             form_context: prov.search.office_state
-             res_context: state
-      
-   # List the set of fields from search results that will be used to render search
-   # results when rendered using rendering agent provSearchResultsTbl.  Not all
-   # actions will need or use the renderFields section.  This section was added
-   # so more data that is needed for rendering can be returned in the search results
-   # set to support filtering. It can also be used to support hidden fields like GUID. 
-   renderFields: 
-     - field: 
-        - context: lastName
-        - label: Last Name
-     - field: 
-        - context: firstName
-        - label: First Name
-     - field: 
-        - context: licNum
-        - label: Licence Number
-     - field: 
-        - context: tin: 
-        - label: TIN
-     - field:
-        - context: address
-        - label: Addresss
-     - field:
-        - context: city
-        - label: City
-     - field: 
-       - context: state
-       - label: State
+    # Optional Filters filters out records retreived  from server using client side
+    # prefix matching. This is to allow static server to server up records based on
+    # an index and then locally remove records prior to display   When the filtering
+    # functionality is supplied by server then this section should be omitted.
+    # Filters are applied by provSearchResultsTbl Not all rendering widgets will need
+    # or use filters.
+    filters:
+      - field:
+          form_context: prov.search.last_name
+          res_context: lastName
+      - field:
+          form_context: prov.search.first_name
+          res_context: firstName
+      - field:
+          form_context: prov.search.license_number
+          res_context: licNum
+      - field:
+          form_context: prov.search.office_city
+          res_context: city
+      - field:
+          form_context: prov.search.office_state
+          res_context: state
 
+    # List the set of fields from search results that will be used to render search
+    # results when rendered using rendering agent provSearchResultsTbl.  Not all
+    # actions will need or use the renderFields section.  This section was added
+    # so more data that is needed for rendering can be returned in the search results
+    # set to support filtering. It can also be used to support hidden fields like GUID.
+    renderFields:
+      - field:
+          context: lastName
+          label: Last Name
+      - field:
+          context: firstName
+          label: First Name
+      - field:
+          context: licNum
+          label: Licence Number
+      - field:
+          context: tin
+          label: TIN
+      - field:
+          context: address
+          label: Addresss
+      - field:
+          context: city
+          label: City
+      - field:
+          context: state
+          label: State
 
 - form:
-   id : ProvSearchForm
-   class: inputFrm
-   label: Provider Search
-   show_data_obj_div: dataObjDivBottom
-   autocomplete: false
+    id: ProvSearchForm
+    class: inputFrm
+    label: Provider Search
+    show_data_obj_div: dataObjDivBottom
+    autocomplete:
+      false
+      # The On change will call the action handler
+      # for each widget listed in this section.
+    onchange:
+      - doProviderSearchAction
 
-    # The On change will call the action handler 
-    # for each widget listed in this section. 
-   onchange:
-     - doProviderSearchAction
-
-   widgets:   
-           - provSearchLastName
-           - provSearchFirstName
-           - provSearchCity
-           - provSearchState
-           #- provSearchLicenseStateNumber
-           #- provSearchLicenseState
-           - provSearchAdvancedGroup
-           - provSearchResults
-
+    widgets:
+      - provSearchLastName
+      - provSearchFirstName
+      - provSearchCity
+      - provSearchState
+      #- provSearchLicenseStateNumber
+      #- provSearchLicenseState
+      - provSearchAdvancedGroup
+      - provSearchResults
