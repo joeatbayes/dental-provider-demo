@@ -279,20 +279,38 @@
     class: searchButtons
     renderFieldset: false 
     widgets: 
-         - provSearchReset
-         - provSearchDoSearch
+         - provSearchResetBut
+         - provSearchDoSearchBut
  
 -widget:
-  id: provSearchReset
+  id: provSearchResetBut
   type: button
   label: RESET
   class: hbutton
-  action: reset_form(); 
+  # Actions are processed in the order listed.
+  # as a shorthand if a function exists that matches the
+  # name specified it will be called.  Otherwise the 
+  # system will attempt to find a widget with an id
+  # that matches and will execute it's named fuction. 
+  # this was done because some things like search need 
+  # considerable additional context which can be collected
+  # in the widget. 
+  action: 
+    - reset_form;
+    - doProviderSearchAction
+
+-widget:
+  id: provSearchDoSearchBut
+  type: button
+  label: Search
+  class: hbutton
+  action: 
+   - doProviderSearchAction
 
 
 -widget:
   id: provSearchDoSearch
-  type: button
+  type: action
   label: SEARCH
   class: hbutton
   action_uri: 
@@ -301,12 +319,13 @@
     where: body
     serialize: uri
     next: display_form("prov_search_res")
-# serialize  uri - encode object by walking top level fields as  uri encoded string, json - encode data object as json, 
-# where - body - send data object in post body,  uri - encode it on the url.
-# verb - passed straight through as a the HTTP verb.
+
+    # serialize  uri - encode object by walking top level fields as  uri encoded string, json - encode data object as json, 
+    # where - body - send data object in post body,  uri - encode it on the url.
+    # verb - passed straight through as a the HTTP verb.
 
 - widget:
-    # Container widget to have a div to renderField
+    # Container widget to have a div to render search results into.
     # the list of providers.
     id: provSearchResults
     no_label: Providers
@@ -320,29 +339,59 @@
   class: simpleSearch
   type: simple_search_res
 
+- widget:  
+   id: doProviderSearchAction:
+   type: action
+   # doProviderSearch is not rendered directly onto
+   # the form.   Instead it is triggered based on a 
+   # user action such as onChange.  It performs an action such 
+   # as run a search on the server and then renders
+   # results that are injected into the form. 
+   # The results form an action are injected into target_div
+   # after rendering by endering_agent. 
+   
+   # Function to call which to initiate
+   # the search.  This is the function 
+   # that knows how to apply initial settings
+   # like  indexes, call the service. Etc. 
+   # Advanced users can supply their own function to
+   # provide customized functionality.  
+   function: client_side_search
 
-- form:
-   id : ProvSearchForm
-   class: inputFrm
-   label: Provider Search
-   show_data_obj_div: dataObjDivBottom
-   autocomplete: false
+   # Div the search results will be rendered into once
+   # they reurned from the server.
+   target_div: provSearchResultsCont
 
-    # TODO: Move this to widget and list
-    # the set of widgets to consult for 
-    # onchange behavior.
-    onchange:
-      function: client_side_search
-      target_div: provSearchResultsCont
-      target_widget: provSearchResultsTbl
-       
-      # List the set of fields used to compose
-      # a primary key. 
-      rowclick:
+   # The Widget used to render
+   # search results once they return from the 
+   # server before they are placed into target div.
+   # This allows customized search results to be 
+   # rendered.
+   rendering_widget: provSearchResultsTbl
+
+   # Which parser to use when parsing data 
+   # from the server.  values are tsv or json
+   parser:tsv
+
+   # RowClick tells the system what to do 
+   # when the user clicks on one of the rows
+   # from simple Search Results.  This assumes
+   # that you used provSearchResultsTbl as the 
+   # rendering_widget or that the widget you used
+   # supplies similar semantics with similar onclick,
+   # etc. Not all action type widgets will need or
+   # support rowcick. 
+   rowclick:
          uri: /data/recs/{licNum}.json
          action: display_form
          target_div: mbody
          form_id: forms/provider-main
+         # Context is used to build a custom context object
+         # built from the current resident data objects 
+         # to the target_form when it is rendered. This allows
+         # us to control the data scope for the new form which makes
+         # it easier to have many forms workign of different portions
+         # of the data object active concurrently.
          context: 
             # TODO: What if I wanted to just pass through the entire search object or a branch of
             #  the current data object.
@@ -351,14 +400,44 @@
             city: {city}
             state: {state}
 
+   # Indexes allow the system a quick search
+   # on the server to retrieve a candidate set.  On a static
+   # server we can retrive from one index at a time.
+   # Indexs are listed in order of descending priority.
+   # A lower priority index will be selected 
+   # when the data value for higher level index
+   # is not filled in on form will we use lower priority
+   # index.   When using a intelligent web service for search
+   # you will oly have one index specified at index: instead
+   # of indexes.  Indexes are used by client_side_search
+   # no all user actions will use or need them. 
+   indexes:
+        - field:
+             data_context: prov.search.last_name
+             uri: /data/dental/provider/index/last_name/{safe_value}.txt
+        - field:
+            data_context: prov.search.first_name
+            uri: /data/dental/provider/index/first_name/{safe_value}.txt
+        - field:
+            data_context: prov.search.first_name
+            uri: /data/dental/provider/index/first_name/{safe_value}.txt
+        - field:
+            data_context: prov.search.office_city
+            uri: /data/dental/provider/index/city/{safe_value}.txt
+        - field:
+            data_context: prov.search.office_zip
+            uri: /data/dental/provider/index/zip/{safe_value}.txt
 
-      parser:tsv
-      # Filters are applied to search results retrieved
-      # from server to filter out any records that do not
-      # qualify.  This is to allow static server to server
-      # up records based on an index and then apply locally
-      # normally this feature is computed server side.
-      filters:
+
+   # Optional Filters filters out records retrived 
+   # from server using client side prefix matching. 
+   # This is to allow static server to server
+   # up records based on an index and then locally remove
+   # records prior to display   When the filtering functionality
+   # is supplied by server then this section should be 
+   # omitted.   Filters are applied by provSearchResultsTbl
+   # Not all rendering widgets will need or use them. 
+   filters:
         - field:
              form_context: prov.search.last_name
              res_context: lastName
@@ -375,33 +454,48 @@
              form_context: prov.search.office_state
              res_context: state
       
-      # Indexes allow the system a quick search
-      # on the server to retrieve a candidate set.  On a static
-      # server we can retrive from one index at a time.
-      # Indexs are listed in order of descending priority.
-      # A lower priority index will be selected 
-      # when the data value for higher level index
-      # is not filled in on form will we use lower priority
-      # index. 
-      indexes:
-        - field:
-             data_context: prov.search.last_name
-             uri: /data/dental/provider/index/last_name/{safe_value}.txt
-        - field:
-            data_context: prov.search.first_name
-            uri: /data/dental/provider/index/first_name/{safe_value}.txt
-        - field:
-            data_context: prov.search.first_name
-            uri: /data/dental/provider/index/first_name/{safe_value}.txt
-        - field:
-            data_context: prov.search.office_city
-            uri: /data/dental/provider/index/city/{safe_value}.txt
-        - field:
-            data_context: prov.search.office_zip
-            uri: /data/dental/provider/index/zip/{safe_value}.txt
-      renderFields: lastName,firstName,licNum,tin,address,city,state
-      renderLabels: Last Name, First Name, License Number, TIN, Address, city, State
+   # List the set of fields from search results that will be used
+   # to render search results when rendered using rendering agent
+   # provSearchResultsTbl.  Not all actions will need or use
+   # the renderFields section.  This section was added so more data
+   # that is needed for rendering can be returned in the search results
+   # set to support filtering but it can also also be used to support
+   # hidden fields like GUID. 
+   renderFields: 
+     - field: 
+        - context: lastName
+        - label: Last Name
+     - field: 
+        - context: firstName
+        - label: First Name
+     - field: 
+        - context: licNum
+        - label: Licence Number
+     - field: 
+        - context: tin: 
+        - label: TIN
+     - field:
+        - context: address
+        - label: Addresss
+     - field:
+        - context: city
+        - label: City
+     - field: 
+       - context: state
+       - label: State
 
+
+- form:
+   id : ProvSearchForm
+   class: inputFrm
+   label: Provider Search
+   show_data_obj_div: dataObjDivBottom
+   autocomplete: false
+
+    # The On change will call the action handler 
+    # for each widget listed in this section. 
+   onchange:
+     - doProviderSearchAction
 
    widgets:   
            - provSearchLastName
