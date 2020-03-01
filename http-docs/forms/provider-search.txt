@@ -345,10 +345,11 @@
    # doProviderSearch is not rendered directly onto
    # the form.   Instead it is triggered based on a 
    # user action such as onChange.  It performs an action such 
-   # as run a search on the server and then renders
-   # results that are injected into the form. 
-   # The results form an action are injected into target_div
-   # after rendering by endering_agent. 
+   # as runing a search on the server and then renders
+   # results that are injected into target_div which is 
+   # a div already present on the form or the page.  
+   # results from an action are injected into target_div
+   # after rendering by rendering_agent. 
    
    # Function to call which to initiate
    # the search.  This is the function 
@@ -359,19 +360,17 @@
    function: client_side_search
 
    # Div the search results will be rendered into once
-   # they reurned from the server.
+   # they reurned from the server or the user action
+   # is complete.
    target_div: provSearchResultsCont
 
    # The Widget used to render
    # search results once they return from the 
    # server before they are placed into target div.
    # This allows customized search results to be 
-   # rendered.
+   # rendered.  This assumes the function: specified
+   # follows the same semantics as client_side_search
    rendering_widget: provSearchResultsTbl
-
-   # Which parser to use when parsing data 
-   # from the server.  values are tsv or json
-   parser:tsv
 
    # RowClick tells the system what to do 
    # when the user clicks on one of the rows
@@ -410,7 +409,7 @@
    # index.   When using a intelligent web service for search
    # you will oly have one index specified at index: instead
    # of indexes.  Indexes are used by client_side_search
-   # no all user actions will use or need them. 
+   # not all user actions will use or need them. 
    indexes:
         - field:
              data_context: prov.search.last_name
@@ -427,6 +426,10 @@
         - field:
             data_context: prov.search.office_zip
             uri: /data/dental/provider/index/zip/{safe_value}.txt
+
+   # Which parser to use when parsing data 
+   # from the server.  values are tsv or json
+   parser:tsv
 
 
    # Optional Filters filters out records retrived 
