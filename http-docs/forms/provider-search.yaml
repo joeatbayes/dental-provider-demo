@@ -394,7 +394,7 @@
       # you used supplies similar semantics with similar onclick, etc.
       # Not all action type widgets will need or support rowcick.
       rowclick:
-          uri: /data/recs/{licNum}.json
+          #uri: /data/recs/{licNum}.json
           action: display_form
           target_div: mbody
           form_id: forms/provider-main
