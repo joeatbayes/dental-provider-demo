@@ -263,14 +263,6 @@
           #- provSearchCountry
           - searchButtons
 
-- widget:
-      id: searchButtons
-      type: widgetGroup
-      class: searchButtons
-      renderFieldset: false
-      widgets:
-          - provSearchResetBut
-          - provSearchDoSearchBut
 
 - widget:
   id: provSearchResetBut
@@ -283,7 +275,7 @@
   # function. This was done because some things like search need considerable
   # additional context which can be collected in the widget.
   onclick:
-      - reset_form;
+      - frigate_reset_form
       - doProviderSearchAction
 
 - widget:
@@ -293,6 +285,15 @@
   class: hbutton
   onclick:
       - doProviderSearchAction
+
+- widget:
+   id: searchButtons
+   type: widgetGroup
+   class: searchButtons
+   renderFieldset: false
+   widgets:
+     - provSearchResetBut
+     - provSearchDoSearchBut
 
       
 - widget:
