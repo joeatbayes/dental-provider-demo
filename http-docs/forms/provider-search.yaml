@@ -408,9 +408,9 @@
               # TODO: What if I wanted to just pass through the entire search object or a branch of
               #  the current data object.
               dataObjId: {licNum}
-              tin: {tin}
-              city: {city}
-              state: {state}
+              tin: {data_row.tin}
+              city: {data_row.city}
+              state: {data_row.state}
 
       # Indexes allow the system a quick search on the server to retrieve a candidate
       # set.  On a static server we can retrive from one index at a time.  Indexs are
